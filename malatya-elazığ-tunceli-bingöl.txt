@@ -1,0 +1,701 @@
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+0
+2018
+Malatya-Elazığ-Bingöl-Tunceli Planlama Bölgesi
+1/100.000 Ölçekli Çevre Düzeni Planı
+Hükümleri
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+1
+İÇİNDEKİLER
+1. TANIMLAR ............................................................................................ 4
+2. GENEL HÜKÜMLER .............................................................................. 14
+3. PLAN UYGULAMA HÜKÜMLERİ ............................................................. 19
+3.1. ÖZEL PLANLAMA ALANLARI ................................................................................................................. 19
+3.1.1. DARENDE ÖZEL PLANLAMA ALANI .................................................................................................... 19
+3.1.2. YEŞİLYURT ÖZEL PLANLAMA ALANI ................................................................................................... 19
+3.1.3. ESKİŞEHİR VADİSİ ÖZEL PLANLAMA ALANI ........................................................................................ 19
+3.2. SU TOPLAMA HAVZALARI, İÇME VE KULLANMA SUYU KORUMA KUŞAKLARI, BARAJLAR, YERALTI SUYU KAYNAKLARI ........................................................................................................................................ 20
+3.3. KAYNAK SULARI ŞİŞELEME VE AMBALAJLAMA TESİSLERİ .................................................................... 21
+3.4. ÖZEL KANUNLARA TABİ ALANLAR-KORUMA STATÜSÜNE SAHİP DİĞER ALANLAR ............................... 22
+3.5. YERLEŞİM ALANLARI ............................................................................................................................ 23
+3.5.1. KENTSEL YERLEŞİM ALANLARI ........................................................................................................... 23
+3.5.2. BAĞLIK BAHÇELİK ALANLAR ............................................................................................................... 24
+3.5.3. KIRSAL YERLEŞME ALANLARI ............................................................................................................. 25
+3.5.4. ÇALIŞMA ALANLARI ........................................................................................................................... 25
+3.5.4.1. ORGANİZE SANAYİ BÖLGELERİ ........................................................................................................................................... 25
+3.5.4.2. SANAYİ ALANLARI .............................................................................................................................................................. 25
+3.5.4.3. DEPOLAMA ALANLARI........................................................................................................................................................ 27
+3.5.4.4. KÜÇÜK SANAYİ SİTELERİ ..................................................................................................................................................... 28
+3.5.4.5. KENTSEL SERVİS ALANLARI................................................................................................................................................. 28
+3.5.4.6. TARIM VE HAYVANCILIK GELİŞTİRME ALANLARI ................................................................................................................ 28
+3.5.4.7. LOJİSTİK MERKEZ ALANLARI ............................................................................................................................................... 29
+3.5.4.8. KARAYOLU KENARINDA YAPILACAK YAPI VE TESİSLER ....................................................................................................... 29
+3.5.5. TURİZM ALANLARI ............................................................................................................................. 30
+3.5.5.1. TURİZM TESİS ALANI .......................................................................................................................................................... 30
+3.5.5.2. GÜNÜBİRLİK TURİZM ALANLARI ........................................................................................................................................ 31
+3.5.5.3. EKO-TURİZM ALANLARI...................................................................................................................................................... 31
+3.5.6. BÜYÜK VE AÇIK ALAN KULLANIŞLARI .................................................................................................. 31
+3.5.6.1. ÜNİVERSİTE ALANLARI ....................................................................................................................................................... 31
+3.5.6.2. REKREASYON ALANLARI ..................................................................................................................................................... 31
+3.5.6.3. SPOR TESİS ALANLARI ....................................................................................................................................................... 32
+3.5.6.4. BÜYÜK ALAN KULLANIMI GEREKTİREN KAMU KURULUŞ ALANLARI................................................................................... 32
+3.5.7. TARIM ARAZİLERİ ............................................................................................................................... 32
+3.5.7.1. TARIM ARAZİSİ ................................................................................................................................................................... 32
+3.5.7.1.1. MUTLAK TARIM ARAZİLERİ, DİKİLİ TARIM ARAZİLERİ, ÖZEL ÜRÜN ARAZİLERİ VE FİİLEN SULANAN VEYA SULAMA PROJESİ KAPSAMINDA KALAN TARIM ARAZİLERİ ................................................................................................... 33
+3.5.7.1.2. MARJİNAL TARIM ARAZİLERİ ................................................................................................................ 34
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+2
+3.5.7.2. ÇAYIR-MERA ...................................................................................................................................................................... 34
+3.5.8. ORMAN ALANLARI ............................................................................................................................. 34
+3.5.9. MESİRE ALANLARI (ORMAN İÇİ DİNLENME YERLERİ) ........................................................................ 35
+3.5.10. ASKERİ ALANLAR ................................................................................................................................ 35
+3.5.11. SİT ALANLARI ..................................................................................................................................... 36
+3.5.12. KAYALIK TAŞLIK ALANLAR .................................................................................................................. 37
+3.5.13. SULAK ALANLAR ................................................................................................................................ 37
+3.5.14. EKOLOJİK ÖNEME SAHİP ALANLAR .................................................................................................... 37
+3.5.15. SU ÜRÜNLERİ ÜRETİM ALANLARI ...................................................................................................... 39
+3.5.16. ULAŞIM .............................................................................................................................................. 39
+3.5.16.1. KARAYOLLARI ................................................................................................................................................................... 39
+3.5.16.2. HAVAALANLARI ................................................................................................................................................................ 40
+3.5.17. MADEN İŞLETME TESİSLERİ, GEÇİCİ TESİSLER, MADEN SAHALARI VE OCAKLAR ............................... 40
+3.5.18. ENERJİ-SULAMA ................................................................................................................................. 41
+3.5.18.1. ENERJİ ÜRETİM ALANLARI ................................................................................................................................................ 41
+3.5.18.2. ENERJİ İLETİM TESİSLERİ-PETROL BORU HATTI, DOĞALGAZ BORU HATTI VE İÇME SUYU BORU HATTI ........................... 42
+3.5.19. ATIKSU ARITMA TESİSİ VE KATI ATIK DEPOLAMA, BERTARAF TESİS ALANLARI ................................. 43
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+3
+TABLOLAR LİSTESİ
+TABLO 1: MALATYA İLİ KENTSEL NÜFUS KABULLERİ ...................................... 44
+TABLO 2: ELAZIĞ İLİ KENTSEL NÜFUS KABULLERİ .......................................... 46
+TABLO 3: BİNGÖL İLİ KENTSEL NÜFUS KABULLERİ ......................................... 47
+TABLO 4: TUNCELİ İLİ KENTSEL NÜFUS KABULLERİ ........................................ 47
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+4
+PLAN HÜKÜMLERİ
+1. TANIMLAR
+Bakanlık: T.C. Çevre ve Şehircilik Bakanlığı’dır.
+İlgili Kurum ve Kuruluşlar: Planın hazırlanmasında görüş ve bilgilerine başvurulan ve planın uygulanmasında görüşlerine başvurulacak kuruluşlardır.
+Planlama Bölgesi: Malatya, Elazığ, Bingöl ve Tunceli İl sınırlarını kapsar.
+Özel Planlama Alanları: Bu çevre düzeni planının ölçeğinde detayda karar üretilmesine teknik açıdan olanak bulunmayan ancak sahip olduğu doğal, kültürel ve ekonomik kaynak değerleri ile yüksek derecede koruma ve/veya gelişme potansiyeli taşıyan veya içerdiği çevre sorunları ve yapılaşma baskısı nedeniyle alt ölçekli planlama çalışmalarında ilgili idaresince çözüm üretilmesi gerekli görülen alanlardır.
+Turizm Merkezi, Kültür ve Turizm Koruma ve Gelişim Bölgesi: 2634/4957 sayılı Turizmi Teşvik Kanunu uyarınca, Cumhurbaşkanlığı Kararnamesince ilan edilen/edilecek alanlardır.
+Milli Park Alanları: 2873 sayılı Milli Parklar Kanunu uyarınca bilimsel ve estetik bakımından, milli ve milletlerarası ender bulunan tabii ve kültürel kaynak değerleri ile koruma, dinlenme ve turizm alanlarına sahip tabiat alanlarıdır.
+Tabiat Parkı: 2873 sayılı Milli Parklar Kanunu uyarınca bitki örtüsü ve yaban hayatı özelliğine sahip manzara bütünlüğü içinde halkın dinlenme ve eğlenmesine uygun tabiat parçalarını ifade eder.
+Tabiatı Koruma Alanı: 2873 sayılı Milli Parklar Kanunu uyarınca bilim ve eğitim bakımından önem taşıyan nadir, tehlikeye maruz veya kaybolmaya yüz tutmuş ekosistemler, türler ve tabii olayların meydana getirdiği seçkin örnekleri ihtiva eden ve mutlak korunması gerekli olup sadece bilim ve eğitim amaçlarıyla kullanılmak üzere ayrılmış tabiat parçalarıdır.
+Yaban Hayatı Koruma Geliştirme Sahası: 4915 sayılı Kara Avcılığı Kanunu uyarınca av ve yaban hayvanlarının ve yaban hayatının korunduğu, geliştirildiği, av hayvanlarının yerleştirildiği, yaşama ortamının iyileştirici tedbirlerin alındığı ve gerektiğinde özel avlanma planı çerçevesinde avlanmanın yapılabildiği sahalardır.
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+5
+Kentsel Yerleşik Alanlar: Büyükşehir ve/veya İl, İlçe, İlk Kademe ve Belde Belediye sınırları içinde var olan, içinde boş alanları barındırsa da büyük oranda yapılaşmış alanlardır.
+Kentsel Gelişme Alanları: Bu planın nüfus kabullerine, hedef/ilke ve stratejilerine göre bu planda kentsel yerleşime açılması öngörülen alanlardır.
+Kentsel Yerleşme Alanları: Plan kararları kapsamında “Kentsel Yerleşik Alanlar” ve “Kentsel Gelişme Alanları” olarak tariflenen alanlardır.
+Bağlık Bahçelik Alanlar: Yerleşim dokusu itibariyle kentsel yoğunluk göstermeyen ve kentsel işlevleri barındırmayan, çok seyrek yoğunlukta yapılaşmış, yoğun bir biçimde bölgeye özgü tarımsal ürün desenini barındıran, ağaçlık, bağlık ve bahçelik alanlardır.
+Kırsal Yerleşme Alanları: Kentsel yerleşme alanı dışında kalan, köy statüsüne sahip yerleşmeler ile bunların mahalle ve bağlı mezralarını kapsayan, planda sembolik olarak gösterilmiş olan yapılaşmış alanlardır.
+Kentsel Servis Alanları: Belediye hizmet alanı, kamu hizmet alanı, konut dışı kentsel çalışma alanı, toplu işyerleri ve küçük sanayi sitesi alanlarının yer aldığı kentsel ölçekte çalışma alanlarıdır.
+Büyük Alan Kullanımı Gerektiren Kamu Kuruluş Alanları: Kent bütününe ve çevresine hizmet eden, içerisinde kamu hizmet birimlerinin yer aldığı alanlardır.
+Konut Dışı Kentsel Çalışma Alanları: İçerisinde motel ve lokanta da bulunabilen akaryakıt ve bakım istasyonları, resmi ve sosyal tesisler, dumansız, kokusuz, atık ve artık bırakmayan ve çevre sağlığı yönünden tehlike yaratmayan imalathaneler ile patlayıcı, parlayıcı ve yanıcı maddeler içermeyen depolar, otoparklar, teşhir ve satış birimleri ve bu faaliyetlere ilişkin teknik altyapının yer aldığı alanlardır.
+Organize Sanayi Bölgesi (OSB): 4562 sayılı Organize Sanayi Bölgeleri Kanunu’na göre OSB statüsü kazanmış alanlardır.
+Sanayi Alanları: Orta ve büyük ölçekli sanayi işletmelerinin, 1593 sayılı Umumi Hıfzısıhha Kanunu ve ilgili yönetmeliğine uygun olarak, çevre ve sağlık koşulları gözetilerek toplu yer almaları öngörülen her türlü sanayi tesisine ayrılan alandır.
+Depolama Alanları: Endüstriyel hammadde ve mamul ürünleri veya bitkisel ve hayvansal ürünlerin açık ya da kapalı olarak depolanabileceği tesislerin yer alabileceği alanlardır.
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+6
+Maden İşletme Tesisleri, Geçici Tesisler, Maden Sahaları ve Ocaklar: 3213 sayılı Maden Kanunu ve ilgili yönetmelik hükümlerine tabi olan ve gruplara ayrılarak tanımlanmış madenler, madenlerin işletme tesisleri ile geçici tesisler, maden sahaları ve ocaklarının yer alabileceği alanlardır.
+Küçük Sanayi Sitesi: Küçük ölçekte sanayi işletmelerinin yer aldığı, daha çok doğrudan kentliye yönelik hizmet üreten 1593 sayılı Umumi Hıfzısıhha Kanunu ve ilgili yönetmeliğine uygun olarak çevre ve sağlık koşulları açısından ayrılmaları ve gruplaşmaları gerekli görülen iş alanlarıdır.
+Akaryakıt ve Servis İstasyonu Alanları: Dağıtıcı ve bunlarla tek elden satış sözleşmesi yapmış bayilerce, ilgili mevzuata uygun (teknik, kalite ve güvenlik) olarak kurulup, bir veya birden farklı alt başlıktan birer akaryakıt dağıtıcısının tescilli markası altında faaliyette bulunan ve esas itibariyle araçların akaryakıt, madeni yağ, otogaz LPG, temizlik ve ihtiyari olarak bakım ile kullanıcıların, tüplü LPG hariç, diğer asgari ihtiyaçlarını karşılayacak imkânları sunan tesislerin yer alabileceği alanlardır.
+Tarım ve Hayvancılık Geliştirme Alanları: Tarım ve hayvancılık faaliyetleri ile birlikte tarımsal ürünlerin katma değerlerini artırmaya yönelik araştırma, geliştirme ve üretim birimleri ile ürün toplama, depolama, saklama alanları; tarımsal amaçlı yapılar ve tarımsal amaçlı entegre tesisler ile tarıma dayalı sanayi tesislerinin toplu olarak (organize şekilde) yer alabileceği, tarımsal üretim ve ürün işleme faaliyetlerinin bir arada yapıldığı, tek elden sevk ve idare edildiği alanlardır.
+Tarımsal Amaçlı Yapılar: Toprak koruma ve sulamaya yönelik altyapı tesisleri, entegre nitelikte olmayan hayvancılık ve su ürünleri üretim ve muhafaza tesisleri ile zorunlu olarak tesis edilmesi gerekli olan müştemilatı, mandıralar, üreticinin bitkisel üretime bağlı olarak elde ettiği ürünü için ihtiyaç duyacağı yeterli boyut ve hacimde depolar, un değirmeni, tarım alet ve makinelerinin muhafazasında kullanılan sundurma ve çiftlik atölyeleri, seralar, tarımsal işletmede üretilen ürünün özelliği itibarıyla hasattan sonra iki saat içinde işlenmediği takdirde ürünün kalite ve besin değeri kaybolması söz konusu ise bu ürünlerin işlenmesi için kurulan tesisler ile Tarım ve Orman Bakanlığı tarafından tarımsal amaçlı olduğu kabul edilen, entegre nitelikte olmayan diğer tesislerdir.
+Tarımsal Amaçlı Entegre Yapılar: İlçe, belde veya birden fazla köy sınırları içerisinde, birden fazla işletmede üretilen tarımsal ürünlerin, üretimden sonra işlenerek, fiziksel veya kimyasal özellikleri değiştirilip, bir veya birden fazla yeni ürüne dönüştürülmesinin yapıldığı tesislerdir.
+Tarıma Dayalı Sanayi Tesisleri: Bitkisel veya hayvansal tarım ürünlerinin mamul hale getirilmelerini sağlayan, entegre ya da entegre nitelikte olmayan sanayi işletmelerdir.
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+7
+Turizm Tesis Alanları: Turizm yatırımı kapsamında bulunan veya turizm işletmesi faaliyetlerinin yapıldığı ve yapılacağı tesislerin ve bunların ayrıntıları ile tamamlayıcı unsurlarının yer aldığı veya alacağı alanlardır.
+Doğa Turizmi: Doğal güzelliklerin, önemli kitleleri çekebilecek ve ilgi uyandırabilecek nitelikteki alanların ziyaret aktivitelerini kapsar.
+Eko-Turizm Alanları: Doğal ve kültürel değerleri koruyarak, bu alanlarda ve çevresinde yaşayan nüfusun sosyo-ekonomik gelişimi için kaynak yaratabilen alternatif turizme dönük, doğal yaşama aktif katılımın sağlanabildiği, çevreye duyarlı alanlardır.
+Günübirlik Tesis Alanı: Bu alanlarda konaklama yapılamayan, taşınabilir malzemelerden yapılmış ve sadece turizm amaçlı geçici nitelikli günübirlik kullanıma dönük lokanta, gazino, çay ba hçesi, eğlence alanları ile el sanatları ve yöresel ürünlerin satıldığı ve sergilendiği tesislerin bulunduğu/bulunacağı alanlardır.
+Kış Sporları ve Kayak Merkezi: Kayak yapılması amacıyla farklı noktalar arasında ulaşıma yönelik teleferik, telesiyej, teleski, telekabin gibi mekanik düzenlemeler ile konaklama tesislerinin yer alabileceği alanlardır.
+Termal Turizm: Mineralize termal sularla çamurların, yörelerinde çevre ve iklim faktörleri bileşiminde insan sağlığını olumlu etkilemek için fizik tedavi, rehabilitasyon, egzersiz, diyet gibi destek tedavilerle koordineli kür uygulamalarının gerçekleştirildiği tesislerin bir ya da birkaçının konaklama tesisleri ile bir arada düzenleneceği alanlardır.
+Üniversite Alanları: Yüksekokul, lisans, lisansüstü eğitim, araştırma-bilgi üretim ve iletişim merkezi işlevlerini yüklenen ve içerisinde Teknoparkların da yer alabileceği alanlardır.
+Teknoloji Geliştirme Bölgeleri (Teknoparklar): Yüksek/İleri teknoloji kullanan ya da yeni teknolojilere yönelik firmaların, belirli bir üniversite veya yüksek teknoloji enstitüsü ya da AR-GE merkez veya enstitüsünün olanaklarından yararlanarak teknoloji veya yazılım ürettikleri/geliştirdikleri, teknolojik bir buluşu ticari bir ürün, yöntem veya hizmet haline dönüştürmek için faaliyet gösterdikleri ve bu yolla bölgenin kalkınmasına katkıda bulundukları, aynı üniversite, yüksek teknoloji enstitüsü ya da AR-GE merkez veya enstitüsü alanı içinde veya yakınında; akademik, ekonomik ve sosyal yapının bütünleştiği siteler veya bu özelliklere sahip teknoparklardır.
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+8
+Bölge Parkı ve Büyük Kentsel Yeşil Alanlar: Halkın eğlence ve dinlenme gereksinimlerini karşılamaya dönük, açık olarak düzenlenen, günübirlik ticari ihtiyaçları karşılamaya yönelik kısmi kapalı mekânlarında yer alabileceği, oturma ve yemek yerleri, yemek pişirme yerleri, çeşmeler, oyun ve spor alanları, gösteri alanları ve yeşil bitki örtüsü ile kaplı alanlardır.
+Temalı Park ve Fuar Alanı: Aktif açık alanlarla birlikte eğlence ve dinlenme amacı yanında; sanayi, tarım vb. gibi ürünlerin sergilendiği; çağdaş, teknolojik, sosyal tesis ve ilgili yönetim merkezleriyle donanmış alanlardır.
+Tarım Arazisi: 5403 sayılı Toprak Koruma ve Arazi Kullanım Kanunu uyarınca toprak, topografya ve iklimsel özellikleri tarımsal üretim için uygun olup hâlihazırda tarımsal üretim yapılan veya yapılmaya uygun olan veya imar, ihya, ıslah edilerek tarımsal üretim yapılmaya uygun hale dönüştürülebilen arazilerdir.
+Mutlak Tarım Arazisi: 5403 sayılı Toprak Koruma ve Arazi Kullanım Kanunu uyarınca bitkisel üretimde; toprağın fiziksel, kimyasal ve biyolojik özelliklerinin kombinasyonu yöre ortalamasında ürün alınabilmesi için sınırlayıcı olmayan, topoğrafik sınırlamaları yok veya çok az olan; ülkesel, bölgesel veya yerel önemi bulunan, hâlihazır tarımsal üretimde kullanılan veya bu amaçla kullanıma elverişli olan arazilerdir.
+Özel Ürün Arazisi: 5403 sayılı Toprak Koruma ve Arazi Kullanım Kanunu uyarınca mutlak tarım arazileri dışında kalan, toprak ve topoğrafik sınırlamaları nedeniyle yöreye adapte olmuş bitki türlerinin tamamının tarımının yapılamadığı ancak özel bitkisel ürünlerin yetiştiriciliği ile su ürünleri yetiştiriciliğinin ve avcılığın yapılabildiği, ülkesel, bölgesel veya yerel önemi bulunan arazilerdir.
+Dikili Tarım Arazisi: 5403 sayılı Toprak Koruma ve Arazi Kullanım Kanunu uyarınca mutlak ve özel ürün arazileri dışında kalan ve üzerinde yöre ekolojisine uygun çok yıllık ağaç, ağaççık ve çalı formundaki bitkilerin tarımı yapılan ülkesel, bölgesel veya yerel önemi bulunan arazilerdir.
+Marjinal Tarım Arazisi: 5403 sayılı Toprak Koruma ve Arazi Kullanım Kanunu uyarınca mutlak tarım arazileri, özel ürün arazileri ve dikili tarım arazileri dışında kalan, toprak ve topoğrafik sınırlamalar nedeni ile üzerinde sadece geleneksel toprak işlemeli tarımın yapıldığı arazilerdir.
+Çayır ve Mera Alanları: 5178/4342 sayılı Mera Kanunu kapsamında yer alan, hayvanların otlatılması ve otundan yararlanılması için tahsis edilen ya da bu amaçla kullanılabilecek alanlardır.
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+9
+Organik Tarım: Toprak, su bitki ve doğal kaynaklar kullanılarak organik ürün veya girdi üretilmesi ya da yetiştirilmesi, doğal alan ve kaynaklardan ürün toplanması, hasat, kesim, işleme, tasnif, ambalajlama, etiketleme, muhafaza, depolama, taşıma, pazarlama, ithalat, ihracat ile ürün veya girdinin tüketiciye ulaşıncaya kadar olan diğer işlemleri içeren etkinliklerdir.
+Orman Alanları: 6831/3373 sayılı Orman Kanunu uyarınca tabii olarak yetişen veya emekle yetiştirilen ağaç ve ağaçlık toplulukları yerleriyle birlikte orman sayılır.
+2B Alanları: 6831 sayılı Orman Kanunu’nun 2. Maddesinin (b) bendine göre, hazine adına orman sınırları dışına çıkarılmış alanlardır.
+Mesire Yerleri: Rekreasyonel ve estetik kaynak değerlere sahip alanlarda kamunun dinlenme, eğlenme (rekreatif) yönünde günübirlik ihtiyaçlarını karşılayan ve arazi kullanım özelliklerine göre gerekli yapı, tesis ve donatılarla kullanıma açılan veya açılmak üzere Tarım ve Orman Bakanlığı’nca ayrılan orman ve orman rejimine tabi sahalar ile Orman Genel Müdürlüğü’nün mülkiyetinde, işletilmesi Tarım ve Orman Bakanlığı’na verilmiş sahalardır.
+Askeri Alanlar: 2565 sayılı Askeri Yasak Bölgeler ve Güvenlik Bölgeleri Kanunu kapsamında ve ülke savunması bakımından önem taşıyan askeri tesislerin bulunduğu alanlardır.
+Özel Kanunlara Tabi Alanlar: Milli parklar, tabiatı koruma alanları, tabiat parkları, tabiat anıtları, yaban hayatı geliştirme sahaları, TOKİ alanları ve organize sanayi bölgeleri vb. gibi özel kanunlara tabi ya da planlama yetkileri farklı kurumlara ait olan alanlardır.
+Sit Alanları: 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu uyarınca tarih öncesinden günümüze kadar gelen çeşitli medeniyetlerin ürünü olup yaşadıkları devirlerin sosyal, ekonomik, mimari vb. gibi özelliklerini yansıtan kent ve kent kalıntılarını, kültür varlıklarının yoğun olarak bulunduğu sosyal yaşama konu olmuş veya önemli tarihi hadiselerin cereyan ettiği yerler ve tespiti yapılmış tabiat özellikleri ile korunması gerekli alanlardır.
+Arkeolojik Sit Alanları: İnsanlığın varoluşundan günümüze kadar ulaşan eski uygarlıkların yeraltında, yerüstünde ve su altındaki ürünlerini, yaşadıkları devirlerin sosyal, ekonomik ve kültürel özelliklerini yansıtan her türlü kültür varlığının yer aldığı yerleşmeler ve alanlardır.
+Kentsel Sit Alanları: Mimari, mahalli, tarihsel, estetik ve sanat özelliği bulunan ve bir arada bulunmaları sebebiyle teker teker taşıdıkları kıymetten daha fazla kıymeti olan
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+10
+kültürel ve tabii çevre elemanlarının (yapılar, bahçeler, bitki örtüleri, yerleşim dokuları, duvarlar) birlikte bulundukları alanlardır.
+Tarihi Sit Alanları: Önemli tarihi olayların cereyan ettiği ve bu sebeple korunması gereken alanlardır.
+Doğal Sit Alanları: Jeolojik devirlerle, tarih öncesi ve tarihi devirlere ait olup ender bulunmaları veya özellikleri ve güzellikleri bakımından korunması gerekli yerüstünde, yeraltında veya su altında bulunan korunması gerekli alanlardır.
+Kayalık ve Taşlık Alanlar: Jeolojik oluşumları nedeniyle ya da erozyon sonucu topraksız kalmış doğal karakteri korunacak alanlardır.
+Kumul Alanlar: Yerleşim alanı dışında kalan doğal plaj ve hareketli (aktif) kumul alanlarıdır.
+Sazlık-Bataklık Alanlar: Yağışlara bağlı olarak taşkın tehlikesi yaşayan alanlar ile sazlık ve bataklık alanlarını kapsamaktadır.
+Sulak Alan: Doğal veya yapay, devamlı veya geçici, suları durgun veya akıntılı, tatlı, acı veya tuzlu, denizlerin gelgit hareketlerinin çekilme devresinde altı metreyi geçmeyen derinlikleri kapsayan, başta su kuşları olmak üzere canlıların yaşama ortamı olarak önem taşıyan bütün sular, bataklık, sazlık ve turbiyeler ile bu alanların kıyı kenar çizgisinden itibaren kara tarafına doğru ekolojik açıdan sulak alan kalan yerlerdir.
+Sulak Alan Bölgesi: Açık su yüzeyleri, lagünler, nehir ağızları, tuzlalar, geçici ve sürekli tatlı ve tuzlu su bataklıkları, sulak çayırlar, sazlıklar ve turbalıklar gibi habitatların oluşturduğu bölgelerdir.
+Sulak Alan Ekolojik Etkilenme Bölgesi: Sulak alan ekosistemi ile ilişkili ve sistemi destekleyen deniz, kumul, kumsal, çalılık, ağaçlık, orman, çayır, mera ve çeltik alanları gibi habitatların oluşturduğu bölgelerdir.
+Sulak Alan Mutlak Koruma Bölgesi: Koruma Bölgeleri içerisinde yer alan, su kuşlarının yoğun ve toplu olarak kuluçka yaptığı ve gecelediği alanlar; nadir ve nesli tehlikedeki kuş türlerinin önemli üreme bölgeleri ile nesli tehlikede veya dar yayılışlı sulak alana bağımlı doğal bitki türlerinin bulunduğu alanları ifade eder.
+Sulak Alan Özel Hüküm Bölgesi: İçme ve kullanma suyu rezervuarlarının ve benzeri su kaynaklarının kirliliğe karşı korunmasına, kaynağın ve havzasının özelliklerini bilimsel çalışmalar ile değerlendirilerek koruma alanlarının ve koruma esaslarının belirlenmesine yönelik çalışmaların sınırlarını ifade eder.
+Su Kaynakları: Su Kirliliği Kontrolü Yönetmeliği’nde tanımlanan ve Devlet Su İşleri Genel Müdürlüğü’nce belirlenen doğal veya yapay rezervuarlardır.
+İçme ve Kullanma Suyu Koruma Kuşakları: Su Kirliliği Kontrolü Yönetmeliği’nde tanımlanan ve Devlet Su İşleri Genel Müdürlüğü’nce maksimum su seviyesine göre ya
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+11
+da aynı yönetmeliğin 16. Maddesine istinaden hazırlanan özel projelerce oluşturulan, derecelendirilmiş koruma kuşak alanlarıdır.
+Havza Yönetim Planı: Su havzasındaki su kaynaklarının ve canlı hayatının korunmasını, geliştirilmesini ve bozulmamasını sağlamak üzere su kaynakları için sürdürülebilir bir koruma-kullanma dengesi gözetilerek havzanın bütünü esas alınarak hazırlanan plandır.
+Havza Master Planı: Havza su potansiyeli ve kalitesi, toprak kaynakları, su kullanımları ve ihtiyaçlarının etüt edilmesi, belirlenen potansiyelin değerlendirilme öncelikleri ile olabilecek su ihtiyacının tespiti, ihtiyacın karşılanma yöntemleri ile proje formülasyonları ve bunların teknik, ekonomik ve çevresel yapılabilirliğinin incelenmesini içeren planlardır.
+Yaban Hayatı Geliştirme Sahaları: Av ve yaban hayvanlarının ve yaban hayatının korunduğu, geliştirildiği; av hayvanlarının yerleştirildiği, yaşama ortamında iyileştirici tedbirlerin alındığı ve gerektiğinde özel avlanma planı çerçevesinde avlanmanın yapılabildiği sahalardır.
+Ekolojik Öneme Sahip Alan: Aynı alanda birden çok doğal niteliğe sahip (su kaynakları, hassas ekosistemler, su ve kara ekosistemleri arasında yer alan geçiş bölgeleri, toprak niteliği ve topografik özellikleri, bitki örtüsü, yaban yaşamı) ya da insan etkisi altında yeniden biçimlenmeden önce bu potansiyele sahip olduğu öngörülen ekolojik ilişki ve etkileşimlerin bütünlük arz ettiği; tür çeşitliliği, iklimsel duyarlılık, su döngüsünün, yaban yaşamının ve insan yaşama ortamlarının kalitesinin sürekliliği açısından korunması öngörülen özel öneme sahip alanları ve doğal koridorları ifade eder.
+Jeolojik Sakıncalı Alanlar: Aktif heyelan alanları, sıvılaşma riski taşıyan zeminlerin bulunduğu alanlar, depreme aşırı duyarlı alanlar, aktif fay hatlarının bulunduğu alanlar, tahkimat amaçlı oluşturulmuş kıyı dolgu alanları, kumsallar, plaj kumulları, alüvyon yelpazeleri, % 70 ve üzerinde topoğrafik eğimi olan yamaçlardır.
+Taşkın Alanlar: Akarsu vadilerinde, Devlet Su İşleri Müdürlüklerince taşkın olasılığı saptanan alanlardır.
+Önemli Kuş Alanları: Kuş göç yolları üzerinde bulunan ve su kuşları açısından öneme sahip alanları ifade eder.
+Su Ürünleri Üretim Alanları: Tarım ve Orman Bakanlığı’nın koordinasyonunda oluşturulan komisyonca su ürünlerini üretmek ve yetiştirmek için 2872/5491 sayılı Çevre Kanunu ve bu kanun uyarınca çıkartılan mevzuatta belirtilen alanlar dışında, belirlenen/belirlenecek olan alanlardır.
+Otoyol ve Ekspres Yollar: Alan bütünü ile birlikte çevresine de hizmet veren tam erişim ve yarı erişim kontrollü yollardır.
+Birinci Derece Yollar: Planlama Bölgeleri, işlevler arası ve erişim kontrollü yollar arası bağlantıyı sağlayan ana yol niteliği taşıyan bölünmüş yollardır.
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+12
+İkinci Derece Yollar: Yerleşim bölgeleri arası ve içi ana yol aksı niteliği taşıyan yollardır.
+Tur Güzergahı: Belirlenen bir aks üzerinde bulunan önemli turizm merkezlerinin birbirleri arasında ulaşım (kara, deniz, ...) bağlantıları kurularak beraber çalışmaları sağlanıp kendi aralarındaki bütünlüğü oluşturan, turizme açılan güzergahlardır.
+Demiryolu: Yük-yolcu taşımacılığını hedefleyen banliyö ve raylı sitem hatlarını (banliyö, metro, tramvay, hafif raylı sistem vb. gibi) kapsamaktadır.
+Feribot Hattı: Asıl amacı yolcu taşımak olan bunun yanında araba ve kuru yük taşıyan kısa ve orta mesafeli hatlardır.
+Liman/İskele ve Geri Sahaları: Gemi, feribot, tekne vs. gibi deniz araçlarının park yeri, gemilerin kargolarını feribotların ise yolcu ve araç boşaltıp yüklediği, satış üniteleri, depo, idari tesis, vinç vb. gibi alan ve yapısal kullanımlar ile genellikle gümrük de bulundurulan mekânlardır.
+Lojistik Merkez Alanları: Nakliye, envanter, depolama, malzeme idaresi ve ambalajlama proseslerinin bir arada yer aldığı, intermodal taşımacılık aksları ile bağlantılı, ithalat ve ihracata yönelik ürünlerin depolanacağı tesislerin yer alabileceği alanlardır.
+Havaalanı: Ulusal ve uluslararası havayolu yolcu ve yük taşımacılığına hizmet edecek nitelik ve kapasitedeki alanlardır.
+Mania Sınırı: Uçağın yüzey harekatını sağlamak için kullanılan sahalarda yer alan veya uçuştaki uçağı korumak için belirlenen yüzeyin üst kısmında yer alan tüm sabit, geçici veya taşınabilir nesneleri kapsayan sınırları ifade eder.
+Enerji Üretim Alanları: Enerji Piyasası Düzenleme Kurumu tarafından verilecek lisansa göre ve/veya ilgili kurumlarca verilen izinlere göre kurulmuş olan elektrik enerjisi üretim tesislerinin kurulduğu veya kurulacağı alanlardır.
+Sulama Alanı: 3083 sayılı Sulama Alanlarında Arazi Düzenlemesine Dair Tarım Reformu Kanunu uyarınca, devletçe sulamaya açılan veya projeleri bitirilmiş olup sulama yatırımlarına başlanan ve devam eden alanlardır.
+Arazi Toplulaştırma Alanları: Uygulama alanlarında belirlenen, arazilerin doğal ve yapay etkilerle bozulmasını ve parçalanmasını önlemek, parçalanmış arazilerde ise doğal özellikleri, kullanım bütünlüğü ve mülkiyet hakları gözetilerek birden fazla arazi
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+13
+parçasının birleştirilip ekonomik, ekolojik ve toplumsal yönden daha işlevsel yeni parsellerin oluşturulmasını ve bu parsellerin arazi özellikleri ve alanı değerlendirilerek kullanım şekillerinin belirlenmesini, köy ve arazi gelişim hizmetlerinin sağlanmasını amaçlayan alanlardır.
+Termik Santral: Kimyasal enerjinin, elektrik enerjisine dönüştüğü tesislerdir.
+Hidroelektrik Santral: 4628 sayılı Elektrik Piyasası Kanunu’na tabi tesislerdir.
+Güneş Enerjisine Dayalı Enerji Üretim Alanları: Güneş enerjisi potansiyeli yüksek, üzerinde herhangi bir ekonomik faaliyet bulunmayan alanlar üzerine yenilenebilir ve temiz enerji üretmek amacı ile güneş panellerinin kurulduğu alanları ifade eder.
+Enerji İletim Tesisleri: Enerji üretim tesislerinin 36 kv üstü gerilim seviyesinden bağlı olduğu noktalardan itibaren, iletim salt sahalarının orta gerilim fiderleri de dâhil olmak üzere, dağıtım tesislerinin bağlantı noktalarına kadar olan tesislerdir.
+Doğalgaz Boru Hattı: Şehir içi bölge istasyonlarının çıkışından başlayan ve doğalgaz taşıyan muhtelif çaplardaki boru hatlarını içerir.
+Katı Atık Bertaraf ve Geri Kazanım Tesisi Alanları: Üreticisi tarafından atılmak istenen ve toplumun huzuru ile özellikle çevrenin korunması bakımından, düzenli bir şekilde bertaraf edilmesi gereken katı atık maddelerin depolandığı ve/veya bertaraf edildiği tesislerin bulunduğu/bulunacağı alanlardır.
+Tehlikeli Atık Bertaraf Tesisi Alanları: Tehlikeli Atıkların Kontrolü Yönetmeliği’nde tanımlanan atıkların, aynı yönetmelikte tanımlanan kurallara uygun olarak bertarafının sağlandığı tesislerin yer alabileceği alanlardır.
+Arıtma Tesisi Alanları: Her türlü sıvı atığın ilgili mevzuatta belirtilen standartları sağlayacak şekilde arıtılması veya bertaraf edilmesi için kurulan tesislerin yer alabileceği alanlardır.
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+14
+2. GENEL HÜKÜMLER
+1. Bu plan, plan paftaları, plan uygulama hükümleri ve plan açıklama raporuyla bir bütündür.
+2. Bu planın ilkelerine aykırı olmayan değişiklikler, revizyonlar ilgili kurum ve kuruluşların görüşleri alınarak Bakanlıkça yapılır, yaptırılır ve onaylanır.
+3. Bu planın ilk onay tarihi olan 01.04.2012 tarihinden önce mevzuata uygun olarak onaylanmış imar planları geçerlidir.
+4. Bu planın onayı ile varsa daha önce yürürlükte bulunan ölçeğine bakılmaksızın tüm çevre düzeni planları iptal edilmiştir.
+5. Bu planla getirilen arazi kullanım kararlarına, nüfus kabullerine uygun olan imar planlarında uygulamaya devam edilecektir.
+6. Bu planın onama tarihinden önce mevzuata uygun olarak onaylanmış mevzi imar planları yürürlüktedir.
+7. Bu plan ve planın uygulama hükümlerinde yer almayan konularda konumu ve ilgisine göre yürürlükte bulunan Kanun, Tüzük, Yönetmelik, Tebliğ ve Standartlar geçerlidir. Bu planın onay tarihinden sonra kanun, tüzük, yönetmelik, tebliğ ve standartlarda olan değişiklikler ve yeni hukuki metinler de plan veya plan hükmü değişikliğine gerek kalmaksızın planlama alanında geçerli olacaktır.
+8. Bu plandan ölçü alınarak uygulama yapılamaz. Bu plan, bu plan ile belirlenen kentsel yerleşme alanlarının tamamının yerleşime açılacağını göstermez. Planda yer alan arazi kullanım kararlarının sınırları, alt ölçekli planlama çalışmalarında ilgili kurum ve kuruluşların görüşleri doğrultusunda ve bu plandaki nüfus kabullerine göre belirlenen alansal büyüklüğü aşmayacak şekilde doğal, yapay ve yasal eşikler çerçevesinde kesinleşir.
+9. Bu planın ilke ve hedeflerine, kararlarına aykırı olarak hiçbir ölçekte, imar planı, plan değişikliği, revizyonu ve ilavesi yapılamaz.
+10. Sektörel planlar kapsamında yer alan 2634 sayılı Turizmi Teşvik Kanunu kapsamında kalan alanlara ilişkin yapılacak olan alt ölçekli planlarda bu planın arazi kullanım kararları ve plan hükümlerine uyulacaktır.
+11. Bu planın bütünlüğünün ve sürdürülebilirliğinin sağlanması amacıyla Bakanlık tarafından onanan bu plan Planlama Bölgesindeki Valiliklere gönderilir. Valilikler, çevre düzeni planlarının ilgili idareler ile konusuna ve ilgisine göre kurum ve kuruluşlara gönderilmesi konusunda sorumludur.
+12. Bu planda ölçeği gereği sembolik olarak gösterilen köy, mahalle ve mezralarda ilgili mevzuatı uyarınca belirlenecek olan köy yerleşik alanı ve civarı sınırları içerisinde bu planın kırsal alanlarla ilgili plan hükümleri uygulanır.
+13. Bu planın onayından sonra idari sınırlarda olabilecek değişikliklerde, plan değişikliğine gerek kalmaksızın yeni idari sınırlar geçerli olacaktır.
+14. Bu planın ilke ve stratejileri doğrultusunda yapılacak alt ölçekli planlarda, ilgili kurum ve kuruluş görüşleri alınacaktır.
+15. Bu planda kentsel yerleşme alanı olarak tanımlanmış alanlarda, eğitim tesisleri, sağlık tesisleri, yeşil alanlar, kamu kurum alanları, trafo vb. gibi sosyal ve teknik altyapı alanları ile ticaret alanları, konut alanları, küçük sanayi alanları, turizm
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+15
+tesis alanları, konut dışı kentsel çalışma alanları vb. gibi çalışma alanları yer alabilir. Yapılaşma koşulları alt ölçekli planlarda belirlenecektir.
+16. Kentsel gelişme alanlarının, bu planda hesaplanan nüfus projeksiyonlarına ve projeksiyon dönemine göre denetimli bir şekilde açılması esastır. Bu alanlar bir bütün olarak planlanacak olup bütüncül planlarında belirlenmek kaydı ile uygulama, etaplar halinde yapılabilir. Bu alanlardaki bölgesel yoğunluk dağılımı projeksiyon nüfusu göz önüne alınarak, ilgili idaresince alt ölçekli planlarda belirlenir. Bu kapsamda, Kentsel Gelişme Alanları yerleşimlerin makroformunu ve gelişmesini şematik olarak belirleyen alanlar olup planda belirlenen alanın tamamının yerleşime açılacağını göstermez. Bu planda tanımlanmış olan Kentsel Gelişme Alanlarında, projeksiyon nüfusunun karşılanması sonucu kesinleşen sınırlar dışında kalan alanların bugünkü arazi kullanımı devam ettirilecektir. Bu alanlar, ihtiyaç olması halinde sosyal ve teknik altyapı alanı olarak kullanılabilir.
+17. Katı atıkların düzenli toplanması ve depolanması, bertarafı, toplu arıtma sistemlerine geçilmesi gibi entegre projelere ağırlık verilecektir.
+18. Planlama Bölgesinde “Afet Bölgelerinde Yapılacak Yapılar Hakkında Yönetmelik” hükümleri geçerli olup yapılacak 1/1.000 ölçekli uygulama imar planlarında jeolojik ve jeoteknik etüt hazırlanması zorunludur.
+19. Jeolojik açıdan sakıncalı alanlarda gerçekleştirilecek uygulamalarda, 1/1.000 ölçekli uygulama imar planına esas jeolojik-jeoteknik etüt çalışması kapsamında risk yaratan tüm unsurların her birinin ayrıntılı olarak araştırılması ve özellikle yüzey faylanmasının tehlike zonu (fay-tampon bölge) oluşturup oluşturmayacağına karar verilmesi zorunludur.
+20. Afet ve acil durumlarda yöre halkının acil barınma ihtiyacını karşılamak üzere ayrılacak olan konteynır ve/veya çadır kent alanlarının yer seçimi ilgili kurum ve kuruluşlar ile Bakanlığımızın uygun görüşü alınarak, çevre düzeni planı değişikliğine gerek kalmaksızın Afet ve Acil Durum Yönetimi Başkanlığı’nca yürütülecek çalışmalar sonucunda belirlenecektir.
+21. Planlama Bölgesinin jeolojik yapısının genelde Önlemli Alan 1 ve Önlemli Alan 2’lerden oluşması nedeni ile bu plana uygun olarak yapılacak imar planı değişikliği, revizyonu veya ilavelerinde mevcut jeolojik ve jeoteknik etüt raporlarının çalışmaya konu olan alanda yenilenmesi zorunludur.
+22. Alt ölçekli planlarda, Tarım ve Orman Bakanlığı, Devlet Su İşleri Genel Müdürlüğünce belirlenmiş taşkın alan sınırları ve uygulama hükümleri koşullarına uyulacaktır.
+23. Bu planda yer alan tarım alanları “Tarım Arazisi” olarak tek gösterim altında gösterilmiş olup 5403 sayılı Kanun ve ilgili yönetmeliğinde tanımlanan tarım arazileri sınıflarına göre ayrılmamıştır.
+24. Çevre kirliliği (su, toprak, hava) yaratan mevcut sanayilerin denetim altına alınması amacı ile ilgili kurum ve kuruluşlarla işbirliği içerisinde doğal eşikler dikkate alınarak özel sanayi bölgelerinin (ihtisaslaşmış sanayi bölgesi, organize sanayi bölgesi vb. gibi) ayrılması, imara açılmış sanayi bölgelerinin bu bağlamda organize edilmesi, denetim mekanizmalarının ve çevresel önlemlerin ilgili paydaşların katılımı ile belirlenmesi sağlanacaktır.
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+16
+25. Bölgesel Sosyal ve Teknik Altyapı Alanlarına ait uygulama hükümleri, alt ölçekli planlarda belirlenecektir.
+26. Plan sınırı içerisinde bulunan Kültür ve Turizm Koruma ve Gelişim Bölgeleri, Özel Çevre Koruma Alanları, Milli Park ve Tabiat Parkı alanlarında, bu planın onayından önce onaylanmış plan kararları ve plan hükümlerine uyulacaktır.
+27. Bu plan ile belirlenen kararların yanı sıra ihtiyaç olması halinde güvenlik, sağlık, eğitim vb. gibi sosyal donatı alanları, büyük kentsel yeşil alanlar, kent veya bölge/havza bütününe yönelik her türlü atık bertaraf tesisleri ve bunlarla entegre geri kazanım tesisleri, arıtma tesisleri, sosyal ve teknik altyapı, belediye hizmet alanı, mezbaha, amaçlı imar planları; ÇED Yönetmeliği kapsamında kalanlar için “Çevresel Etki Değerlendirmesi Olumlu” veya “Çevresel Etki Değerlendirmesi Gerekli Değildir” kararının bulunması, ÇED Yönetmeliği kapsamı dışında olanlar için ise ilgili kurum ve kuruluşların görüşlerine uygun olarak bu planda değişikliğe gerek olmaksızın, ilgili idaresince hazırlanır ve onaylanır. Onaylanan planlar sayısal ortamda Bakanlığa gönderilir. Söz konusu tesisler/tesis alanları amacı dışında kullanılamazlar.
+28. Yakma veya düzenli depoların yanı sıra fiziksel/kimyasal/biyolojik önişlem ünitelerini içeren entegre atık bertaraf veya geri kazanım tesislerinin yer seçiminde, atığın en yakın ve en uygun olan tesiste bertaraf edilmesi ilkesi çerçevesinde, bölgenin atık miktarı dikkate alınarak ilgili kurum ve kuruşların görüşü doğrultusunda tesisin yer seçimi belirlenir.
+29. Bu planda kentsel yerleşme alanları içinde kalan ve Toplu Konut İdaresi'ne (TOKİ) tahsis/devir edilmiş alanlarda TOKİ tarafından yürütülen uygulamalara, Özelleştirme İdaresi Başkanlığı'nca yürütülen faaliyetlere, 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanuna tabi alanlara ilişkin uygulamalara ve İller Bankası Anonim Şirketi Genel Müdürlüğü tarafından 6107 sayılı İller Bankası Anonim Şirketi Hakkında Kanunu ve 5543 sayılı İskan Kanunu uyarınca yapılacak uygulamalara ilişkin başvurular, bu planın koruma, gelişme ve planlama ilkeleri ve nüfus kabulleri ve çevre imar bütünlüğü çerçevesinde alt ölçekli planlarda değerlendirilir. Bu doğrultuda hazırlanarak onaylanan alt ölçekli planlar sayısal ortamda Bakanlığa gönderilir.
+30. Bu planın onayından önce düzensiz olarak yapılaşmış alanların, çevreye olabilecek zararlarının azaltılması amacıyla sağlıklaştırılması, yenilenmesi ve yaşanabilir hale getirilmesi sağlanacaktır.
+31. Mevcut organize sanayi bölgelerindeki çevre sorunlarını önlemek üzere arıtma tesisi olmayan bölgelerde iş termin planına göre bu tesisler tamamlanır. Bu tesislerin verimli çalıştırılması esastır.
+32. Çevre kirliliği yaratan mevcut sanayi tesislerinde iş termin planına göre arıtma tesisleri kurularak işletilmesi zorunludur.
+33. Enerji kaynak alanları 5346 sayılı Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanun çerçevesinde korunacaktır. Planda önerilen güneş tarlaları da bu kanun kapsamında değerlendirilecektir.
+34. Orman Kanunu’nun 2. Maddesinin (b) bendine konu olan alanlarda yerleşim alanı niteliğindeki alanlar hukuki durumda olabilecek değişikliklerin sonucuna göre, Orman Genel Müdürlüğü ve Milli Emlak Genel Müdürlüğü görüşleri alınarak, bu
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+17
+planın nüfus kabulleri, ilke ve kararları doğrultusunda incelenerek, bu alanlarda mahkeme kararları sonucu doğacak haklar saklı kalmak ve büyüklüğü 5 hektardan fazla olan alanlar için çevre düzeni planı değişikliğinin yapılması kaydıyla 5 hektardan küçük alanlar için ise çevre düzeni planı değişikliğine gerek kalmaksızın alt ölçekli planlarda ilgili idaresince değerlendirilebilir. Tarımsal nitelik kazanmış olan kısımlarda ise çevre düzeni planı değişikliği yapılmasına gerek duyulmaksızın bu planın ilgili hükümleri uyarınca işlem yapılır.
+35. Bu plan, mevzuata aykırı olarak yapılaşmış yapılar için herhangi bir hak oluşturmaz. Bu planın onayından önce mevzuata aykırı olarak yapılaşmış olan yapılara ilgili kanunlar uyarınca ilgili idaresince işlem yapılır.
+36. Bu planda kentsel yerleşim alanı olarak gösterilmeyen ve onaylı imar planlarındaki nüfusun bu planla belirlenen nüfusun üzerinde olduğu ve/veya orman mülkiyetindeki alanların, sit alanlarının, verimli tarım topraklarının, jeolojik sakıncalı alanlar ile taşkın, heyelan vb. gibi sakıncalı alanların onaylı imar planları ile kullanıma açılmış olduğu bölgelerde yeni imar uygulaması ve ruhsatlandırma yapılamaz.
+37. Bu planın onayından sonra, nazım ve uygulama imar planları, bu planın ilke ve stratejileri ile plan karar ve hükümlerine uygun olmak koşulu ile yapılabilir.
+38. 5403 sayılı Kanun’un Geçici 1. Maddesi uyarınca tarım kullanımı dışına çıkarılmış alanlarda bu planın marjinal tarım arazilerine ilişkin hükümleri uygulanır.
+39. Su ürünleri üretim alanları yer seçiminde; turizm alanları, kentsel alanlar, korunan alanlar vb. gibi kullanım alanlarının olumsuz etkilenmemesi göz önüne alınarak yer seçimi yapılır.
+40. İhtiyaç duyulması halinde “Akaryakıt İstasyonları” ilgili mevzuatlar ve kurum/kuruluşların görüşleri doğrultusunda, ilgili idaresince değerlendirilmek ve alt ölçekli planları onaylanmak şartıyla yapılabilir. Köy yerleşik alanı sınırları içinde Akaryakıt ve LPG İstasyonu yapılması Köy Muhtarlığının ve İl Özel İdaresi Genel Sekreterliğinin uygun görüşüne bağlıdır. Köy yerleşik alanları içerisinde yer alan Akaryakıt ve LPG İstasyonlarında eğlence ve konaklama birimleri yer alamaz. Akaryakıt ve LPG İstasyonları için imar planı yapılması zorunlu olup bu tesislerin yer seçiminde Petrol Piyasası Lisans Yönetmeliği, Petrol Piyasasında Uygulanacak Teknik Kriterler Hakkında Yönetmelik, Karayolu Kenarında Yapılacak Tesisler Hakkında Yönetmelik ve İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelik hükümlerine uyulacaktır.
+41. Bölgede imar planı içerisinde veya dışında önerilen ağaçlandırma alanlarında yapılacak çalışmalarda bölgenin doğal yapısına uygun bitki türlerinin seçilmesi zorunludur. 42. Bu planın onayından önce İlbank A.Ş. tarafından ihale edilmiş ve çalışmalarına başlanmış alt ölçekli planlama çalışmaları, bu planın nüfus kabullerini aşmamak kaydı ile ilgili kurum ve kuruluşlardan alınacak görüşler doğrultusunda, çevre düzeni planı değişikliğine gerek kalmaksızın sonuçlandırılır. Onaylanan planlar veri tabanına işlenmek üzere sayısal ortamda Bakanlığa gönderilir.
+43. Bu planda verilen arazi kullanım kararlarının diğer kamu kurum ve kuruluşlarca yatırım programına alınmış/alınacak alanlar ile çakışması halinde, söz konusu yatırım programı dahilinde ilgili kurum ve kuruluşundan uygun görüş alınmadan bu alanların alt ölçekli planları hazırlanamaz.
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+18
+44. Bu plan kapsamındaki alanlarda, 7269 sayılı Umumi Hayata Müessir Afetler Dolayısıyla Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanun uyarınca hak sahibi afetzede ailelere kalıcı konut yapılması amacıyla AFAD tarafından “Afetzede Yerleşim Alanı” olarak belirlenen alanlarda yapılacak alt ölçekli planlar; bu planın koruma, gelişme ve planlama ilkeleri, nüfus kabulleri ve çevre imar bütünlüğü çerçevesinde, ilgili kurum ve kuruluş görüşleri doğrultusunda ilgili idaresince değerlendirilerek, bu planda değişiklik yapılmaksızın onaylanabilir. Onaylanan planlar sayısal ortamda veri tabanına işlenmek üzere Bakanlığa gönderilir.
+45. Mevcut ulaşım altyapısı dışında, bu planda önerilen havaalanı, demiryolu ve karayolu güzergahları ile liman, yat limanı vb. gibi gösterimler şematik olup bu kullanım kararlarının işlerlik kazanabilmesi için ilgili kurumlarca yatırım programına alınması gereklidir. Bu planın onayından sonra karara bağlanacak olan yatırımlar, bu planın ilke ve stratejileri doğrultusunda bu plana işlenecektir.
+46. Bu planda gösterilen enerji-sulama altyapısı dışında bu planın onayından sonra DSİ Genel Müdürlüğü tarafından yapılacak baraj yatırımlarına ilişkin imar planları ilgili kurum ve kuruluşların uygun görüşü olması kaydı ile ilgili idaresince hazırlanır ve onaylanır. Onaylanan planlar sayısal ortamda Bakanlığa gönderilir.
+47. Planlama alanında yer alacak beton santrallerinin öncelikle planda belirlenmiş olan sanayi alanlarına yönlendirilmesi esastır. Ancak ihtiyaç olması halinde bir veya birden fazla beton santralinin bir araya getirileceği 20 ha. dan küçük alanların yer seçimi; söz konusu alanların kentsel ve kırsal yerleşme alanlarının içinde ya da bu alanlara bitişik olmaması, su kaynakları koruma kuşakları içerisinde ve herhangi bir koruma statüsü bulunan bir alanda yer almaması, tarımsal arazi vasfının düşük olması ile bölgede yer alacak tesislerin birbirine bitişik konumda olması esasları dikkate alınarak, ilgili Valilik ve/veya Büyükşehir/İl Belediyesi koordinatörlüğünde kurulacak olan, Sanayi ve Teknoloji Bakanlığı İl Müdürlüğü ve diğer ilgili kurum ve kuruluş temsilcilerinin yer aldığı komisyonca belirlenebilir. Yer seçimi yapılan bu alanların imar planları, ilgili idaresince onaylanır. Seçilmiş alanlara ilişkin onaylanan planlar sayısal ortamda veri tabanına işlenmek üzere Bakanlığa gönderilir. Bu alanlarda çevre kirliliğini önleyici her tür önlemin alınması ve ortak arıtma tesisleri oluşturulması esastır.
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+19
+3. PLAN UYGULAMA HÜKÜMLERİ
+3.1. ÖZEL PLANLAMA ALANLARI
+3.1.1. DARENDE ÖZEL PLANLAMA ALANI
+1. Darende Merkez yerleşimi ile Günpınar yerleşimi arasında kalan bağlık-bahçelik niteliğindeki alanların tümünü kapsamakta olup bu alanın kesin sınırları Malatya Büyükşehir Belediye Başkanlığı ve Darende Belediye Başkanlığı’nca yürütülecek alt ölçekli planlama çalışmalarında, ilgili kurum ve kuruluşlardan alınacak görüşler doğrultusunda ortaya çıkarılacak doğal, yapay ve yasal eşikler çerçevesinde belirlenecektir.
+2. Alt ölçekli planlama çalışmalarında alanın sahip olduğu doğal kaynak değerlerinin korunması, mevcut yapılanma yoğunluğu ve yerleşim deseninin devamının sağlanması esastır.
+3. Alt ölçekli planlama çalışmalarında, alandaki her türlü afet riskine karşı gerekli tüm önlemlere ilişkin düzenlemeler belirlenmeden ve bu önlemler hayata geçirilmeden alanda herhangi bir yapılaşmaya izin verilmeyecektir.
+3.1.2. YEŞİLYURT ÖZEL PLANLAMA ALANI
+1. Malatya Büyükşehir sınırları içerisinde yer alan Yeşilyurt, Yakınca ve Gündüzbey yerleşimlerinin mevcut yerleşik alanlarını kapsamaktadır. Bu alanın kesin sınırları Malatya Büyükşehir Belediye Başkanlığı’nca yürütülecek alt ölçekli planlama çalışmalarında ilgili kurum ve kuruluşlardan alınacak görüşler doğrultusunda ortaya çıkarılacak doğal, yapay ve yasal eşikler çerçevesinde kesinleştirilecektir.
+2. Alt ölçekli planlama çalışmalarında alanın sahip olduğu doğal kaynak değerlerinin korunması, mevcut yapılanma yoğunluğu ve yerleşim deseninin devamının sağlanması esastır. Bu doğrultuda; Özel Planlama Alanı sınırları içerisinde yer alan ancak henüz yapılaşmamış alanlarda Emsal=0.15 koşulu sağlanacaktır.
+3. Alt ölçekli planlama çalışmalarında, alandaki her türlü afet riskine karşı gerekli tüm önlemlere ilişkin düzenlemeler belirlenmeden ve bu önlemler hayata geçirilmeden alanda herhangi bir yapılaşmaya izin verilmeyecektir.
+3.1.3. ESKİŞEHİR VADİSİ ÖZEL PLANLAMA ALANI
+1. Bu özel planlama alanı, Arapgir’in batısında yer alan Eskişehir Vadisi’nin tümünü kapsamakta olup bu alanın kesin sınırları Malatya Büyükşehir Belediye Başkanlığı’nca yürütülecek alt ölçekli planlama çalışmalarında, ilgili kurum ve kuruluşlardan alınacak görüşler doğrultusunda ortaya çıkacak doğal, yapay ve yasal eşikler çerçevesinde belirlenecektir.
+2. Alt ölçekli planlama çalışmalarında, alanın sahip olduğu doğal kaynak değerlerinin korunması, mevcut yapılanma yoğunluğu ve yerleşim deseninin devamının sağlanması esastır.
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+20
+3. Alt ölçekli planlama çalışmalarında, alandaki her türlü afet riskine karşı gerekli tüm önlemlere ilişkin düzenlemeler belirlenmeden ve bu önlemler hayata geçirilmeden, alanda herhangi bir yapılaşmaya izin verilmeyecektir.
+3.2. SU TOPLAMA HAVZALARI, İÇME VE KULLANMA SUYU KORUMA KUŞAKLARI, BARAJLAR, YERALTI SUYU KAYNAKLARI
+1. Suyun dengeli kullanımı esastır. Su kullanımında suyun verimli kullanılması sağlanacaktır. Havzada su kaynaklarının korunmasına ilişkin yapılacak çalışmalar Su Kirliliği Kontrolü Yönetmeliği çerçevesinde İl Tarım ve Orman Müdürlüğü tarafından sağlanacaktır.
+2. İçme ve kullanma suyu temin edilen kıta içi yüzeysel su kaynaklarının korunmasında Su Kirliliği Kontrol Yönetmeliğinin ilgili hükümleri uygulanır.
+3. Bu plan kapsamında kalan su havzalarının tamamında ilgili kurum ve kuruluşların Havza Yönetim Planı’nın hazırlanması esastır.
+4. İçme ve kullanma suyu temin edilen kıta içi yüzeysel su kaynaklarına ilişkin özel hüküm belirleninceye kadar Su Kirliliği Kontrolü Yönetmeliği hükümleri uygulanır. İçme ve kullanma suyu temin edilen kıta içi yüzeysel su kaynaklarının Su Kirliliği Kontrolü Yönetmeliği 16. Maddesi kapsamında Özel Hüküm belirleme çalışmasının yapılması durumunda belirlenen özel hükümlerin bu planda ve her tür ve ölçekteki planlara işlenmesi zorunludur.
+5. İçme ve kullanma su kaynaklarının sürdürülebilir koruma ve kullanımına yönelik yapılacak olan havza koruma veya özel hüküm belirleme çalışmalarında bu plan ile belirlenen nüfus değerleri kullanılır.
+6. Bu plan sınırları içerisinde ilgili idarece bu planın projeksiyon hedef yılı baz alınarak, su projeksiyonlarının yapılması esas olup suyun verimli kullanılması için gerekli tedbirler (suyun fiyatlandırılması, vergilendirilmesi, su kullanım yöntemleri, geri kazanım vb. gibi) ilgili idarece alınacaktır.
+7. Devlet Su İşleri Genel Müdürlüğü’nce su dağıtımı konusunda sistem kurulmasına ilişkin entegre proje üretilecektir. Yeraltı sularının gelişigüzel kuyular açılarak kullanımı önlenecektir.
+8. Yeraltı su kaynaklarının fiziksel, kimyasal, biyolojik ve bakteriyolojik özelliklerini olumsuz yönde etkileyecek atıksu deşarjına izin verilemez. Yeraltı su kaynaklarının bulunduğu alanın 50,00 m çevresinde yol dahil hiçbir yapılaşmaya izin verilemez.
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+21
+9. Yeraltı su kaynaklarının bulunduğu alanın 50,00 m sınırı dışında yeraltı su kaynakları kullanan tesis talebi olması halinde; Devlet Su İşleri Genel Müdürlüğü, Maden Tetkik Arama Genel Müdürlüğü, İl Çevre ve Şehircilik Müdürlüğü, İl Sağlık Müdürlüğü ve belediye sınırları dışında İl Özel İdaresi, belediye sınırları içinde ilgili idarelerden izin alınmak ve bu kurumların talep edeceği ilgili kurum ve kuruluş görüşleri doğrultusunda yapılacak tesise ait fizibilite raporu ve 1/1.000 ölçekli imar planı yaptırmak koşulu ile izin verilecektir. Bu alanların kullanımına dönük ihtiyaç, ilgili idare tarafından belirlenecektir.
+10. İçme ve kullanma suyu temin edilen yeraltı su kaynaklarının korunması amacıyla kaynağın çevresi ilgili mevzuatta belirtilen mesafeler kapsamında çevrilerek bu alan tapu kaydına işlenir.
+11. Yeraltı su kaynaklarının mevcut miktarının korunması için her türlü kullanıma ilişkin olarak ilgili kurum ve kuruluşlardan izin ve tahsis belgesi alınması zorunludur.
+12. Yeraltı suyunda bir kirlilik oluştuğunun ilgili idarece yapılan izleme ve denetimler sonunda belirlenmesi durumunda gerekli tedbirler alınacak ve Bakanlığa bildirilecektir.
+13. Yeraltı su seviyesinin tehlikeli boyutlara düşmesini engellemek için, yeraltı su potansiyeli Devlet Su İşleri Genel Müdürlüğü’nce belirlenir. Devlet Su İşleri Genel Müdürlüğünce belirlenen yeraltı su potansiyelini korumak amacıyla verilen tahsisler iptal edilir veya yeniden düzenlenir.
+14. Su kaynaklarının mutlak koruma alanı içindeki bütün yapılar dondurulmuş olup kanalizasyon şebekesine bağlanacak, toplanan kanalizasyon suyu havza dışındaki arıtma tesisine boşaltılacaktır.
+15. Mevcut ve proje halindeki barajlar için Tarım ve Orman Bakanlığı, Su Yönetimi Genel Müdürlüğünce Havza Yönetim Planı’nın hazırlanması esastır.
+16. Yapılması planlanan barajlar için kümülatif etki değerlendirmesi yapılması ve ilgili kurum ve kuruluşlarca Havza Master Planı’nın hazırlanması esastır.
+17. Barajlara ilişkin uygulama aşamasında baraj gövdesi ve maksimum su kotu altında kalacak olan taşınmazların kamulaştırılarak taşınması ilgili kurum ve kuruşların ilgili yönetmelikleri ve mevzuatları uyarınca yapılacaktır. Taşınacak veya tasfiye edilecek yerleşik alanların yeniden iskânı halinde yeni yer seçimi ve alt ölçekli planları çevre düzeni planı değişikliği yapılmaksızın ilgili kurum ve kuruluşların görüşleri alınarak ilgili idaresince yapılabilecek, onaylanan planlar veri tabanına islenmek üzere Bakanlığa gönderilecektir.
+3.3. KAYNAK SULARI ŞİŞELEME VE AMBALAJLAMA TESİSLERİ
+1. Kaynak suları şişeleme ve depolama alanları, Devlet Su İşleri Genel Müdürlüğü ve diğer ilgili kuruluşlardan alınacak görüşler doğrultusunda, ilgili idarelerce belirlenir. Bu alanlarda yapılacak tesisler için Devlet Su İşleri Genel Müdürlüğü
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+22
+ve ilgili kuruluşların görüşleri doğrultusunda hazırlanacak imar planları, ilgili idare tarafından onanmadan uygulama yapılamaz.
+2. Bu tesislerdeki yapılanma koşulları “İnsani Tüketim Amaçlı Sular Hakkında Yönetmelik” hükümlerine göre belirlenir.
+3.4. ÖZEL KANUNLARA TABİ ALANLAR-KORUMA STATÜSÜNE SAHİP DİĞER ALANLAR
+1. Özel kanunlarla planlama yetkisi verilen alanların sınırları ve bu alanlara ilişkin varsa ilgili kurumlarca alt ölçeklerde alınmış planlama kararları bu planla bütünleştirilmiştir. Bu alanlarda, bu planın koruma, gelişme ve planlama ilkeleri doğrultusunda, yetkili kurumlarca planlama ve koruma çalışmalarının yapılması esastır.
+2. Bu alanlarda, bu planın onayından önce mevzuata uygun olarak yürürlüğe konmuş olan her tür ve ölçekteki planlar, ilgili kanunlar uyarınca yürürlüktedir.
+3. Bu alanlarda, ilgili kanun hükümleri saklı kalmak kaydı ile bu planda belirlenen arazi kullanım kararlarının sürekliliğinin sağlanması esastır.
+4. Bu alanlarda, bu plan ile belirlenmiş/belirlenecek, hassas alanların, ekoloji ve ekosistem bütünlüğünün devamlılığının sağlanması, koruma kararlarının yaşama geçirilmesi esastır.
+5. Bu alanlarda, sorumlu Bakanlık ya da kuruluşların, kendi yetkisindeki alanların planlanmasında sürdürülebilir kalkınma ve sürdürülebilir çevre ilkelerini gözeterek planlama yapması esastır.
+6. Bu alanlarda veya yakın çevresinde bulunan/bulunması muhtemel hassas alanları, orman alanlarını, tarım alanlarını, sulak alanları vb. gibi alanları tehdit edici yönde ve yoğunlukta yapılaşma kararı getirilemez. Bu alanlarda çevre kirliliğini önlemek için her türlü tedbirin alınması zorunludur. Bu alanlar içerisinde yer alan su kaynaklarının korunması esas olup Su Kirliliği Kontrol Yönetmeliği hükümlerine uyulacaktır.
+7. Bu alanlarda her türlü katı ve sıvı atığın bertaraftı için gerekli tesisler yapılır ve hiçbir atık önlemler alınmadan alıcı ortama verilemez.
+8. Bu planda sembol olarak gösterilen kullanım türlerinde, sembolün bulunduğu alan planın ölçeği gereği yer seçimi kararı verilmiş kesin alan olmayıp bu kullanıma ilişkin yer seçimi ilgili kurum ve kuruluşların görüşleri alınarak alt ölçekli planlarla yapılabilecektir. Ayrıca bu planın ölçeği gereği arazi kullanım türünün ve sınırlarının gösterim tekniği nedeniyle (sembol, yol vb. gibi) algılanamadığı alanlarda bu planın diğer hükümleri dikkate alınarak alt ölçekli planlarda yetkili idarelerce kullanım kararı belirlenir.
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+23
+9. Cumhurbaşkanlığı Kararnamesi ile ilan edilen/edilecek Kültür ve Turizm Koruma ve Gelişim Bölgeleri ve Turizm Merkezleri içerisinde yer alan/alacak olan turizm tesis alanı, günübirlik tesis alanı, eko-turizm alanı, kış sporları ve kayak merkezi, vb. gibi kullanımlara ilişkin yapılaşma koşulları Turizm Tesislerinin Belgelendirilmesine ve Niteliklerine İlişkin Yönetmelik Hükümlerine uyularak Kültür ve Turizm Bakanlığı’nca belirlenebilir.
+10. Cumhurbaşkanlığı Kararnamesi kararı ile ilan edilen/edilecek Kültür ve Turizm Koruma ve Gelişim Bölgeleri ve Turizm Merkezleri içerisinde Toprak Koruma ve Arazi Kullanım Kanunu ile uygulama yönetmeliği kapsamında alt ölçekli planlara ilişkin alınan ilgili kurum görüşünde tarım dışı amaçla kullanılması uygun görülen parsellerde/alanlarda Turizm Tesislerinin Belgelendirilmesi ve Niteliklerine İlişkin Yönetmelik kapsamındaki eko turizme yönelik hizmet veren tesisler, pansiyonlar, günübirlik alanlar, çiftçinin barınması amaçlı yapılar ile gerekli sosyal altyapı alanları yer alabilir. Ayrıca 5403 sayılı Kanun ve ilgili yönetmelik kapsamında gerekli izinlerin alınması kaydıyla tarım ve hayvancılık faaliyetlerinin sürdürüleceği tarımsal amaçlı yapılar yapılabilir.
+3.5. YERLEŞİM ALANLARI
+3.5.1. KENTSEL YERLEŞİM ALANLARI
+1. Bu planda kentsel yerleşimler için belirlenmiş olan nüfusun kentsel yerleşim alanları içindeki yoğunluk dağılımı planlama ilkeleri dikkate alınarak alt ölçekli imar planlarında yapılacaktır. Ancak, imar planında yer alacak nüfus, o yerleşim için bu planla belirlenen toplam nüfusu geçemez.
+2. Bu planda kentsel yerleşme alanı olarak gösterilemeyen ve belediye sınırları içine alınarak mahalleye dönüşen/dönüşecek kırsal yerleşme alanlarında yapılacak alt ölçekli planlarda, yerleşmenin mahalle olarak bağlandığı sınırlar kentsel yerleşik alan olarak kabul edilir.
+3. Alt ölçekli planlamalarda yerleşmenin sahip olduğu geleneksel doku ve yapılaşma özellikleri ile civarındaki alanın doğal özellikleri planlama aşamasında dikkate alınır ve koruma kararları oluşturulur.
+4. 5747 sayılı Kanun uyarınca belediye statüsü kaldırılarak mahalleye dönüşen yerleşmelerin bu planla belirlenen nüfus ve yerleşme alanları bağlandıkları belediyelerin bu plan ile belirlenmiş nüfus ve yerleşme alanlarına eklenir.
+5. Mevzuata uygun olarak onaylanmış mevcut imar planı projeksiyon nüfusunun, çevre düzeni planının 2040 yılı için öngördüğü nüfus kabulü ile örtüştüğü ve bu planın ilke ve stratejilerine uygun olan kentsel yerleşmelerin mevcut imar planları aynen korunacaktır.
+6. Adrese Dayalı Nüfus Kayıt Sistemi verilerine göre, Planlama Bölgesinde yer alan il merkezleri için bu plan ile belirlenmiş olan nüfus değerlerinin % 70’ine projeksiyon döneminden önce ulaşılması halinde, ilgili kurum ve kuruluşların uygun görüşleri doğrultusunda ilgili idaresince yürütülecek çalışmalar
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+24
+sonucunda belirlenecek ilave kentsel gelişme alanı teklifleri Mekânsal Planlar Yapım Yönetmeliği kapsamında değerlendirilmek üzere Bakanlığa sunulabilir.
+7. Bu planın onayından önce onaylı imar planları bulunmasına rağmen bu planda kentsel yerleşim alanı olarak gösterilmeyen alanlarda, onaylı imar planlarının imar uygulaması görmüş kesimlerindeki kazanılmış haklar saklıdır.
+8. Bu planın onayından önce mevzuata uygun olarak onaylanmış alt ölçekli imar planları kararına göre yerleşim alanları yetersiz olan yerleşmelere ilişkin hazırlanacak yeni imar planlarında bu planla belirlenen nüfus değerleri aşılamaz.
+9. Bu planın onayından önce imar planı bulunmayan yerleşmelerin imar planları; bu plan hükümlerine, hedef ilke ve stratejilerine, nüfus hedeflerine ve doğal, yapay ve yasal eşikler ve ilgili kurum ve kuruluş görüşlerine uygun biçimde hazırlanacak ve tüm işlemler, 3194 sayılı İmar Kanunu ve ilgili yönetmelik hükümleri uyarınca gerçekleştirilecektir.
+10. 6360 sayılı Kanun hükümleri uyarınca bağlı bulunduğu ilçe belediyesine mahalle olarak bağlanan mülga belediyeler için çevre düzeni planı kararları ile 2040 yılı için daha önceden belirlenmiş olan kabul nüfusları, sektörel gelişme öngörüleri ve mekânsal arazi kullanım kararları bağlayıcı olup bahse konu yerleşmelerde yürütülecek alt ölçekli planlama çalışmalarının çevre düzeni planı ile belirlenmiş olan kabul nüfusları ve arazi kullanım kararlarına uygun olarak yürütülmesi zorunludur.
+3.5.2. BAĞLIK BAHÇELİK ALANLAR
+1. Bu alanların gelişiminde mevcut doğal yapı ve yerleşim dokusunun sürdürülmesi esastır.
+2. Bu alanlarda sanayi alanları, konut dışı kentsel çalışma alanları, turizm tesisleri, ticaret merkezleri vb. gibi yoğunluk artırıcı faaliyetler yer alamaz.
+3. Seyrek yoğunlukta sosyal donatı alanları, günlük ihtiyaca cevap verecek ticaret üniteleri, günübirlik turizm tesisleri ile tarımsal amaçlı yapılar yer alabilir. Bu alanlarda konut yapılması halinde; Min. ifraz 2000 m2, Emsal (E)=0,10’dur.Tarımsal Amaçlı Yapılar için Emsal (E)=0,30’dur. Tarımsal amaçlı yapılar için verilen 0,30 emsal değeri, Avrupa Birliği projeleri ya da Tarım ve Kırsal Kalkınmayı Destekleme Kurumu’ndan destek alan projeler için % 50 oranında artırılabilir.
+Sosyal Donatı Alanları için yapılaşma koşulları alt ölçekli planlarda belirlenecektir.
+Müştemilatlar emsale dahildir. Bir parselde birden fazla yapı yapılamaz.
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+25
+3.5.3. KIRSAL YERLEŞME ALANLARI
+1. İlgili idarece, mevzuata göre onaylanmış bulunan köy yerleşik alanı ve civarına ilişkin sınırlar geçerlidir. Köy yerleşik alanı ve civarına ilişkin sınır tespiti yapılmamış köylerin sınırları, ilgili idarece en kısa sürede belirlenir. Kesinleşen sınırlar plan değişikliğine gerek kalmaksızın geçerli kabul edilir. Bu sınırlar sayısal ortamda, veri tabanına işlenmek üzere Bakanlığa gönderilir.
+2. Planlı kırsal yerleşme alanlarında onaylı imar planları geçerlidir.
+3. Belediye ve mücavir alan sınırları içinde bulunan kırsal yerleşme alanlarının, yetkili belediye tarafından bu plan kararları ve hükümlerine uygun olarak planlanması zorunludur.
+4. Kırsal yerleşme alanlarında imar planları yapılıncaya kadar konut, tarım ve hayvancılık amaçlı yapılarda yapılanma koşulları Plansız Alanlar İmar Yönetmeliği hükümlerine göre belirlenir. Silo, samanlık, yem deposu, vb. yapılar için maksimum bina yüksekliği ihtiyaç doğrultusunda belirlenir.
+5. İmar planı olmayan köy yerleşik alanı sınırları içerisinde, köyün ihtiyacına yönelik olarak ilk ve ortaöğretim tesisi, ibadet yeri, sağlık tesisi, güvenlik tesisi gibi yapılar için imar planı şartı aranmaz. Ancak, bu kullanımların yer seçimi, Valiliklerce oluşturulan bir komisyonca, halihazır harita veya kadastro paftaları üzerinde kesin sınırları ile belirlenir. Bu yapı ve tesislere, uygulama projelerine göre, ilgili kurum ve kuruluş adına yapı ruhsatı ve yapı kullanma izni verilir.
+6. Bu kullanımlar dışındaki her türlü faaliyet için (turizm, günübirlik veya bölgesel düzeyde ticaret kullanımlar vb.) imar planı yapılması zorunlu olup Emsal: 0,50’dir. Diğer yapılanma koşulları çevre imar bütünlüğü gözetilerek alt ölçekli planlarda belirlenecektir.
+3.5.4. ÇALIŞMA ALANLARI
+3.5.4.1. ORGANİZE SANAYİ BÖLGELERİ
+1. Bu alanlarda 4562 sayılı Organize Sanayi Bölgeleri Kanunu ve uygulama yönetmeliği hükümleri geçerlidir.
+3.5.4.2. SANAYİ ALANLARI
+1. Kentsel ve kırsal yerleşme alanları içerisinde yeni sanayi tesislerinin yer seçimine izin verilemez.
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+26
+2. Bu alanlarda taleplerin yönlendirilerek aynı sanayi türlerinin bir araya getirilmesi esastır.
+3. Bu alanlarda kurulacak sanayi ve depolama türlerine göre “İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelik” uyarınca mülkiyet içerisinde Sağlık Koruma Bandı bırakılacaktır.
+4. OSB den farklı olarak geliştirilecek sanayi alanlarında, 4562 sayılı OSB Kanunu ve uygulama yönetmeliğinde belirlenen koşullara uyulacaktır.
+5. Bu alanlarda yer alan/alacak sanayi tesislerinin arıtma tesisi oluşturması zorunludur.
+6. Çevre kirliliğini önlemek amacıyla belirlenen önlemler ile birlikte “Su Kirliliği Kontrolü Yönetmeliği”nin “Teknik Usuller Tebliği”nde belirtilen kriterler sağlanmadan hiçbir yapı ve tesise işletme ruhsatı verilemez.
+7. Bu fonksiyonlar için yapılacak yapılarda emsal dâhilinde sanayi hammadde ve mamul madde depoları, idari ve servis mekânları oluşturulabilir.
+8. Bu alanlarda yer alacak tesisler ÇED’e tabi olması halinde ÇED Yönetmeliği hükümleri uygulanır.
+9. Arıtma tesisi bulunmayan mevcut sanayi tesislerinde iş termin planına göre arıtma tesislerinin kurulması ve işletilmesi zorunludur.
+10. Bu planın onayından önce kentsel yerleşme alanları içinde veya dışında mevzuata uygun yapılmış ve bu planın ölçeği gereği gösterilmemiş, tarım alanları içerisinde kalan münferit sanayi alanlarında mevcut yapılaşma koşulları geçerli olup bu alanlarda mevcut onaylı imar planlarında izinlendirilenin dışında hiçbir şekilde yapı yoğunluğu artışı ve yeni sanayi türü getirecek plan değişikliği, revizyonu ve ilavesi yapılamaz. Sadece çevrenin korunması ve kirliliğin önlenmesi amaçlı değişiklikler yapılabilir.
+Kentsel yerleşim alanları içinde veya kentsel yerleşim alanları ile bütünlük oluşturan konumda yer alan sanayi alanlarında bulunan tesisler, ekonomik ömrünü tamamlamasının ardından bu planda önerilen sanayi bölgeleri ile mevcut ya da yer seçimi yapılan yeni organize sanayi bölgelerine taşınacaktır.
+Sanayi kullanımı sona eren bu alanlarda, bu planın koruma, gelişme ve planlama hedef ve ilkeleriyle çelişmeyen ve yerleşme için belirlenen kabul nüfusunu aşmayacak şekilde kentsel yerleşim alanı amaçlı imar planları hazırlanabilir ve bu planlar Bakanlık görüşü alınarak çevre düzeni planında değişikliğe gerek olmaksızın ilgili idaresince onaylanabilir. Onaylanan planlar veri tabanına işlenmek
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+27
+üzere sayısal ortamda Bakanlığa gönderilir. Kentsel yerleşim alanı kullanımına dönüştürülen bu alanlar yeniden sanayi alanı olarak kullanılamaz.
+Tesisin ekonomik ömrünün dolması nedeniyle sanayi kullanımı sona eren bu alanlardan kentsel yerleşim alanlarından kopuk olarak oluşmuş olan münferit sanayi alanlarında ise, ticari ve sanayi amaçlı depolar, kentsel servis alanlarında yapılabilecek yapılar yer alabilecek olup bu yapıların fonksiyon türüne göre alt ölçekli planlarda emsal değerleri belirlenebilir.
+11. Bu planın onayından sonra ihtiyaç duyulabilecek olan sanayi alanları, planın koruma kullanma dengelerini gözeten ilke kararlarını desteklemek amacıyla tarımsal toprak niteliğinin düşük olduğu alanlarda, Sanayi ve Teknoloji Bakanlığı’nın ve ilgili kurum ve kuruluşların uygun görüşleri alınarak ve minimum 20 hektar alana sahip olacak şekilde geliştirilebilecek olup plan değişikliğinin yapılması zorunludur. Bu alanda bertaraf tesisleri inşa edilmeden işletme izni verilmez.
+3.5.4.3. DEPOLAMA ALANLARI
+1. Bu alanlarda, bitkisel ve hayvansal ürünler, sanayi hammadde ve üretim malzemeleri için açık ve kapalı depolama ve stok alanı, yükleme ve boşaltma alanları ve bunların ihtiyacı olan açık ve kapalı otoparklar, garajlar ve altyapı tesisleri yer alabilir.
+2. Bu plan onayından önce mevzuata uygun olarak yapılmış imar planları geçerlidir. Yoğunluk arttırıcı plan değişikleri yapılamaz.
+3. Bitkisel ve hayvansal ürünlerle sanayi hammadde ve üretim malzemeleri aynı alan içinde farklı bölgelerde depolanacaktır.
+4. Bu alanlarda yapılaşma koşulu; Emsal =0.50, Minimum parsel büyüklüğü 3.000m² olacaktır.
+5. Bu planda gösterilen sanayi alanları içinde, niteliği gereği yer alamayan, “Tekel Dışı Bırakılan Patlayıcı Maddelerle, Av Malzemesi ve Benzerlerinin Üretimi, İthali, Taşınması, Saklanması, Depolanması, Kullanılması, Yok Edilmesi, Denetlenmesi Esaslarına İlişkin Tüzük”te tanımlanan maddelerin üretimi, atık bertarafı, depolanması, tesis yer seçimi, izin ve ruhsata ilişkin her türlü iş ve işlemleri, ilgili mevzuatı doğrultusunda hazırlanacak alt ölçekli planları ilgili idaresince onaylandıktan sonra yapılabilir. Onaylanan planlar veri tabanına işlenmek üzere sayısal ortamda bakanlığa gönderilir. Söz konusu tesisler/tesis alanları amacı dışında kullanılamaz.
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+28
+3.5.4.4. KÜÇÜK SANAYİ SİTELERİ
+1. Onaylı imar planın da Küçük Sanayi Sitesi Alanı olarak ayrılmış alanlarda onaylı imar planı koşulları geçerlidir. Yoğunluk arttırıcı plan değişikliği yapılamaz.
+2. Bunların dışında, kentin ihtiyacına cevap verecek şekilde, kentsel gelişme alanları içerisinde yeni Küçük Sanayi Sitesi alanları belirlenebilecek ve yapılaşma koşulları ilgili idaresince çevre kalitesinin korunması ve kirliliğini önleyecek şekilde alt ölçekli planlarda belirlenecektir.
+3.5.4.5. KENTSEL SERVİS ALANLARI
+1. Bu alanlara ilişkin imar planları ilgili kurum ve kuruluşların görüşü doğrultusunda ilgili idarece onaylanmadan uygulamaya geçilemez. Yapılaşma koşulları alt ölçekli planlarda belirlenecektir. Bu alanlarda yer alacak kullanımlar için bu planın ilgili plan hükümleri geçerlidir.
+3.5.4.6. TARIM VE HAYVANCILIK GELİŞTİRME ALANLARI
+1. Bu planda gösterilenler dışında ihtiyaç olması halinde, tarım ve hayvancılığın desteklenmesine yönelik olarak; bölgesel tarım ürünlerinin değerlendirilmesine ve korunmasını teminen entegre tesislerin de yer alabileceği “Tarım ve Hayvancılık Geliştirme Alanları”nın yer seçimi en az 20 ha olacak şekilde, ilgili kurum ve kuruluş görüşlerine bağlı kalınarak, İl Toprak Koruma Kurulu marifetiyle yer seçimi yapılabilir.
+2. Yer seçimi yapılan alanlara ilişkin imar planı yapılmasının gerekli olduğu durumlarda, imar planları bu planda değişikliğe gerek olmaksızın ilgili idaresince hazırlanır ve onaylanır. Onaylanan planlar sayısal ortamda veri tabanına işlenmek üzere Bakanlığa gönderilir. Söz konusu tesisler/tesis alanları amacı dışında kullanılamazlar.
+3. Bu alanlara ilişkin yapılaşma koşulları, tesis türleri, teknoloji ve yöresel özellikler dikkate alınarak ilgili kurum ve kuruluşların görüşü doğrultusunda nazım ve uygulama imar planlarında belirlenecektir. Sınırları kesinleşmiş alanlara ilişkin onaylanan planlar veri tabanına işlenmek üzere sayısal ortamda Bakanlığa gönderilir.
+4. Bu alanlar içerisinde; tarımsal amaçlı yapılar ile hububat, meyve ve sebze üretimi için uygun tarım alanları, sebze ve çiçek yetiştiriciliği için seralar, mantarcılık, hayvancılık ve et entegre tesisleri, otlaklar, tarımsal işletmeler, tarımsal ürün paketleme tesisleri, ürün işleme tesisleri, soğuk hava depoları, yem depoları, tarımsal işletmelerinin ön arıtma ya da toplu arıtma tesisleri, organik atıkların geri dönüşüm tesisleri, hayvan klinikleri, kireçli ölü hayvan gömü çukurları, tarımsal araç-gereç parkları, tarımsal ürün pazarlama hizmetleri, ürün borsası, tarımsal eğitim merkezleri, tarımsal Ar-Ge ve laboratuvar alanları, çalışanların ihtiyacına yönelik sosyal ve kültürel donatı alanları, sağlık ve eğitim tesisleri gibi Tarım ve Orman Bakanlığı’nın bölge stratejisine uygun ve olumlu görüş verebileceği tesisler gereksinimlere ve planlama ilkelerine uygun şekilde, toplu olarak (organize
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+29
+şekilde) yer alabilecektir. Bu alandaki yapılanma koşulları “Tarıma Dayalı İhtisas Organize Sanayi Bölgeleri Uygulama Yönetmeliği” esaslarına uyularak alt ölçekli planlarda belirlenecektir.
+5. Bu alanlar, Tarıma Dayalı İhtisas OSB Uygulama Yönetmeliği çerçevesinde yer seçimine konu yapılması halinde çevre düzeni planı değişikliğine gerek olmaksızın, alt ölçekli planları yapılmak suretiyle Tarıma Dayalı İhtisas OSB olarak kullanılabilir.
+6. Bu alanlarda atıksu arıtma tesisi gerektiren tesisleri için arıtma tesisi yapılması zorunludur. Bu alanlarda çevre sorunlarını önlemeye yönelik, her türde atığa ilişkin teknik altyapı önlemleri alınması zorunludur.
+3.5.4.7. LOJİSTİK MERKEZ ALANLARI
+1. Bu alanlarda nakliye, envanter, depolama, malzeme idaresi ve ambalajlama ünitelerinin gerektirdiği antrepolar, yükleme ve boşaltma alanları ile bunların ihtiyacı olan açık ve kapalı otoparklar, garajlar ve altyapı tesis alanları yer alabilir.
+2. Bu alanlarda “Tekel Dışı Bırakılan Patlayıcı Maddeler ve Av Malzemesi ve Benzerlerinin Üretimi, İthali, Taşınması, Saklanması, Depolanması, Satışı, Kullanılması, Yok Edilmesi, Denetlenmesi Usul ve Esaslarına İlişkin Tüzük”te belirtilen her tür çevresel olumsuz etkisi bulunan malzemeler için depolama yapılamaz.
+3. İlgili idaresince yürütülecek alt ölçekli planlama çalışmalarında bu planla belirlenen lojistik merkez alanlarında ilgili kurum ve kuruluşlardan uygun görüş alınamaması nedeniyle uygulamaya geçilememesi halinde, bu planın arazinin mevcut durumuna yönelik uygulama hükümleri geçerlidir.
+İhtiyaç duyulacak lojistik merkez alanlarının yer seçimi ise bu planda değişikliğe gerek kalmaksızın, ilgili kurum ve kuruluşların uygun görüşleri doğrultusunda Valilik koordinasyonunda yürütülecek çalışmalar sonucunda belirlenir. Bu alanlara ilişkin alt ölçekli planlar onaylanmasını müteakip sayısal ortamda Bakanlığa gönderilir.
+3.5.4.8. KARAYOLU KENARINDA YAPILACAK YAPI VE TESİSLER
+1. Belediye ve mücavir alan sınırları içinde ve dışında karayolları kenarında yapılacak tesislerde, 2918 sayılı Karayolları Trafik Kanunu ve Karayolları Kenarında Yapılacak Tesisler ve Açılacak Tesisler Hakkında Yönetmelik ile 5015 sayılı Petrol Piyasası Kanunu ve ilgili yönetmelik hükümlerine uyulacaktır.
+2. Karayolları Genel Müdürlüğü’nün sorumluluğundaki karayolu güzergâhlarındaki yapılaşmalarda, belirlenmiş olan standartlardan az olmamak üzere, yapı yaklaşma mesafesi bırakılacaktır.
+3. Karayolları Genel Müdürlüğü tarafından planlanacak yeni devlet yollarının kent içi geçişlerinde; kamulaştırma sınırının, o yolun çevreye vereceği olumsuzlukları göz önüne alacak şekilde geniş tutulması sağlanacaktır.
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+30
+4. Karayolu servis alanlarında, akaryakıt ve LPG istasyonları, servis istasyonu, konaklama tesisi, yeme içme tesisi vb. gibi karayoluna hizmet verecek tesisler ile teşhire ve ticarete yönelik mağazalar yer alabilir. Bu amaçlı yapılacak yapılarda, ilgili kurum ve kuruluşların uygun görüşlerinin alınması zorunludur. 1/1.000 ölçekli uygulama imar planı yapılmadan uygulama yapılamaz.
+5. Karayolu kenarında yapılacak yapı ve tesis alanlarında, 1/100.000 ölçekli çevre düzeni planında değişikliğe gerek kalmaksızın, ilgili kurum ve kuruluşların görüşü doğrultusunda ve imar planlarının ilgili idaresince onaylanmasından sonra uygulama yapılacaktır.
+6. Karayolu üzerinde yer alacak servis istasyonları için hazırlanacak imar planı, ilgili idarelerin görüşü doğrultusunda onaylanacaktır.
+7. İlgili kurum ve kuruluşların uygun görüşü alınmak koşuluyla, turizm amaçlı konaklama tesisi, lokanta, günübirlik tesis, turistik eşya satış birimleri, akaryakıt satış ve LPG istasyonları, sosyal ve teknik altyapı tesisleri ve rekreasyon amaçlı tesisler yapılması durumunda; Emsal (E): 0.40’tır. Min. Parsel büyüklüğü= 2.000 m2 olacaktır.
+8. Karayolları Genel Müdürlüğü’nün sorumluluğu dışındaki güzergâhlarda ve köy yollarında, mevzuata uygun olmak koşulu ile akaryakıt ve LPG istasyonları yapılabilir. Bu alanlarda yapılacak imar planları ilgili kurum ve kuruluş görüşleri doğrultusunda, bu planda değişiklik yapılmaksızın ilgili idaresince onaylanabilir.
+Bu alanlarda yapılanma koşulları: Maks. Emsal = 0.20; Min.
+Parsel büyüklüğü= 2.000 m2olacaktır.
+3.5.5. TURİZM ALANLARI
+3.5.5.1. TURİZM TESİS ALANI
+1. Mevcut ve gelişme turizm tesis alanlarında, 4957/2634 sayılı Turizm Teşvik Kanunu ve ilgili yönetmelikleri doğrultusunda uygulama yapılacaktır.
+2. Bu alanlarla ilgili alt ölçekli planları ilgili idarece onanmadan uygulamaya geçilemez.
+3. Alt ölçekli planlarda tesislerin mimari projelerinde topografya ve doğal bitki örtüsüne uygun çözümler getirilecektir.
+4. Meskun ve gelişme alanları içerisinde turizm tesisleri için yer ayrılabilir. Bu kullanımların yapılaşma koşulları ilgili idarelerce hazırlanacak imar planı kapsamında belirlenecektir.
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+31
+3.5.5.2. GÜNÜBİRLİK TURİZM ALANLARI
+1. Bu alanlarda yeme içme, dinlenme, eğlence ve spor imkânlarını günübirlik olarak sağlayan tesisler yapılabilir. Konaklama tesisi ve konut yapılamaz.
+2. Uygulama imar planı ilgili idare tarafından onaylanmadan uygulamaya geçilemez. Orman içi dinlenme yerlerinde ilgili mevzuat uyarınca uygulama yapılır.
+3.5.5.3. EKO-TURİZM ALANLARI
+1. Bu plan ile belirlenen veya alt ölçekli planlarda belirlenebilecek olan bu alanlarda; Turizm Tesislerinin Niteliklerine İlişkin Yönetmelik hükümlerine uygun olan, ekolojik yapı ile bütünleşik butik oteller, özel konaklama tesisleri ve kırsal turizm tesisleri ile bunlara bütünleşik spor tesisleri, satış üniteleri ve gerekli sosyal donatı alanları yer alabilir.
+2. Eko-turizm alanları için öncelikle yetkili idareye başvurulur. Yetkili idarenin uygun görüşü doğrultusunda bakanlığa başvuru öncesinde ilgili kurum ve kuruluşlardan görüş alınması zorunludur.
+3. Yapılacak yapılarda doğal yapı ve geleneksel mimari dokunun korunması sağlanacaktır.
+4. Eko-turizm alanı olarak belirlenebilecek alanlarda min. Parsel büyüklüğü=15.000 m2’dir. Bu alanların % 45’lik kısmının arazi ve arsa düzenlemeleri hakkında yönetmelik uyarınca umumi ve kamu hizmet alanlarına ayrılması zorunludur. Bu alanlarda yapılaşma koşulları: maks. Emsal=0,10; maks. Bina yüksekliği 2 kattır. Kat yükseklikleri yöresel, coğrafi koşullar ve ilkim koşulları dikkate alınarak belirlenir. Bu tesislerde en fazla bir bodrum katı yapılabilir. Bodrum katlarda konaklama üniteleri yer alamaz, yalnızca servis alanı olarak kullanılabilen bu alanlar, emsale dahil değildir. Ayrı yapılar olarak düzenlenen konaklama birimlerinde bodrum kat sadece ana yapıda yer alabilir.
+5. Bu alanlarda yer alacak turizm belgeli konaklama tesisi tek bir bağımsız bölüm olacaktır. Bu alanlardaki konaklama birimleri üzerinde devre mülk, kat irtifakı ve kat mülkiyeti gibi şerhe konu haklar tesis edilemez.
+3.5.6. BÜYÜK VE AÇIK ALAN KULLANIŞLARI
+3.5.6.1. ÜNİVERSİTE ALANLARI
+1. Bu alanlarda üniversite ve yükseköğrenim kurumlarının eğitim ve öğretim ve barınma tesisleri, sosyal ve idari kullanımlar ile teknopark ve teknoloji geliştirme merkezleri yer alabilir.
+2. Bu alanlarda yapılaşma koşulları alt ölçekli planlarda belirlenecektir.
+3.5.6.2. REKREASYON ALANLARI
+1. Bu alanlarda bölgenin doğal nitelikleri göz önüne alınarak kullanım ve yapılaşma koşulları alt ölçekli planlarda belirlenmek üzere kullanım çeşitliliği getirilebilir. Temalı parklar, spor alanları, fuar ve rekreasyon alanları vb. gibi kullanımlar yer alabilir.
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+32
+Plan Değişikliği Onama Sınırı
+2. Yerleşim alanları içindeki aktif kentsel yeşil alanların dağılımı 3194 sayılı İmar Kanunu ve ilgili yönetmeliklerinde belirlenen standartlar çerçevesinde belirlenecektir.
+3.5.6.3. SPOR TESİS ALANLARI
+1. Bu planın amaç ve ilkeleri, genel uygulama hükümleri doğrultusunda ilgili kurum ve kuruluşların uygun görüşü alınarak kullanıma açılacak alanlardır. Bu alanlar nüfusun ihtiyaçlarına göre alt ölçekli planlarla düzenlenecektir.
+3.5.6.4. BÜYÜK ALAN KULLANIMI GEREKTİREN KAMU KURULUŞ ALANLARI
+1. Bu alanlarda kalan özel mülkiyete tabi alanlar, ilgili idaresince yürütülecek alt ölçekli planlama çalışmalarında tahsisi yapılan/yapılacak ilgili kamu kurum ve/veya kuruluşun görüşü doğrultusunda, Kentsel Yerleşim Alanlarında yer alabilecek faaliyetler kapsamında değerlendirilecektir.
+3.5.7. TARIM ARAZİLERİ
+3.5.7.1. TARIM ARAZİSİ
+1. Bu kapsamdaki tarım arazileri, 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanunu ve ilgili yönetmeliğinde tanımlanan tarım arazileri sınıflarına ayrılmamış olup tarım arazilerinin sınıflaması, ilgili kurum ya da kuruluşlarca yapılacaktır.
+2. Bu kapsamdaki tarım arazileri ve fiilen sulanan veya sulama projeleri ilgili kuruluşlar tarafından hazırlanmış ve yatırım programına alınmış/alınacak tarım arazilerinin tarımsal üretim amaçlı korunması esastır.
+3. Yapılacak ifrazlarda 5403 sayılı toprak koruma ve arazi kullanım kanunu ve ilgili yönetmelik hükümleri uyarınca işlem yapılacaktır.
+4. Tarım arazilerinin amaç dışı kullanımı taleplerinde, 5403 sayılı Toprak Koruma ve Arazi Kullanım Kanunu ve Tarım ve Orman Bakanlığı’nın izni çerçevesinde bu plan karar ve hükümlerine göre işlem yapılacaktır.
+5. 5403 sayılı Toprak Koruma ve Arazi Kullanım Kanunu uyarınca belirlenmiş/belirlenecek tarım arazileri sınıflamalarına göre tarımsal amaçlı yapılaşmalar bu planda belirlenen koşullara göre gerçekleştirilecektir.
+6. Dünya Bankası, Avrupa Birliği Fonları, Tarım ve Kırsal Kalkınmayı Destekleme Kurumu ve Tarım ve Orman Bakanlığı tarafından desteklenen tarımsal ve hayvancılık amaçlı projeler ile hastalıktan ari işletme sertifikasına sahip işletmelerin yatırımlarında ve işletme projesi olup İl/İlçe Tarım ve Orman Müdürlüğüne, hastalıktan ari işletme sertifikası için dilekçe ile birlikte arilik sertifikası alacağına dair taahhütname veren yeni işletme yatırımları Tarım ve Orman Bakanlığı’nca projesine göre değerlendirilerek sonuçlandırılır. Ancak fiilen sulanan ve/veya sulama projesi kapsamında kalan tarım arazilerinde bu hüküm uygulanmaz.
+7. Bu planın onayından önce yürürlükteki mevzuat uyarınca inşaat ruhsatı veya yapı kullanma izni verilmiş olan tarımsal amaçlı yapılara ilişkin haklar saklıdır.
+8. Tarım alanlarında yapılacak tarımsal amaçlı yapılar için bu plan ile verilmiş olan yapılanma koşulları aşılamaz. Bu yapılarda maksimum bina yüksekliği ihtiyaç doğrultusunda Tarım ve Orman Bakanlığı/Tarım ve Orman İl Müdürlüğü tarafından projesine uygun olarak belirlenecektir. Diğer hususlarda ise 3194 sayılı İmar Kanunu Plansız Alanlar İmar Yönetmeliğinin 6. Bölümünde belirtilen esaslara uyulur.
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+33
+9. 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanunu’nun Geçici 1. Maddesi ve Geçici 4. Maddesi kapsamında tarım dışı amaçla kullanıma açılmış alanlarda ve Tarım ve Orman Bakanlığı veya İl Tarım ve Orman Müdürlüğünün söz konusu kanun kapsamında görüş veremediği alanlarda, bu planın marjinal tarım arazilerine ilişkin hükümleri uygulanır.
+10. İçme ve kullanma suyu temin edilen kıta içi yüzeysel su kaynaklarının bulunduğu havzalarda, kısa mesafeli koruma kuşaklarında yapılan tarımsal faaliyetlerde, organik tarım özendirilecektir.
+11. Tarım arazilerinde örtü altı tarım yapılması durumunda seralar emsale dahil değildir.
+12. Tarımsal amaçlı yapılar amacı dışında kullanılamaz ve başka bir kullanıma dönüştürülemez.
+13. Tarım arazisi olarak gösterilmiş alanlarda, mera vasıflı alanlar bulunması durumunda, bu alanlarda “3.5.7.2. Mera alanları” plan hükümleri doğrultusunda uygulama yapılır.
+3.5.7.1.1. MUTLAK TARIM ARAZİLERİ, DİKİLİ TARIM ARAZİLERİ, ÖZEL ÜRÜN ARAZİLERİ VE FİİLEN SULANAN VEYA SULAMA PROJESİ KAPSAMINDA KALAN TARIM ARAZİLERİ
+1. 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanunu çerçevesinde kalan ve “Mutlak Tarım Arazileri”, “Dikili Tarım Arazileri”, “Özel Ürün Arazileri” ve “Fiilen Sulanan veya Sulama Projesi Kapsamında Kalan Tarım Arazileri”nde yalnızca 5403 sayılı Kanun kapsamında tanımlanan tarımsal amaçlı yapılar yapılabilir.
+2. Bu alanlarda yapılacak tarımsal amaçlı yapılarda E=0,20’yi geçmemek ve ilgili kurum ve kuruluşların görüşlerine uyulmak kaydı ile ilgili idaresince, bu planda değişikliğe gerek olmaksızın, 3194 sayılı İmar Kanunu kapsamında işlem tesis edilir. Yapılan işlemlere ilişkin veriler sayısal ortamda veri tabanına işlenmek üzere Bakanlığa gönderilir.
+3. Bir parsel üzerinde müştemilat hariç birden fazla yapı yapılamaz. Müştemilat binaları inşaat alanına dâhildir. Bir yapıda birden fazla bağımsız bölüm bulunabilir.
+4. Çiftçinin barınması amacıyla yapı yapılması durumunda yapının taban alanı 75 m² ve toplam inşaat alanı 150 m2’yi geçemez. hmax: 6,50 m’dir. Bu yapılar, tarımsal amaçlı yapılar için belirlenmiş emsal değerine dâhildir.
+5. Tarım alanlarında bu koşullara uygun yapılan yapılar, amacı dışında kullanılamaz.
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+34
+3.5.7.1.2. MARJİNAL TARIM ARAZİLERİ
+1. Bu alanlarda, Tanımlar bölümünde açıklanan tarımsal amaçlı yapılar ile yalnızca bölgeye özel tarımsal ürünlere yönelik olarak küçük ve orta ölçekli Tarıma Dayalı Sanayi Tesisleri yapılabilir. Tarıma dayalı büyük ölçekli entegre üretim tesislerinin yer seçimi ise bu plan ile belirlenmiş veya ilgili idarelerce belirlenecek Tarım ve Hayvancılık Geliştirme Alanlarında yapılacaktır.
+2. Tarımsal amaçlı yapılar ve bölgeye özel tarımsal ürünlere yönelik olarak küçük ve orta ölçekli tarıma dayalı sanayi tesisleri için en yüksek Emsal (E) = 0,50’dir.
+Çiftçinin barınabileceği konut yapıları ve müştemilat yapıları emsale dâhil olup bu yapılar için toplam inşaat alanı 150 m2’yi geçemez.
+3.5.7.2. ÇAYIR-MERA
+1. Bu alanlarda 5178/4342 sayılı Mera Kanunu kapsamında uygulama yapılacaktır.
+2. Mera alanlarının tahsis ve tescillerinin alt ölçeklerde tespit çalışması yapılacaktır.
+3. Mera ıslah çalışmaları Tarım ve Orman Bakanlığı ve bağlı kurumları tarafından alt ölçeklerde hazırlanacaktır.
+4. Mera otlatma kapasitelerinin ve hayvan varlığının belirlenerek operasyonel planları Tarım ve Orman Bakanlığı ve bağlı kurumları tarafından alt ölçeklerde hazırlanacaktır.
+5. Bu planda mera olarak gösterilmiş alanlarda kalan ancak Mera Kanunu kapsamı dışında ve özel mülkiyete konu alanlar bulunması durumunda 3.5.7.1 no’lu plan hükümleri uyarınca uygulama yapılır.
+3.5.8. ORMAN ALANLARI
+1. Bu planda “Orman Alanı” olarak gösterilen alanlar, Devlet Ormanları, hükmi şahsiyeti haiz amme müesseselerine ait ormanlar, özel ormanlar veya muhafaza ormanları olup 6831 sayılı Orman Kanunu hükümlerine tabi alanlardır.
+2. Uygulamada sınırlar konusunda tereddüt oluşması halinde orman kadastro sınırları esas alınır.
+3. Planda hangi kullanımda kaldığına bakılmaksızın orman mülkiyetinde olan ve Orman Genel Müdürlüğü’ne tahsisi yapılan alanlar, Bakanlığın ve ilgili kurumların görüşlerinin ve ilgili izinlerin alınması kaydıyla, çevre düzeni planı değişikliğine gerek kalmaksızın tahsis süresi dâhilinde tahsis amacına uygun olarak kullanılabilir.
+4. 6831 sayılı Kanuna tabi olmayan ancak orman bütünlüğü içerisinde kalan ve etrafı orman dokusu ile çevrili olan özel mülkiyeti kesinleşmiş (tapuya tescil edilmiş) alanlarda sadece konut, tarım ve hayvancılıkla ilgili yapılar yer alabilir;
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+35
+müştemilatlar emsale dâhildir. Bu alanlar için yapılaşma koşulu; Min. Parsel: 5.000 m²; Emsal = 0.05, H max = 2 kat ve Max. İnş. Alanı:250 m²’dir.
+Orman bütünlüğü içerisinde yer almayan ve etrafı orman dokusu ile çevrili olmayan özel mülkiyeti kesinleşmiş (tapuya tescil edilmiş) alanlarda ise 3.5.7.1 nolu plan uygulama hükümleri uyarınca işlem yapılır.
+5. Orman bütünlüğünün korunması açısından önlem alınması gereken alanlar eğer doğal rejenerasyon alanları üzerinde ise bu alanlar orman dışı faaliyetlere dönüştürülemez ve 2B kapsamına alınamaz.
+3.5.9. MESİRE ALANLARI (ORMAN İÇİ DİNLENME YERLERİ)
+Planda hangi kullanımda olduğuna bakılmaksızın 2873 sayılı Milli Parklar Kanunu ile 6831 sayılı Orman Kanununun 25. Maddesine göre tespit (tescil) edilmiş veya edilecek mesire alanlarında aşağıdaki hükümler geçerlidir.
+1. Mesire alanlarında (orman içi dinlenme yerleri) müşterek tesisler, günübirlik kullanım tesisleri, organize kamp tesisleri ve donatılar yer alabilir. Kullanım türleri kapsamında hangi tip yapı, tesis ve donatıların yer alacağı alt ölçekli planlarda belirlenir.
+2. Doğa Koruma ve Milli Parklar Genel Müdürlüğünce mesire alanları özelinde hazırlanan ve onaylanan gelişme planları doğrultusunda, mesire alanlarının büyüklüğüne göre hazırlanacak 1/5.000 ölçekli Nazım İmar veya 1/1.000 ölçekli uygulama imar planı ilgili idaresince onamadan uygulamaya geçilmez.
+3. 2873 sayılı Milli Parklar Kanunu ve 6831 sayılı Orman Kanunu’na göre belirlenmiş/belirlenecek alanlarda; Tarım ve Orman Bakanlığı tarafından hazırlanan/hazırlanacak gelişme planları doğrultusunda mesire alanlarının büyüklüğüne göre hazırlanacak alt ölçekli planlar (1/5.000 ölçekli nazım imar planı veya 1/1.000 ölçekli uygulama imar planı) ilgili idaresince onaylanacak ve yapılara ilişkin ruhsatlandırmalar ilgili idaresince yapılacaktır.
+4. Bu alanlarda imar planları ilgili idarelerce hazırlanana kadar yapılacak yapılaşmalarda E=0.05 ve hmax=6.50 m’yi geçemez.
+3.5.10. ASKERİ ALANLAR
+1. Askeri alanlarda, 22.12.1991 tarih ve 17552 sayılı Resmi Gazete’de yayımlanan Askeri Yasak Bölgeler ve Güvenlik Bölgeleri Kanunu ve bu Kanuna ilişkin yönetmelik hükümleri geçerlidir.
+2. Planlama kapsamında kalan askeri güvenlik bölgeleri, askeri yasak bölgeler ve askeri hizmetler “Askeri Yasak Bölgeler ve Güvenlik Bölgeleri Kanunu” için kamulaştırılacak sahalarda yapılaşma koşulları için ilgili komutanlığın görüşü alınacaktır.
+3. Bu planda gösterilen askeri alanların Milli Savunma Bakanlığı tarafından askeri alan dışına çıkarılarak ilgili idaresine tahsis veya devir edilmesi halinde, çevre
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+36
+düzeni planı değişikliği yapılmaksızın bu alanlar, alt ölçekli planlarda sosyal donatı, teknik altyapı alanı ve kentsel yerleşme alanı olarak planlanabilir. Onaylanan planlar veri tabanına işlenmek üzere sayısal ortamda Bakanlığa gönderilir.
+3.5.11. SİT ALANLARI
+1. Bu alanlarda 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu ve ilgili yönetmeliği ile ilgili kurul kararlarına göre uygulama yapılacaktır.
+2. Sit alanlarında kullanım kararları, ilgili kurum ve kuruluşların görüşleri alınmak ve bu planın ilke ve stratejilerine aykırı olmamak koşuluyla Bakanlığın uygun görüşü alınarak, ilgili idaresince hazırlanacak olan koruma amaçlı imar planları ile belirlenecek olup Kültür ve Tabiat Varlıklarını Koruma Kurulu’nun uygun görüşü doğrultusunda kesinleşecektir.
+3. Bu planda sit alanı olarak belirlenmiş olan alanlarda; bu planda gösterilmemiş dahi olsa, sit alanı ilanı öncesinde yürürlükteki mevzuata uygun olarak onaylanmış uygulama imar planı ve mevzii imar planı bulunan alanlarda, ilgili koruma kurulunun uygun görmesi halinde, sit kararı öncesinde geçerli olan imar planlarının yapılaşma koşullarını aşmamak ve sınırları büyütülmemek koşuluyla çevre düzeni planı değişikliğine gerek kalmaksızın, ilke kararları doğrultusunda koruma amaçlı imar planı hazırlanabilir.
+4. Sit ilan edilen, statüsünde değişiklik yapılan veya statüsü kaldırılan sit alanlarında aşağıdaki plan hükümleri doğrultusunda işlem tesis edilir.
+Bu planın onayından önce mevzuata uygun olarak onaylanmış imar planı, mevzi imar planı bulunan alanların sit alanı ilan edilmesi durumunda, 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu ve Cumhurbaşkanlığı 1 nolu Kararnamesinde ve ilgili yönetmelikleri ile ilke kararları ve yeni koruma statüleri doğrultusunda, sit alanı ilanı öncesinde onaylanan imar planlarındaki kararların incelenerek ilgili kurum ve kuruluşların görüşleri doğrultusunda, mevzuat gereği yapılması gerekli olan koruma amaçlı imar planları, bu planda değişikliğe gerek olmaksızın ilgili idaresince onaylanabilir.
+Bu planın onayından önce mevzuatına uygun olarak onaylanmış imar planı, mevzii imar planı varken, sonrasında sit ilan edilen alanların koruma statüsünün kaldırılması durumunda, sit alanı ilanından önce onaylanan imar planlarındaki kararlar incelenerek mevzuat gereği zorunlu olan imar planına ilişkin düzenlemeler, bu planda değişikliğe gerek olmaksızın alt ölçekli planlar Mekansal Planlar Yapım Yönetmeliği çerçevesinde ilgili idaresince onaylanabilir.
+Onaylı koruma amaçlı imar planı bulunan sit alanlarında, 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu ve Cumhurbaşkanlığı 1 Nolu Kararnamesi ve ilgili yönetmelikleri uyarınca hazırlanan bilimsel araştırma raporu sonucuna göre koruma statüsünde değişiklik olması durumunda, bu alanlara ilişkin koruma amaçlı imar planlarına ilişkin değişiklikler, belirlenen yeni statü dikkate alınarak bu planda değişikliğe gerek olmaksızın 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu, Cumhurbaşkanlığı 1 Nolu Kararnamesi, ilgili yönetmelikler ve ilke kararları gereğince onaylanabilir.
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+37
+3.5.12. KAYALIK TAŞLIK ALANLAR
+1. Çevre düzeni planında kayalık ve taşlık alan olarak gösterilmiş olan alanların da doğal karakterlerinin korunması esastır. Bu alanlarda oluşabilecek yapılaşma taleplerinin değerlendirilmesinde 3.5.14 nolu plan uygulama hükümlerinde belirtilen esaslara uyulacaktır.
+3.5.13. SULAK ALANLAR
+1. Bu alanlarda 5491/2872 sayılı Çevre Kanunu ile ilgili “Sulak Alanların Korunması Yönetmeliği” hükümleri doğrultusunda uygulama yapılacaktır.
+2. Bu alanlarda yapılacak tüm uygulamalar Tarım ve Orman Bakanlığı, Doğa Koruma ve Milli Parklar Genel Müdürlüğü’nün uygun görüşü doğrultusunda yapılacaktır.
+3.5.14. EKOLOJİK ÖNEME SAHİP ALANLAR
+1. Bu alanlarda alınacak kentleşme ve yapılaşma kararlarının (tarımsal amaçlı yapılar, kırsal yerleşme alanı kapsamındaki yapılar ile teknik ve sosyal altyapı kullanımları hariç); doğal sisteme etkilerine ilişkin Çevre ve Şehircilik İl Müdürlüğü, Tarım ve Orman İl Müdürlüğü ile Planlama Bölgesindeki üniversitelerin ilgili bölümlerinin görüşünün alınarak belirlenmesi esastır.
+2. Bu alanlarda üniversitelerin ilgili birimlerince yapılan çalışmalarda “Uluslararası Doğa ve Doğal Kaynakları Koruma Birliği (International Union for Conservation of Nature-IUCN)” tarafından “Nesli Tükenme Tehlikesi Altında Olan Türlerin Kırmızı Listesi” kategorilerinde yer alan türlerin tespit edilmesi halinde, Orman Bölge Müdürlükleri tarafından üniversitelerin ilgili birimlerinin görüşü alınarak biorestorasyon çalışması yapılacaktır.
+3. Mevcut yapısı itibariyle doğal özelliklerini yitirmemiş ya da büyük oranda koruyan ekolojik öneme sahip alanlarda; üniversitelerin ilgili bölümlerince, ekolojik yapıya ilişkin araştırma ve analiz çalışmaları yapılarak gerekli alanlarda Tarım ve Orman Bakanlığı’nın ilgili birimlerince koruma kriterleri geliştirilecektir.
+4. Ekolojik öneme sahip alanlarda yer alan kentsel yerleşim alanlarında; alt ölçekli planlama çalışmaları ve/veya kentsel dönüşüm faaliyetlerinde, ekolojik hassasiyetler ve etkileşimlerin göz önünde bulundurularak akarsu sistemlerinin ve hava koridorlarının belirlenmesi, bu sistemlerin sürdürülebilirliğini sağlayacak plan kararı ve hükümlerinin geliştirilmesi esastır.
+5. Ekolojik öneme sahip alanlar içerisinde yer alan kırsal yerleşimlerin gelişme kararlarında; özgün doğal yapının korunması için gerekli önlemlerin alınması esastır.
+6. Ekolojik öneme sahip alanlardaki mevcut ve potansiyel tarımsal faaliyetlerde; toprak verimliliği arttırıcı müdahalelerin (gübreleme, toprak iyileştirme teknikleri,
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+38
+sulama vb. gibi) Tarım ve Orman Bakanlığı ve/veya bağlı kuruluşlarının denetiminde gerçekleştirmesi esastır.
+7. Planlama Bölgesine Avrupa Birliği, Tarım ve Orman Bakanlığı, kalkınma ajansları, uluslararası organizasyonlar vb. gibi tarafından yapılacak iyi tarım uygulamaları desteklerinin, öncelikli olarak bu alanlar üzerinde bulunan tarım arazilerine yönlendirilmesi ve Tarım ve Orman Bakanlığı’nca izlemenin yapılarak gerekli tedbirlerin alınması esastır.
+8. Ekosistem hizmetlerinin sunduğu ekonomik değer çalışmaları uzmanlar tarafından bu alanlar üzerinde yapılacak tüm yatırım ve yapılaşma kararları için yapılacaktır.
+9. Bu alanlarda yapılacak tarımsal faaliyetlerin organik tarıma yönlendirilmesi sağlanacaktır.
+10. Bölgeye AB, Tarım ve Orman Bakanlığı, Kalkınma Ajansları, uluslararası organizasyonlar vb. gibi tarafından yapılacak tarım desteklerinin öncelikli olarak bu alanlar üzerinde bulunan tarım arazilerine yapılması esastır.
+11. Bu alanlar üzerinde toprak verimliliği arttırıcı önlemlerin (gübreleme, toprak iyileştirme teknikleri vb. gibi) Tarım ve Orman Bakanlığı ve bağlı kuruluşlarının denetim ve gözetiminde yapılması zorunludur.
+12. Bu alanlar üzerinde yapılacak faaliyetin türüne bakılmaksızın, faaliyet kararı alındığında, flora ve fauna uzmanlarıyla (Önemli Kuş Alanlarda ornitologların da ekibe katılması zorunludur) alt ölçekli çalışmalarda kesin sınır tespitinin yapılması zorunludur.
+13. Bu alanlarda yapılacak ve 1. Madde de belirtilenlerin dışında kalan tüm faaliyetlerden ÇED’e tabi olmayanlar ve ÇED Yönetmeliği’nin Ek-II Listesinde yer alanlar için imar planlarının hazırlanması aşamasında, üniversitelerin ilgili bölümlerince faaliyetin çevreye olan etkilerinin ve alınacak önlemlerin açıklandığı Ekosistem Değerlendirme Raporu hazırlanması zorunludur.
+14. Alt ölçekte yapılan çalışmalarla kesinleşen sınırların içinde IUCN listesine göre EX, DD, CR ve EN türlerinin bulunduğu alanlar tespit edilirse bu alanlarda hiçbir faaliyete izin verilemez. Yukarıda bahsedilen kategorilere veya VU kategorisindeki bitkilere rastlanırsa bu alanlarda uzman görüşü alınarak biorestorasyon çalışmasının yapılması zorunludur.
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+39
+15. Bu alanlarda alt ölçeklerde tespiti yapılan türlerin tohumlarının toplanıp Tarım ve Orman Bakanlığı, Tarımsal Araştırmalar ve Politikalar Genel Müdürlüğü bünyesinde bulunan Türkiye Tohum Gen Bankası’na konulması zorunludur.
+16. Yapılacak biorestorasyon çalışmalarının kontrolleri 2 yıllık periyotlarla uzmanlar tarafında eğitim almış İl Tarım ve Orman Müdürlükleri personeli tarafından çalışması yapılan türün popülasyon sayısında artış tespit edilene kadar arazi çalışmasının yapılması zorunludur.
+17. Önemli Kuş Alanları için alt ölçekli planların yapılması ve bu alanlar içerisinde “Yaban Hayatı Koruma ve Yaban Hayatı Geliştirme Sahaları Yönetmelik” hükümleri geçerlidir.
+18. Bu alanlarda yapılacak yatırımlardan önce bölgenin habitat tipinin ve bitki listesinin belirlenmesi zorunludur.
+19. Bu alanlarda yapılacak faaliyetlerin yaratacağı gürültünün fauna üzerindeki etkisi önceden fauna uzmanları tarafından değerlendirilecek, uzman tarafından uygun görüldüğü takdirde faaliyetlere dönemsel olarak kısıtlama getirilecektir. Koruma statüsüne sahip alanlarda ilgili mevzuat hükümleri geçerlidir.
+3.5.15. SU ÜRÜNLERİ ÜRETİM ALANLARI
+1. Su Ürünleri Üretim Alanlarının 1380 sayılı Su Ürünleri Kanunu ve ilgili yönetmelikleri uyarınca yapılacak yer seçimlerinde, ilgili kurum ve kuruluşların görüşlerinin alınması ve bu planla kullanım kararı belirlenmiş alanlara (turizm alanları, yerleşme alanları, kıyı yapıları, korunan alanlar vb. gibi) olası olumsuz etkilerinin önlenmesi için mesafe, akıntı hızı, akıntı yönü, derinlik vb. gibi kriterlerin göz önünde bulundurulması esastır. Bu alanlara ilişkin koordinatlar ve onaylanan planlar sayısal ortamda, veri tabanına işlenmek üzere, Bakanlığa gönderilir.
+2. Bu alanlarda 1380 sayılı Su Ürünleri Kanunu, 2830/3621 sayılı Kıyı Kanunu, 5491/2872 sayılı Çevre Kanunu ve ilgili yönetmelikleri ile yürürlükteki diğer mevzuat hükümleri doğrultusunda uygulama yapılacaktır.
+3.5.16. ULAŞIM
+3.5.16.1. KARAYOLLARI
+1. 6085 sayılı Karayolları Trafik Kanunu ve “Karayolları Kenarında Yapılacak Tesisler ve Açılacak Tesisler Hakkında Yönetmelik” ile 5576/5015 sayılı “Petrol Piyasası Kanunu” ve ilgili yönetmelik hükümlerine uyulacaktır.
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+40
+3.5.16.2. HAVAALANLARI
+1. Bu alanlarda 14.05.2002 tarih ve 24755 sayılı Resmi Gazete’de yayınlanan “Havaalanı Yapım, İşletim ve Sertifikalandırma Yönetmeliği” hükümleri doğrultusunda uygulama yapılacaktır.
+3.5.17. MADEN İŞLETME TESİSLERİ, GEÇİCİ TESİSLER, MADEN SAHALARI VE OCAKLAR
+1. Madencilik faaliyetlerinde Maden Kanunu ve buna bağlı yönetmelik hükümlerine uyulur.
+2. Maden ruhsat sahasında kurulmak istenen geçici tesis için Maden İşleri Genel Müdürlüğünden geçici tesis olduğuna dair belge alınması zorunludur.
+3. Maden ruhsatlı sahalarda, ihtiyaç duyulan geçici tesisler ilgili kurum ve kuruluşlardan izin almak kaydı ile yapılabilir.
+4. Geçici tesislerin kullanımı maden ruhsatının veya maden rezervinin işletme süresi ile sınırlıdır. Geçici tesisler kullanım süresinin bitmesi durumunda kaldırılır.
+5. Maden işletme ruhsatı alınan alanlar, bu çevre düzeni planının veri tabanına işlenmek üzere, Maden İşleri Genel Müdürlüğünce, 1/25.000 ölçekli, koordinatlı haritalara işlenerek, sayısal olarak Bakanlığa gönderilir.
+6. Madencilik faaliyet sahalarında ÇED Yönetmeliği ve diğer mevzuat hükümlerine uyulacaktır.
+7. Geçici tesis niteliğinde olmayan ve ÇED yönetmeliği kapsamında kalan maden sanayileri, öncelikle bu planda yer alan sanayi alanlarına yönlendirilecektir. Ancak işletme izni alınan maden sahalarında çıkarılan madenlerin işlenmesi amacıyla, gerek duyulacak sanayi tesislerinin zorunlu olarak maden sahası içinde yer almasının gerektiği durumlarda bu kullanımlar ilgili kurum, kuruluş, görüşleri doğrultusunda Bakanlığın uygun görmesi halinde gerekli izin ve onaylar tamamlanarak maden sahası içinde yapılabilir.
+8. Madencilik faaliyetlerinde çevreye zarar verilmemesi için her türlü önlem tesis sahiplerince alınacaktır.
+9. İçme ve kullanma suyu rezervuarlarının uzun mesafeli koruma alanının yatay olarak ilk 3 km genişliğindeki bölümünde; galeri yöntemi patlatmalar, kimyasal ve metalurjik zenginleştirme işlemleri yapılamaz. Madenlerin çıkarılmasına, sağlık açısından sakınca bulunmaması, mevcut su kalitesini bozmayacak şekilde çıkartılması, faaliyet sonunda arazinin doğaya geri kazandırılarak terk edilmesinin taahhüt altına alınması, koşullarıyla izin verilebilir.
+10. Bu alandaki faaliyetlerden oluşan atıksuların; Su Kirliliği Kontrol Yönetmeliği’ndeki ilgili sektörün alıcı ortama deşarj standartlarını sağlayarak havza dışına çıkartılması, ya da geri dönüşümlü olarak kullanılması zorunludur.
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+41
+11. Uzun mesafeli koruma kuşaklarının ikinci bölümünde, ilk 3 km’lik bölümünün bittiği yerden başlayarak su toplama havzasının sınırına kadar olan alandaki faaliyetlere, oluşan atıksuların Su Kirliği Yönetmeliği’ndeki Tablo-5’ten Tablo-21’e kadar olan deşarj standartlarını sağlayarak havza dışına çıkarılması veya geri dönüşümlü olarak kullanılması şartıyla izin verilebilir.
+12. Maden ruhsatının süresinin veya rezervin bitmesi halinde işletme sahasının “çevre ile uyumlu hale getirilmesini” içeren projenin ilgili idareye sunulması ve ilgili idareye yazılı taahhütte bulunulması zorunludur.
+13. Birinci sınıf gayri sıhhi müesseseler kapsamına giren maden üretim faaliyetleri ve veya bu faaliyetlere dayalı olarak üretim yapılan tesislerin etrafında mülkiyet sınırlarında sağlık koruma bandı bırakılması zorunludur. Sağlık koruma bandı içerisinde mesken veya insan istikametine mahsus yapılaşmaya izin verilmez.
+14. İçme ve kullanma suyu rezervuarlarının koruma alanlarında bulunan derelerden, kum ve çakıl çıkartılması amacıyla kum ocağı açılmasına izin verilmez.
+15. Bu planın onayından önce, tesis kullanıcılarına ulaşılamayan ve faaliyeti sona ermiş/terk edilmiş kum-çakıl/taş/maden ocakları, iyileştirme projesi; Valilik denetiminde ilgili idareye yaptırılır, uygulama Valilikçe denetlenerek sonuçlandırılır.
+16. Maden alanları işletmede oldukları sürece maden saha sınır içerisinde sınırdan itibaren Enerji ve Tabii Kaynaklar Bakanlığı, Maden İşleri Genel Müdürlüğü tarafından madenin büyüklüğüne göre belirlenecek genişlikte yörenin yapısına uygun çevresinde bulunan türlerle ağaçlandırma yapılması zorunludur.
+17. Doğal yapı açısından önem teşkil eden (önemli bitki alanları, kritik öneme sahip ekolojik koridorlar, doğal rejenerasyon alanları, yaban hayat çeşitliliği açısından korunması gereken alanlar, biyolojik çeşitlilik araştırma sahaları, vb. gibi) alanlarda yapılan maden faaliyetlerinde maden sahası için mini botanik park yapılması ve bölgenin doğal yapısının devamının sağlanması zorunludur.
+3.5.18. ENERJİ-SULAMA
+3.5.18.1. ENERJİ ÜRETİM ALANLARI
+1. Rüzgar, Güneş ve Jeotermal üretim alanlarında aşağıda düzenlenen yer seçimi kriterlerine uyulması ve Bakanlığın görüşünün alınması koşuluyla ilgili kurum ve kuruluşlardan alınan izinler ve Enerji Piyasası Düzenleme Kurumunca verilecek lisans kapsamında, ilgili kurum ve kuruluş görüşleri doğrultusunda hazırlanan nazım ve uygulama imar planları, ilgili idaresince onaylanır ve veritabanına işlenmek üzere Bakanlığa gönderilir:
+Rüzgar, Güneş ve Jeotermal üretim alanlarının yer seçiminde şu kriterlere uyulacaktır:
+• 6831 Sayılı “Orman Kanunu” kapsamında kalan alanlardaki yatırımların gerekli izinler alınarak öncelikli olarak orman niteliğini kaybetmiş alanlarda gerçekleştirilmesi esastır.
+• Tarımsal üretim amaçlı korunması esas olan 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanunu kapsamında kalan tarım arazilerinde yapılacak olan yatırımlarda 5403 sayılı Kanun hükümleri kapsamında “Tarım Dışı Amaçla Kullanım İzni”nin alınması zorunludur.
+• ÇDP’de kullanım sınırlaması getirilen alanlar ile (ekolojik öneme sahip alan, taşkın alanı, su ürünleri üretim alanı) kumul alanlar, sazlık-bataklık alanlar, sulak alanlar,
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+42
+sulak alan koruma bölgeleri ve içme ve kullanma suyu koruma kuşaklarında kalan alanlarda yapılacak uygulamalarda imar planlarının hazırlanması aşamasında, üniversitelerin ilgili bölümlerince faaliyetin çevreye olabilecek olası etkilerinin ve alınacak önlemlerin açıklandığı Ekosistem Değerlendirme Raporu hazırlanması zorunludur. Bu alanlarda ilgili mevzuat hükümleri ve Ekosistem Değerlendirme Raporu doğrultusunda uygulama yapılacaktır.
+• İmar planı aşamasında, jeolojik etüt raporuna uyulacaktır.
+• Plan sınırı içerisinde bulunan Kültür ve Turizm Koruma ve Gelişim Bölgeleri, Özel Çevre Koruma Alanları, Milli Park, Tabiat Parkı, Tabiatı Koruma Alanı, Yaban Hayatı Koruma Geliştirme Sahası gibi özel kanunlara tabi alanlarda ilgili kanun hükümleri çerçevesinde ilgili kurumlardan uygun görüş alınacaktır.
+2. Hidrolik kaynaklara dayalı enerji üretim alanlarının yer seçiminde aşağıdaki kriterlere uyulacaktır:
+• Danıştay İdari Dava Daireleri Kurulu'nun 04/02/2019 tarihli ve YD İtiraz No: 2018/759 sayılı kararı uyarınca 24/07/2019 tarihinden önce ilgili mevzuata uygun olarak imar planı onaylanmış olan hidroelektrik santralleri (HES) projelerinin imar planları geçerlidir. Projeye bağlı teknik değişiklik ihtiyacı olması durumunda söz konusu imar planlarına ilişkin değişiklikler ilgili idaresince onaylanabilir.
+• 24/07/2019 tarihinden itibaren; havza bütününde ekosistemlerin sürdürülebilirliğini sağlayacak şekilde her türlü koruma tedbirlerine ilişkin süreçler tamamlandıktan sonra hidroelektrik santralleri (HES) projelerine izin verilebilir.
+• HES’ler, ilgili idarece (Devlet Su işleri Genel Müdürlüğü, Yenilenebilir Enerji Genel Müdürlüğü) yatırıma konu akarsu havzası düzeyinde yapılacak olan ayrıntılı araştırma ve değerlendirmelere dayalı olarak ÇED yönetmeliği kapsamında ÇED sürecine konu edilir. ÇED süreci sonunda ÇED Olumlu Kararı verilen projeler Çevre Düzeni Planı değişiklik teklifi olarak değerlendirilmek üzere Bakanlığa sunulur. ÇED Yönetmeliğine tabi olmayan veya “ÇED Gerekli Değildir Kararı” alınmış olan HES projelerine ilişkin alt ölçekli planlar, Devlet Su İşleri Genel Müdürlüğü ve ilgili diğer kurum ve kuruluşların uygun görüşünün alınmasını takiben ilgili idaresince onaylanabilir.
+3. 5346 sayılı Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanun’da tanımlanan diğer yenilenebilir enerji kaynaklarının (GES, RES, JES ve HES dışında) üretim alanlarında, ilgili kurum ve kuruluşlardan alınan izinler ve Enerji Piyasası Düzenleme Kurumunca verilecek lisans kapsamında, ilgili kurum ve kuruluş görüşleri doğrultusunda hazırlanan nazım ve uygulama imar planları, ilgili idaresince onaylanır ve planlar veritabanına işlenmek üzere Bakanlığa gönderilir.”
+4. Enerji iletim tesislerinde, Bakanlığın uygun görüşü alınması koşuluyla, ilgili kurum ve kuruluş görüşleri doğrultusunda hazırlanan nazım ve uygulama imar planları, ilgili idaresince onaylanır ve planlar bilgi için Bakanlığa gönderilir.
+3.5.18.2. ENERJİ İLETİM TESİSLERİ-PETROL BORU HATTI, DOĞALGAZ BORU HATTI VE İÇME SUYU BORU HATTI
+1. Alt ölçekli planlar yapılırken doğalgaz boru hatları, petrol boru hatları, vb. gibi BOTAŞ’ın yetki ve sorumluluğunda bulunan faaliyetlere ilişkin olarak BOTAŞ Genel Müdürlüğü’nün görüşü alınacaktır.
+2. Alt ölçekli planlar yapılırken enerji iletim hatları ile ilgili TEDAŞ yetki ve sorumluluğunda bulunan faaliyetlere ilişkin olarak TEDAŞ Genel Müdürlüğü’nün görüşü alınacaktır.
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+43
+3. Alt ölçekli planlar yapılırken TEİAŞ’ın (Türkiye Elektrik İletim Anonim Şirketi) yetki ve sorumluluğunda bulunan 36 kv üstündeki enerji iletim tesisleri (iletim hatları ve trafo merkezleri) ile ilgili faaliyetlere ilişkin TEİAŞ Genel Müdürlüğü’nün görüşü alınacak ve Elektrik Kuvvetli Akım Tesisleri Yönetmeliği’ndeki hükümlere göre uygulama yapılacaktır.
+4. Alt ölçekli planlar yapılırken içme suyu hatları ile ilgili Devlet Su İşleri Genel Müdürlüğü’nün yetki ve sorumluluğunda bulunan faaliyetlere ilişkin olarak Devlet Su İşleri Genel Müdürlüğü’nün görüşü alınacaktır.
+3.5.19. ATIKSU ARITMA TESİSİ VE KATI ATIK DEPOLAMA, BERTARAF TESİS ALANLARI
+1. Çevre düzeni planı bütünü içinde her türlü atıkların ilgili mevzuatta belirtilen standartları sağlayacak şekilde arıtılması ve/veya bertaraf edilmesi zorunludur.
+2. Çevre düzeni planı bütünü içinde kimyasal, tıbbi, tehlikeli atıkların, katı atıkların kaynağında ayrı toplanması, bunların depo alanlarına taşınması, transfer istasyonlarının kurulması, geri kazanım ile ilgili işlemlerin yürütülmesini kapsayan atık yönetimi sisteminin kurulması ile ilgili çalışmalar Bakanlık, Valilikler, belediyeler tarafından tamamlanarak işlemler buna göre yürütülecektir. Planlama alanı içerisinde mahalli idarelerce oluşturulacak hizmet birlikleri, katı atık yönetim sisteminin kurulmasını üstlenebilirler. Yönetim sistemi kuruluncaya kadar Katı Atıkların, Kimyasal Atıkların ve Tehlikeli Atıkların Kontrolü Yönetmelikleri hükümleri geçerlidir.
+3. Çevre kirliliğinin önlenmesi amacı ile planlama alanı bütününe yönelik düzenli atık depolama, bertaraf ve geri kazanım işlevlerini de barındıran entegre atık bertaraf ve depolama tesisleri, arıtma tesislerinin yer seçimi; yeraltı suyu beslenme alanları, mutlak tarım arazileri, jeolojik sakıncalı alanlar, sulak alanlar, içme ve kullanma suyu kaynaklarının koruma kuşakları ile sazlık-bataklık alanlar dışındaki alanlarda ilgili kurum ve kuruluşların uygun görüşleri alınarak ve atık türüne göre ilgili mevzuat ile “Atık Yönetimi Genel Esaslarına İlişkin Yönetmelik” hükümleri uyarınca yapılır.
+4. Söz konusu tesisler amacı dışında kullanılamaz ve bu tesislerin hizmet alanları ilgili idarelerce belirlenecektir.
+5. Bu alanlara ilişkin alt ölçekli planlar ilgili mevzuat uyarınca ilgili idarelerince onaylanır. Bu alanlardaki uygulamalar Mahalli İdare Birlikleri aracılığıyla da yapılabilir.
+6. Entegre nitelikte olmayan ve yalnızca geri kazanım işlevlerine yönelik tesisler planlı sanayi alanları içerisinde yer alacaktır.
+7. Atık Depolama Tesisinde taban izolasyonu sağlanacaktır. Sızıntı sularının yeraltı sularına ve toprağa karışarak kirlilik oluşturmaları önlenecektir. Ayrıca işletme sırasında açığa çıkacak gaz emisyonlarının gaz toplama sistemi ile toplanması sağlanacaktır.
+8. Planlama Bölgesinde bulunan yüzeysel su kaynaklarının su kalitesinin olumsuz yönde etkilenmesini önlemek amacıyla, atıksularını akarsu, toprak vb. gibi alıcı ortama veren ve nüfusu yoğun olan ilçe ve belde belediyelerinin kanalizasyon sistemleri tamamlanacak ve kanalizasyon sisteminin sonlandığı noktada atıksu arıtma tesisleri inşa edilecektir.
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+44
+KENTSEL YERLEŞME ALANLARI İÇİN BELİRLENMİŞ OLAN NÜFUS KABULLERİ
+Tablo 1: Malatya İli Kentsel Nüfus Kabulleri
+MALATYA ADI İLÇE ADI MEVCUT NÜFUS (Kişi) 2040 PLANLAMA NÜFUSU (Kişi) MALATYA1 BÜYÜKŞEHİR (BATTALGAZİ VE YEŞİLYURT) 583.579 1.160.000 BEYDAĞI1 DİLEK1 ERENLİ1 ŞAHNAHAN1 YAYGIN1 BATTALGAZİ1 HASIRCILAR1 HATUNSUYU1 AKÇADAĞ2 AKÇADAĞ 7.055 15.750 BAHRİ2 1.807 3.900 KOZLUCA2 1.082 2.400 ÖREN2 1.745 3.250 ARAPGİR ARAPGİR 6.120 11.750 ARGUVAN ARGUVAN 2.292 2.600 DARENDE3 DARENDE 9.764 24.000 AĞILBAŞI3 773 2.200 AŞAĞIULUPINAR3 1.915 3.700 AYVALI3 2.506 4.650 BALABAN3 1.836 4.600 ILICA3 787 2.000 YENİCE3 1.244 2.900 DOĞANŞEHİR4 DOĞANŞEHİR 11.077 17.000 ERKENEK4 4.216 7.000 GÖVDELİ4 2.130 3.700 KURUCAOVA4 3.191 4.400 POLAT4 2.076 3.500 SÖĞÜT4 2.230 3.800 SÜRGÜ4 3.371 4.400 DOĞANYOL5 DOĞANYOL 1.677 1.950 GÖKÇE5 795 1.050 HEKİMHAN6 HEKİMHAN 6.784 11.350 GÜZELYURT6 1.980 3.900 HASANÇELEBİ6 871 3.950 İPEKYOLU6 1.011 3.350
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+Mekânsal Planlama Genel Müdürlüğü
+Malatya-Elazığ-Bingöl-Tunceli PlanlamaBölgesi1/100.000 Ölçekli Çevre Düzeni Planı
+45
+KOCAÖZÜ6 1.938 2.700 KURŞUNLU6 3.486 3.500 KALE KALE 1.681 3.750 KULUNCAK7 KULUNCAK 2.278 3.450 SOFULAR7 882 1.450 NOHUTLU8 PÜTÜRGE 925 1.450 PÜTÜRGE8 2.506 3.700 TEPEHAN8 974 1.900 DURUCASU9 YAZIHAN 1.993 3.200 FETHİYE9 1.409 3.500 YAZIHAN9 2.013 3.650
+1 6360 sayılı Kanun hükümleri uyarınca oluşturulan Battalgazi ve Yeşilyurt İlçelerine bağlanan mülga belediyeler
+2 6360 sayılı Kanun hükümleri uyarınca Akçadağ İlçesine bağlanan mülga belediyeler
+3 6360 sayılı Kanun hükümleri uyarınca Darende İlçesine bağlanan mülga belediyeler
+4 6360 sayılı Kanun hükümleri uyarınca Doğanşehir İlçesine bağlanan mülga belediyeler
+5 6360 sayılı Kanun hükümleri uyarınca Doğanyol İlçesine bağlanan mülga belediyeler
+6 6360 sayılı Kanun hükümleri uyarınca Hekimhan İlçesine bağlanan mülga belediyeler
+7 6360 sayılı Kanun hükümleri uyarınca Kuluncak İlçesine bağlanan mülga belediyeler
+8 6360 sayılı Kanun hükümleri uyarınca Pütürge İlçesine bağlanan mülga belediyeler
+9 6360 sayılı Kanun hükümleri uyarınca Yazıhan İlçesine bağlanan mülga belediyeler
