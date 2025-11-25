@@ -1,11 +1,723 @@
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+1
+T.C. ÇEVRE ve ŞEHİRCİLİK BAKANLIĞI
+MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
 ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİN PLANLAMA BÖLGESİ
 1/100.000 ÖLÇEKLİ
 ÇEVRE DÜZENİ PLANI
 PLAN HÜKÜMLERİ
-
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+2
+1. AMAÇ ................................................................................................................................................................................. 3
+2. KAPSAM VE ALAN .......................................................................................................................................................... 3
+3. PLANLAMANIN GENEL HEDEFLERİ VE İLKELERİ ................................................................................................... 3
+4. TANIMLAR ...................................................................................................................................................................... 12
+5. GENEL HÜKÜMLER ...................................................................................................................................................... 19
+6. ÖZEL HÜKÜMLER ......................................................................................................................................................... 22
+6.1 KENTSEL YERLEŞME ALANLARI ......................................................................................................................... 22
+6.2 KIRSAL YERLEŞME ALANLARI ............................................................................................................................ 24
+6.3 ÇALIŞMA ALANLARI .............................................................................................................................................. 26
+6.4 TARIM ALANLARI ................................................................................................................................................... 28
+6.5 ORGANİZE TARIM VE HAYVANCILIK ALANLARI ............................................................................................ 31
+6.6 ORMAN ALANLARI ................................................................................................................................................. 31
+6.7 MESİRE ALANLARI: ................................................................................................................................................. 32
+6.8 YAYLA VE MERALAR ............................................................................................................................................. 33
+6.9 TURİZM ALANLARI ................................................................................................................................................. 33
+6.10 ÖZEL KANUNLARA TABİ ALANLAR ................................................................................................................... 35
+6.11 BÖLGE PARKI / BÜYÜK KENTSEL YEŞİL ALAN ................................................................................................ 36
+6.12 SULAK ALANLAR .................................................................................................................................................... 36
+6.13 ÇEVRE KORUMAYA İLİŞKİN HÜKÜMLER .......................................................................................................... 37
+6.14 MADEN İŞLETME TESİSLERİ, GEÇİCİ TESİSLER VE OCAKLARA İLİŞKİN HÜKÜMLER ............................ 37
+6.15 SU TOPLAMA HAVZALARI, İÇME VE KULLANMA SUYU KORUMA KUŞAKLARI, YERALTI SUYU KAYNAKLARINA İLİŞKİN HÜKÜMLER .............................................................................................................................. 38
+6.16 SİT ALANLARI .......................................................................................................................................................... 40
+6.17 AFET BÖLGELERİ..................................................................................................................................................... 40
+6.18 KIYI ALANLARI ........................................................................................................................................................ 41
+6.19 LİMANLAR ................................................................................................................................................................ 41
+6.20 LİMAN GERİSİ HİZMET ALANLARI ...................................................................................................................... 41
+6.21 TERSANE ALANLARI .......................................................................................... Hata! Yer işareti tanımlanmamış.
+6.22 ENERJİ ÜRETİM ALANLARI VE ENERJİ İLETİM TESİSLERİ ............................................................................ 41
+6.23 ATIK BERTARAF VE DEPOLAMA TESİSİ ALANLARI........................................................................................ 42
+6.24 DOĞALGAZ BORU HATTI, ENERJİ NAKİL HATTI VE İÇME SUYU BORU HATTI......................................... 43
+6.25 KARAYOLU KENARINDA VEYA DİĞER KARA ULAŞIM GÜZERGAHLARINDA YAPILACAK YAPI VE TESİSLER ................................................................................................................................................. 43
+6.26 KAYNAK SULARI ŞİŞELEME VE AMBALAJLAMA TESİSLERİ ........................................................................ 44
+6.27 SU ÜRÜNLERİ ÜRETİM ALANLARI ...................................................................................................................... 44
+6.28 EĞİTİM VE SAĞLIK ALANLARI ............................................................................................................................. 45
+6.29 ÜNİVERSİTE ALANLARI ......................................................................................................................................... 45
+6.30 MEZARLIK ALANLARI ............................................................................................................................................ 45
+6.31 ASKERİ ALANLAR ................................................................................................................................................... 45
+6.32 KONUT DIŞI KENTSEL ÇALIŞMA ALANLARI ..................................................................................................... 45
+EK 1- İLÇE YERLEŞMELERİ KENTSEL NÜFUS TAHMİNLERİ VE GELİŞME ALANLARI ............................................ 46
+EK 2- BELDE YERLEŞMELERİ KENTSEL NÜFUS TAHMİNLERİ ................................. Hata! Yer işareti tanımlanmamış.
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+3
 1. AMAÇ
 Ordu, Trabzon, Rize, Giresun, Gümüşhane, Artvin Planlama Bölgesi 1/100.000 Ölçekli Çevre Düzeni Planında (ÇDP) temel amaç; Planlama Bölgesinin ulusal ve uluslararası önemini arttıracak, çevre korumayı öncelik olarak seçmiş, bölgesel dengesizlikleri gidermeye yönelik, bilgi toplumunun gereklerine uygun ve toplumsal meşruiyeti olan bir iktisadi kalkınma modeli çerçevesinde yerel kaynakların optimum ve sürdürülebilir gelişimini/kullanımını sağlayacak, geleceğe yönelik arazi kullanım kararlarını uygulama politikaları ile birlikte geliştirmektir.
-
 2. KAPSAM VE ALAN
 Bu planın alanı Ordu, Trabzon, Rize, Giresun, Gümüşhane, Artvin il sınırları içinde, planın amacı doğrultusunda her İl’e yönelik arazi kullanım kararları ve plan hükümlerini kapsamaktadır. Toplam olarak 35.729 km2’lik bir alanı kapsayan Planlama Bölgesi içeresinde 75 adet ilçe belediyesi, 104 belde belediyesi ve 1539 adet köy yerleşmesi bulunmaktadır.
-
+(https://www.e-icisleri.gov.tr/GeneleAcikSayfalar/IlBilgileri/Il_Bilgileri_Haritasi.aspx?IlKey=8 13.06.2016)
+3. PLANLAMANIN GENEL HEDEFLERİ VE İLKELERİ
+Planlama sürecinin analiz ve sentez aşaması sonucunda ortaya çıkan planın amacı dâhilinde oluşturulan planlama hedefleri; ekolojik sürdürülebilirlik, küresel-yerel etkileşimi, iktisadi ve toplumsal gelişme, eşitlik ve sosyal adalet, yaşanabilirlik, erişilebilirlik, katılım ve yönetişim başlıkları altında geliştirilmiş ve 2026 yılı hedef yıl olarak belirlenmiştir. Bu başlıklar altında belirlenen üst hedeflerden yola çıkılarak planlama alanının gerçeklerine, gereksinimlerine ve tahayyüllerine uygun alt hedefler ve temel ilkeler belirlenmiştir
+3.1 EKOLOJİK SÜRDÜRÜLEBİLİRLİK
+• Bölgedeki doğal kaynakları, ekolojik denge ve doğal eşikler göz önünde bulundurarak korumak, sürdürülebilirliğini sağlamak
+• Doğal ve ekolojik eşiklerin göz önünde bulundurulduğu sürdürülebilir alt bölgesel arazi kullanım kararları geliştirmek
+• Bölgenin biyoçeşitliliğini ve endemik türleri korumak üzere ekolojik hassasiyeti olan bütün alt-bölgelerin mutlak korunmasını sağlamak
+• İçme ve kullanma suyu kaynaklarının, su toplama havzalarının, yer üstü ve yeraltı sularının korunmasına yönelik arazi kullanım kararları geliştirmek
+• Madencilik, ormancılık, balıkçılık, tarım, turizm, enerji, sanayi gibi iktisadi faaliyetlerini ekolojik dengeyi bozmayacak şekilde geliştirerek sürdürmek
+• Orman alanlarının vasfının korunması ve gelişiminin desteklenmesini sağlamak
+• Mutlak tarım alanlarını, sulu tarım alanlarını, özel ürün arazileri ve dikili tarım arazilerinin tarımsal amaçlı kullanımını sağlamak
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+4
+• Mera vasfında olan alanların ivedilikle tescillenmesini sağlamak ve koruma altına almak
+• Suyun ekonomik kullanılabilmesi için tarım alanlarında teraslama yapılması, yağmurlama, damlama sulama sistemleri, kapalı kanallar gibi verimli uygulamaların yaygınlaştırılmasını sağlamak
+• Baraj havzalarının ve gölet havzalarının erozyona karşı teraslama ve ağaçlandırma yapılarak ekonomik ömürlerini uzatmak
+• Hava, toprak, deniz ve gürültü kirliliğini önleyici tedbirler almak
+• Tarımsal ilaç kullanımının en aza indirgenmesi, kanserojen olanların kesinlikle kullanılmaması, tarımsal gübrelerin gerekli analizler yapıldıktan sonra kullanılması ve hayvansal gübre kullanımının yaygınlaştırılması
+• Yayla alanlarında yoğun yapılaşmanın ve çevre kirliliğinin önüne geçmek
+• Bölgenin tamamına hizmet edebilecek, geri dönüşüm sağlayabilecek katı atık yönetim sistemi oluşturmak
+• Denizin ekolojik dengesini tehdit eden kullanımları kısıtlamak, kıyı alanlarında koruma-kullanma dengesini oluşturmak
+• Bölgede geleceğe yönelik ekolojik sürdürülebilirliği sağlayabilmek için bölgede bulunan alternatif enerji kaynaklarını destekleyerek bölgenin enerji ihtiyaçlarını öncelikle alternatif enerji kaynakları üzerinden karşılamak
+3.2 KÜRESEL-YEREL ETKİLEŞİMİ
+• Küresel fırsatları kullanırken yerel kaynakları ve potansiyelleri öncelikli değerlendirme kriteri olarak belirlemek koşuluyla planlama bölgesinin uluslararası alandaki ilişkilerini ve etkinliğini arttırmak
+• Toplumsal ve iktisadi gelişmede öncelikle yerel özelliklerden, işgücünden, yatırım gücünden ve hammaddelerden faydalanmak
+• Uluslararası işbirliklerini ve yatırımları yerel toplumsal ve iktisadi yapının dengesini bozmayacak şekilde ve sınır ötesi toplumsal ve kültürel bağları göz önünde bulundurarak teşvik etmek
+• Planlama bölgesi içerisindeki bazı merkezlere bölgenin uluslararası ilişkilerini ve etkinliğini arttırmaya yönelik işlevler kazandırmak, var olan işlevlerini geliştirmek
+• Çeşitli fonlar, kaynaklardan faydalanabilme kapasitesini geliştirmek
+• Yerel ürünlerin, tarihsel ve kültürel özelliklerin tanıtmak, korumak ve geliştirmek
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+5
+3.3 İKTİSADİ VE TOPLUMSAL GELİŞME
+Planlama bölgesindeki kentsel alanların bölgesel, ulusal ve uluslararası etkileşim alanlarını genişletmek ve planlama bölgesinin mevcut kaynaklarını ve potansiyellerini optimum kullanmak suretiyle iktisadi ve toplumsal kalkınmayı sağlamak; bölgeyi, uluslararası etki alanındaki işbirliklerini geliştirmede önemli bir konuma getirmek.
+Bölgesel Hedefler
+• Planlama Bölgesinin Doğu Anadolu ve İç Anadolu bölgeleriyle, aynı zamanda Kafkasya ile bağlantılarını geliştirmek, bu sayede Doğu Anadolu ve İç Anadolu bölgelerinin Kafkasya pazarına açılmasına fırsat oluşturmak
+• Bölgedeki kara-demir-deniz-havayolu ulaşımlarını güçlendirmek ve entegrasyonunu sağlamak. Bu sayede erişilebilirliği arttırarak bölge içi ve dışı pazar entegrasyonunu, insan, mal, hammadde ve hizmet akışını gerçekleştirmek.
+• Sektörel tahminler ile buna bağlı mekânsal gelişme gereksinimlerini, ekolojik ve doğal eşiklere ve hizmet sunumu gereksinimlerine göre tanımlanan yerleşmeler kademelenmesine uygun olarak geliştirilecek bir Bölgesel Talep Yönetim Sistemi üzerinden belirlemek
+• Dengeli ve sürdürülebilir bölgesel/kentsel gelişmeyi sağlamak için merkez kademelenmesi gerçekleştirmek. Planlama Bölgesi genelinde bölgesel hizmet ve donatı gereksiniminin dengeli sağlanabileceği bir yerleşmeler kademelenmesi üretmek. Bu bağlamda merkez kademelenmesini, bölgenin geneli ve ulusal/uluslararası etkinliği düşünülerek yeniden ele almak
+• Dengeli ve hizmet sunum gereksinimlerine uygun bir yerleşmeler kademelenmesi oluşturabilmek için nüfus hareketlerini kontrol altına alıp yönlendirmek
+• Geleceğe yönelik, iktisadi ve toplumsal gelişmeyi destekleyecek, bölgenin ulusal ve uluslararası etkinliğini arttıracak strateji ve hedeflere üretmek. Bunlara yönelik planlama bölgesinde kullanılabilir olduğu ve toplumsal meşruiyet kazanacağı düşünülen temel sektör, strateji, gelişme eğilimleri ve büyük projelerin başlıkları şu şekilde sıralanabilir: Öğrenen kent/bölge, bilgi üretimi, teknoloji geliştirme, teknopark, yenilikçi endüstriler, yüksek katma değerli sanayi, serbest bölgeler, üretici hizmetleri, finans, sigortacılık ve gayrimenkul sektörleri, lojistik sektörü, kongre turizmi, fuarlar, bölgesel borsa, bölgesel rekreasyon ve eğlence yatırımları, iletişim ve ulaşım altyapısı.
+• Bölge içi ve dışı mal akışlarının yatırımları arttıracak şekilde kolaylaşmasını sağlamak
+• Kısa vadede bölgesel kaynaklara yönelik tarım, maden ve inşaat sanayini, uzun vadede yüksek katma değerli sanayiyi geliştirmek
+• Sanayi, turizm, ticaret gibi gelişen sektörleri desteklemek; bu sayede hem kendine yeten, hem de bölge ekonomisini güçlendiren, çeşitlendiren bir iktisadi yapı oluşturmak.
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+6
+• Bölgesel turizmi geliştirme amaçlı paketler tanımlamak, yerel kapasiteleri entegre etmek ve ulusal, uluslararası turizme yönelik alternatifler yaratmak.
+• Ekolojik, tarihi, arkeolojik, kültürel özellikleriyle önem arz eden bütün turistik ürünlerin mutlak korunmasını ve geliştirilmesini sağlamak
+• Yayla turizmini, ekolojik kaynakları koruyarak ve yapılaşma koşullarını geleneksel yapılaşma biçimlerine ve mimariye uygun belirlemek şartıyla Türkiye Turizm Stratejisi (2023) ve Türkiye Turizm Stratejisi Eylem Planı göz önüne alınarak geliştirilecektir.
+• Festivalleri alt bölgeler ölçeğinde belirlenecek programlar çerçevesinde farklı temalara yönlendirerek yayla turizmine entegre etmek
+• Kentsel ve arkeolojik alanlarda kültür turizmini geliştirmek, diğer turistik kaynaklarla entegrasyonu sağlamak
+• Sahil kesiminde öncelikle yöre halkının ve diğer Karadeniz ülkelerinin kullanımına yönelik deniz turizmi yatırımlarını ekolojik dengeye ve toplumsal hassasiyetlere duyarlı şekilde ve Türkiye Turizm Stratejisi 2023 ve Eylem Planı 2013 de göz önüne alınarak teşvik etmek
+• Amatör balıkçılık, rafting, doğa yürüyüşleri, kayak turizmi, kaplıca turizmi, dağcılık, mağara turizmi, kuş gözleme alanları ve diğer doğa sporlarını Doğa Turizmi kapsamında ele alarak, yayla turizmi ile ilişkilendirmek
+• Dünya üretiminin önemli bir bölümünü oluşturan fındık üretiminin bölge ekonomisine katkısını arttırmak üzere bölgesel fındık politikası oluşturmak; yüksek katma değerli fındık sanayini geliştirmek
+• Bölgesel ekonomide büyük önemi olan çay üretiminin bölge ekonomisine katkısını arttırmak üzere daha etkin organizasyonunu sağlayacak ve çayda kaliteyi arttırmak suretiyle pazarı genişletecek bölgesel çay politikası oluşturmak: Bölgede yetiştirilen özel ürünlerden birisi olan çay, özellikle ulusal pazara hitap edebilmektedir. Çay tarım alanları Hopa-Gürcistan sınırından Ordu ilinin Perşembe ilçesine kadar sahilden yer yer 30 km iç kısımlara kadar rakımı 1000 metreye kadar yükselen bölgede yapılmaktadır. Bazı çay tarımı alanlarında yer yer orman alanlarına girmiştir. Diğer yandan, eğimli alanlarda yapılan çay üretimi heyelan riskini arttırmaktadır. Çay üretiminin verimliliğini arttırmak için önce kalite artırımına yönelik Ar-Ge çalışmaları desteklenmeli, sonra üretim alanları ile işleme tesislerinin ilişkileri ve ulaşım bağlantıları, bunların istihdam yansımaları sorgulanmalıdır. Çay üretimi, merkezi yönetim tarafından yerel karar süreçlerini de içine alarak özel politika geliştirilmesi gereken bir üretim sürecine karşılık gelmektedir.
+• Ekolojik anlamının yanı sıra ekonomik anlamda da, yakın gelecekte çok büyüyeceği düşünülen iç pazar ve gelişen dış pazar kapsamında ihracat olanakları göz önüne alındığında öne çıkan organik tarım, hayvancılık ve su ürünlerini de içine alan üretim alternatifleri geliştirmek: Planlama Bölgesi illerinin tarım master raporlarında da önerildiği gibi, organik tarımın yaygınlaştırılması, öncelikli tarım politikası olarak benimsenmeli, geçiş sürecini hızlandıracak ve kolaylaştıracak
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+7
+yönetim mekanizmaları geliştirilmelidir. Bu anlamda değerlendirilebilecek alt-bölgeler bu planda belirlenmiştir.
+• Ormancılık faaliyetlerini, orman ürünlerini çeşitlendirmek ve orman köyleri ve işletmeleri ile orman sanayi ilişkilerini arttırmak üzere daha verimli hale getirmek
+• Madencilik faaliyetlerini, ekolojik dengeyi korumak koşuluyla desteklemek: Bölgenin önemli maden potansiyeline karşılık, madencilik önemli derecede gelişmemiş, madencilik-sanayi-dağıtım entegrasyonu kurulamamıştır. Bölge için önemli bir istihdam alanı olmasına karşın yeterince faydalanılamamaktadır. Ayrıca madencilik faaliyetlerinin yaratacağı olası çevre sorunları ekolojik kaynaklara, insan yerleşimlerine ve insan sağlığına yönelik ciddi tehditler oluşturmaktadır. Tespit edilen maden rezervlerinin önce arazi çalışmalarını da içerecek şekilde araştırılarak, işletmeye yönelik fizibilite ve Çevresel Etki Değerlendirme çalışmaları sonrası olumlu bulunmaları halinde iktisadi kullanıma açılması makul olacaktır. Bölgenin özellikle mermer, serttaş mermeri (granit, vb.), agrega (kırma taş), çimento – kireç – seramik hammaddesi gibi yapı sektörüne yönelik büyük bir doğal kaynak potansiyeli mevcuttur. Bu plan çalışmaları sonrasında bölgede gerçekleştirilecek yapısal iyileştirmeler, yeniden ya da yeni yapılaşmalar için gereken inşai materyalin mevcut bölgesel kaynaklardan sağlanması ve ilgili sektörlerin geliştirilerek bölge halkının istihdamı tercihlerde öncelik taşıyacaktır.
+• Sahil boyunca entegre balıkçı barınakları üzerinden balıkçılığı geliştirmek; balıkçılık sektörüne yönelik entegre sanayi, depolama ve pazarlama alanları geliştirmek; ekolojik dengeyi gözetmek suretiyle kültür balıkçılığını desteklemek, aşırı ve kaçak avlanmaya yönelik kısıtlayıcı/önleyici tedbirler geliştirmek
+• Yöreye özgü, geleneksel zanaatları ve iktisadi faaliyetleri geliştirmek ve teşvik etmek. Bunlara yönelik eğitim, finans, tanıtım, pazarlama organizasyonları gerçekleştirmek
+• İşgücünü geliştirmek suretiyle iktisadi ve toplumsal kalkınmayı sağlamak; bölgede işgücü-işyeri uyumunu sağlayacak mekanizmalar geliştirmek
+• İnsanların becerilerine, eğitimlerine, potansiyellerine ve yaşama alanlarına uygun iş alanları açmak
+• İşgücüne, mevcut iş alanlarına uygun beceriler kazandırmak
+• Bölgesel istihdam yapısını, meslek eğitimi, meslek içi eğitim ve yaşam boyu eğitim mekanizmaları ile güçlendirmek
+• İşgücünün sergilediği tarımsal üretim modeline bağlı özelliklerin geçiş mekanizmaları ile geliştirilmesi suretiyle sektörel dönüşüme uygun daha verimli bir işgücü yapısına erişmek
+• İşgücünü geliştirilecek sanayi sektörlerine uygun olarak yetiştirmek
+• Tarımsal istihdamdan kaynaklanan gizli işsizlik sorununu tarımsal verimliliği arttırmak suretiyle diğer sektörler üzerinden çözmek
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+8
+• Kadın istihdamının teşvik edilmesiyle kadının iktisadi ve toplumsal hayattaki etkinliğini arttırmak
+İllere Yönelik Kalkınma Hedefleri
+İllerde, sorun ve potansiyeller değerlendirilerek bölgesel stratejiler çerçevesinde, kalkınma hedeflerini destekleyecek temel vizyon ve lokomotif sektörler belirlenmiştir. Bu hedefler illerin bölgesel yaklaşım içerisindeki temel gelişme vizyonlarını oluştururken, illerde diğer tüm sektörlere yönelik stratejik ve mekânsal kararlar alınmıştır. Burada belirtilen vizyonlar, illerin tek gelişme stratejisi değildir. Tüm sektörler, ilçeler bazında, kentsel gelişim stratejileri dâhilinde toplumsal ve iktisadi kalkınmaya yönelik değerlendirilmiştir.
+Buna göre illere yönelik hedefler şu şekilde sıralanabilir:
+• Trabzon – Rize aksını bilgi ve teknoloji geliştirme odaklı öğrenen bir kent bölge haline getirmek,
+• İletişim altyapısını ve ulaşım altyapısını geliştirmek,
+• Yenilikçi tarım teknolojileri ve endüstrileri, yüksek katma değerli sanayiyi, bölgesel ticaret hizmetlerini, üretici hizmetleri, lojistik sektörünü, fuar ve kongre turizmini teşvik etmek,
+• Trabzon’u mevcut sağlık hizmetlerine ilaveten yeni ve farklı sağlık yatırımları ile ulusal ve uluslararası hizmet de verebilen bir sağlık hizmet merkezi haline getirmek,
+• Giresun’da fındığa yönelik tarımsal üretimi, fındık sanayini ve finansal etkinliği geliştirmek,
+• Ordu ve/veya Giresun merkezli olmak üzere fındık borsası kurmak,
+• Giresun’da belirlenen sanayi bölgelerinde fındığın yüksek katma değerli endüstriyel üretimini desteklemek,
+• Yeni kurulan ulaşım bağlantıları ile pazarlama, insan-mal-hizmet akışını geliştirmek,
+• Ordu ve Giresun illerinin (özellikle kıyı bandı olmak üzere) yerleşim alanlarının birbirlerine yakın olması, turizm, fındık gibi ortak ekonomik gelişme potansiyelleri taşıması, ulaşım olanaklarının artması ve çeşitlenmesi ile birlikte iktisadi mal-hizmet-insan akışlarının yoğunlaşması gibi gerekçelerden ötürü bu iki ilin sosyo-ekonomik gelişimini bir arada ele almak,
+• Ordu ilinde, belirlenen bölgelerde mevcut hammaddelere ve yenilikçi sektörlere yönelik sanayi gelişimini desteklemek,
+• Ordu ve Artvin kentlerini bölgenin kültür ve turizm merkezleri olarak geliştirmek,
+• Mevcut turizm potansiyelleri ve kültürel birikimleri göz önünde bulundurarak bu illerde turizm sektörünün il ve bölge ekonomilerine katkısını arttırmak, alternatif turizm faaliyetlerini desteklemek kültürel gelişimi desteklemek,
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+9
+• Artvin’i Gürcistan ile kültürel kaynaşma ve bölge devletleri ile iktisadi ilişkileri geliştirmede önemli bir kapı haline getirmek, Gürcistan sınır kapısından yapılan Kafkasya ticaretini bölgenin iktisadi yapısını geliştirecek şekilde yeniden organize etmek,
+• Gümüşhane’yi tarımsal üretime yönelik hizmetlerle donatarak organik tarım merkezi olarak geliştirmek,
+• Gümüşhane merkezinde öncelikli olarak tarıma dayalı sanayini geliştirmek, organik tarım alanlarında, sanayiyi çevreyi kirletmeyecek ve bu tarımsal faaliyete yönelik olarak geliştirmek,
+• Sürdürülebilirlik ve koruma ilkeleri doğrultusunda madencilik faaliyetlerini geliştirmek.
+Kırsal Kalkınma Hedefleri
+• Kırsal alanlarda yaşanabilirliği ve tarımsal verimliliği arttırmak ve kentsel alanlarla ilişkileri güçlendirmek suretiyle sürdürülebilir kalkınmayı sağlamak
+• Merkez köy uygulaması desteklenerek kırsal alanlardaki hizmet ve donatı eksikliğini gidermek, tarımsal ürünlerin depolama, pazarlama ve dağıtım sorunlarını çözmek ve dağınık küçük kırsal ünitelere periyodik, mobil hizmet taşımak
+• Arazi toplulaştırması, ürün ortaklaştırması ve yeni teknolojiler üzerinden tarımsal verimliliği arttırmak, tarımsal verimliliği uzun vadede düşüren kimyasalların kullanımını azaltmak
+• Tarımsal üretimde meydana gelen mono kültürleşme iktisadi krizlere açık olduğundan ve toprağın sürdürülebilirliği açısından risk oluşturduğundan tarımsal ürün desenini çeşitlendirecek alternatif ürün programları uygulamak
+• Bölgenin yüksek kesimlerinde, mera alanlarının yaygın olduğu bölgelerde hayvancılık faaliyetlerini geliştirmek; hayvansal ürün çeşitliliğini ve hayvansal üretimin bölge ekonomisine katkısını arttırmak
+• Bölgenin flora açısından zengin bölümlerinde arıcılık faaliyetlerini, buna dayalı üretim atölyelerini, sanayiyi ve pazarlama organizasyonunu geliştirmek
+3.4 EŞİTLİK VE SOSYAL ADALET
+• İktisadi ve toplumsal gelişme dinamiklerinde adaletli bir paylaşım sağlamak; bölgesel dengeyi göz önünde bulunduran mekânsal ve stratejik politikalar üretmek
+• Bölgenin Türkiye’nin diğer bölgelerine göre geri kalmışlığını gidermek
+• Bölge içi iktisadi dengesizlikleri gidermek
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+10
+• Bölge içerisinde dengeli bir hizmet ve donatı rasyoneli sağlayacak, diğer bölgelerle olduğu kadar bölge içi ilişkileri de arttıracak, uzmanlaşma üzerine kurulmuş bir yerleşmeler kademelenmesi oluşturmak
+• Sosyo-ekonomik gelişmişlik indeksine göre dezavantajlı yerellerin geliştirilmesine öncelik vermek.
+• Yerel potansiyellerin harekete geçirilmesiyle yerel ekonomik kalkınmayı sağlamak.
+• Sosyal gruplara yönelik kapasite geliştirme programları geliştirmek ve fon kaynaklarını bu tür projelere yönlendirmek.
+• İşsizlik ve istihdam politikaları, kadın istihdamı, işgücü eğitimi ve yaratılan iş olanakları ile bölgedeki çalışma sahasını genişletmek, koşullarını iyileştirici politikalar sunmak
+• Kırsal yerleşmelerin ve belediyelerin birlikler halinde örgütlenmesi ve hizmetlerin ortaklaştırılması aracılığıyla hizmet yaygınlığı ve kalitesinin artırılmasını sağlamak
+• Kentsel mekânda rantın adaletli paylaşımını sağlamak, zaman içerisinde yerel vergilendirme ve eşitlikçi dağıtım araçları üretmek, süreç içeresindeki gelişmelere paralel olarak fiziksel mekânda özellikle konut ve toprak konuları başta olmak üzere tarafların bir araya geleceği şuraların toplanmasını sağlamak, bu süreçte bir kamusal faaliyet olarak alt gelir gruplarına yönelik sosyal politikalar geliştirmek ve ilgili/etkilenen kesimlerin karar alma süreçlerine katılımlarını sağlayacak mekanizmalar geliştirmek.
+3.5 YAŞANABİLİRLİK
+• Bölgedeki yaşam kalitesini arttırmak için öncelikli olarak temel donatılarda ve altyapıda rasyonel standardı yakalamak, donatıların ve altyapının herkes için erişebilirliğini arttırmak
+• Sağlıklı bir kentsel gelişmenin sağlanabilmesi için yerleşilebilirlik analizi çerçevesinde arazi kullanım kararları üretmek: Kentsel gelişmenin sağlanabilmesi için sürdürülebilirlik çerçevesinde koruma-kullanma dengesine bağlı olarak yerleşilebilirlik analizi yapılmış, yerleşilebilir alanların belirlenebilmesi için ekolojik ve doğal kaynaklar ile ekolojik ve doğal risk alanları dışında kalan alanlar ele alınmıştır. Bu aşamadan sonra nüfus tahminleri ve sektörel stratejiler göz önünde bulundurularak gelişme alanları kararları üretilerek mevcut yerleşmelere eklenmiş ve planda kentsel yerleşme alanı olarak gösterilmiştir.
+• Bölgedeki bütün yerleşimlerde donatı eksikliklerini gidermek ve standartları çağa uygun hale getirmek; eğitim, sağlık gibi temel donatılarda rasyonel standardı yakalamak
+• Bölgedeki bütün yerleşimlerde altyapı eksikliklerini gidermek ve standartları çağa uygun hale getirmek
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+11
+• Bölgesel istihdam, ticaret, boş zaman, sağlık ve eğitim faaliyetlerini bütün bölge insanlarının toplu taşıma araçları ile erişebileceği mesafeye getirmek
+• Geri dönüşümde içinde barındıran katı atık tesislerini, ekolojik değerleri koruyarak ve çevresel etkilerini en aza indirecek şekilde kurmak
+• İlgili kamu kurumu/kurumları tarafından içme-kullanma suyu ve sulama için rasyonel çözümler geliştirecek, yapılan ihtiyaç tahminlerine uygun kapasitede su dağıtımı yapabilecek bölgesel bir Su Yönetim Sisteminin geliştirmek; bu Sistem çerçevesinde belirlenecek su kaynaklarının ve yatırımların ekolojik kaynakları ve insan yerleşimlerini olumsuz yönde etkilememesine dikkat edilmesi koşuluyla plana dâhil etmek
+• Karadeniz’in ve bölgedeki su kaynaklarının, kirlilik kaynaklarından etkilenmemeleri için yerleşmeler ve sanayi tesisleri için arıtma tesislerini zorunlu kılmak
+• Yerleşmelerin kanalizasyon sistemine sahip olmasını sağlamak; kanalizasyon şebekelerini arıtma tesisleri ile entegre düşünmek
+• Bölgenin enerji ihtiyaçlarını öncelikle alternatif enerji kaynakları üzerinden karşılamak
+• Yerleşmelerde demokratik katılım mekanizmalarının daha kolay çalışabilmesi için kent konseylerinin işlevsel hale getirilmesini sağlamak.
+• Bölgedeki yerleşmelerde sivil toplumun geliştirilmesi ve güçlendirilmesini sağlamak
+3.6 ERİŞEBİLİRLİK
+• Bölgesel erişebilirliği arttırmak amaçlı entegre ulaşım sistemini, yerleşmeler kademelenmesi ve iktisadi faaliyetler arası ilişkileri destekleyecek şekilde ekolojik denge ve toplumsal yaşam biçimini dikkate alarak gerçekleştirmek
+• Ulaşım sistemini yerleşmeler kademelenmesini destekleyecek şekilde kurmak
+• Ulaşım sistemini iktisadi faaliyetler arası ilişkileri destekleyecek şekilde kurmak
+• İletişim altyapı sistemlerinin yaygınlaştırılması ve geliştirilmesini sağlamak.
+• Bölgesel erişebilirlik sorununu kuzey-güney ve doğu batı ekseninde geliştirilecek kara-demir-deniz-hava yolu entegrasyonları üzerinden sağlamak
+• Kıyı yerleşmeleri ile iç kesimler arasındaki kuzey-güney aks bağlantılarını, bölgeyi Doğu, Güneydoğu ve İç Anadolu Bölgelerine bağlayacak şekilde güçlendirmek
+• Bölgeyi Samsun üzerinden batı Anadolu’ya ve Gürcistan üzerinden Kafkasya’ya bağlayacak doğu-batı aksını ekolojik dengeye ve toplumsal yaşam biçimine uygun hale getirmek; demiryolu ile geliştirmek
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+12
+• Mevcut ve öneri limanlarda kapasite kullanımını arttırmak ve bunların kara ve demiryolu bağlantılarını kurmak ve güçlendirmek; limanlar arası kademelenme ve uzmanlaşma sağlamak
+• Havayolu ulaşımını geliştirmek; mevcut havaalanlarının kapasitesini geliştirmek
+• Yerleşmeler-donatılar arasında optimum erişebilirliği sağlamak
+3.7 KATILIM VE YÖNETİŞİM
+• Yerel topluluklar arası ilişkileri ve işbirliklerini ortak fayda sağlayacak ortak projeler üzerinden geliştirerek aktörlerin eşit şartlarda katılabildiği ve etkileyebildiği yönetişim mekanizmalarını oluşturmak
+• Farklı toplumsal grupların ve illerin kamu ve sivil temsilcilerinin eşit şartlarda katılabildiği ve etkileyebildiği karar mekanizmaları oluşturmak
+• Planın hazırlanması ve bu planın uygulanmasını sağlayacak alt ölçekli planların yapımına kadar karar alma süreçlerine halkın katılımını sağlamak, örgütlenme modelleri geliştirmek, ilgili aktörleri eşit şartlarda bir araya getirebilecek yapılar oluşturabilmek
+• İktisadi gelişmeye yönelik sektörel planlama ve uygulama süreçlerinde ilgili tüm aktörleri bir araya getirebilen karar ve yürütme mekanizması geliştirmek
+• ÇDP’yi çeşitli medyalar aracılığıyla alenileştirmek ve tanıtmak.
+• Yerleşmelerde demokratik katılım mekanizmalarının daha kolay çalışabilmesi için kent konseylerinin işlevsel hale getirilmesini sağlamak.
+• Bölgedeki yerleşmelerde sivil toplumun geliştirilmesi ve güçlendirilmesini sağlamak
+4. TANIMLAR
+4.1 İDARİ TANIMLAR
+4.1.1 Bakanlık: T.C. Çevre ve Şehircilik Bakanlığı’dır.
+4.1.2 Uygulamadan Sorumlu İdareler: Çevre ve Şehircilik Bakanlığı, Valilikler, İl Özel İdareleri, Ordu, Trabzon, Rize, Giresun, Gümüşhane ve Artvin Belediyeleri/Büyükşehir Belediyeleri ve Planlama Bölgesi içinde yer alan ilçe ve belde belediyeleri ile konusuna göre yetkili kurum ve kuruluşlardır.
+4.1.3 İlgili İdareler: Bu planın yapımı sırasında işbirliği yapılan/yapılacak olan ve uygulama aşamasında ve alt ölçekli planlama çalışmalarında görüşlerine başvurulan/başvurulacak kurum ve kuruluşlardır.
+4.1.4 Alt ölçekli planlar: Mevzuata uygun olarak hazırlanmış ve onaylanmış nazım ve uygulama imar planları ile bu plana uygun olarak hazırlanacak olan nazım ve uygulama imar planlarıdır.
+4.2 İŞLEV TANIMLARI
+4.2.1 Bölge Merkezi: Kentsel hizmetlerin yoğunlaştığı, iş yaşamının geçtiği, güçlü ilişkilerin olduğu, merkezi ilişkilerin, ulaşım ve servis ağlarının, arazi ve iş
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+13
+piyasalarının birlikte ele alındığı bölgedir. Bu merkez, bölgenin bütününe hizmet verecek büyük ölçekli eğitim, sağlık, ticari, teknolojik gelişim donatılarını içerisinde barındırırken aynı zamanda ülkesel ve küresel ölçeklerde uzmanlaşmış işlevlere sahiptir.
+4.2.2 Kentsel Hizmet Merkezi: Geliştirilen ulaşım bağlantıları üzerinde bulunması, iktisadi mal üretimi ve akışlarında etkin olması ve bölge genelinde donatı eksikliğinin daha yoğun olduğu kırsal alanlara yönelik birer hizmet birimi oluşturması planlanmış kentsel merkezlerdir.
+4.2.3 Kentsel Yerleşik Alanlar: Büyükşehir ve/veya İl, İlçe, İlk Kademe ve Belde Belediye sınırları içinde var olan, içinde boş alanları barındırsa da büyük oranda yapılaşmış olan alanlardır.
+4.2.4 Kentsel Gelişme Alanları: Bu planın hedef yıla ilişkin nüfus kabulleri ile ilke ve stratejilerine göre bu planla kentsel yerleşime uygun bulunan, organize sanayi ve sanayi alanları dışındaki diğer kentsel kullanımların geliştirileceği alanlardır.
+4.2.5 Kentsel Yerleşme Alanları: Kentsel yerleşik alanlar ve bu planla belirlenmiş kentsel gelişme alanları ile bu alanlarla bütünleşen diğer kentsel kullanım alanlarından oluşan bütünü ifade eder.
+4.2.6 Kırsal Yerleşme Alanları: Kentsel yerleşme alanları dışında kalan ve köy ve mezraları kapsayan, 3194 sayılı İmar Kanunu’nun ilgili yönetmeliği uyarınca köy yerleşik alanı ve civarına ilişkin sınır tespiti yapılmış/yapılmamış ve yörenin topografyası dolayısıyla dağınık bir yapı sergilediğinden bu planda sınırları şematik olarak gösterilmiş veya plan ölçeği gereği gösterilememiş olan alanlardır.
+4.2.7 Köy ve Mezraların Yerleşik Alanı ve Civarı: Köy ve mezraların cami, köy konağı gibi köy ortak yapıları ile köy nüfusuna kayıtlı ve köyde sürekli oturanlar tarafından, yapımı tarihinde yürürlükte bulunan mevzuat hükümlerine uygun olarak inşa edilmiş yapıların toplu olarak bulunduğu yerlerde mevcut binaların en dışta olanlarının dış kenarlarından geçirilen çizginin içinde kalan alan köy yerleşik (meskûn) alanını; bu çizgi ile 100 m. dışından geçirilecek olan, valiliklerce tespit edilerek İl Özel İdaresince karara bağlanan sınırın içinde kalan alan köy yerleşik alanı civarını tanımlar.
+4.2.8 Onanlı İmar Planı Bulunan Kentsel Yerleşik Alanlar: Bu planın onayından önce mevzuata uygun olarak hazırlanmış ve ilgili idaresince onaylanmış olan ve bu planın hedef/ilke ve stratejilerine, nüfus kabullerine ve ortalama brüt nüfus yoğunluğuna uygun imar planlı alanları ifade eder.
+4.2.9 Özel Kanunlara Tabi Alanlar: Bu alanlar; yürürlükte bulunan mevzuat kapsamında yerel yönetimler dışında, farklı kamu kurum ve kuruluşların görev ve yetki alanı kapsamına giren Özel Çevre Koruma Bölgeleri, Milli Parklar, Tabiatı Koruma Alanları, Tabiat Parkı, Tabiat Anıtı, Yaban Hayatı Koruma ve Geliştirme Sahası, Turizm Merkezi, Kültür ve Turizm Koruma ve Geliştirme Merkezi/Bölgesi vb. farklı ölçeklerde planlama yetkileri yerel yönetimler dışındaki kurumlara verilmiş olan alanlardır.
+4.2.10 İmar Uygulaması: Onanlı imar planları doğrultusunda parselasyon planlarının yapılarak tapuya tescilinin yapılmış olmasıdır.
+4.2.11 Brüt Yoğunluk: Kentsel nüfusun kentsel yerleşik alana oranıdır (Kişi/ha).
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+14
+4.2.12 Organize Sanayi Bölgesi (OSB): 4562 sayılı Organize Sanayi Bölgeleri Kanunu’na göre OSB statüsü kazanmış / kazanacak alanlardır.
+4.2.13 Serbest Bölge: 3218 sayılı Serbest Bölgeler Kanunu’na göre serbest bölge statüsü kazanmış / kazanacak alanlardır.
+4.2.14 Sanayi Alanları ve Depolama Alanları: Orta ve büyük ölçekli sanayi işletmelerinin ve hammadde/mamul ürünlerine ait açık ve/veya kapalı depolama tesislerinin ilgili kanun ve yönetmeliğine uygun olarak, çevre ve sağlık koşulları gözetilerek bir arada yer almaları amacıyla düzenlenmiş alanlardır.
+4.2.15 Tersane Alanları: Her tür nitelik ve kapasitedeki deniz araçlarının gemi inşa bakım, onarım ve söküm faaliyetlerinin yapılmasına uygun olarak donatılmış teknik, idari ve sosyal altyapıya sahip tesisler ile bunların bütünleyicisi olan her türlü kıyı yapılarını (kızak, havuz, iskele, rıhtım vb.) ve bunlara yönelik yan sanayi tesislerinin yer aldığı alanlardır.
+4.2.16 Liman Gerisi Alanları: Liman ihtiyacı için gerekli depolama, idari tesis, kreyner, vinç, vb. alan ve yapısal kullanımların yer aldığı alanlardır.
+4.2.17 Enerji Üretim Alanları: Enerji Piyasası Düzenleme Kurumundan verilen lisans ve/veya ilgili kurumlardan alınan izinler sonrasında kurulmuş olan enerji üretim tesislerinin yer aldığı/alacağı alanlardır.
+4.2.18 Enerji İletim Tesisi: Üretim tesislerinin 36 kv üstü gerilim seviyesinden bağlı olduğu noktalardan itibaren iletim şalt sahalarının orta gerilim fiderleri de dâhil olmak üzere dağıtım tesislerinin bağlantı noktalarına kadar olan tesisleridir.
+4.2.19 Enerji Kaynak Alanları: Elektrik enerjisi üretmeye müsait yenilenebilir enerji kaynaklarının bulunduğu alanlardır.
+4.2.20 Maden İşletme Tesisleri, Geçici Tesisler ve Maden Sahaları ve Ocaklar: 3213 sayılı Maden Kanunu ve ilgili yönetmelik hükümlerine tabi olan ve gruplara ayrılarak tanımlanmış madenlerin işletme tesislerini, geçici tesisleri maden sahaları ve ocakları ifade eder.
+4.2.21 Turizm Tesis Alanları:
+4.2.21.1 Günübirlik Turizm Tesis Alanları: Turizm potansiyeli bulunan alanlarda, kamping ve konaklama ünitelerini içermeyen, duş, gölgelik, soyunma kabini, wc gibi altyapı tesislerinin yanı sıra yeme-içme, eğlence ve spor tesisleri ile yerel özellik taşıyan el sanatları ürünlerinin sergi ve satış ünitelerini içeren yapı ve tesislerin yer alabileceği alanlardır.
+4.2.21.2 Termal Turizm Tesis Alanları: Mineralize termal sularla çamurların, yörelerinde çevre ve iklim faktörleri bileşiminde insan sağlığını olumlu etkilemek için fizik tedavi, rehabilitasyon, egzersiz, diyet gibi destek tedavilerle koordineli kür uygulamalarının gerçekleştirildiği tesislerin bir ya da birkaçının konaklama tesisleri ile bir arada düzenleneceği alanlardır.
+4.2.21.3 Kamping Alanları: Karayolu güzergâhları ve yakın çevresinde, kent girişlerinde, deniz, göl, dağ gibi doğal güzelliği olan yerlerde, turistlerin kendi olanaklarıyla geceleme, yeme-içme, dinlenme, eğlence ve spor gereksinimlerini karşıladıkları tesislerin kurulduğu alanlardır.
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+15
+4.2.21.4 Kış Sporu ve Kayak Merkezi: Kayak yapılması amacıyla farklı noktalar arasında ulaşıma yönelik teleferik, telesiyej, teleski, telekabin gibi mekanik düzenlemeler ile konaklama tesislerinin yer alabileceği alanlardır.
+4.2.22 Turizm Merkezi, Kültür ve Turizm Koruma ve Gelişim Bölgeleri: İçinde veya dışında, öncelikle geliştirilmesi öngörülen; yeri, mevki ve sınırları, 2634 sayılı “Turizmi Teşvik Kanunu” uyarınca, T.C. Kültür ve Turizm Bakanlığı’nın önerisi ve Bakanlar Kurulu Kararıyla tespit ve ilân edilen veya edilebilecek olan, turizm hareketleri ve faaliyetleri yönünden önem taşıyan yerlerinin ve bölümlerinin yer aldığı alanlardır.
+4.2.23 Ekomüze Alanları: Geleneksel müzeciliğin yerine getirdiği koleksiyonculuk, muhafaza etme, araştırma, sergileme ve eğitim faaliyetlerinin yanı sıra; yerel kültürün ve doğanın bir arada ele alınıp birikimlerin bugüne ve geleceğe dair değerlendirildiği alanlardır.
+4.2.24 Mesire Alanı: Rekreasyonel ve estetik kaynak değerlere sahip alanlarda kamunun dinlenme, eğlenme (rekreatif) yönünde günübirlik ve/veya geceleme ihtiyaçlarını karşılayan ve arazi kullanım özelliklerine göre gerekli yapı, tesis ve donatılarla kullanıma açılan veya açılmak üzere Orman ve Su İşleri Bakanlığı’nca ayrılan orman ve orman rejimine tabi sahalar ile işletilmesi Orman ve Su İşleri Bakanlığı’na verilmiş sahalardır.
+4.2.25 Bölge Parkı ve Rekreasyon Alanları: Kentlerin içinde ya da çevresinde, yaşayanların dinlenme, gezinti, spor ve eğlenme gereksinimlerini karşılamaya yönelik düzenlenen aktif ya da pasif nitelikli geniş yeşil alanlardır.
+4.2.26 Bölgesel ve Kentsel Spor Alanları: Kentte yaşayanların spor, dinlenme, gezinti ve eğlence ihtiyaçlarını karşılamaya yönelik aktif ve pasif yeşil alanlardır.
+4.2.27 Fuar Alanları: Her türden ürün ya da hizmetlerin, teknolojik gelişmelerin, bilgi ve yeniliklerin tanıtımı, pazar bulunabilmesi ve satın alınabilmesi, teknik işbirliği, geleceğe yönelik ticari ilişki kurulması ve geliştirilmesi için, belirli bir takvime bağlı olarak gerçekleştirilen, zaman açısından sınırlandırılmış tanıtım etkinliklerinin gerçekleştirileceği açık ve kapalı sergileme ve satış tesislerinin yapılacağı alanlardır.
+4.2.28 Orman Alanları: 6831 sayılı Orman Kanunu’na tabi alanlardır.
+4.2.29 2B Alanları: 1981 yılı öncesinde Orman vasfını kaybetmiş 6831 sayılı Orman Kanununun 2. Maddesi (b) fıkrasına göre hazine adına orman sınırları dışına çıkarılmış alanlardır.
+4.2.30 Ağaçlık Alanlar: Bu alanlar, orman sayılan yerler dışında kalan ağaçlık dokuya sahip olan alanlar ile doğal bitki örtüsü korunması gereken alanlardır.
+4.2.31 Ağaçlandırılacak Alanlar: Bulundukları yörenin doğal bitki örtüsüne uygun olarak ağaçlandırılması önerilen alanlar ile yerleşmeler ve sanayi tesisleri çevresinde oluşturulan yeşil kuşak alanlarıdır.
+4.2.32 Fundalık Alanlar: Bu alanlar topografik yapısı, flora ve faunası ile bütüncül olarak doğal bitki örtüsü korunması gereken alanlardır.
+4.2.33 Askeri Alanlar: 2565 sayılı Askeri Yasak Bölgeler ve Güvenlik Bölgeleri Kanunu ile belirlenmiş alanlardır.
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+16
+4.2.34 Sit Alanları: 2863 sayılı “Kültür ve Tabiat Varlıklarını Koruma Kanunu” uyarınca sit ilan edilen alanlardır. Sit alanları:
+4.2.35 Arkeolojik Sit: İnsanlığın varoluşundan günümüze kadar ulaşan eski uygarlıkların yer altında, yer üstünde ve su altındaki ürünlerini, yaşadıkları devirlerin sosyal, ekonomik ve kültürel özelliklerini yansıtan her türlü kültür varlığının yer aldığı yerleşmeler ve alanlardır.
+4.2.36 Doğal Sit: Jeolojik devirlerle, tarih öncesi ve tarihi devirlere ait olup, ender bulunmaları veya özellikleri ve güzellikleri bakımından korunması gerekli yer üstünde, yer altında veya su altında bulunan korunması gerekli alanlardır.
+4.2.37 Kentsel Sit: Mimari, yerel, tarihsel, estetik ve sanat özelliği bulunan ve bir arada bulunmaları sebebiyle teker teker taşıdıkları değerden daha fazla değeri olan kültürel ve doğal çevre unsurlarının (yapılar, bahçeler, bitki örtüleri, yerleşim dokuları, duvarlar) birlikte bulundukları alanlardır.
+4.2.38 Kentsel Arkeolojik Sit: Arkeolojik sitler ile birlikte korunması gereken kentsel dokuları içeren ve bu özellikleri ile bütünlük arz eden korumaya yönelik özel planlama gerektiren alanlardır.
+4.2.39 Tarihi Sit: Ulusal tarih ve askeri harp tarihi açısından önemli tarihi olayların gerçekleştiği ve doğal yapısıyla birlikte korunması gerekli alanlardır.
+4.2.40 Milli Park Alanları: 2873 sayılı “Milli Parklar Kanunu” uyarınca, Milli Park olarak belirlenmiş olan, bilimsel ve estetik bakımından, ulusal ve uluslararası ender bulunan doğal ve kültürel kaynak değerleri ile koruma, dinlenme ve turizm alanlarına sahip doğa parçalarıdır.
+4.2.41 Tabiatı Koruma Alanı: 2873 sayılı “Milli Parklar Kanunu” uyarınca, bilim ve eğitim bakımından önem taşıyan nadir, tehlikeye maruz veya kaybolmaya yüz tutmuş ekosistemler, türler ve tabii olayların meydana getirdiği seçkin örnekleri içeren ve mutlak korunması gerekli olup sadece bilim ve eğitim amaçlarıyla kullanılmak üzere ayrılmış doğa parçalarıdır.
+4.2.42 Yaban Hayatı Koruma ve Geliştirme Sahaları: 4915 sayılı “Kara Avcılığı Kanunu” kapsamında, yaban hayatı değerlerine sahip, korunması gerekli yaşam ortamlarının bitki ve hayvan türleri ile birlikte mutlak olarak korunduğu ve devamlılığının sağlandığı sahalardır.
+4.2.43 Su Toplama Havzası: “Su Kirliliği Kontrol Yönetmeliği’nde tanımlanan ve Devlet Su İşleri Genel Müdürlüğünce belirlenen; göllerde ve rezervuarlarda bu su kaynağını besleyen yeraltı ve yüzeysel suların toplandığı bölgenin tamamı; bir akarsu parçasında ise belirli bir kesiti besleyen bölgenin memba kesimidir.
+4.2.44 Su Kaynakları: “Su Kirliliği Kontrol Yönetmeliği’nde tanımlanan ve Devlet Su İşleri Genel Müdürlüğünce belirlenen doğal veya yapay rezervuarlardır.
+4.2.45 İçme ve Kullanma Suyu Koruma Kuşakları: “Su Kirliliği Kontrol Yönetmeliği” uyarınca Su Toplama Havzası içinde “mutlak”, “kısa mesafeli”, “orta mesafeli” “uzun mesafeli” olarak belirlenen, derecelendirilmiş, Devlet Su İşleri Genel Müdürlüğünce belirlenen koruma kuşak alanlarıdır.
+4.2.46 Su Ürünleri Üretim Alanları: Tarım ve Köy İşleri Bakanlığı’nın koordinasyonunda oluşturulan komisyonunca 2872 sayılı Çevre Kanunu’nda
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+17
+yasaklanmış alanlar dışındaki alanlarda tespit edilmiş/edilecek olan su ürünleri üretim sahalarıdır.
+4.2.47 Atık Bertaraf Tesisi Alanları: Üreticisi tarafından atılmak istenen ve toplumun huzuru ile özellikle çevrenin korunması bakımından, bertaraf edilmesi gereken maddeleri ve arıtma çamurunun “Atıkların Kontrolü Yönetmeliği” uyarınca belirlenen kurallara uygun olarak depolandığı ya da bertaraf edildiği tesislerin kurulduğu/kurulacağı alanlardır.
+4.2.48 Tehlikeli Atık Bertaraf Tesisi Alanları: “Tehlikeli Atıkların Kontrolü Yönetmeliği’nde tanımlanan atıkların, aynı yönetmelikte tanımlanan kurallara uygun olarak bertarafının sağlandığı tesislerin kurulduğu/kurulacağı alanlardır.
+4.2.49 Atıksu Arıtma Tesisi Alanları: Evsel ve endüstriyel atıksuların “Kentsel Atıksu Arıtımı Yönetmeliği” uyarınca belirlenen kurallara uygun biçimde arıtıldığı ve bertaraf edildiği tesislerin kurulduğu/kurulacağı alanlardır.
+4.2.50 Büyük Alan Kullanımı Gerektiren Kamu Kurum ve Kuruluş Alanları: Kent bütününe hizmet eden ve içerisinde kamu hizmet birimlerinin yer aldığı alanlardır.
+4.2.51 Üniversite Alanları: Lisans, Lisansüstü Eğitim, Araştırma-Bilgi Üretim ve İletişim Merkezi işlevlerini yüklenen ve içerisinde Araştırma Merkezleri ve Tekno-Parkların da yer alabileceği alanlardır.
+4.2.52 Teknopark: 4691 sayılı “Teknoloji Geliştirme Bölgeleri Kanunu” uyarınca kuruluşu gerçekleştirilen, yüksek/ileri teknoloji kullanan ya da yeni teknolojilere yönelik firmaların, belirli bir üniversite veya yüksek teknoloji enstitüsü ya da AR-GE merkez veya enstitüsünün olanaklarından yararlanarak teknoloji veya yazılım ürettikleri/geliştirdikleri, teknolojik bir buluşu ticari bir ürün, yöntem veya hizmet haline dönüştürmek için faaliyet gösterdikleri ve bu yolla bölgenin kalkınmasına katkıda bulundukları, aynı üniversite, yüksek teknoloji enstitüsü ya da AR-GE merkez veya enstitüsü alanı içinde veya yakınında; akademik, ekonomik ve sosyal yapının bütünleştiği siteler veya bu özelliklere sahip birimlerin bütünüdür.
+4.2.53 Araştırma ve Geliştirme Merkezleri: Bilim ve teknolojinin gelişmesini sağlayacak yeni bilgiler elde etmek veya mevcut bilgiler ile yeni malzeme ürün ve araçlar üretmek, yazılım üretimi dâhil olmak üzere yeni sistem, süreç ve hizmetler oluşturmak veya mevcut olanları geliştirmek amacıyla çalışmaların yapıldığı alanlardır.
+4.2.54 Araştırma ve Geliştirme Enstitüleri: Bu kurumlar teknoparklara göre çok daha spesifik olan uzmanlık alanları üzerinde geliştirdikleri yeniliklerle desteklerler. Bu enstitüler ilgili konuları dâhilinde tüm araştırma-geliştirme faaliyetlerini bir çatı altında toplarlar.
+4.2.55 Tarım Arazisi: Mülga Köy Hizmetleri Genel Müdürlüğü’nce belirlenmiş olan 1. ve 2. sınıf tarım toprakları ile 5403 sayılı Toprak Koruma ve Arazi Kullanım Kanununda geçen Mutlak Tarım Arazilerini, Özel Ürün Arazilerini, çay ve fındık alanları haricindeki Dikili Tarım Arazileri ile Sulu Tarım Arazilerini ifade eder.
+4.2.56 Marjinal Tarım Arazisi: Marjinal tarım arazileri, fındık ve çay alanları dışında kalan, toprak ve topografik sınırlamalar nedeni ile üzerinde sadece geleneksel toprak işlemeli tarımın yapıldığı arazilerdir. 5403 sayılı Toprak Koruma ve Arazi Kullanım Kanununda geçen Marjinal Tarım Arazilerini ifade eder.
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+18
+4.2.57 Bölgeye Özel Ürün Alanı: Marjinal tarım alanları dışında kalan, bölge ekonomisinin en önemli tarımsal ürünlerinin yetiştiği (bağcılık, çay, fındık vb.) arazilerdir. 5403 sayılı Toprak Koruma ve Arazi Kullanım Kanununda geçen Dikili Tarım Arazilerini ifade eder.
+4.2.58 Mera Alanları: 4342 sayılı Mera Kanunu uyarınca saptanmış/saptanacak olan, hayvanların otlatılması ve otundan yararlanılması için tahsis edilen yada bu amaçla kullanılan alanlardır.
+4.2.59 Doğal Karakteri Korunacak Alanlar: Sazlık-bataklık, plaj-kumsal, kıyı-kumul alanları ile jeolojik oluşumları nedeniyle ya da erozyon sonucu topraksız kalmış kayalık-taşlık alan niteliğinde olan doğal karakteri korunacak ya da korunarak kontrollü kullanımı sağlanacak alanlardır.
+4.2.60 Tarıma Dayalı Sanayi: Tarım ve hayvancılığa dayalı ürünlerin mamul hale getirilmelerini sağlayan entegre ya da entegre nitelikte olmayan tesislerdir.
+4.2.61 Tarımsal Amaçlı Yapılar: Toprak koruma ve sulamaya yönelik altyapı tesisleri, entegre nitelikte olmayan; hayvancılık ve su üretim ve muhafaza tesisleri ile zorunlu olarak tesis edilmesi gerekli olan müştemilatlar, mandıralar, üreticinin bitkisel üretime bağlı olarak elde ettiği ürünü için ihtiyaç duyacağı yeterli boyut ve hacimde depolar, un değirmeni, tarım alet ve makinelerinin muhafazasında kullanılan sundurma ve çiftlik atölyeleri, seralar, tarımsal işletmede üretilen ürünün özelliği itibariyle hasattan sonra iki saat içinde işlenmediği takdirde ürünün kalite ve besin değeri kaybolması söz konusu ise bu ürünlerin işlenmesi için kurulan tesisler ile Gıda, Tarım ve Hayvancılık Bakanlığı tarafından tarımsal amaçlı olduğu kabul edilen yapılardır.
+4.2.62 Organize Hayvancılık Alanları: Hayvansal üretimin yapıldığı işletmelerin, alt yapısı sağlanmış bir bölgede bir araya toplanması, yeni teknolojileri kullanarak besi, yem üretimi ve ürün işleme tesislerinin gereğince bir arada düzenlenmesinin amaçlandığı alanlardır.
+4.2.63 Sulama Alanları: 3083 sayılı sulama alanlarında arazi düzenlemesine dair tarım reformu kanunu uyarınca, devletçe sulamaya açılan veya projeleri bitirilmiş olup sulama yatırımlarına başlanan ve devam eden alanlardır.
+4.2.64 Akaryakıt İstasyonu: Dağıtıcı ve bunlarla tek elden satış sözleşmesi yapmış bayilerce ilgili mevzuata uygun (teknik, kalite ve güvenlik) olarak kurulup, bir veya farklı alt başlıktan birer akaryakıt dağıtıcısının tescilli markası altında faaliyette bulunan ve esas itibariyle araçların akaryakıt, madeni yağ, oto gaz LPG, temizlik ve ihtiyari olarak bakım ile kullanıcıların tüplü LPG hariç diğer asgari ihtiyaçlarını karşılayacak imkânları sunan yerleri ifade eder.
+4.2.65 Konut Dışı Kentsel Çalışma Alanları: İçerisinde motel ve lokanta da bulunabilen akaryakıt ve bakım istasyonları; resmi ve sosyal tesisler; dumansız, kokusuz, atık ve artık bırakmayan ve çevre sağlığı yönünden tehlike yaratmayan imalathaneler ile patlayıcı, parlayıcı ve yanıcı maddeler içermeyen depolar; otoparklar; teşhir ve satış birimlerinin yapılabileceği alanlardır.
+4.2.66 Endüstriyel Gelişme Bölgesi: Şehir, bölge veya ülkenin ekonomik kalkınmasını desteklemek üzere; hem yerel hem küresel unsurlar dikkate alınarak, çevre sağlığı yönünden tehlike oluşturmayan ve lojistik faaliyetlerine katkıda bulunan veya
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+19
+paketleme veya ambalaja dayalı sanayi, hizmet ile lojistiğin bir arada yer aldığı, bu faaliyetlerin gerektirdiği ticari ünitelerin bulunduğu, liman geri sahası faaliyetlerinin de yer alabileceği, genel olarak ihracata yönelik ve gerektiğinde gümrük işlemlerinin de yapıldığı alanlardır.
+4.2.67 Ekoturizm Alanları: doğal ve kültürel değerleri koruyarak, bu alanlarda ve çevresinde yaşayan nüfusun sosyo-ekonomik gelişimi için kaynak yaratabilen alternatif turizme dönük, doğal yaşama aktif katılımın sağlanabildiği, çevreye duyarlı alanlardır.
+4.2.68 Orman Parkları:
+4.2.68.1 Konaklamalı Orman Parkı: Toplumun çeşitli dinlenme, eğlenme ve spor ihtiyaçlarını karşılamak, yurdun güzelliğine katkı sağlamak ve turistik hareketlere imkân vermek maksadıyla yüksek ziyaretçi potansiyeline sahip, günübirlik kullanım imkânı yanında gecelemeye de imkân sağlayan, çadır, lüks çadır, karavan, motor-karavan ve kır evi, kır lokantası, kır kahvesi gibi çok katlı olmayan, doğa ile uyumlu yapı ve tesisler ile yöresel ürünler sergi ve satış yeri, piknik üniteleri, kameriye ile diğer rekreasyonel yapı ve tesisleri ihtiva eden alanlar ile 6831 Sayılı Kanunun 25 inci, Ek 13 üncü, Ek 14 üncü maddelerinde ve 2634 sayılı kanunun Ek 5 inci maddesinde belirtilen mesire yerleri ile 4 Sayılı Cumhurbaşkanlığı Kararnamesinin 334 üncü ve 338 inci maddelerinde belirtilen mesire yerleri ve orman parklarıdır.
+4.2.68.2 Konaklamasız Orman Parkı: Devlet ormanlarında, toplumun çeşitli dinlenme, eğlenme ve spor ihtiyaçlarını karşılamak, yurdun güzelliğine katkı sağlamak ve turistik hareketlere imkân vermek maksadıyla kullanıma ayrılan; sadece günübirlik kullanım imkânı sağlayan ve içerisinde kır lokantası, kır kahvesi gibi çok katlı olmayan doğa ile uyumlu yapı ve tesisler ile yöresel ürünler sergi ve satış yeri, piknik üniteleri, kameriye ile diğer rekreasyonel yapı ve tesisleri ihtiva eden, rekreasyonel ve estetik kaynak değerlerine sahip alanlar ile 6831 Sayılı Kanunun 25 inci, Ek 13 üncü, Ek 14 üncü maddelerinde, 4 Sayılı Cumhurbaşkanlığı Kararnamesinin 334 üncü ve 338 inci maddelerinde belirtilen mesire yerleri ile orman parklarıdır.
+PLAN DEĞİŞİKLİĞİ ONAMA SINIRI (15.07.2025)
+5. GENEL HÜKÜMLER
+5.1 Bu plan 1/100.000 ölçekli plan paftası, plan notları ve plan açıklama raporu ile bir bütündür. Alt ölçekli planlar bu çevre düzeni planı ve hükümlerine uygun olarak yapılacak olup tüm uygulamalarda bu belgelerin bütünü göz önünde bulundurulacaktır.
+5.2 Bu plan üzerinden ölçü alınarak uygulamaya geçilemez. Bu planda gösterilen “Kentsel Yerleşme Alanları” kentsel gelişme alanlarını da içine almaktadır ve bu alanlar yerleşimlerin makroformunu ve gelişme yönünü gösteren şematik gösterimler olup, yerleşme alanı olarak gösterilen alanların tamamının yerleşime açılacağı anlamı çıkarılamaz. Bu alanların sınırları, alt ölçekli planlama çalışmalarında ilgili kurum ve kuruluşların görüşleri ile doğal, yapay ve yasal eşikler doğrultusunda, bu planda ve plan
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+20
+hükümleri ekinde yer alan Ek-1’deki tabloda belirlenen nüfus kabullerini aşmayacak şekilde kesinleştirilir.
+5.3 Bu planla belirlenen kentsel yerleşme alanlarında alt ölçekli planların hazırlanması sonrasında kesinleşen sınırlar dışında kalan alanların bugünkü arazi kullanımı devam ettirilecektir. Ancak, ihtiyaç olması halinde, sosyal ve teknik altyapıya yönelik kullanılabilir.
+5.4 Bu Planın genel hedef/ilke ve stratejilerine, arazi kullanım türlerine, nüfus kabullerine aykırı alt ölçekli plan, plan değişikliği, plan revizyonu ve/veya ilavesi yapılamaz.
+5.5 Bu planın onayından sonra hazırlanacak ve onaylanacak her türlü alt ölçekli plan bu planın koruma, gelişme ve planlama hedeflerine/ilkelerine ve plan kararlarına ve hükümlerine uygun olarak hazırlanacaktır.
+5.6 Bu planın ilke ve stratejileri doğrultusunda yapılacak olan alt ölçekli planlarda ilgili kurum ve kuruluşların görüşleri alınacaktır.
+5.7 Bu planın onayından önce hazırlanmış ve ilgili idaresince onaylanmış olan ancak bu planın ilke ve stratejileriyle ya da arazi kullanımı ya da nüfus kabulleriyle çelişen çevre düzeni planlarının, nazım ve uygulama imar planlarının uygulama görmemiş kısımlarının bu planın arazi kullanım kararları, plan hükümleri, plan açıklama raporu ve nüfus kabulleri doğrultusunda revizyonunun yapılması zorunlu olup, revizyonu yapılana kadar, yürürlükteki planların bu planın hedef/ilke, hüküm ve kararlarına aykırı olmayan karar ve hükümleri geçerlidir.
+5.8 Bu planın onayından önce hazırlanarak ilgili idaresince onaylanmış ve bu planın ilke ve stratejilerine, arazi kullanımı ve nüfus kabullerine uygun nazım ve uygulama imar planı bulunan alanlarda uygulama bu imar planları doğrultusunda sürdürülecektir. Söz konusu imar planlarında, bu planın genel ilke ve stratejilerine, arazi kullanım kararlarına, plan hükümlerine, plan açıklama raporuna ve nüfus kabullerine aykırı plan değişikliği ve revizyonu yapılamaz. Bu planın onayından önce, mevzuata uygun olarak hazırlanmış ve ilgili idaresince onaylanmış olan mevzii imar planlarının uygulaması söz konusu planlar doğrultusunda sürdürülür. Kentsel yerleşme alanları içinde veya kentsel yerleşme alanları ile bütünlük oluşturan bitişik konumdaki sanayi alanlarında bulunan tesislerin ekonomik ömrünü tamamlamasının ardından, anılan alanlarda bu planın koruma, gelişme ve planlama hedef ve ilkeleri ve plan kabul nüfusu ile çelişmeyen alt ölçekli kentsel yerleşme alanı amaçlı imar planları ilgili kurum ve kuruluşların uygun görüşleri alınarak çevre düzeni planı değişikliğine gerek olmaksızın ilgili idaresince hazırlanabilir ve onaylanabilir. Onaylanan planlar veri tabanına işlenmek üzere sayısal ortamda Bakanlığa gönderilir. Kentsel yerleşme alanı kullanımına dönüştürülen bu alanlar yeniden sanayi alanı olarak kullanılamaz.
+5.9 Bu planın onama tarihinden önce ilgili kurum ve kuruluş görüşleri alınarak ilgili idaresine başvurulmuş olan mevzi imar planları ile ilgili iş ve işlemler ilgili idaresince değerlendirilebilir.
+5.10 Bu Planın onay tarihinde imar uygulaması tamamlanmamış mevzii imar planlarında; imar uygulaması öncesinde, mevzuat gereği plan onayı öncesinde alınması gereken ilgili kurumların olumlu görüşlerinin bulunduğunun ilgili idare tarafından kontrol edilmesi zorunludur. Mevzuat gereği alınması ve uyulması gereken kurum görüşleri eksik ya da olumsuz olan mevzii imar planlarının uygulaması yapılamaz, bu planlar uyarınca yapılaşmaya geçilemez.
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+21
+5.11 Bu plan, mevzuata aykırı olarak yapılaşmış yapılar için herhangi bir hak oluşturmaz. Bu planın onayından önce mevzuata aykırı olarak yapılaşmış olan yapılara ilgili kanunlar uyarınca ilgili İdaresince işlem yapılır.
+5.12 Her türlü sosyal ve kültürel donatı alanı ve teknik altyapı mevzuatta belirlenmiş olan standartlara uygun olarak alt ölçekli planlarda dengeli ve fonksiyonel olarak dağıtılacaktır.
+5.13 Bu planın onayından önce düzensiz olarak kentleşmiş alanların çevre kalitesinin yükseltilmesi amacıyla sağlıklılaştırılması ve yenilenmesi esastır. Bu konuda hazırlanacak projelerde sosyo-ekonomik politikaların geliştirilmesinin yanı sıra ekolojik eşikler gözetilecek ve sürece halkın katılımı sağlanacaktır. Söz konusu alanların proje sonrasında fonksiyonun aynı kalması durumunda, alanda yaşamını sürdüren yerel halk profilinin korunması sağlanır.
+5.14 Bu plan sınırları içerisinde hedef yılı nüfus kabullerini ve plan bütünlüğünü bozucu yönde noktasal sanayi, konut, ikinci konut vb. kullanım kararları oluşturulamaz.
+5.15 Plan sınırları içerisinde, Nazım ve Uygulama İmar planı çalışmalarında afet riski (deprem, sel, heyelan gibi) değerlendirilecek, “Afet Bölgelerinde Yapılacak Yapılar Hakkında Yönetmelik” hükümleri uyarınca yerleşime esas jeolojik/jeoteknik etütlerin yaptırılacaktır.
+5.16 Bu planda şematik olarak gösterilmiş olan kırsal yerleşme alanları (köyler) dışında planda ölçek gereği gösterilememiş olan köy, mahalle, mezralara ilişkin yerleşik alanlarda bu planın Kırsal Alanlar’a ilişkin 6.2 no’lu hükümler geçerlidir.
+5.17 Bu plan sınırları içinde ihtiyaç olması halinde güvenlik, sağlık, eğitim vb. sosyal donatı alanları, Belediye hizmet alanları, büyük kentsel yeşil alanlar, kent veya bölge/havza bütününe yönelik her türlü atık bertaraf tesisleri ve bunlarla entegre geri kazanım tesisleri, arıtma tesisleri, sosyal ve teknik alt yapı, açık spor alanları, enerji iletimi ve doğalgaz depolamasına ilişkin imar planları, ayrıca idari sınırlarda olabilecek değişiklikler, bu planın koruma, gelişme ve planlama ilkelerine, İlgili kurum ve kuruluşların görüşlerine uyularak ilgili idaresince yapılır ve onaylanır. Söz konusu kullanımlardan ÇED Yönetmeliği kapsamında kalanlar için “Çevresel Etki Değerlendirmesi Olumlu” veya “Çevresel Etki Değerlendirmesi Gerekli Değildir” kararının bulunması, ÇED Yönetmeliği kapsamı dışında olanlar için ise ilgili kurum ve kuruluşların uygun görüşü olması kaydı ile çevre düzeni planı değişikliğine gerek olmaksızın alt ölçekli planları ilgili idaresince hazırlanır ve onaylanır. Onaylanan planlar sayısal ortamda veri tabanına işlenmek üzere Bakanlığa gönderilir. Söz konusu tesisler/tesis alanları amacı dışında kullanılamazlar.
+5.18 Yakma veya düzenli depolarının yanı sıra fiziksel/kimyasal/biyolojik önişlem ünitelerini içeren entegre atık bertaraf veya geri kazanım tesislerinin yer seçiminde, atığın en yakın ve en uygun olan tesiste bertaraf edilmesi ilkesi çerçevesinde, bölgenin atık miktarı dikkate alınarak ilgili kurum ve kuruşların görüşü doğrultusunda tesisin yer seçimi belirlenir.
+5.19 Bu plan kapsamındaki alanlarda, kentsel yerleşik alan ve kırsal yerleşme alanları dışında gereksinim duyulması halinde; Toplu Konut İdaresi'ne (TOKİ) tahsis edilmiş alanlarda TOKİ tarafından üretilecek toplu konut alanlarına ve Özelleştirme İdaresi Başkanlığı'nca yürütülen faaliyetlere, 6306 Sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanuna tabi alanlara ilişkin uygulamalara ve İller Bankası
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+22
+Anonim Şirketi Genel Müdürlüğü tarafından 6107 Sayılı Kanun uyarınca yapılacak uygulamalara ilişkin başvurular, bu planın koruma, gelişme ve planlama ilkeleri ve nüfus kabulleri doğrultusunda ilgili idaresince değerlendirilir. Bu doğrultuda hazırlanacak alt ölçekli planlar sayısal ortamda veri tabanına işlenmek üzere bakanlığa gönderilir. Kentsel yerleşik alan ve kırsal yerleşme alanları içerisinde kalması durumunda söz konusu talepler çevre imar bütünlüğü çerçevesinde ilgili idaresince alt ölçekli planlarda değerlendirilir.
+5.20 Bu planda önerilen devlet yatırımlarına (demiryolu, karayolu, havayolu, baraj, liman vb.) ilişkin kullanım kararlarının işlerlik kazanabilmesi için ilgili kurumca yatırım programına alınması gerekmektedir. Güzergâhlar şematik olup, ilgili kurum ve kuruluşça yapılacak fizibilite çalışmalarından sonra kesinlik kazanacaktır. Bu planın onayından sonra karara bağlanmış olan söz konusu kullanımlara ilişkin alt ölçekli planlar bu plana işlenmek üzere bakanlığa gönderilir.
+5.21 Bu planın onayından önce ilgili idarelerce yatırım programına alınarak ihale süreci başlamış veya tamamlanmış olan imar planı çalışmaları bu planın ilke, hedef ve kararlara uygun olarak sonuçlandırılır.
+5.22 Bu planda sınırları şematik olarak gösterilmiş olan kırsal yerleşme alanlarından, belediye sınırları içine katılarak mahalleye dönüşmüş/dönüşecek alanlar ile belediye mücavir alan sınırları içinde bulunan kırsal yerleşme alanlarının bu plan kararlarına ve hükümlerine uygun olarak gelişme alanlarının planlanması zorunludur. Verimli tarım toprakları ve fiilen sulanan veya sulama projeleri ilgili kuruluşlar tarafından hazırlanmış ve yatırım programına alınmış/alınacak tarım topraklarının tarımsal üretim amaçlı korunması esastır. Kamu yararı doğrultusunda, kırsal ve kentsel gelişme amaçlı kullanılması zorunlu alanlar için D.S.İ. Genel Müdürlüğü’nün/Bölge Müdürlüğü’nün ve Gıda, Tarım ve Hayvancılık Bakanlığı/İl Gıda, Tarım ve Hayvancılık Müdürlüğü’nün uygun görüşünün alınması zorunludur.
+5.23 Bu plan sınırları içindeki tüm orman sayılan yerlere ve orman alanlarına ilişkin konularda 6831 sayılı “Orman Kanunu” uyarınca uygulama yapılacaktır.
+5.24 Kirlilik yaratması muhtemel her türlü faaliyet için, faaliyet türüne göre çevre kirliliğini önleme yönünde alınması gereken önlemler ve yapılması gereken işlerin alt ölçekli planlama çalışmalarında belirlenmesi zorunludur.
+5.25 İhtiyaç duyulması halinde “Akaryakıt İstasyonları” ilgili mevzuatlar ve kurum/kuruluşların görüşleri doğrultusunda, ilgili idaresince değerlendirilerek alt ölçekli planları yapılarak onaylanabilir.
+5.26 Bu planda hangi kullanımda kalırsa kalsın Mera Kanununa tabi olduğu tespit edilen alanlarda Mera Kanunu hükümlerine uyulur.
+6. ÖZEL HÜKÜMLER
+6.1 KENTSEL YERLEŞME ALANLARI
+6.1.1 Planlama alanının topoğrafyasına bağlı olarak yerleşik dokunun dağınık bir yapıya sahip olması nedeniyle kentsel alanlar kentsel yerleşik alan ve kentsel gelişme alanlarını kapsayacak şekilde kentsel yerleşme alanları olarak gösterilmiştir. Bu doğrultuda kentsel yerleşme alanları sınırları şematik olup alt ölçekli planlarda bu alanların tamamının yerleşime açılacağı anlamı çıkarılamaz. Bu alanlara ilişkin kesin
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+23
+sınırlar, bu planda belirtilen nüfus kabulleri doğal, yapay ve yasal eşikler dikkate alınarak alt ölçekli planlarda belirlenecektir. Yerleşme alanı sınırları içerisinde bulunması muhtemel korunacak alanlar (verimli tarım alanları, orman alanları, içme ve kullanma suyu kaynakları, jeolojik sakıncalı alanlar, taşkın alanları, koruma alanları vb.) ilgili kurum ve kuruluş görüşleri de dikkate alınarak alt ölçekli planlarda dikkate alınacaktır.
+6.1.2 Bu planın onayından önce, ilgili idaresince onaylanmış ancak, bu planın nüfus kabullerini aşacak biçimde, gereğinden fazla nüfusun yüklendiği ve/veya gereğinden fazla gelişme alanının imara konu edildiği ve/veya bu imar planı sınırları içerisinde bulunması muhtemel korunması gerekli alanların (verimli tarım alanları, orman alanları, içme ve kullanma suyu kaynakları, jeolojik sakıncalı alanlar, taşkın alanları, koruma alanları vb.) gelişime konu edildiği ve/veya kurum kuruluş görüşleri alınmadan onaylanmış planlar ilgili kurum ve kuruluş görüşleri doğrultusunda yasal, doğal ve yapay eşikler çerçevesinde revize edilecektir.
+6.1.3 Mevcut imar planlarında öncelikle bu planda belirlenmiş nüfus kabullerini aşacak şekilde yerleşime açılmış alanlar varsa tespit edilerek; ilgili kurum ve kuruluş görüşleri de alınarak belirlenen yasal, doğal ve yapay eşiklerin bulunduğu alanlar yerleşim alanı dışına çıkarılacaktır.
+6.1.4 Revize edilecek olan onanlı imar planlarında revizyon, ilgili kurum kuruluş görüşleri ile bu planın kararları ve nüfus kabulleri doğrultusunda yapılarak ilgili idaresi’nce onaylanır. Söz konusu planlar onaylanmadan onanlı imar planının gelişme alanlarında imar uygulaması yapılamaz. İmar uygulaması tamamlanmış alanlar kentsel yerleşik alan olarak kabul edilir. Diğer alanlarda imar uygulaması durdurulur, ruhsatlandırma yapılamaz.
+6.1.5 Kentsel yerleşme alanı içerisinde, alt ölçekli planlar doğrultusunda belirlenecek olan gelişme alanı büyüklükleri ve yoğunlukları Ek-1 ve Ek-2’de verilmiş olan nüfus büyüklüklerine ve plan açıklama raporunda verilen ilçe künyelerine uygun olarak belirlenecektir.
+6.1.6 Bu plana uygun olarak yapılacak alt ölçekli planların bütüncül olarak yapılması zorunludur. Uygulama, alt ölçekli planlarda etaplar halinde yapılabilir. Bu doğrultuda kentsel gelişme alanlarının bu planda hesaplanan nüfus kabullerine ve projeksiyon dönemine göre denetimli/etaplı bir şekilde açılması esastır.
+6.1.7 Kentsel yerleşme alanlarında bu planın nüfus kabullerinin gerektirdiği sosyal ve teknik donatı alanları, alt ölçekteki planlarda (alt bölge 1/25.000 ölçekli çevre düzeni planları, 1/5000 ölçekli nazım imar planları ve 1/1000 ölçekli uygulama imar planlarında) belirlenecektir.
+6.1.8 Kentsel yerleşme alanlarında ve alt ölçekli planlarda bu planın nüfus kabullerine uygun olarak sınırları belirlenecek olan kentsel gelişme alanlarında; konut ve konut kullanımına hizmet verecek sosyal, kültürel donatı ve teknik altyapı tesisleri ile toptan ve perakende ticaret türleri, turizm tesisleri, küçük sanayi, endüstriyel atık su üretmeyen küçük ölçekli üretim yerleri, konut dışı kentsel çalışma alanları ve ticari depolama kullanımları yer alabilir. Organize sanayi bölgeleri, sanayi tesisleri ve sanayi depolamaları gibi kullanımlar yer alamaz.
+6.1.9 Bu planda kentsel yerleşme alanı olarak gösterilemeyen ve belediye sınırları içine alınarak mahalleye dönüşen kırsal yerleşme alanlarında yapılacak alt ölçekli
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+24
+planlarda yerleşmenin mahalle olarak bağlandığı sınırlar kentsel yerleşme alanı olarak esas alınır. Bu yerleşmelerin mahalle olarak bağlandığı tarihteki nüfusları bağlandıkları belediyenin bu plan ile yapılmış nüfus kabullerine eklenir. Alt ölçekli planlarda yerleşmenin sahip olduğu geleneksel doku ve yapılaşma özellikleri ile civarındaki alanın doğal özellikleri planlama aşamasında dikkate alınır ve koruma kararları oluşturulur.
+6.1.10 Kentsel yerleşme alanlarındaki onanlı nazım ve uygulama imar planlarında yapı stoğunun durumuna, ayrıntılı jeolojik etütlere, donatı niteliğine ve niceliğine, alanda yaşayanların sosyal ve ekonomik yapısına göre, yaşayanların katılımıyla yenileme, sağlıklılaştırma yönünde projeler geliştirilecektir.
+6.1.11 Beldelerde ilişkin mekânsal karar ve stratejiler, bu planın nüfus kabulleri ve il/ilçe senaryolarına mevzuata uygun olarak ilgili idaresince belirlenecektir.
+6.1.12 İmar planları, İller Bankası’nca onaylanmış ve planları aynı kurum dışında revize edilmemiş belde belediyeleri onanlı imar plan kararları doğrultusunda uygulama yapabileceklerdir.
+6.1.13 Belde Belediyeleri alt ölçekli planlardaki nüfus atamalarını Ek-2 Tabloda verilen kentsel alt ve üst projeksiyon nüfusları doğrultusunda yapacaklardır.
+6.1.14 6360 Sayılı On Dört İlde Büyükşehir Belediyesi Ve Yirmi Yedi İlçe Kurulması İle Bazı Kanun Ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun kapsamında, büyükşehir statüsü kazanan iller kapsamındaki mahalleye dönüşenerek kentsel yerleşim statüsü kazanan köylerde, varsa onaylı imar planı koşulları geçerlidir.
+6.1.15 İmar planı bulunmayan mahalleye dönüşen köylerde ise Büyükşehir Belediye Meclisince aksine bir karar alınmadıkça, uygulama imar planı yapılıncaya kadar, “Kırsal Yerleşim Alanları” plan hükümlerine göre uygulama yapılacaktır.
+6.2 KIRSAL YERLEŞME ALANLARI
+6.2.1 İlgili idarece, mevzuata göre onaylanmış olan köy yerleşik alanı ve civarına ilişkin sınırlar geçerlidir.
+6.2.2 Köy yerleşik alanı ve civarına ilişkin sınır tespiti yapılmamış köylerin sınırları, İlgili idaresince belirlenir. Kesinleşen sınırlar plan değişikliğine gerek kalmaksızın geçerli olacaktır. Bu sınırlar sayısal ortamda, veri tabanına işlenmek üzere Bakanlığa gönderilir.
+6.2.3 Kırsal yerleşme alanlarında imar planları yapılıncaya kadar konut, tarım ve hayvancılık amaçlı yapılarda yapılanma koşulları Plansız Alanlar Yönetmeliği hükümlerine göre belirlenir. Silo, samanlık, yem deposu, vb. yapılar için maksimum bina yüksekliği ihtiyaç doğrultusunda belirlenir.
+PLAN DEĞİŞİKLİĞİ ONAMA SINIRI (07.05.2021)
+6.2.4 Köyün genel ihtiyaçlarına yönelik olarak yapılacak sosyal ve ticari tesisler (köy konağı, ibadethane, okul, spor alanı, harman yeri, pazar yeri, sağlık ocağı, sağlık evi, PTT, karakol, ticarethane, mezarlık vb.) için yapılaşma koşulları ilgili idaresince
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+25
+belirlenir. Bu kullanımlar dışındaki her türlü faaliyet için (turizm, günübirlik veya bölgesel düzeyde ticaret, vb.) imar planı yapılması zorunlu olup Emsal: 0,50’dir. Diğer yapılanma koşulları çevre imar bütünlüğü gözetilerek alt ölçekli planlarda belirlenecektir.
+PLAN DEĞİŞİKLİĞİ ONAMA SINIRI (07.05.2021)
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+26
+6.3 ÇALIŞMA ALANLARI
+6.3.1 Organize Sanayi Alanları (OSB):
+6.3.1.1 4562 sayılı Organize Sanayi Bölgeleri Kanunu’na göre OSB statüsü kazanmış/kazanacak alanlarda OSB Kanunu ve Yönetmeliği hükümleri geçerlidir.
+6.3.1.2 Organize sanayi bölgelerinin yer seçimi bu planın koruma ve gelişme ilke ve hedefleri çerçevesinde, ilgili kurum ve kuruluş görüşleri doğrultusunda yapılacaktır.
+6.3.1.3 Organize Sanayi Bölgelerinde, OSB Yerseçim Komisyonu’nca yer seçimi yapılan 50 hektarı geçmeyen alanların alt ölçekli planları hazırlanarak onaylanabilir. Yapılan ilaveler veri tabanına işlenmek üzere sayısal ortamda Bakanlığa gönderilir.
+6.3.1.4 Bu planda Sanayi alanı olarak belirlenen alanlar; Sanayi ve Ticaret Bakanlığı’nca OSB olarak yer seçimi kesinleştirildiği takdirde, plan değişikliğine gerek kalmaksızın OSB alanı olarak kullanılabilir.
+6.3.2 Sanayi ve Depolama Alanları
+6.3.2.1 Bu alanlarda sanayi ve depolama kullanımları olarak bir arada yer alabileceği gibi alt ölçekli planlarda ayrı ayrı da planlanabilir.
+6.3.2.2 Bu planın onayından önce yer seçmiş ve mevzuata uygun olarak onaylanmış imar planı bulunan münferit sanayi alanlarında mevcut yapılaşma koşulları geçerli olup bu alanlarda yoğunluk artışı getirecek plan değişikliği/revizyonu ve tevsii yapılamaz. Ancak taşınması mümkün olmayan veya ilgili mevzuat gereği ilave ve/veya değişiklik yapılması gereken sanayi alanlarının alt ölçekli planları Bilim, Sanayi ve Teknoloji Bakanlığının uygun görüşü doğrultusunda çevre düzeni planı değişikliğine gerek olmaksızın ilgili idaresince onaylanabilir. Bu alanlarda yer alan/alacak endüstriyel atık suyu olan sanayi tesislerine atık su arıtma tesisi kurulması zorunludur.
+PLAN DEĞİŞİKLİĞİ ONAMA SINIRI (24.12.2024)
+6.3.2.3 Planlama alanı içerisinde gerek simgesel olarak sanayi gelişiminin öngörüldüğü alanlarda gerekse yeni oluşabilecek sanayi taleplerinde çevresel önlemlerin alınması ve ortak altyapının gerçekleştirilebilmesi amacıyla en az beş (5) tesisin yer alabileceği büyüklükte alan ayrılması zorunludur. Yeni sanayi talepleri ilgili idareler tarafından ilgili kurum ve kuruluş görüşleri alınarak Bakanlığa sunulur. Bakanlıkça uygun görülmesi halinde Çevre Düzeni Planında değişiklik yapılmasına gerek kalmaksızın alt ölçekli planları ilgili idaresince onaylanır. Onaylanan planlar veri tabanına işlenmek üzere sayısal ortamda Bakanlığa gönderilir. Bu alanlarda taleplerin yönlendirilerek aynı sanayi türlerinin bir araya getirilmesi esastır.
+6.3.2.4 Bu alanlarda kurulacak sanayi ve depolama türlerine göre "İş Yeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelik” uyarınca mülkiyet içerisinde Sağlık Koruma Bandı bırakılacaktır.
+6.3.2.5 Bu alanlarda yapılaşma emsali ve yapı yükseklikleri, mevzuat, tür, teknoloji vb. unsurlar dikkate alınarak alt ölçekli planlarda belirlenir.
+6.3.2.6 Bu alanlarda, Su Kirliliği Kontrolü Yönetmeliği’nin “Teknik Usuller Tebliği’nde belirtilen kriterler sağlanmadan hiçbir yapı ve tesise iskân ve işletme ruhsatı verilemez.
+6.3.2.7 Sanayi amaçlı yapılaşacak alanlarda, emsal dâhilinde sanayi hammadde ve mamul madde depoları, idari büro ve servis mekânları da yapılabilir.
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+27
+6.3.2.8 Bu planın onayından önce mevzuata uygun olarak yer seçmiş olan sanayi alanlarının çevreye olan zararlarının azaltılması amacıyla kirliliği önleyici çevre koruma tedbirlerinin alınması zorunludur.
+6.3.2.9 Sanayi alanlarında yer alacak sanayi tesislerinin çevreye verecekleri muhtemel zararı en aza indiren ileri teknoloji kullanmaları esastır.
+6.3.2.10 Sulak alan niteliğindeki nehirleri çevreleyen koruma kuşaklarında sanayi tesislerinin kurulmasına izin verilemez.
+6.3.2.11 Atık suyu olan sanayi tesislerinin arıtma tesisi yapmaları ve atıklarını arıtarak deşarj etmeleri zorunludur.
+6.3.2.12 Depolama alanlarında iş yeri açma ve çalışma ruhsatlarına ilişkin mevzuat uyarınca depolama türlerine göre mülkiyet içerisinde gerekli sağlık koruma bandı bırakılacaktır.
+6.3.2.13 Depolama alanlarında açık ve kapalı depolama ve stok alanı, yükleme ve boşaltma alanları, açık ve kapalı otoparklar, garajlar, altyapı tesis alanları yer alabilir. Bu alanlarda yapılacak tesislerin çevresinin ağaçlandırılması zorunludur. Açık ve kapalı depolama tesisleri türü ve yapılaşma koşulları ihtiyaca göre alt ölçekli planlarda belirlenecektir.
+6.3.2.14 Depolama alanlarında “Tekel dışı bırakılan patlayıcı maddeler ve av malzemesi ve benzerlerinin üretim, ithal, taşınması, saklanması, depolanması, satışı, kullanılması, yok edilmesi, denetlenmesi usul esaslarına ilişkin tüzükte belirtilen, çevresel olumsuz etkisi bulunan malzemeler için depolama yapılamaz. Sadece sanayi ham ve üretim malzemeleri depolanabilir.
+6.3.2.15 Depolama Alanlarında mevcut imar planları geçerlidir. Ayrıca depolama alanları patlayıcı, parlayıcı ve yanıcı olmamak şartıyla sanayi alanları içinde yer alabilir. Yapılanma koşulları alt ölçekli planlarda belirlenecektir.
+6.3.2.16 Planlama alanında yer alacak beton santrallerinin öncelikle planda belirlenmiş olan sanayi alanlarına yönlendirilmesi esastır. Ancak ihtiyaç olması halinde beton santrallerine ilişkin yer seçimi; söz konusu alanların kentsel ve kırsal yerleşme alanlarının içinde ya da bu alanlara bitişik olmaması, su kaynakları koruma kuşakları içerisinde ve herhangi bir koruma statüsü bulunan bir alanda yer almaması, tarımsal arazi vasfının düşük olması ile bölgede yer alacak tesislerin birbirine bitişik konumda olması esasları dikkate alınarak, ilgili valilik ve/veya il belediyesi koordinatörlüğünde kurulacak olan, bilim, sanayi ve teknoloji bakanlığı il müdürlüğü ve diğer ilgili kurum ve kuruluş temsilcilerinin yer aldığı komisyonca belirlenebilir. Belirlenen alanlara ilişkin imar planları işyeri açma ve çalışma ruhsatlarına ilişkin yönetmelik kapsamında ve ilgili diğer mevzuat uyarınca onaylanacaktır. Yer seçimi yapılan bu alanların imar planları, bu planda değişiklik yapılmaksızın ilgili idaresince onaylanır. Seçilmiş alanlara ilişkin onaylanan planlar sayısal ortamda veri tabanına işlenmek üzere bakanlığa gönderilir. Bu alanlarda çevre kirliliğini önleyici her tür önlemin alınması ve ortak arıtma tesisleri oluşturulması esastır.
+6.3.3 Patlayıcı Madde Depoları: Bu planda gösterilen sanayi ve depolama alanı içinde niteliği gereği yer alamayan, 5201 sayılı (Harp Araç ve Gereçleri ile Silah,
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+28
+Mühimmat ve Patlayıcı Madde Üreten Sanayi Kuruluşlarının Denetimi Hakkında) Kanuna tabi işletmeler, Tekel Dışı Bırakılan Patlayıcı Maddelerle Av Malzemesi ve Benzerlerinin Üretimi, İthali, Taşınması, Saklanması, Depolanması, Satışı, Kullanılması, Yok Edilmesi, Denetlenmesi Usul ve Esaslarına İlişkin Tüzükte tanımlanan maddelerin üretimi, atık bertarafı, depolanması, tesis yer seçimi, izin, ruhsat ve konuya ilişkin her türlü iş ve işlemler ilgili mevzuatı doğrultusunda hazırlanacak alt ölçekli planları, ilgili İdaresince onaylandıktan sonra yapılır. Onaylanan planlar veri tabanına işlenmek üzere sayısal ortamda Bakanlığa gönderilir. Söz konusu tesis alanları amacı dışında kullanılamaz.
+6.3.4 Büyük Alan Kullanımı Gerektiren Kamu Kuruluş Alanları: Kent bütününe ve çevresine hizmet eden, içerisinde kamu hizmet birimlerinin yer aldığı alanlardır. Mevcut kamu kuruluş alanlarında, çevre düzeni planı onayından önce ilgili idarece onaylanmış 1/5000 ölçekli Nazım İmar Planı ve 1/1000 ölçekli Uygulama İmar Planı koşulları geçerlidir. Çevre Düzeni Planı sonrasında yapılaşmaya açılacak olan kamu kuruluş alanlarında, yapılaşma koşulları alt ölçekli planlarda belirlenecektir.
+6.3.5 Endüstriyel Gelişme Bölgesi: Bu planda gösterilen genel olarak ihracata yönelik Endüstriyel Gelişme Bölgelerinde, lojistik faaliyetleri ve bu faaliyetlere katkıda bulunan ticari üniteler, paketleme veya ambalaja dayalı sanayi faaliyetleri ve gerektiğinde gümrük işlemleri yapılabilir. Bu alanlar liman geri sahası kullanımlarını da içerir. Bu alanlardaki yapılaşma koşulları ilgili kurum ve kuruluşların görüşleri alınmak suretiyle alt ölçekli planlarda belirlenecektir.
+6.4 TARIM ALANLARI
+6.4.1 Bu planda yer alan tarım alanları “Tarım Arazisi” ve “Bölgeye Özel Ürün Alanı” olarak gösterilmiş olup 5403 sayılı kanun ve ilgili yönetmeliğinde tanımlanan “Tarım Arazileri Sınıflarına” ayrılmamıştır.
+6.4.2 Tarım alanlarında ifraz işlemleri 5403 sayılı Kanun ve bu Kanuna istinaden yayımlanmış yönetmelik, tüzük hükümleri uyarınca yapılır.
+6.4.3 Tarım arazileri ile fiilen sulanan veya sulama projeleri ilgili kuruluşlar tarafından hazırlanmış ve yatırım programına alınmış / alınacak tarım topraklarının tarımsal üretim amaçlı korunması esastır.
+6.4.4 Planda tarım arazisi olarak gösterilmiş alanlarda mera tescilli alanlar bulunması durumunda 6.8 maddesi hükümleri doğrultusunda uygulama yapılır. Mera olarak gösterilmiş alanlarda tarım arazisi bulunması durumunda da tarım alanlarına ilişkin hükümler uygulanır.
+6.4.5 Bu planın onayından sonra yapılacak olan alt ölçekli planlarda, 5403 sayılı “Toprak Koruma ve Arazi Kullanımı Kanunu” gereği, 1380 sayılı “Su Ürünleri Kanunu ve Yönetmeliği” hükümleri gereği ve 4342 sayılı “Mera Kanunu” gereği ilgili Tarım İl Müdürlükleri’nin görüşü alınacaktır.
+6.4.6 İçme ve kullanma suyu temin edilen kıta içi yüzeysel su kaynaklarının bulunduğu havzalarda, mutlak ve kısa mesafeli koruma kuşağında gerçekleştirilen tarımsal faaliyetlerde organik tarımın özendirilmesi esastır.
+6.4.7 Tarımsal amaçlı yapılar kullanım amacı dışında kullanılamaz ve dönüştürülemez.
+6.4.8 Silo, samanlık, depo gibi yapıların yüksekliği ihtiyaç doğrultusunda belirlenir.
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+29
+6.4.9 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanununda dikili, özel ürün, fiilen sulanan veya sulama projesi kapsamında kalan tarım arazilerinde 3194 sayılı İmar Kanununun 27.maddesi kapsamında kalan hayvancılık amaçlı yapılar hariç, hayvancılık tesisi yapılmasına izin verilmez.
+6.4.10 Bu planın onayından önce yürürlükteki mevzuat uyarınca inşaat ruhsatı veya yapı kullanma izni verilmiş olan tarımsal amaçlı yapılara ilişkin haklar saklıdır.
+6.4.11 Tarım alanlarında yapılacak tarımsal amaçlı yapılar bu plan ile verilmiş olan yapılanma koşullarını aşılmamak kaydıyla, 3194 sayılı İmar Kanunu “Plansız Alanlar Yönetmeliği’nin 6.Bölüm’ünde belirtilen esaslara uyulur.
+6.4.12 Tarım arazileri sınıflaması, Gıda, Tarım ve Hayvancılık Bakanlığı'nca yapılacak/yaptırılacaktır. Tarımsal nitelikli alanlarda, belirlenmiş/ belirlenecek tarım arazileri sınıflamalarına göre tarımsal amaçlı yapılaşmalar aşağıda belirlenen koşullara göre gerçekleştirilecektir.
+6.4.12.1 Mutlak Tarım Arazileri
+Bu alanlarda; tarımsal amaçlı yapılar yapılabilir. Çiftçinin barınabileceği yapı emsale dahi olup, İnşaat alanı 75 m2’yi geçemez. E(Emsal) = 0,10’dur.
+Örtü altı tarımın yapıldığı, fiilen sulanan veya ilgili kurum ve kuruluşlarca sulama projesi kapsamında olan mutlak tarım arazilerinde 3194 sayılı İmar Kanununun 27.maddesi kapsamında kalan hayvancılık amaçlı yapılar hariç, hayvancılık tesisi yapılmasına izin verilmez.
+Bu alanlarda örtü altı tarım yapılması durumunda sera yapıları emsale dâhil değildir.
+Bir parsel üzerinde müştemilat ve tarımsal amaçlı yapılar hariç birden fazla yapı yapılamaz. Müştemilat binaları inşaat alanına dâhildir.
+6.4.12.2 Özel Ürün Arazileri
+Bu alanlarda, 3194 sayılı İmar Kanununun 27.maddesi kapsamında kalan hayvancılık amaçlı yapılar hariç hayvancılık amaçlı yatırım yapılmasına izin verilmez. Çiftçinin barınabileceği yapı emsale dâhil olup İnşaat alanı 150 m2’yi geçemez, Tarımsal amaçlı yapılar için E(Emsal) = 0,05’dur.
+Bu alanlarda örtü altı tarım yapılması durumunda sera yapıları emsale dâhil değildir.
+Bir parsel üzerinde müştemilat ve tarımsal amaçlı yapılar hariç birden fazla yapı yapılamaz. Müştemilat binaları inşaat alanına dâhildir.
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+30
+6.4.12.3 Dikili Tarım Arazileri
+Bu alanlarda; 6.4.12.2 maddesindeki koşullar geçerlidir.
+6.4.12.4 Marjinal Tarım Arazileri
+Marjinal tarım arazilerinde, tarımsal amaçlı yapılar yapılabilir. Tarımsal amaçlı yapılar için E(Emsal) = 0.30’dur.
+Çiftçinin barınabileceği yapının inşaat alanı 150 m2’yi geçemez. Bu yapılar, tarımsal amaçlı yapılar için belirlenmiş emsale dâhildir.
+Örtü altı tarımın yapıldığı, fiilen sulanan veya ilgili kurum ve kuruluşlarca sulama projesi kapsamında olan marjinal tarım arazilerinde 3194 sayılı İmar Kanununun 27.maddesi kapsamında kalan hayvancılık amaçlı yapılar hariç, hayvancılık tesisi yapılmasına izin verilmez.
+Bu alanlarda örtü altı tarım yapılması durumunda sera yapıları emsale dâhil değildir.”
+Bir parsel üzerinde müştemilat ve tarımsal amaçlı yapılar hariç birden fazla yapı yapılamaz. Müştemilat binaları inşaat alanına dâhildir.
+6.4.13 Başbakanlık, Gıda, Tarım ve Hayvancılık Bakanlığı, ilgili bakanlıklar ve bunların bağlı kuruluşları tarafından desteklenen projeye dayalı tarımsal faaliyetler kapsamında tarımsal amaçlı yapılar (tarımsal kalkınma kooperatiflerince uygulanan projeler, üretici birlikleri/kooperatifleri tarafından uygulanan projeler, Avrupa Birliği kaynaklı projeler, Dünya Bankası destekli projeler, sosyal riski azaltma projesi kapsamında uygulanacak projeler gibi) ile destekleme projeleri Gıda, Tarım ve Hayvancılık Bakanlığı’nca değerlendirilerek sonuçlandırılır. Ancak fiilen sulanan veya sulama projesi kapsamında kalan tarım arazilerinde bu hüküm uygulanmaz.
+6.4.14 Bu alanlarda, Tanımlar bölümünde yer alan tarımsal amaçlı yapılar başlığında belirtilen, özelliği itibariyle hasattan sonra iki saat içinde işlenmediği takdirde kalite ve besin değeri kaybolması söz konusu olan ürünlerin işlenmesine yönelik tesislere ilişkin alt ölçekli planlar Gıda, Tarım ve Hayvancılık Bakanlığı’nın uygun görüşü doğrultusunda çevre düzeni planında değişiklik yapılmasına gerek kalmaksızın ilgili idarelerce Emsal (E) = 0.50, Toplam İnşaat Alanı = 1000 m2 yapılaşma koşulları ile onaylanabilir.
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+31
+6.5 ORGANİZE TARIM VE HAYVANCILIK ALANLARI
+6.5.1 Bu alanlarda, tarım ve hayvancılığa yönelik araştırma ve geliştirme birimleri, ürün toplama, depolama, saklama alanları, ürün işleme tesisleri ve besicilikte kullanılacak yem üretim alanları, tarımsal amaçlı yapı ve tarımsal amaçlı entegre tesisler ile çalışanların ihtiyacına yönelik sosyal ve kültürel donatı alanları, sağlık ve eğitim tesisleri, gereksinimlere ve planlama ilkelerine uygun şekilde, toplu olarak (organize şekilde) yer alabilecektir.
+6.5.2 Bu planda gösterilenler dışında ihtiyaç olması halinde, en az 5 ha. Olacak şekilde, ilgili kurum ve kuruluş görüşlerine bağlı kalınarak, il bazında bütüncül olarak hazırlanacak çevre düzeni planları veya nazım imar planları ve il toprak koruma kurulu marifetiyle yer seçimi yapılabilir. Yer seçimi yapılan alanlara ilişkin imar planı yapılmasının gerekli olduğu durumlarda, imar planları bu planda değişikliğe gerek olmaksızın ilgili idaresince hazırlanır ve onaylanır. Onaylanan planlar sayısal ortamda veri tabanına işlenmek üzere bakanlığa gönderilir. Söz konusu tesisler/tesis alanları amacı dışında kullanılamazlar.
+6.6 ORMAN ALANLARI
+6.6.1 Bu Planda “orman alanı” olarak gösterilen alanlar, devlet ormanları, kamu tüzel kişiliği ormanları, özel ormanlar ya da muhafaza ormanları, ağaçlık/ ağaçlandırılacak alanlar, erozyon denetimi ve iyileştirilmesine konu edilen alanlar olup, bu alanlarda 6831 sayılı Orman Kanunu hükümleri uygulanır.
+6.6.2 Uygulamada sınırlar konusunda belirsizlik olması halinde orman kadastro sınırları esas alınır.
+6.6.3 Planlama Bölgesi’nde bu planın yapım aşamasında sürdürülen kadastro çalışmaları ivedilikle bitirilecek, böylece uygulama esasında ve alt ölçek planlama çalışmalarında bu kadastro verileri geçerli olacaktır.
+6.6.4 Orman Kanunu’nun 2.maddesinin (b) fıkrasına konu alanlarda yer alan yerleşim alanı niteliğinde olan alanlar hukuki durumda olabilecek değişikliklerin sonucuna göre, Orman Genel Müdürlüğü ve Milli Emlak Genel Müdürlüğü görüşleri alınarak, bu planın nüfus kabulleri, ilke ve kararları doğrultusunda incelenerek, bu alanlarda mahkeme kararları sonucu doğacak haklar saklı kalmak kaydıyla alt ölçekli planlarda değerlendirilebilir. Tarımsal nitelik kazanmış olan kısımlarda ise bu planın ilgili hükümleri uyarınca işlem yapılır.
+6.6.5 Bu planda orman alanı içinde gösterilmiş olsun ya da olmasın, 2-b alanlarında, 1981 yılından önce yapılaşarak yerleşim alanı niteliği kazanmış alanlarda, mevzuatta herhangi bir değişiklik gerçekleşmeden, alt ölçekli planlarla yapılaşma kararı getirilemez.
+6.6.6 Planlama alt bölgeleri dâhil, planda hangi kullanımda kaldığına bakılmaksızın orman mülkiyetinde olan ve Orman Genel Müdürlüğü’nce tahsisi yapılan alanlar, Orman Genel Müdürlüğünün görüşünün alınmak koşulu ile 1/100 000 ölçekli çevre düzeni planı değişikliğine gerek kalmaksızın gerekli izinler alınarak tahsis süresi içinde tahsis amacına uygun olarak kullanılabilir.
+6.6.7 Planda orman alanı veya “Ağaçlandırılacak Alan” olarak gösterilen alanlarda yer alan, özel mülkiyeti kesinleşmiş (tapuya tescil edilmiş), herhangi bir yola en az 25 m
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+32
+cephesi olan parsellerde, başka bir sınırlama ve koruma kararı yoksa yüksekliği 2 katı aşmayan, çiftçinin barınması amaçlı tek yapı ve tarım ve hayvancılıkla ilgili yapılar yapılabilir. Bu tür alanlarda (özel mülkiyeti kesinleşmiş-tapuya tescil edilmiş) İlgili kurumlarca uygun görülmesi halinde, çevre düzeni planı değişikliğine gerek olmaksızın, bu planın “6.4 Tarım Alanları” için belirtilen hükümlerine uyulur. Bu tür alanlarda varsa ağaçlık dokunun korunması esastır.
+6.6.8 Ağaçlık karakteri korunacak alanlarda yer alan özel mülkiyetlerde, başka bir sınırlama ve koruma kararı yoksa parselde çiftçinin barınması amaçlı yapı için maks. İnşaat alanı= 150 m² olmak üzere tarım ve hayvancılıkla ilgili yapılar yer alabilir. Emsal = 0.05, Yençok= 2 kat olacaktır.
+6.7 MESİRE ALANLARI/ORMAN PARKLARI:
+Planda hangi kullanımda kaldığına bakılmaksızın; mevzuatı uyarınca tespit edilmiş mesire alanları ile konaklamalı ve konaklamasız orman parkları, Tarım Ve Orman Bakanlığı, Orman Genel Müdürlüğü tarafından, ilgili kurum ve kuruluşların görüşleri alınarak hazırlanan/hazırlanacak gelişim ve yönetim planlarına uygun olarak yapılır.
+PLAN DEĞİŞİKLİĞİ ONAMA SINIRI (15.07.2025)
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+33
+6.8 YAYLA VE MERALAR
+6.8.1 Mera Alanlarının bütünlüklü korunması esastır. Alanların kullanımında 4342 sayılı Mera Kanunu ve Mera Yönetmeliği’ne göre uygulama yapılacaktır.
+6.8.2 Planda mera olarak gösterilmiş alanlarda Mera Kanunu dışında ve özel mülkiyete konu olan alanlar olması durumunda 6.4 No’lu Tarım Alanlarına ilişkin hükümler uyarınca uygulama yapılabilir. Planda tarım alanları içerisinde kaldığı halde mera olduğu tespit edilen alanlar bulunması durumunda ise 6.8.1 No’lu hüküm doğrultusunda uygulama yapılacaktır.
+6.8.3 Orman ve mera kanuna tabi olmayan, özel mülkiyet içerisinde yer alan yaylalarda yapılacak yapılar yüksekliği 2 katı geçmeyecek ve geleneksel mimariye uygun olarak taş veya ahşap malzeme kullanılan, yüksekliği 2 katı geçmeyen yapılar yapılabilir. Bu alanlarda yayla turizmine hizmet edecek tesislerin, doğal bitki örtüsüne uygun çözümlerle hazırlanmış 1/1000 ölçekli uygulama imar planları, ilgili kurum ve kuruluşların görüşü doğrultusunda ilgili idarece onaylanmadan tesisler için ruhsat alınamaz. Yayla alanlarında mülkiyet deseninin ve geleneksel yapının korunması esastır. Rekreaktif amaçlı yapılar ile konut, tarım, hayvancılık türü yapılar yer alabilir. Kadastral bir yola en az 25 m cephesi bulunmak ve 5000 m² parsel büyüklüğü oluşturmak kaydı ile ifraz yapılabilir. Bu alanlarda yapılanma koşulu; Emsal (E)= 0,02 Maks. bina yüksekliği= 6,50 m (2 kat) Min. ifraz büyüklüğü= 5000 m²
+6.9 TURİZM ALANLARI
+6.9.1 Kültür ve Turizm Koruma ve Gelişim Bölgeleri: 2634sayılı “Turizmi Teşvik Kanunu” uyarınca Kültür ve Turizm Bakanlığı tarafından yapılacak/yaptırılacak turizm amaçlı planlarda yapılaşma koşulları belirlenecektir.
+6.9.2 Turizm Merkezleri: 2634sayılı “Turizmi Teşvik Kanunu” uyarınca Kültür ve Turizm Bakanlığı tarafından yapılacak/yaptırılacak turizm amaçlı planlarda yapılaşma koşulları belirlenecektir. Turizm Merkezi olarak ilan edilen ya da edilecek alanlarda altyapı çalışmaları ve ortak arıtma tesisleri tamamlanmadan, hiç bir tesise kullanım izni verilmez.
+6.9.3 Turizm tesis alanlarında, 2634 sayılı “Turizm Teşvik Kanunu” ve “Turizm Yatırım ve İşletmelerinin Niteliklerine İlişkin Yönetmeliği’ne uyulması ve Kültür ve Turizm Bakanlığından Turizm yatırım belgesi alınması zorunludur. Bu tür taleplerde, Kültür ve Turizm Bakanlığı ile ilgili kurum ve kuruluş görüşleri doğrultusunda ilgili idarece 1/1.000 ölçekli uygulama imar planları hazırlanacak ve onaylanacaktır.
+6.9.4 Günübirlik Turizm Tesis Alanı: Bu alanlarda yeme içme, dinlenme eğlence ve spor olanaklarını günübirlik olarak sağlayan tesisler yapılabilir. Konaklama tesisi ve konut yapılamaz. Bu alanlardaki yapılaşma koşulları alt ölçekli planlarda belirlenecektir. Uygulama imar planı ilgili idare tarafından onaylanmadan uygulamaya geçilemez. Orman içi dinlenme yerlerinde ilgili mevzuat uyarınca uygulama yapılır.
+6.9.5 Termal Turizm Alanları: Termal turizm tesis alanlarında termal kaynakların korunması esastır. Bu alanlarda, ilgisine göre diğer turizm alanlarındaki kurallar geçerlidir. Termal turizm tesis alanlarında yapılaşma koşulları alt ölçekli planlarda belirlenecektir.
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+34
+6.9.6 Kamping Alanları: Bu alanlarda konaklama ihtiyacının taşınabilir yapılarla (Çadır, karavan vb.) sağlayan turizm amaçlı kullanımlar yer alabilir. Bu alanlardaki yapılaşma koşulları alt ölçekli planlarda belirlenecektir.
+6.9.7 Eko-Turizm Alanları :
+6.9.7.1. Bu plan ile belirlenen veya alt ölçekli planlarda belirlenebilecek olan bu alanlarda; Turizm Tesislerinin Niteliklerine İlişkin Yönetmelik hükümlerine uygun, ekolojik yapı ile bütünleşik kırsal turizm tesisleri ile bunlara hizmet veren spor tesisleri, satış üniteleri ve gerekli sosyal donatı alanları yer alabilir. Bu alanlarda yer alacak konaklama tesislerinin niteliklerine ilişkin yönetmelik uyarınca “kırsal turizm tesisleri” olarak belgelendirilecektir.
+6.9.7.2. Eko-turizm alanları için öncelikle imar planını onaylamaya yetkili idareye başvurulur. Başvuruların değerlendirilebilmesi için yetkili idarece Bakanlık/Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğü dâhil ilgili kurum ve kuruluşlardan uygun görüş alınması zorunludur.
+6.9.7.3. Yapılacak yapılarda doğal yapı ve geleneksel mimari dokunun korunması sağlanacaktır.
+6.9.7.4. Eko-turizm alanı olarak belirlenebilecek alanlarda uygulama öncesi toplam alan büyüklüğü en az 15.000 m2 olacaktır. Bu alanlarda uygulama ada bazında yapılacak, alanın toplam yüzölçümünün en az %30’luk bölümü, yapı yapılmayacak şekilde açık alan olarak planlanacaktır. Bu alanlarda min. İfraz şartı 10.000 m2’dir. 20.000 m2 üzerinde büyüklüğe sahip alanlar ise toplam inşaat alanı 2.000 m2’yi geçmeyecek şekilde düzenlenecektir.
+Bu alanlarda yapılaşma koşulları: Emsal=0,10; Yençok: 2 kattır. Kat yükseklikleri yöresel, coğrafi koşullar ve iklim koşulları dikkate alınarak belirlenir. Bu tesislerde en fazla bir bodrum katı yapılabilir. Bodrum katlarda konaklama üniteleri yer alamaz. Bodrum katta yalnızca bakım ve işletme ihtiyaçlarını karşılayacak üniteler yer alabilir. Ayrı yapılar olarak düzenlenen konaklama birimlerinde bodrum kat sadece ana yapıda yer alabilir.
+6.9.7.5. Bu alanlarda yer alacak turizm belgeli konaklama tesisi tek bir bağımsız bölüm olacaktır. Bu alanlardaki konaklama birimleri üzerinde devre mülk, kat irtifakı ve kat mülkiyeti gibi şerhe konu haklar tesis edilemez.
+6.9.7.6. Konaklama tesisi için yetkili idareden işyeri açma ve çalışma ruhsatı alınması sonrasında ruhsat tarihinden itibaren 1 yıl içerisinde Kültür ve Turizm Bakanlığından alınacak turizm işletmesi belgesi ilgili idaresine ibraz edilecek ve bu plan hükmünün yetkili idare tarafından takibi ve denetimi yapılacaktır.
+6.9.7.7. 06.05.2022 tarihinden önce, ilgili kurum ve kuruluşlardan görüş alma süreci başlatılarak ilgili idaresine yapılan eko turizm amaçlı imar planı başvuruları, eko turizm amaçlı onaylı imar planlarında emsal ve yoğunluk artışı ve sınır değişikliğini içermeyen imar planı değişiklik başvurularına yönelik iş ve işlemler, 06.05.2022 onay tarihli eko turizm amaçlı çevre düzeni planı hükmü
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+35
+değişikliği öncesinde belirtilen koşullar doğrultusunda ilgili idaresince “Mekânsal Planlar Yapım Yönetmeliği” kapsamında değerlendirilir.
+Plan Değişikliği Onama Sınırı (19.12.2022)
+6.10 ÖZEL KANUNLARA TABİ ALANLAR
+6.10.1 Özel kanunlarla planlama yetkisi verilen alanların sınırları plana işlenmiştir
+6.10.2 Bu alanlarda, bu planın koruma, gelişme ve planlama hedef/ilke ve stratejileri doğrultusunda, yetkili kurumlarca planlama ve koruma çalışmalarının yapılması esastır.
+6.10.3 Bu alanlarda, bu planın onayından önce/sonra yürürlüğe konmuş olan her tür ve ölçekteki planlar, ilgili kanunlar uyarınca yürürlüktedir.
+6.10.4 Bu alanlarda, bu plan ile belirlenmiş/belirlenecek hassas alanların, ekoloji ve ekosistem bütünlüğünün devamlılığı sağlanacaktır.
+6.10.5 Bu alanlarda, sorumlu Bakanlık ya da kuruluşların, kendi yetkisindeki alanların planlanmasında sürdürülebilir kalkınma ve sürdürülebilir çevre hedeflerini/ilkelerini gözeterek planlama yapması esastır.
+6.10.6 Bu alanlar içerisinde veya yakın çevresinde bulunan/bulunması muhtemel hassas alanları, orman alanlarını, tarım alanlarını, sulak alanları, kumulları vb. alanları tehdit edici yönde ve yoğunlukta yapılaşma kararı getirilemez.
+6.10.7 Bu alanlarda çevre kirliliğini önlemek için her türlü tedbirin alınması zorunludur.
+6.10.8 Bu alanlar içerisinde yer alan, içme ve kullanma suyu ve yüzeysel su kaynaklarının korunması esas olup, Su Kirliliği Kontrol Yönetmeliği hükümleri uygulanır.
+6.10.9 Bu alanlarda her türlü katı ve sıvı atığın bertarafı için gerekli tesisler yapılır ve hiçbir atık, önlemler alınmadan, alıcı ortama verilemez.
+6.10.10 Milli Park Alanları: 2873 sayılı Milli Parklar Kanunu’ na tabi bu alanlarda yapılacak proje ve uygulamalarda ilgili kurumların olumlu görüşü alınacaktır. Endemik bitki türleri ve doğal yapısı korunacak tabiat parklarında, yalnız sökülebilir yapı elemanlarından oluşmak koşuluyla ilgili kurumların uygun göreceği noktalarda halkın yeme içme ve temel ihtiyaçlarını karışlamaya yönelik üniteler yapılabilir. Ancak bitki örtüsünü ve doğal yapıyı bozucu hiçbir düzenleme yapılamaz. Bu alanlara yönelik uzun devreli gelişme planları Doğa Koruma ve Milli Parklar Genel Müdürlüğünce yapılacak/yaptırılacak ve onaylanacaktır.
+6.10.11 Tabiatı Koruma Alanı: 2873 sayılı Milli Parklar Kanunu’ na tabi bu alanlarda yapılacak proje ve uygulamalarda ilgili kurumların olumlu görüşü alınacaktır. Endemik bitki türleri ve doğal yapısı korunacak tabiat parklarında, yalnız sökülebilir yapı elemanlarından oluşmak koşuluyla ilgili kurumların uygun göreceği noktalarda halkın yeme içme ve temel ihtiyaçlarını karışlamaya yönelik üniteler yapılabilir. Ancak bitki örtüsünü ve doğal yapıyı bozucu hiçbir düzenleme yapılamaz. Bu alanlara yönelik uzun devreli gelişme planları Doğa Koruma ve Milli Parklar Genel Müdürlüğünce yapılacak/yaptırılacak ve onaylanacaktır.
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+36
+6.11 BÖLGE PARKI / BÜYÜK KENTSEL YEŞİL ALAN
+6.11.1 Bölge Parkları ve Rekreasyon Alanları: Halkın açık ve yeşil alan gereksinimleri başta olmak üzere eğlence, dinlenme ve piknik gereksinimlerinin karşılanacağı, açık, kısmen kapalı olarak düzenlenen günübirlik ihtiyaçları karşılayacak tesisler, oyun alanları, açık spor ve su oyun alanları vb. ile yeşil bitki örtüsü bulunan alanlardır. Bu alanlarda yapılacak, geliştirilen projenin ayrılmaz parçası niteliğinde olan kapalı yapılarda; yüksekliği alanın ve kullanım türünün gereklerine göre alt ölçekli planlarda belirlenecektir.
+6.11.2 Fuar, Panayır ve Festival Alanları: Ulusal ya da uluslararası nitelikte ticari maddelerin ya da hizmetlerin periyodik süreli ya da süresiz olarak sergilendiği alandır. Bu alanlarda prestij yapıları, gösteri ve sergi yapıları ile geniş servis mekânları yer alabilir. Yapılaşma koşulları alt ölçekli planlarda belirlenecektir.
+6.12 SULAK ALANLAR
+6.12.1 Sulak alan niteliği ilgili kurumca tespit edilmiş olan bu alanların doğal karakterlerinin korunması esastır. Bu Alanlarda Sulak Alanların Korunması Yönetmeliği Hükümlerine göre uygulama yapılır.
+6.12.2 Bu Alanlarda Yapılacak Tüm Uygulamalarda, Orman Ve Su İşleri Bakanlığı, Doğa Koruma Ve Milli Parklar Genel Müdürlüğü’nün Uygun Görüşünün Alınması Zorunludur. Bu alanlarda kirlenme ve bozulmaya yol açacak müdahalelerde bulunulamaz.
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+37
+6.13 DOĞAL KARAKTERİ KORUNACAK ALANLAR
+6.13.1 Bu alanların doğal karakterlerinin korunması esastır. Planda doğal karakteri korunacak alanlar olarak gösterilmiş alanlarda özel mülkiyete konu olan alanlar olması durumunda bu alanlarda yer alan, parsellerde, başka bir sınırlama ve koruma kararı yoksa yüksekliği iki katı, büyüklüğü 150 m²'yi asmayan, çiftçinin barınması amaçlı tek yapı ve tarım, hayvancılıkla ilgili yapılar yapılabilir. Bu tür alanlarda toplam yapılaşma emsali E=0.05, Yençok:6,50m.(2kat)dir. Bir parsel üzerinde müştemilat ve tarımsal amaçlı yapılar hariç, birden fazla yapı yapılamaz. Müştemilat binaları belirlenmiş olan inşaat alanına dâhil edilir.
+6.14 ÇEVRE KORUMAYA İLİŞKİN HÜKÜMLER
+6.14.1 Bu plan kapsamında, yerleşme alanlarında sağlıklı barınma şartlarının sağlanması, atıkların usulüne ve tekniğine uygun bertaraf edilmesi, sağlıklı içme ve kullanma suyu temini, evsel atık su ile içme ve kullanma suyu altyapısının oluşturulması, insan sağlığına zarar veren etmenlerin ortadan kaldırılması gibi hususlarda gerekli tedbirlerin alınması ilgili idareler tarafından sağlanır.
+6.14.2 Orman alanlarının, ilgili kanun ve yönetmelik çerçevesinde korunması esastır.
+6.14.3 Flora ve fauna açısından zengin, sulak alanlar, lagün, krater gölleri vb. ekolojik açıdan eşsiz özellikler taşıyan alanlar korunacaktır.
+6.14.4 Yeraltı ve yerüstü su kaynaklarını kirletici faaliyetlere izin verilmez.
+6.15 MADEN İŞLETME TESİSLERİ, GEÇİCİ TESİSLER VE OCAKLARA İLİŞKİN HÜKÜMLER
+6.15.1 Madencilik faaliyetlerinde Maden Kanunu ve buna bağlı yönetmelik hükümlerine uyulur.
+6.15.2 Madencilik faaliyet sahalarında ÇED Yönetmeliği ve diğer mevzuat hükümlerine uyulacaktır.
+6.15.3 Maden ruhsat sahalarında kurulmak istenen geçici tesisler için Maden İşleri Genel Müdürlüğünden geçici tesis belgesi alınması zorunlu olup söz konusu tesisler için ilgili kurum ve kuruluşlardan izin alınacaktır.
+6.15.4 Geçici tesislerin kullanımı maden ruhsatının veya maden rezervinin işletme süresi ile sınırlıdır. Geçici tesisler kullanım süresinin bitmesi durumunda kaldırılır.
+6.15.5 İçme ve kullanma suyu kaynaklarının mutlak, kısa ve orta mesafeli koruma kuşaklarında madencilik faaliyetlerine izin verilmez.
+6.15.6 İçme ve kullanma suyu rezervuarlarının uzun mesafeli koruma kuşaklarında yapılacak madencilik faaliyetleri sırasında içme suyunun kirletilmemesi esastır. İçme ve kullanma suyu rezervuarlarının uzun mesafeli koruma alanının yatay olarak ilk 3 km. genişliğindeki bölümünde; galeri yöntemi patlatmalar, kimyasal ve metalürjik zenginleştirme işlemleri yapılamaz. Madenlerin çıkarılmasına; sağlık açısından sakınca bulunmaması, mevcut su kalitesini bozmayacak şekilde çıkartılması, faaliyet sonunda arazinin doğaya geri kazandırılarak terk edilmesinin taahhüt altına alınması, koşullarıyla izin verilebilir. Bu alandaki faaliyetlerden oluşan atıksuların; Su Kirliliği Kontrol Yönetmeliği’ndeki ilgili sektörün alıcı
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+38
+ortama deşarj standartlarını sağlayarak havza dışına çıkartılması, ya da geri dönüşümlü olarak kullanılması zorunludur.
+6.15.7 Uzun mesafeli koruma kuşaklarının ikinci bölümünde, ilk 3 kilometrelik bölümünün bittiği yerden başlayarak su toplama havzasının sınırına kadar olan alandaki faaliyetlere, oluşan atıksuların Su Kirliliği Kontrol Yönetmeliği'ndeki Tablo-5'ten Tablo-21'e kadar olan deşarj standartlarını sağlayarak havza dışına çıkarılması veya geri dönüşümlü olarak kullanılması şartıyla izin verilebilir.
+6.15.8 Maden işletme ruhsatı alınan alanlar, Çevre Düzeni Planının veri tabanına işlenmek üzere Maden İşleri Genel Müdürlüğünce, 1/25.000 ölçekli, koordinatlı haritalara işlenerek, sayısal olarak Bakanlığa gönderilir.
+6.15.9 Maden ruhsatının süresinin veya rezervin bitmesi halinde işletme sahasının “çevre ile uyumlu hale getirilmesini” içeren projenin ilgili idareye sunulması ve ilgili idareye yazılı taahhütte bulunulması zorunludur. Bu planın onayından önce, tesis kullanıcılarına ulaşılamayan ve faaliyeti sona ermiş/terk edilmiş kum, çakıl, taş, maden ocakları iyileştirme projesi; Valilik denetiminde ilgili idareye yaptırılır. Maden sahasının işletme sonrası rehabilitasyonu konusunda, arazinin tarıma elverişli olması durumunda hafriyatın tarım yapmaya elverişli biçimde boşaltılması ve teraslama çalışmalarının yapılması, orman dokusunda ise ağaçlandırma yapılması gerekmektedir.
+6.15.10 Birinci sınıf gayrı sıhhi müesseseler kapsamına giren maden üretim faaliyetleri ve\veya bu faaliyetlere dayalı olarak üretim yapılan tesislerin etrafında mülkiyeti sınırlarında sağlık koruma bandı bırakılması zorunludur. Sağlık koruma bandı içerisinde mesken veya insan ikametine mahsus yapılaşmaya izin verilmez.
+6.15.11 Madencilik faaliyetlerinde çevreye zarar verilmemesi için her türlü önlem, tesis sahiplerince alınacaktır.
+6.15.12 Geçici tesis niteliğinde olmayan ve ÇED Yönetmeliği kapsamındaki madene dayalı sanayiler öncelikle bu planda yer alan sanayi alanlarına veya iktisadi gelişme kararları doğrultusunda madene dayalı sanayinin geliştirilmesi öngörülen bölgelerinde, ilgili kurum ve kuruluşların görüşleri doğrultusunda, ilgili idaresince bu planda yer alan herhangi bir koruma kararı bulunmayan ya da ilgili mevzuat doğrultusunda alınmış koruma kararı bulunmayan alanlarda yer seçimi yapılarak alt ölçekli planı hazırlanacak olan madene dayalı sanayi alanlarına yönlendirilecektir. Ancak işletme ruhsatı alınan maden sahalarından çıkarılan madenlerin, işlenmesi amacıyla gerek duyulacak sanayi tesisleri için uygun sanayi alanının bulunmaması ya da çıkarılan madenin yerinde işlenmesinin zorunlu olduğu durumlarda; bu planda yer alan herhangi bir koruma kararı bulunmayan ya da ilgili mevzuat doğrultusunda alınmış koruma kararı bulunmayan alanlarda, ilgili tüm kurum ve kuruluşların görüşleri doğrultusunda, gerekli izin, onay ve alt ölçekli planlar hazırlanarak maden çıkarım alanı içinde maden işletmeye yönelik sanayi tesisleri kurulabilir. Bu tesisler kuruluş amacı dışında kullanılamaz. Bu tesisler, ruhsat süresi sonunda kapatılarak kaldırılır.
+6.16 SU TOPLAMA HAVZALARI, İÇME VE KULLANMA SUYU KORUMA KUŞAKLARI, YERALTI SUYU KAYNAKLARINA İLİŞKİN HÜKÜMLER
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+39
+6.16.1 İçme ve kullanma suyu temin edilen kıta içi yüzeysel su kaynaklarının korunmasında Su Kirliliği Kontrol Yönetmeliğinin ilgili hükümleri geçerlidir.
+6.16.2 Bu plan kapsamında kalan su havzalarının tamamında, yer altı ve yer üstü sularının kirletilmemesi ve suyun dengeli kullanılması doğrultusunda Bakanlıkça Havza Planının/Planlarının hazırlanması esastır.
+6.16.3 İdari sınırları aşan yer üstü sularının kirletilmeden kullanılmasının sağlanması için havza ya da bölgesi içerisindeki ilgili idarelerce kirliliği önleyici tedbirler alınacaktır.
+6.16.4 Planlama Bölgesinde su kaynaklarının korunmasına ilişkin yapılacak çalışmalar Su Kirliliği Kontrolü Yönetmeliği çerçevesinde İl Çevre ve Şehircilik Müdürlüğü tarafından sağlanacaktır.
+6.16.5 Su Kirliliği Kontrolü Yönetmeliği 16. maddesi kapsamında Özel Hüküm belirleme çalışmasının yapılması durumunda, içme ve kullanma suyu temin edilen kıta içi yüzeysel su kaynaklarının korunmasına yönelik belirlenen özel hükümlerin bu plana ve her tür ve ölçekteki planlara işlenmesi zorunludur.
+6.16.6 İçme ve kullanma su kaynaklarının sürdürülebilir koruma ve kullanımına yönelik yapılacak olan havza koruma veya özel hüküm belirleme çalışmalarında bu plan ile getirilen nüfus projeksiyonları kullanılır.
+6.16.7 Bu plan sınırları içerisinde ilgili idarece bu planın projeksiyon hedef yılı baz alınarak, suyun verimli kullanılması için gerekli tedbirler (suyun fiyatlandırılması, vergilendirilmesi, su kullanım yöntemleri vb.) ilgili idarece alınacaktır.
+6.16.8 DSİ Genel Müdürlüğü’nce su dağıtımı konusunda sistem kurulmasına ilişkin entegre proje üretilecektir. Yeraltı sularının münferit kuyular açılarak kullanımı önlenecektir.
+6.16.9 Yeraltı su kaynaklarının fiziksel, kimyasal, biyolojik ve bakteriyolojik özelliklerini olumsuz yönde etkileyecek atık su deşarjına izin verilmez.
+6.16.10 İçme ve kullanma suyu temin edilen yeraltı su kaynaklarının korunması amacıyla, açılmış olan ya da açılan kuyuların çevresi ilgili mevzuatta belirtilen mesafeler kapsamında çevrilerek söz konusu alanlar tapu kaydına işlenir.
+6.16.11 Yeraltı su kaynaklarının mevcut miktarının korunması amacıyla, her türlü kullanıma ilişkin olarak, kullanım öncesinde, ilgili kurum ve kuruluşlardan izin ve tahsis belgesi alınması zorunludur.
+6.16.12 İlgili idarece yapılan izleme ve denetimler sonunda çeşitli kullanımlar sonucunda yeraltı suyunda bir kirlilik oluştuğunun belirlenmesi halinde gerekli tedbirler alınacak ve Bakanlığa bildirilecektir.
+6.16.13 Yeraltı su seviyesinin emniyetli kullanım sınırının altına düşmesini önlemek için DSİ Genel Müdürlüğünce periyodik olarak yeraltı su potansiyeli belirlenir. Su potansiyelinin emniyetli kullanım sınırının altına düşmesi halinde kullanıma yönelik verilen tahsisler iptal edilebilir veya yeniden düzenlenebilir.
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+40
+6.17 SİT ALANLARI
+6.17.1 Bu alanlarda 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu ve ilgili yönetmeliği ile ilgili kurul kararlarına göre uygulama yapılacaktır.
+6.17.2 Sit alanlarında kullanım kararları, ilgili kurum ve kuruluşların görüşleri alınmak ve bu planın ilke ve stratejilerine aykırı olmamak koşuluyla, ilgili idaresince hazırlanacak olan koruma amaçlı imar planları ile belirlenecek olup Kültür ve Tabiat Varlıklarını Koruma Kurulu’nun uygun görüşü doğrultusunda kesinleşecektir.
+6.17.3 Sit alanı olarak ilan edilmiş alanlarda; bu planda gösterilmemiş dahi olsa, sit alanı ilanı öncesinde yürürlükteki mevzuata uygun olarak onaylanmış imar planları bulunan alanlarda, ilgili koruma kurulunun uygun görmesi halinde, sit kararı öncesinde geçerli olan imar planlarının yapılanma koşullarını aşmamak ve sınırları büyütülmemek koşuluyla, çevre düzeni planı değişikliğine gerek kalmaksızın, ilke kararları doğrultusunda koruma amaçlı imar planı hazırlanabilir.
+6.18 AFET BÖLGELERİ
+6.18.1 Afet bölgelerinde, yapılacak yapılar hakkında ilgili yönetmelik hükümleri geçerli olup yapılacak imar planlarında jeolojik ve jeo-teknik etüt hazırlanması zorunludur.
+6.18.2 Afet ve Acil Durum Yönetimi Başkanlığı’nca onaylanacak jeolojik, jeoteknik ve jeofizik etüt raporlarına göre sıvılaşma riski yüksek olarak tespit edilen alanlar yapılaşmaya açılmayacak olup, mevcut yapılar için ise zemin iyileştirme ya da temellerin güçlendirilmesi zorunludur.
+6.18.3 Bu plan kapsamında kullanım kararı getirilen alanlarda ilgili idarece gerekli görüldüğünde 1/5000 ölçekli plan aşamasında Mülga Bayındırlık ve İskân Bakanlığı’nın 17.8.1987 tarih ve 1684 sayılı genelgesine göre jeolojik sakıncalı alanlar ve taşkın ihtimali olan alanlar için Devlet Su İşleri Genel Müdürlüğü’nün görüşü istenecektir. 1/1000 ölçekli planlama aşamasında jeolojik rapor hazırlanması ve taşkınla ilgili kurum ve kuruluş görüşlerinin alınması ve bu görüşlere uyulması zorunludur.
+6.18.4 1/25.000 ölçekli plan yapılması öngörülen alanlarda “Afet İskân Sahası” ayrılacaktır.
+6.18.5 Bölgesel kullanım için ilgili kurum ve kuruluşlarca yapılacak olan enerji, iletişim, ulaşım ve benzeri altyapı ile doğalgaz boru hatları ve tesisleri projelerinde Afet ve Acil Durum Yönetimi Başkanlığı’nca onaylanacak jeolojik ve gerektiğinde hazırlanacak jeoteknik ve jeofizik etüt raporlarına uyularak gerekli güvenlik önlemleri alınacaktır.
+6.18.6 Erozyon ve toprak kirliliği önleme çalışmaları daha etkin uygulanmalıdır. Bölgenin yağış rejimi ve topografyası dikkate alındığında taşkın ve erozyonu önlemek amacıyla taşkın riski olan dere ve akarsu yataklarında ilgili idarelerce yapılaşmaya izin verilmeyecektir. Ayrıca dere ve taşkın yataklarına ilişkin Başbakanlık Genelgelerine uyulacaktır.
+6.18.7 İlgili kurumlarca yapılacak taşkın tehlikelerinden korunmaya yönelik planlar ve Akarsu ve Dere yataklarının Islahı Genelgesi çerçevesinde, dere ve akarsu yatakları için taşıma kapasitesi ve maksimum yağış miktarı dikkate alınarak, ilgili kurum tarafından taşkın riski olan dere ve akarsu yataklarının kentsel ve kırsal yerleşme
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+41
+alanlarının içinde kalanlarının ıslah çalışması yatırım programlarına alınarak tamamlanır.
+6.18.8 Bu plan kapsamındaki alanlarda, 7269 sayılı “Umumi Hayata Müessir Afetler Dolayısıyla Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanun” uyarınca hak sahibi afetzede ailelere kalıcı konut yapılması amacıyla AFAD tarafından “afetzede yerleşim alanı” olarak belirlenen alanlarda yapılacak alt ölçekli planlar; bu planın koruma, gelişme ve planlama ilkeleri, nüfus kabulleri ve çevre imar bütünlüğü çerçevesinde, ilgili kurum ve kuruluş görüşleri doğrultusunda ilgili idaresince değerlendirilerek, bu planda değişiklik yapılmaksızın onaylanabilir. Bu doğrultuda hazırlanacak alt ölçekli planlar sayısal ortamda veri tabanına işlenmek üzere bakanlığa gönderilir.
+PLAN DEĞİŞİKLİĞİ ONAMA SINIRI (06.11.2020)
+6.19 KIYI ALANLARI
+Bu plan kapsamında, bugüne kadar kıyı kenar çizgisi tespiti yapılmamış alanlarda kıyı kenar çizgisi tespitleri 3621 sayılı “Kıyı Kanunu” ve “Kıyı Kanununa Uygulanmasına Dair Yönetmelik” hükümleri çerçevesinde ilgili valiliklerce belirlenecek program dâhilinde kısa sürede yapılır.
+6.20 LİMANLAR YAT LİMANLARI, İSKELELER, BALIKÇI BARINAKLARI VE TERSANELER
+Bu alanlarda 3621 sayılı kıyı kanunu ve ilgili yönetmelikleri ile yürürlükteki ilgili diğermevzuat hükümleri doğrultusunda uygulama yapılacaktır.
+6.21 LİMAN GERİSİ HİZMET ALANLARI
+İhtiyaç olması halinde, bu planın ilkeleri ve ilgili mevzuat doğrultusunda, ilgili kurum ve kuruluşların görüşleri alınarak, bu planda hangi kullanımda olduğuna bakılmaksızın, alt ölçekli planlarda liman alanlarına bitişik Liman Gerisi Alanlar belirlenebilir.
+6.22 ENERJİ ÜRETİM ALANLARI VE ENERJİ İLETİM TESİSLERİ
+6.22.1 Enerji iletim tesislerinde, ilgili kurum ve kuruluşlardan alınan izinler ve Enerji Piyasası Düzenleme ve Denetleme Kurulunca verilecek lisans kapsamında, Bakanlığın uygun görüşü alınması koşuluyla, bu çevre düzeni planında değişikliğe gerek kalmaksızın ilgili kurum ve kuruluş görüşleri doğrultusunda hazırlanan nazım ve uygulama imar planları, ilgili idaresince onaylanır ve planlar sayısal ortamda bilgi için Bakanlığa gönderilir.
+6.22.2 Yenilenebilir enerji (rüzgâr, güneş ve jeotermal) üretim alanlarında, ilgili kurum ve kuruluşlardan alınan izinler ve enerji piyasası düzenleme ve denetleme kurulunca verilecek lisans kapsamında, bakanlığın görüşü alınarak, bu çevre düzeni planında değişikliğe gerek kalmaksızın, ilgili kurum ve kuruluş görüşleri doğrultusunda
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+42
+hazırlanan nazım ve uygulama imar planları, ilgili idaresince onaylanır ve bu planın veri tabanına işlenmek üzere sayısal ortamda bakanlığa gönderilir.
+6.22.3 Bu plan revizyonunun onay tarihinden (17.08.2016) önce ilgili mevzuata uygun olarak imar planı onaylanmış olan hidroelektrik santralleri (HES) projelerinin imar planları geçerlidir. Bu revizyonun onay tarihinden itibaren (17.08.2016); Hidroelektrik üretim alanlarında havza bütününde ekosistemlerin sürdürülebilirliğini sağlayacak şekilde her türlü koruma tedbirlerine ilişkin süreçler tamlamadıktan sonra hidroelektrik santralleri (HES) projelerine izin verilebilir. HES’ler, ilgili idarece (Devlet Su işleri Genel Müdürlüğü, Yenilenebilir Enerji Genel Müdürlüğü) yatırıma konu akarsu havzası düzeyinde yapılacak olan ayrıntılı araştırma ve değerlendirmelere dayalı olarak; su toplama havzalarının sürdürülebilirliğini sağlayacak şekilde önlemlerin alınması, akarsu üzerinde faaliyette ve planlı HES projelerinin enerji üretim kapasiteleri ve su debilerinin hesaplanması ve bölgenin ekosistem dengesinin olumsuz yönde etkilenmemesine yönelik önlemler alınarak ÇED yönetmeliği kapsamında ÇED sürecine konu edilir. ÇED sürecinde su debisi, can suyu, enerji üretim miktarına ilişkin değerlendirmeler ve diğer çevresel değerlendirmeler akarsu havzası bütününde, mevcut ve planlı projeler dikkate alınarak yapılır. ÇED Yönetmeliği kapsamında gereken işlemler tamamlandıktan sonra ÇED Raporunun sonucuna göre Çevre Düzeni Planı değişiklik teklifi olarak değerlendirilmek üzere Bakanlığa sunulur. ÇED Yönetmeliğine tabi olmayan veya “ÇED Gerekli Değildir Kararı” alınmış olan HES projelerine ilişkin alt ölçekli planlar, Devlet Su İşleri Genel Müdürlüğü ve ilgili diğer kurum ve kuruluşların uygun görüşü alınmasını takiben bu çevre düzeni planında değişikliğe gerek kalmaksızın ilgili idaresince onaylanabilir.
+6.23 ATIK BERTARAF VE DEPOLAMA TESİSİ ALANLARI
+6.23.1 Çevre Düzeni Planı bütünü içinde her türlü atıkların kaynağında ayrı toplanması, bunların depo alanlarına taşınması, transfer istasyonlarının kurulması, geri kazanım ile ilgili işlemlerin yürütülmesi ve bertaraf edilmesi gibi iş ve işlemleri kapsayan atık yönetimi sisteminin kurulması ile ilgili çalışmalar Bakanlık, Valilikler, Belediyeler tarafından tamamlanacaktır. Planlama kararlarının uygulanmasına yönelik olarak mahalli idare hizmet birlikleri atık yönetim sisteminin kurulmasını üstlenebilirler. Yönetim sistemi kuruluncaya kadar ilgili mevzuat hükümleri geçerlidir.
+6.23.2 Yakma veya düzenli depolarının yanı sıra fiziksel/kimyasal/biyolojik önişlem ünitelerini içeren entegre atık bertaraf veya geri kazanım tesislerinin yer seçiminde, atığın en yakın ve en uygun olan tesiste bertaraf edilmesi ilkesi çerçevesinde, bölgenin atık miktarı dikkate alınarak ilgili kurum ve kuruşların görüşü doğrultusunda tesisin yer seçimi belirlenir.
+6.23.3 Tehlikeli Atık Bertaraf Tesisi Alanları: Tehlikeli atıkların depolama işlemi sırasında alınan önlemlerin yeterli olduğu veya atığın özelliği sebebi ile depolama işleminde çevrenin olumsuz yönde etkilenmeyeceğinin bilimsel olarak ispat edilmesi hallerinde, atıklar depolanabilir veya bu amaçla depo tesisi kurulmasına izin verilebilir. Çevre Düzeni Planı bütünü içinde her türlü tehlikeli atıkların ilgili
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+43
+mevzuatta belirtilen standartları sağlayacak şekilde bertaraf edilmesi zorunludur. Bu alanların yer seçim ve uygulaması bu planın hedefleri/ilkeleri çerçevesinde ilgili kurum ve kuruluşların görüşleri alınarak belediyeler, kurum ve kuruluşlar, mahalli idare hizmet birlikleri tarafından yapılabilir. Nihai bertaraf tesisleri kurulacağı zaman ilgili mevzuat hükümlerine uygun şekilde meskûn mahal dışında ise ve meskûn mahalle mesafesi bin metreden fazla ise, valilik/ belediye tarafından meskûn mahalle olan mesafeyi dikkate almakla yükümlüdür. Ancak ömrü dolmuş tesisler için bu sınır geçerli değildir. Nihai bertaraf veya geri kazanım için uygun yer bulunamaması durumunda ya da bertaraf / geri kazanım tesislerine ulaştırılmadan önce atık miktarının yeterli kapasiteye ulaşması amacıyla atıklar mevzuat hükümleri çerçevesinde ara depolarda depolanabilir.
+6.23.4 Atıksu Arıtma Tesisi Alanları: Çevre Düzeni Planı bütünü içinde her türlü gaz ve sıvı atıkların ilgili mevzuatta belirtilen standartları sağlayacak şekilde arıtılması ve/veya bertaraf edilmesi zorunludur. Bu alanların yer seçim ve uygulaması bu planın hedefleri/ilkeleri çerçevesinde ilgili kurum ve kuruluşların görüşleri alınarak belediyeler, kurum ve kuruluşlar, mahalli idare hizmet birlikleri tarafından yapılabilir.
+6.24 DOĞALGAZ BORU HATTI, ENERJİ NAKİL HATTI VE İÇME SUYU BORU HATTI
+6.24.1 Kamulaştırılarak BOTAŞ adına mülkiyet ya da irtifak hakkı tesis edilmiş olan güzergâh şeridi üzerinde yapılaşmaya kesinlikle izin verilmeyecektir.
+6.24.2 Boru hattı kamulaştırma şeridi üzerinde yapı niteliği taşımayan yaya ve trafik yolları geçişleri ve boru ekseni üzerinde süreklilik arz etmeyecek yol, su, elektrik vb. teknik altyapı projeleri için BOTAŞ’tan izin alınması gereklidir. İzin başvurularına, geçiş projeleri eklenecektir. BOTAŞ ek güvenlik önlemleri önerdiğinde bu tedbirler alınmadan inşaat uygulamasına geçilemez.
+6.24.3 Enerji nakil hatları konusunda TEDAŞ tarafından 08.03.1992 gün ve 1244 sayılı yazı eki tablolarda belirtilen mesafeler minimum mesafeler olarak alınacaktır.
+6.24.4 Enerji iletim tesislerinde, Bakanlığın uygun görüşünün alınması kaydıyla, imar planlarının ilgili kurum ve kuruluş görüşleri doğrultusunda, ilgili idarece onaylanmasını müteakip uygulamaya geçilir. Onaylı imar planları, sayısal ortamda, bilgi için Bakanlığa gönderilir.
+6.24.5 Kente içme suyu taşıyan ana boru hattının geçtiği alanlarda yapılacak alt ölçekli planlama çalışmalarında DSİ’nin görüşü alınacaktır.
+6.25 KARAYOLU KENARINDA VEYA DİĞER KARA ULAŞIM GÜZERGÂHLARINDA YAPILACAK YAPI VE TESİSLER
+6.25.1 Belediye ve mücavir alan sınırları içinde ve dışında karayolları kenarında yapılacak tesislerde, 2918 sayılı “Karayolları Trafik Kanunu” ve “Karayolları Kenarında Yapılacak Tesisler ve Açılacak Tesisler Hakkında Yönetmelik” ile 5015 sayılı “Petrol Piyasası Kanunu” ve ilgili yönetmelik hükümlerine uyulacaktır.
+6.25.2 Karayolları Genel Müdürlüğü'nün sorumluluğundaki karayolu kenarındaki yapılaşmalarda belirlenmiş olan standartlardan az olmamak üzere, yapı yaklaşma
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+44
+mesafesi bırakılacaktır. Karayolları Genel Müdürlüğü tarafından planlanacak yeni devlet yollarının kent içi geçişlerinde; kamulaştırma sınırının o yolun çevreye vereceği olumsuzlukları göz önüne alacak şekilde geniş tutulması sağlanacaktır.
+6.25.3 Karayolu kenarında ve diğer kara ulaşım güzergâhlarında, mevzuata uygun olmak koşulu ile akaryakıt ve LPG istasyonları, servis istasyonu, konaklama tesisi, yeme içme tesisi vb. gibi karayoluna hizmet verecek tesisler ile teşhire ve ticarete yönelik mağazalar yer alabilir.
+6.25.4 Zorunlu olması halinde, bu tesisler 5403 sayılı “Toprak Koruma ve Arazi Kullanımı Kanunu” ve ilgili yönetmelik hükümleri doğrultusunda izin alınarak tarım arazilerinde yer alabilir.
+6.25.5 Karayolu kenarında veya diğer kara ulaşım güzergâhlarında yapılacak yapı ve tesis alanlarında, imar planlarının ilgili kurum ve kuruluş görüşleri doğrultusunda, ilgili idaresince onaylanmasını müteakip uygulamaya geçilir. Bu alanlarda: Emsal (E)=0.50’ dir.
+PLAN DEĞİŞİKLİĞİ ONAMA SINIRI (07.09.2021)
+6.25.6 Köy yerleşik alanı içinde Petrol Piyasası Kanunu ve ilgili yönetmeliğindeki hükümler çerçevesinde akaryakıt istasyonu yapılabilir.
+6.26 KAYNAK SULARI ŞİŞELEME VE AMBALAJLAMA TESİSLERİ
+6.26.1 Kaynak suları şişeleme ve depolama alanları ve potansiyel gereksinim, Devlet Su İşleri Genel Müdürlüğü ve diğer ilgili kuruluşlardan alınacak görüşler doğrultusunda ilgili idarece belirlenir. Yapılacak tesislerde, ilgili kurum ve kuruluş görüşleri doğrultusunda hazırlanacak imar planları, ilgili idarece onanmadan uygulama yapılamaz. Onaylanan planlar sayısal ortamda veri tabanına işlenmek üzere Bakanlığa gönderilir. Söz konusu tesisler amacı dışında kullanılamaz.
+6.26.2 Bu tesislerde yapılanma koşulları, Doğal Kaynak ve Şişeleme Suları için “İnsani Tüketim Amaçlı Sular Hakkında Yönetmelik”, maden (mineralli su) suları için ise “Doğal Mineralli Sular Hakkında Yönetmelik” hükümlerine göre belirlenir.
+6.27 SU ÜRÜNLERİ ÜRETİM ALANLARI
+6.27.1 Su Ürünleri Üretim Alanlarının 1380 Sayılı Su Ürünleri Kanunu ve ilgili yönetmelikleri uyarınca yapılacak yer seçimlerinde, ilgili kurum ve kuruluşların görüşlerinin alınması ve bu planla kullanım kararı belirlenmiş alanlara (turizm alanları, yerleşme alanları, kıyı yapıları, korunan alanlar, vb.) olası olumsuz etkilerinin önlenmesi için mesafe, akıntı hızı, akıntı yönü, derinlik vb. kriterlerin
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
+45
+göz önünde bulundurulması esastır. Bu alanlara ilişkin koordinatlar ve onaylanan planlar sayısal ortamda, veri tabanına işlenmek üzere, Bakanlığa gönderilir.
+6.27.2 Bu alanlarda 1380 sayılı “Su Ürünleri Kanunu”, 3621 sayılı Kıyı Kanunu, 2872 sayılı Çevre Kanunu ve ilgili yönetmelikleri ile yürürlükteki diğer mevzuat hükümleri doğrultusunda uygulama yapılacaktır.
+6.28 EĞİTİM VE SAĞLIK ALANLARI
+Planlama Bölgesinde, konusuna göre ilgili kurum ve kuruluşların uygun görüşü alınmak, 1/5000 ölçekli nazım imar planı ve 1/1000 ölçekli uygulama imar planları hazırlanmak ve ilgili idaresince onaylanmak koşulu ile eğitim ve sağlık alanları yapılacaktır. Bu alanlardaki yapılanma koşulları alt ölçekli planlarda belirlenecektir.
+6.29 ÜNİVERSİTE ALANLARI
+Lisans, lisansüstü eğitim, araştırma-bilgi üretim ve iletişim merkezi işlevlerini üstlenen alanlardır. Mevcut üniversite yerleşkelerinde, çevre düzeni planı onayından önce ilgili idarece onaylanmış 1/5000 ölçekli Nazım İmar Planı ve 1/1000 ölçekli Uygulama İmar Planı koşulları geçerlidir. Çevre Düzeni Planı sonrasında yapılaşmaya açılacak olan üniversite yerleşkelerinde yapılaşma koşulları alt ölçekli planlarda belirlenecektir.
+6.30 MEZARLIK ALANLARI
+Plan sınırları içinde yer alan yerleşmelerin gereksinim duydukları mezarlık alanları için, ilgili mevzuat doğrultusunda belirlenen sınırlamalara uygun biçimde, kamu kurum ve kuruluş görüşleri de alınarak, 19.01.2010 tarih ve 27467 sayılı Resmi Gazete ’de yayımlanarak yürürlüğe giren Mezarlık Yerlerinin İnşası ile Cenaze Nakil ve Defin İşlemleri Hakkında Yönetmelik doğrultusunda çevre düzeni planında değişiklik yapılmasına gerek duyulmadan alt ölçekli planları yapılabilir.
+6.31 ASKERİ ALANLAR
+6.31.1 Askeri alanlarda “Askeri Yasak Bölgeler ve Güvenlik Bölgeleri Kanunu” ve bu kanuna ilişkin yönetmelik hükümleri geçerlidir.
+6.31.2 Planlama kapsamında kalan askeri güvenlik bölgeleri ve askeri hizmetler, “Askeri Yasak Bölgeler ve Güvenlik Bölgeleri Kanunu” için kamulaştırılacak alanlarda yapılanma koşulları için ilgili komutanlığın görüşü alınacaktır.
+6.31.3 Kentsel Yerleşmeler içerisinde yer alan Askeri Alanların, Milli Savunma Bakanlığı’nın programı uyarınca Askeri Alandan çıkarılması halinde, bu alanlar Sosyal Donatı Alanı olarak değerlendirilebilir.
+6.32 KONUT DIŞI KENTSEL ÇALIŞMA ALANLARI
+6.32.1 Onanlı imar planlarında konut dışı kentsel çalışma alanı olarak ayrılan alanlarda, mevcut imar planı koşulları geçerlidir. Bu alanlarda yoğunluk artırıcı plan değişikliği yapılamaz.
+6.32.2 Bu planla önerilen konut dışı kentsel çalışma alanlarında, imar planları onanmadan uygulamaya geçilemez. Bu alanlarda yapılaşma koşulu Mİn.Parsel Büyüklüğü = 2000 m2 Emsal (E) = 0.50 olacaktır
+T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI, MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+ORDU-TRABZON-RİZE-GİRESUN-GÜMÜŞHANE-ARTVİNPLANLAMA BÖLGESİ 1/100.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI PLAN HÜKÜMLERİ
