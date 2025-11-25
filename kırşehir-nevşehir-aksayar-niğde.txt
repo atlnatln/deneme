@@ -1,0 +1,1412 @@
+I
+II
+- Çalışma Grubu -
+İlhan G.ARTUNER
+Y.Mimar – Müh.
+Özden GÖKSOY
+Y.Şehir ve Bölge Plancısı
+İsmail ÇİÇİN
+Şehir ve Bölge Plancısı
+Ahmet ÖZDAL
+Şehir ve Bölge Plancısı
+Aydın YEREBASMAZ
+Harita ve Kadastro Mühendisi
+Hamdi AZMAN
+Jeoloji Mühendisi
+Dilek ÜLGER
+Ziraat Mühendisi
+Salih OGUR
+Şehir ve Bölge Plancısı
+Semih KALKAVAN
+Yüksek Mimar
+Meltem ERDOĞDU (BİLGİÇ)
+Çevre Mühendisi
+Müşfik DOĞANCIOĞLU
+İstatistik Uzmanı
+Ahmet KARATAŞ
+Doç. Dr.- Öğretim Görevlisi, Biyolog
+Serkan AKGÜN
+Uzaktan Algılama Ve Coğrafi Bilgi Sistem Uzmanı,
+Şehir ve Bölge Plancısı
+Nuray YATIGI
+Uzaktan Algılama Ve Coğrafi Bilgi Sistem Uzmanı,
+Şehir ve Bölge Plancısı
+Arzu ÖZDAL
+Veri Giriş Uzmanı, Şehir ve Bölge Plancısı
+Simge SEVİN
+Veri Giriş Uzmanı
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+I
+İÇİNDEKİLER
+1. AMAÇ............................................................................................................................................... 1
+2. PLANLAMA ALANI SINIRI VE KAPSAMI................................................................................. 1
+3. PLANLAMA YAKLAŞIMI.............................................................................................................. 1
+4. PLANLAMA HEDEFLERİ.............................................................................................................. 2
+4.1 Temel Hedefler .......................................................................................................................... 2
+4.2 Alt Hedefler ............................................................................................................................... 2
+5. TANIMLAR...................................................................................................................................... 4
+6. PLANLAMA İLKE, GÖREV, SORUMLULUKLAR VE DENETİM ........................................... 9
+6.1 İlkeler ......................................................................................................................................... 9
+6.1.1 Koruma İlkeleri.............................................................................................................. 10
+6.1.2 Gelişme İlkeleri ............................................................................................................. 11
+6.2 Denetim..................................................................................................................................... 13
+7. GENEL HÜKÜMLER.................................................................................................................... 14
+8. UYGULAMA HÜKÜMLERİ ........................................................................................................ 19
+8.1PLANLAMA ALANINDA YER ALAN YERLEŞMELER VE NÜFUS PROJEKSİYONLARI ................................................................................................................... 19
+8.1.1 Kırşehir ilinde yer alan kentsel yerleşmeler .............................................................................. 19
+8.1.2 Nevşehir ilinde yer alan kentsel yerleşmeler ................................................................. 21
+8.1.3 Niğde ilinde yer alan kentsel yerleşmeler...................................................................... 23
+8.1.4 Aksaray ilinde yer alan kentsel yerleşmeler, ................................................................. 24
+8.2 KENTSEL VE KIRSAL YERLEŞME ALANLARI .............................................................. 27
+8.2.1 Kentsel Yerleşme Alanları............................................................................................. 27
+8.2.2 Kırsal Yerleşme Alanları ............................................................................................... 27
+8.3 TARIM ALANLARI ......................................................... Hata! Yer işareti tanımlanmamış.
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+II
+8.3.13 Mutlak Tarım Arazileri............................................Hata! Yer işareti tanımlanmamış.
+8.3.14 Özel Ürün Arazileri ................................................Hata! Yer işareti tanımlanmamış.
+8.3.15 Dikili Tarım Arazileri .............................................Hata! Yer işareti tanımlanmamış.
+8.3.16 Marjinal Tarım Arazileri..........................................Hata! Yer işareti tanımlanmamış.
+8.3.17 Arazi Toplulaştırma Alanları....................................................................................... 30
+8.4 SANAYİ VE DEPOLAMA TESİS ALANLARI.................................................................... 30
+8.4.1 Organize Sanayi Bölgeleri (OSB) ................................................................................. 30
+8.4.2 Sanayi ve Depolama Alanları ........................................................................................ 31
+8.4.3 Doğal Soğuk Hava Depolama Alanları ......................................................................... 32
+8.5 PATLAYICI MADDE ALANLARI ....................................................................................... 32
+8.6 ORMAN ALANLARI ............................................................................................................. 32
+8.7 MERA ALANLARI................................................................................................................. 33
+8.8 SU TOPLAMA HAVZALARI, İÇME VE KULLANMA SUYU KORUMA KUŞAKLARI, YER ALTI SUYU KAYNAKLARI ...................................................................................... 33
+8.9 MADEN ALANLARI ............................................................................................................. 35
+8.10 KENTSEL, DOĞAL VE ARKEOLOJİK SİT ALANLARI ................................................. 36
+8.11 ULAŞIM-KARAYOLU SERVİS ALANLARI ...............Hata! Yer işareti tanımlanmamış.
+8.12 DOĞALGAZ BORU HATLARI VE ENERJİ İLETİM HATLARI GEÇİŞ ALANLARI ... 37
+8.13 ASKERİ ALANLAR ............................................................................................................. 38
+8.14 EĞİTİM, SAĞLIK ALANLARI VE KENT PARKLARI..................................................... 38
+8.14.1 Eğitim Alanları ......................................................................................................... 39
+8.14.2 Sağlık Alanları .......................................................................................................... 39
+8.14.3 Kent Parkı ve Fuar Alanı .......................................................................................... 39
+8.15 TURİZM ALANLARI............................................................................................................ 40
+8.15.1 Turizm Tesis Alanları ............................................................................................... 40
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+III
+8.15.2 Kamping Alanları ..................................................................................................... 40
+8.15.3 Günübirlik Kullanım Alanları.................................................................................... 40
+8.15.4 Termal Turizm Tesisleri ........................................................................................... 40
+8.16 GERİ KAZANIM, ATIK DEPOLAMA VEYA BERTARAF TESİS ALANLARI............. 41
+8.17 AĞAÇLANDIRILACAK ALANLAR .................................................................................. 42
+8.18 ÖNEMLİ DOĞA ALANLARI .............................................................................................. 42
+8.19 JEOLOJİK AÇIDAN SAKINCALI ALANLAR .................................................................. 42
+8.20 ÖZEL KANUNLARLA BELİRLENMİŞ ALANLAR ......................................................... 42
+8.21 ORGANİZE HAYVANCILIK BÖLGELERİ (OHB)............................................................ 43
+9. PLANLAMA ALT BÖLGESİ........................................................................................................ 43
+9.1 NİĞDE PLANLAMA ALTBÖLGESİ ÇEVRE DÜZENİ PLANI ......................................... 43
+9.2 PLANLAMA ALTBÖLGESİ UYGULAMA HÜKÜMLERİ .................................................43
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+1
+1. AMAÇ
+Kırşehir-Nevşehir-Niğde-Aksaray Planlama Bölgesi 1/100 000 Ölçekli Çevre Düzeni Planı ile 2025 yılını hedef alınarak planlama bölgesinde sürdürülebilir kalkınma ilkesi çerçevesinde, yaşanabilir bir çevre yaratılması; sosyal, kültürel ve tarihsel kimliğin korunması, çevre ve kalkınma politikaları kapsamında sektörel gelişme hedeflerine uygun olarak belirlenen planlama ilkeleri doğrultusunda sağlıklı gelişmenin ve büyümenin sağlanması amaçlanmaktadır.
+2. PLANLAMA ALANI SINIRI VE KAPSAMI
+Planlama alanı sınırı; Tuz Gölü Özel Çevre Koruma Bölgesi, Ihlara Özel Çevre Koruma Bölgesi, Kapadokya Kültür ve Turizm Koruma ve Gelişim Bölgesi, Hirfanlı Baraj Gölü Turizm Bölgesi, Çiftehan Termal Turizm Merkezi, Narlıgöl Termal Turizm Merkezi ve Hasandağı Kış Sporları Turizm Merkezi hariç olmak üzere; Kızılırmak, Orta Anadolu ve Doğu Akdeniz havzalarının bir kısmını kapsayan Kırşehir, Nevşehir, Niğde ve Aksaray il sınırlarının tamamıdır.
+Bu çevre düzeni planı, Aksaray, Niğde, Kırşehir ve Nevşehir sınırlarının bütününden oluşan alanı kapsayan plan onama sınırları içinde; bu plan amacına yönelik, koruma/gelişme politikalarını, stratejilerini ve planlama ilke ve hedeflerini, ana kararlarını ve sorunlara müdahale stratejilerini kapsamaktadır.
+3. PLANLAMA YAKLAŞIMI
+Çevre Düzeni Planı sınırları içerisinde arazi kullanım kararlarını sürdürülebilir kalkınma ilkeleri çerçevesinde Toplum-Çevre-Ekonomi üçlüsünün optimum seviyede bir araya gelebildiği politika ve stratejiler oluşturmayı hedefleyen katılımcı bir planlama yaklaşımı esas alınmıştır. Planlama bölgesinin Kayseri, Ankara, Konya, Mersin ve Adana gibi sanayinin geliştiği illerin odak noktasında olması; bu illerin sanayi açısından 2025 yılına kadar doyuma ulaşacağı ve yeni sanayi alanlarına ihtiyaç olacağı varsayımıyla ve ulaşılabilirliğin etkisiyle planlama alanında tarımın yanında destekçi sektör olarak sanayinin gelişeceği stratejisi esas alınmıştır. Bu doğrultuda hizmet sektörünün ve inşaat sektörünün de geliştiği koruma kullanma dengesinin sağlanması stratejisi esas alınmıştır.
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+2
+4. PLANLAMA HEDEFLERİ
+4.1 Temel Hedefler
+4.1.1 Koruma- kullanma dengelerini kurmak,
+4.1.2 Doğal, tarihsel, kültürel, sosyal ve ekonomik değerleri korumak ve geliştirmek,
+4.1.3 Bölge sınırları içinde gelişme potansiyelleri ve iç dinamikler çerçevesinde yerleşmeler arası hiyerarşi ve kademelenmeyi oluşturmak,
+4.1.4 Koruma-kullanma ilkesi çerçevesinde potansiyellerin harekete geçirilmesini sağlamak,
+4.1.5 Planlama bölgesinin mevcut ve gelişmesi olası sektörlerde uzmanlaşmasını sağlamak,
+4.1.6 1/100.000 ölçekli Çevre Düzeni Planı’nın onaylanmasına müteakip, planda yer alan ilgili kurum ve kuruluşların sorumlu olduğu planların hızla hazırlanması veya hazırlattırılmasının sağlanması.
+4.2 Alt Hedefler
+4.2.1 Bölgenin sosyal, ekonomik, kültürel açıdan uyumlu büyümesi, bütünleşmesi ve gelişmesinin sağlanması
+4.2.2 Ekolojik dengenin korunması,
+4.2.3 Sürdürülebilir kentsel gelişmenin sağlanması;
+4.2.3.1 Koruma-Kullanma dengesi çerçevesinde aktif korumanın sağlanması
+4.2.3.2 Korunacak alanlara kentsel gelişme baskılarını azaltacak tedbirler almak
+4.2.3.3 Mekansal, teknolojik ve sosyo-ekonomik kalitesi sürekli olarak düşen küçük ölçekli üretim tesislerinin (enformel sektör), mekansal ve sektörel planlama yolu ile desteklenmesi
+4.2.3.4 İçme ve Kullanma Suyu Su toplama havzalarının korunması
+4.2.3.5 Planlama alanındaki göl, gölet ve barajların mutlak ve kısa koruma kuşaklarının kırsal ve kentsel yerleşmeden arındırılması ve bu alanlarda ekolojik tarıma geçiş yapılması
+4.2.3.6 Bölge bütününde maden ve taş ocakları işleten ocaklarda, en fazla yarar ve sürdürülebilir kalkınma ilkesi gözeten çevreye duyarlı anlayışın etkin kılınması
+4.2.4 Bölge Turizm Değerlerinden Optimum Faydalanmak Sureti ile Turizmin Bölge İçindeki payının Artırılması;
+4.2.4.1 Turizm sektöründe gelişmenin sağlanması ve bölge ekonomisindeki payının arttırılması yönünde plan kararları oluşturulması ve bu alanlarda standart ve kalitenin geliştirilmesi
+4.2.4.2 Kentsel gelişme baskılarını Kapadokya Bölgesi başta olmak üzere tüm illerde bulunan turizm potansiyellerinde uzak tutarak tarihi ve kültürel değerlerin korunmasını sağlamak.
+4.2.5 Bölgenin çevre iller ve önemli Merkezler İle ekonomik ilişkilerinin geliştirilmesi;
+4.2.6 Aksaray kent ekonomisinin tarıma dayalı sanayi sektörü odaklı gelişmesinin sağlanması,
+4.2.7 Kırşehir kent ekonomisinin tarım odaklı sanayi olarak gelişmesinin sağlanması,
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+3
+4.2.8 Nevşehir kent ekonomisinin tarım yanında turizm sektörü odaklı gelişmesinin sağlanması,
+4.2.9 Niğde kent ekonomisinin tarıma dayalı sanayi sektörü odaklı gelişmesinin sağlanması
+4.2.10 Bölgenin yerel potansiyellerinin harekete geçirilmesi
+4.2.11 Bölge’nin çevresi ile sosyo-ekonomik işbirliği içinde bulunmasının sağlanması
+4.2.12 Bölge içerisinde var olan sanayinin organize sanayi bölgelerinde toplanması teşvik edilmesi, bu alanlarda çevreye duyarlı ve kontrollü üretime teşvik edilmesi
+4.2.13 Nüfus-istihdam dengesinin kurulması
+4.2.14 İş-konut arasındaki mesafenin minimuma indirilmesi yönünde arazi kullanım dağılımlarının dengeli oluşturulmasının sağlanması
+4.2.15 Bölgede yaşam kalitesinin yükselmesi
+4.2.16 Ulaşım hizmetlerinin kolaylaştırılması
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+4
+5. TANIMLAR
+5.1 Bakanlık: Çevre ve Orman Bakanlığı
+5.2 İlgili Kurum ve Kuruluşlar: Bu planın yapımı sırasında işbirliği yapılan ve uygulamalarda görüşlerine başvurulan/başvurulacak kurum ve kuruluşlardır.
+5.3 Uygulamadan Sorumlu İdareler: Çevre ve Orman Bakanlığı, Valilik, İl, İlçe ve Belde Belediyeleri ile bu plan kapsamında kalan tüm yetkili merciler.
+5.4 Kentsel Yerleşme Alanı: İçerisinde konut, ticaret, turizm alanı, konut dışı kentsel çalışma, küçük sanayi sitesi, sosyo-kültürel ve teknik altyapı alanları gibi kentliye hizmet edecek faaliyet alanlarının bulunduğu ve sanayi-depolama alan kullanımlarına izin verilmeyecek alanlardır. Bu planla belirlenmiş kentsel yerleşik alanları ve kentsel gelişme alanlarını ifade eder.
+5.4.1 Kentsel Yerleşik Alanlar: Büyükşehir ve/veya İl, İlçe, İlk Kademe ve Belde Belediye sınırları içinde varolan, içinde boş alanları barındırsa da büyük oranda yapılaşmış alanlardır.
+5.4.2 Kentsel Gelişme Alanları: Bu planın projeksiyon nüfusu, ilke ve stratejilerine göre kentsel yerleşime açılan alanlardır.
+5.5 Kırsal Yerleşme Alanı: Köy statüsündeki yerleşmeler ile bunların mahalle ve bağlı mezralarını kapsayan ve planda sınırları şematik olarak gösterilmiş olan yapılaşmış/ yapılaşacak alanlardır.
+5.6 İmar uygulaması: Yürürlükte bulunan onanlı imar planları doğrultusunda parselasyon planları yapılmış alanlardır.
+5.7 Organize Hayvancılık Bölgesi (OHB): Hayvansal üretimin yapıldığı işletmelerin yeterli büyüklükte, alt yapısı sağlanmış, bir bölgede toplanmasını, yeni teknolojileri kullanarak, süt, et gibi hayvansal ürünlerin sağlıklı olarak yeterli miktarda sağlanması, besi, yem üretimi ve ürün işleme tesislerinin bir arada düzenlemesinin amaçlandığı alanlardır.
+5.8 Özel Kanunlarla Planlama Yetkisi Verilmiş Alanlar: Özel Çevre Koruma Bölgeleri, Milli Parklar, Tabiatı Koruma Alanları, Tabiat Parkı, Tabiat Anıtı, Yaban Hayatı Koruma ve Geliştirme Sahası, Turizm Merkezi, Kültür ve Turizm Koruma ve Gelişim Bölgesi, Sulak alanları vb. gibi farklı ölçeklerde planlama yetkileri yerel yönetimler dışındaki kurumlara verilmiş alanlardır.
+5.9 Organize Sanayi Bölgesi (OSB) : Sanayi ve Ticaret Bakanlığı’nın 15.04.2000 tarih ve 4562 sayılı Organize Sanayi Bölgeleri kanununda tanımlanan OSB statüsü kazanmış ve kazanacak olan alanlardır.
+5.10 Sanayi Alanı: Orta ve Büyük ölçekli sanayi işletmelerinin yer aldığı, 1593 sayılı Umumi Hıfzısıhha Kanunu ve ilgili yönetmeliğine uygun olarak çevre ve sağlık koşulları gözetilerek toplu yer almaları öngörülen sanayi tesislerine ve bunlarla ilişkili açık ve kapalı depolama alanlarına ayrılan ve ayrılacak alandır.
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+5
+5.11 Küçük Sanayi Siteleri: Küçük ölçekte sanayi işletmelerinin yer aldığı, daha çok doğrudan kentliye yönelik hizmet üreten 1593 sayılı kanun ve ilgili yönetmeliğine uygun olarak çevre ve sağlık koşulları açısından ayrılmaları ve gruplaşmaları gerekli görülen iş alanlarıdır.
+5.12 Depolama Alanları: Şehir içi taşıma ve depolama başta olmak üzere tüm lojistik faaliyetlerin maliyet, hız, güvenilirlik, izlenebilirlik ve esneklik değişkenleri ile şehrin tarihi, sosyal, siyasi, çevresel, coğrafi özelliklerine göre en uygun yerde ve şekilde yapılabilmesi amacıyla ticari, sanayi, bitkisel ve tarımsal hammaddelerinin ve mamul ürünlerinin de depolandığı alanlardır.
+5.13 Tarım Arazileri: Toprak, topografya ve diğer ekolojik özellikleri bitkisel, hayvansal ve su ürünleri üretimi için uygun olan ve halihazır bu amaçla kullanılan veya ekonomik olarak imar, ıslah ve ihya edilerek bitkisel, hayvansal ve su ürünleri üretimi için uygun hale dönüştürülebilen arazilerdir.
+5.13.1 Mutlak Tarım Arazisi: Bitkisel üretimde; toprağın fiziksel, kimyasal ve biyolojik özelliklerinin kombinasyonu yöre ortalamasında ürün alınabilmesi için sınırlayıcı olmayan, topografik sınırlamaları yok veya çok az olan; ülkesel, bölgesel veya yerel önemi bulunan, halihazır tarımsal üretimde kullanılan veya bu amaçla kullanıma elverişli olan arazilerdir.
+5.13.2 Özel Ürün Arazisi: Mutlak tarım arazileri dışında kalan, toprak ve topografik sınırlamaları nedeniyle yöreye adapte olmuş bitki türlerinin tamamının tarımının yapılamadığı ancak özel bitkisel ürünlerin yetiştiriciliği ile su ürünleri yetiştiriciliğinin ve avcılığın yapılabildiği, ülkesel, bölgesel veya yerel önemi bulunan arazilerdir.
+5.13.3 Dikili Tarım Arazisi: Mutlak ve özel ürün arazileri dışında kalan ve üzerinde yöre ekolojisine uygun çok yıllık ağaç, ağaççık ve çalı formundaki bitkilerin tarımı yapılan ülkesel, bölgesel veya yerel önemi bulunan arazilerdir.
+5.13.4 Marjinal Tarım Arazisi: Mutlak tarım arazileri ve özel mahsul arazileri dışında kalan ve mera alanlarını da içeren toprak ve topografik sınırlamalar nedeni ile üzerinde sadece geleneksel toprak işlemeli tarımın yapıldığı arazilerdir.
+5.14 Arazi toplulaştırması: Arazilerin doğal ve yapay etkilerle bozulmasını ve parçalanmasını önlemek, parçalanmış arazilerde ise doğal özellikleri, kullanım bütünlüğü ve mülkiyet hakları gözetilerek birden fazla arazi parçasının birleştirilip ekonomik, ekolojik ve toplumsal yönden daha işlevsel yeni parsellerin oluşturulmasını ve bu parsellerin arazi özellikleri ve alanı değerlendirilerek kullanım şekillerinin belirlenmesini, köy ve arazi gelişim hizmetlerinin sağlanmasını ifade eder.
+5.15 Tarımsal Amaçlı Yapılar: Toprak koruma ve sulamaya yönelik altyapı tesisleri, entegre nitelikte olmayan; hayvancılık (besicilik) ve su ürünleri üretim ve muhafaza tesisleri ile zorunlu olarak tesis edilmesi gerekli olan müştemilatı, mandıra (sütçülük), üreticinin bitkisel üretime bağlı olarak elde ettiği ürünü için ihtiyaç duyacağı yeterli boyut ve hacimde depolar, un değirmeni, tarım alet ve makinelerinin muhafazasında kullanılan sundurma ve çiftlik atölyeleri, seralar, tarımsal işletmede üretilen ürünün özelliği itibarıyla hasattan sonra iki saat içinde işlenmediği takdirde ürünün kalite ve besin değeri kaybolması söz konusu ise bu ürünlerin işlenmesi için kurulan tesisler ile Tarım ve Köy İşleri Bakanlığı tarafından tarımsal amaçlı olduğu kabul edilen entegre nitelikte olmayan diğer tesislerdir.
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+6
+5.16 Tarımsal Amaçlı Entegre Yapılar: Tarımsal ürünlerin üretiminden sonra işlenerek fiziksel veya kimyasal özellikleri değiştirilip bir veya birden fazla yeni ürüne dönüştürülmesinin yapıldığı tesislerdir.
+5.17 Askeri Alanlar: 2565 sayılı Askeri Yasak Bölgeler ve Güvenlik Bölgeleri Kanunu ile belirlenmiş alanlardır.
+5.18 Kent Parkı: Kentin bütününe hizmet eden açık alanlar ve aktif yeşil alanlar içeren aynı zamanda içinde kentsel spor alanları ile birlikte eğlence ve dinlenme amacı yanında sanayi, tarım vb. ürünlerin sergilendiği fuar alanlarının da olabileceği, çağdaş, teknolojik, sosyal tesis, kent ormanları, rekreasyon alanları ve ilgili yönetim merkezleri ile donanmış büyük park alanlarıdır.
+5.19 Milli Park: 11.08.1983 Tarih ve 18132 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren 2873 sayılı Milli Parklar Kanunu’nda yer alan, Bilimsel ve estetik bakımından, milli ve milletlerarası ender bulunan tabii ve kültürel kaynak değerleri ile koruma, dinlenme ve turizm alanlarına sahip tabiat parçalarıdır.
+5.20 Tabiat Parkı: Bitki örtüsü ve yaban hayatı özelliğine sahip, manzara bütünlüğü içinde halkın dinlenme ve eğlenmesine uygun tabiat parçalarıdır.
+5.21 Tabiat Koruma Alanı: Bu planın araştırma raporuna göre belirlenmiş, bilim ve eğitim bakımından önem taşıyan nadir, tehlikeye maruz veya kaybolmaya yüz tutmuş ekosistemler, türler ve tabii olayların meydana getirdiği seçkin örnekleri ihtiva eden ve mutlak korunması gerekli olan tabiat parçalarıdır.
+5.22 Önemli Doğa Alanları: Bu plan ile belirlenen hassas ve benzersiz coğrafyası, bitki, kuş ve sahip olduğu doğal özellikleri nedeniyle daha ayrıntılı incelenmesi öngörülen alanlardır.
+5.23 Ekosistem Sınırı: Tüm Önemli Tabiat Alanı (Önemli Doğa Alanı, Önemli Kuş Alanı ve Önemli Bitki Alanı vb.) sınırlarının ortak adıdır.
+5.24 Mera Alanları: 4342 sayılı Mera Kanunu uyarınca saptanmış/saptanacak alanlardır.
+5.25 Orman Alanları: Çevre ve Orman Bakanlığı’nca 6831/3373 sayılı Orman Kanunu uyarınca orman sayılan ve orman rejimine tabi alanlardır.
+5.26 2B Alanları: 6831 sayılı Orman Kanununun 2. Maddesi (b) fıkrasına göre hazine adına orman sınırları dışına çıkarılmış alanlardır.
+5.27 Kültür ve Turizm Koruma ve Gelişim Bölgeleri ve Turizm Merkezleri: 2634/4957 Sayılı Turizmi Teşvik Kanunu uyarınca belirlenmiş alanlardır.
+5.28 Su Toplama Havzası: “Su Kirliliği Kontrol Yönetmeliği”nde tanımlanan ve Devlet Su İşleri Genel Müdürlüğünce belirlenen alanlardır.
+5.29 Su Kaynakları: “Su Kirliliği Kontrol Yönetmeliği”nde tanımlanan ve Devlet Su İşleri Genel Müdürlüğünce belirlenen doğal veya yapay rezervlerdir.
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+7
+5.30 İçme ve Kullanma Suyu Koruma Kuşakları: “Su Kirliliği Kontrol Yönetmeliği”nde tanımlanan ve Devlet Su İşleri Genel Müdürlüğünce belirlenen derecelendirilmiş koruma kuşak alanlarıdır.
+5.31 Turizm Tesis Alanı: Turizm yatırım kapsamında bulunan veya turizm işletmesi faaliyetlerinin yapıldığı veya yapılacağı tesislerin ve bunların tamamlayıcı unsurlarının yer aldığı alanlardır.
+5.32 Termal turizm tesis alanları: Mineralize termal sular, içme suyu, çamur gibi maddeler veya solunum yolu ile veya mekanik ve elektrikli araçlar yardımı ile insan sağlığını koruma ve tedavi amaçlı uygulamalardan birinin veya birkaçının yapılacağı ve konaklama tesisleri ile bir bütün olan alanlardır.
+5.33 Sit Alanları: 2863 sayılı (3386 ve 5226 kanunlarda değişik) kanun uyarınca sit alanı ilan edilen alanlardır.
+5.34 Atık Yönetim Planı: Atıkların çevreyle uyumlu bir şekilde yönetimini sağlamak üzere Bakanlıkça belirlenecek kısa ve uzun vadeli program ve politikalar çerçevesinde ilgili idaresince hazırlanan yönetim planını ifade eder.
+5.35 Atık Depolama ve Bertaraf Tesis Alanları: Üreticisi tarafından atılmak istenen, toplumun huzuru ile özellikle çevrenin korunması bakımından düzenli bir şekilde bertaraf edilmesi gereken katı atık maddelerin toplandığı ve bertaraf edildiği tesislerin yer aldığı/alacağı alanlardır.
+5.36 Tehlikeli Atık Bertaraf Tesisi Alanları: “Tehlikeli Atıkların Kontrolü Yönetmeliği”nde tanımlanan atıkların, aynı yönetmelikte tanımlanan kurallara uygun olarak bertarafının sağlandığı tesislerin kurulduğu/kurulacağı alanlardır.
+5.37 Arıtma tesis alanları: Her türlü sıvı atığın ilgili mevzuatta belirtilen standartları sağlayacak şekilde arıtılması veya bertaraf edilmesi amacı ile kurulan tesislerin yer aldığı/alacağı alanlardır.
+5.38 Planlama Alt Bölgesi: Gelişme potansiyeli olan kentsel kullanım alanları ile bunların etkileşim alanlarını ya da sahip olduğu ekolojik değerler açısından korunması ve geliştirilmesi gerekli alanları ya da sektörel açıdan gelişme potansiyeline sahip alanları kapsayan ve tamamı için bütüncül alt ölçekli çevre düzeni planı veya nazım imar planı yapılması zorunlu olan nüfus, işgücü, sosyal ve ekonomik veriler ışığında gelişme eğilimlerinin belirlendiği bölgelerdir.
+5.38.1 Niğde Planlama Alt Bölgesi: Niğde Merkez, Fertek, Koyunlu, Aktaş, Gümüşler, Bor, Bahçeli ve Kemerhisar belediyelerini kapsayan planlama alt bölgesidir.
+5.39 Planlama Alt Bölgesi Dışındaki Alanlar: Bu planda belirlenmiş olan Planlama Alt Bölgesi dışında kalan ve bu plan kararları ve plan hükümleri doğrultusunda, çevresi ile etkileşimi göz önüne alınarak ilgili kurum ve kuruluşların görüşleri alınarak Nazım İmar Planı ve Uygulama İmar Planı yapılacak alanlardır.
+5.40 Doğal Soğuk Hava Deposu: Kolay oyulabilen toprak yapısına sahip olan bölgelerde, yerin altına oyulmuş narenciye gibi meyve veya sebzelerin depolandığı alanlardır.
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+8
+5.41 Konut Dışı Kentsel Çalışma Alanları: İçerisinde motel ve lokanta da bulunabilen akaryakıt ve bakım istasyonları, resmi ve sosyal tesisler, dumansız, kokusuz, atık ve artık bırakmayan ve çevre sağlığı yönünden tehlike yaratmayan imalathaneler ile patlayıcı, parlayıcı ve yanıcı maddeler içermeyen depolar, teşhir ve satış birimleri ve otopark alanlarının yer aldığı alanlardır.
+5.42 Üniversite Alanları: Yüksekokul, Lisans, Lisansüstü Eğitim, Araştırma-Bilgi Üretim ve İletişim Merkezi işlevlerini yüklenen ve içerisinde Tekno-Parkların da yer alabileceği alanlardır.
+5.43 Enerji Üretim Alanları ve Tesisleri: Enerji Piyasası Düzenleme ve Denetleme Kurulu tarafından verilecek lisansa göre, elektrik enerjisi üreten santrallerin yer aldığı/alacağı alanlardır.
+5.44 Endüstri Bölgeleri: Yatırımları teşvik etmek, yurtdışında çalışan Türk işçilerinin tasarruflarını Türkiye’de yatırıma yönlendirmek ve yabancı sermaye girişinin artırılmasını sağlamak üzere 4737 sayılı Endüstri Bölgeleri Kanunu uyarınca kurulacak üretim bölgeleridir.
+5.45 Eko-Turizm Alanı: Doğal ve kültürel değerleri koruyarak, bu alanlarda ve çevresinde yaşayan nüfusun sosyo-ekonomik gelişimi için kaynak yaratabilen alternatif turizme dönük, doğal yaşama aktif katılımın sağlanabildiği, çevreye duyarlı alanlardır.
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+9
+6. PLANLAMA İLKE, GÖREV, SORUMLULUKLAR VE DENETİM
+6.1 İlkeler
+Ülke düzeyindeki sosyo-ekonomik planlar ile yerel düzeydeki ayrıntılı fiziki planlar arasında yatay ve dikey ilişkilerin kurulması ile ulusal önceliklerin yerel ölçekteki gereksinimlere yanıt verecek biçimde mekana yansıtılması; yerel ve bölgesel kaynakların harekete geçirilmesi için kamu ve özel sektör açısından yapılacakların belirlenmesi bu planlama çalışmasının temel amacı olarak görülmektedir. Çevre düzeni planı; bölgelerin farklı olanaklara, özelliklere ve sorunlara sahip olduğu gerçeğinden hareketle, kapsamlı ve katılımcı bir yaklaşımla ele alınmıştır.Bu planlar ulusal öncelikleri ve yerel talepleri yansıtarak sektörler arası bağları kuracak, bölge için stratejik vizyon geliştirecek ve dinamik yapılanmaya sahip olacaktır.Bu hedefler doğrultusunda belirlenen bölgesel gelişme politikası; ulaşım ve iletişim altyapısının güçlendirilmesi, çok amaçlı su kaynaklarının geliştirilmesi ve yönetilmesi, toprak mülkiyeti ve kullanımının iyileştirilmesi, yerel yönetimlerin güçlendirilmesi ve insan kaynaklarının geliştirilmesi gibi öğelerden oluşmaktadır.
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+10
+6.1.1 Koruma İlkeleri
+6.1.1.1 Tarımsal üretimde önemli altyapıyı oluşturan tarım arazileri koruma-kullanma dengeleri dikkate alınarak planda belirlenen koşullarda kullanılarak korunması sağlanacaktır.
+6.1.1.2 Çevre ve Orman Bakanlığı’nca orman alanı olarak belirlenen alanların korunması sağlanacaktır.
+6.1.1.3 Yeraltı ve yerüstü su kaynaklarını kirletici eylemlere kesinlikle izin verilmeyerek, içme suyu, tarımda sulama amaçlı kullanılan ve kullanılması düşünülen gölet ve benzeri kaynaklar, çevresindeki su toplama havzaları ve rezerv alanları korunacaktır.
+6.1.1.4 İçme suyu kaynakları mutlak ve kısa mesafe koruma kuşaklarının kırsal ve kentsel yerleşmelerden arındırılması ve bu alanlarda ekolojik tarıma geçiş yapılması sağlanacaktır.
+6.1.1.5 Flora ve fauna açısından zengin, sulak alanlar, göller vb. ekolojik açıdan eşsiz özellikler taşıyan alanlar korunacaktır. Bölgede mevcut bitki gen kaynağı açısından zengin vejetasyonuna ait alanlar korunacaktır.
+6.1.1.6 2863 sayılı “Kültür ve Tabiat Varlıklarını Koruma Kanunu” uyarınca belirlenen ve belirlenecek olan sit alanlarının (kentsel, arkeolojik, doğal v.b.) korunacaktır.
+6.1.1.7 Ekosistemi ve biyolojik çeşitlilikleri etkileyecek kentsel gelişme baskılarını en aza indirecek önlemler alınacaktır.
+6.1.1.8 Meraların, Mera Kanunu ve ilgili yönetmelikler uyarınca kullanılması ve korunması sağlanacaktır.
+6.1.1.9 4915 sayılı “Kara Avcılığı Kanunu” ve 2873 sayılı “Milli Parklar Kanunu” uyarınca belirlenen Milli parklar, Tabiat Parkları, Tabiat Koruma Alanları, Tabiat Anıtları ve Yaban Hayatı geliştirme sahaları korunacaktır.
+6.1.1.10 Tuz Gölü ve Seyfe Gölü gibi alanlar aynı zamanda birer sulak saha olmaları nedeniyle her türlü biyotik etkiden arındırılarak korunacaktır.
+6.1.1.11 İlgili kurum tarafından planlama alanı içerisinde yapılmış olan yatırım projeleri sonucu ortaya çıkacak olan sorunlara yönelik (örneğin: gölet projesi sonucu su altında kalan yerleşim sahaları) gerekli önlemlerin alınması ve bu önlemlerin proje uygulamasına paralel olarak gerçekleştirilmesi esastır.
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+11
+6.1.2 Gelişme İlkeleri
+6.1.2.1 Kentsel ve kırsal yerleşme alanlarının verimli tarım arazilerini yok etmeyecek ya da kirletme ve yapılaşma baskısı altına almayacak biçimde koruma-kullanma dengeleri geliştirilmesi sağlanacaktır.
+6.1.2.2 2025 yılı planlama alanı genelinde hedef nüfus 1,891,000 kişi olarak hesaplanmaktadır.
+6.1.2.3 Planlama bölgesinin Türkiye ve İç Anadolu bölgesi içindeki konumu dikkate alındığında genelde tarımsal niteliğin korunması esas olup, Kırşehir, Niğde ve Aksaray illerinin sahip olduğu tarım kimliklerinin yanında sanayi odaklı geliştirilecektir.
+6.1.2.4 Hazine mülkiyetinde ve parçalı durumda olan tarım arazilerinin bireysel satışı yerine toplulaştırılarak büyüklük ve nitelik açısından verimli, ekonomik tarım yapılabilecek konuma getirilmesi ve organize tarımsal işletmeler aracılığı ile işletilebilmesi sağlanacaktır.
+6.1.2.5 Kırsal alanda yeni ileri tarım teknik ve teknolojilerinin kullanımını yaygınlaştırılarak tarımsal verim ve üretim arttırılacaktır.
+6.1.2.6 Tarımsal verimliliği ve ürün çeşitliliğini artırabilmek için, sulama suyu bulunan bölgelerde sulanabilir arazilerin sulamaya açılması sağlanacaktır.
+6.1.2.7 Tarımsal verimliliğin arttırılması için drenaj, arazi toplulaştırma ve tarla içi geliştirme hizmetlerine ağırlık verilecektir. Bitkisel üretim ve hayvancılığın geliştirilmesi ve verimliliğin artırılması amacıyla, günümüz teknik ve teknolojisine uygun modern tarım araç ve gereçlerinin yararları ve kullanımına yönelik çiftçilere sağlanan uygulamalı eğitim imkânları arttırılacaktır.
+6.1.2.8 Sulama projelerinin arazi toplulaştırma ve tarla içi geliştirme hizmetleri ile birlikte yürütülmesine özen gösterilecek, projelerde çiftçi desteğinin sağlanmasına yönelik modeller geliştirilecektir.
+6.1.2.9 Tarım işletmelerinde optimum büyüklükte işletmeler oluşturulması teşvik edilmeli ve her ilçenin arazi yapısı dikkate alınarak ilgili idaresince ürün planlamasının yapılması bölgenin tarımsal gelişimi açısından fayda sağlayacaktır.
+6.1.2.10 Planlama alanı genelinde küçük kapasiteli işletmeler bazında yapılan kültür hayvancılığı işletmelerinin oluşturulması teşvik edilmelidir.
+6.1.2.11 Bu planın onayından önce onanmış imar planları ile sanayi kullanımına ayrılmış ya da açılmış alanların organize sanayi bölgesi şeklinde örgütlenmesi sağlanacaktır. Ayrıca mevcut sanayi tesislerinin çevre kirliliğini önlemeye yönelik tedbirleri almaları sağlanacaktır.
+6.1.2.12 Bu plan kapsamında, mevcut sanayi alanlarında, organize sanayi alanlarında v.b. yer alan çevre sorunu yaratan sanayi tesislerinin sınırlı kaynak niteliği taşıyan yer altı ve yerüstü suyunun temini ve kullanımında ve kirlilik yaratan katı ve sıvı atıkların deşarjı ve arıtılarak yeniden kullanılması konularında “geri kazanım” ilkeleri çerçevesinde örgütlenmeleri sağlanacak ve tarım ve sanayi sektörünün bir arada sürdürülebilir bir kalkınmayı gerçekleştirmeleri için gerekli önlemler alınacaktır.
+6.1.2.13 Organize sanayi ve organize edilmiş sanayi bölgelerini destekleyecek küçük ve orta ölçekli sanayi bölgeleri oluşturulması sağlanacaktır.
+6.1.2.14 Çevre kirliliği (su, toprak, hava) yaratan mevcut sanayilerin denetim altına alınması amacı ile ilgili kurum ve kuruluşlarla işbirliği içerisinde doğal eşikler dikkate alınarak özel sanayi bölgelerinin (ihtisaslaşmış sanayi bölgesi, organize edilmiş sanayi bölgesi v.b.) oluşturulması, imara açılmış sanayi bölgelerinin bu kapsamda organize edilmesi, denetim
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+12
+mekanizmalarının ve çevresel önlemlerin ilgili paydaşların katılımı ile belirlenmesi sağlanacaktır.
+6.1.2.15 İl Özel İdaresince, jeotermal kaynakların bulunduğu alanlarda rastgele kuyu açılması önlenecek, master planı çerçevesinde uygulama yapılacaktır.
+6.1.2.16 Jeotermal enerji kaynaklarının enerji, ısınma, seracılık, sağlık turizmi, CO² üretimi gibi alanlarda, çevreyle uyumlu ve sürdürülebilir entegre işletme yönetimi ilkesi çerçevesinde kullanılması amacıyla, jeotermal su potansiyeli, efektif kullanım alanları ve yerleri ile alternatif enerjiyle karşılaştırmalı maliyet-yarar hesapları ve su kaynaklarına etkilerini de içeren master planı hazırlanacaktır.
+6.1.2.17 İçme ve kullanma sularının ve kalitesinin tespit edilmesi ve su kirliliğinin önlenmesi amacıyla, yeraltı ve yerüstü içme suyu kaynakları ile sulama suyu olarak kullanılacak akarsu ve göllerde gerekli ölçüm ve analizlerin yapılması ve gerekli önlemlerin alınmasıyla su kaynaklarının sürdürülebilir kullanılması.
+6.1.2.18 İllerin jeotermal bölgelerinde, sıcak suyun seralarda kullanımı için hazırlanan projeler öncelikli olarak uygulanacaktır.
+6.1.2.19 Yeterli ve sağlıklı içme suyu olmayan köylerin tamamı içme suyuna kavuşturulmalı, çevre sağlığı açısından risk taşıyan yöreler ile turistik bölgelerde öncelikli olmak üzere kırsal kanalizasyon şebekeleri ile atık su tesisleri yaygınlaştırılmalıdır.
+6.1.2.20 Toprağın korunması ve erozyonun önlenmesi amacıyla ağaçlandırma, erozyon kontrolü ve rehabilitasyon çalışmaları yapılacak ve ağaçlandırma çalışmalarında ekonomik gelir getirici türlerin dikimine öncelik verilecektir.
+6.1.2.21 Sağlık turizmi potansiyeli yüksek olan termal su kaynaklarından yararlanarak, illere gelen turistlerin konaklama sürelerini artışı, turizm gelirlerinden daha fazla pay alabilmek için termal turizme yönelik Kür Merkezlerine destek verilmelidir.
+6.1.2.22 İmar planlarında yapı adaları fay kırığı kuşağın paralel geçecek biçimde düzenlenecektir.
+6.1.2.23 6831/3373 sayılı “Orman Kanunu”na göre orman sayılan alanların korunarak geliştirilmesi temel esastır.
+6.1.2.24 Tarım ürünlerinin pazarlanması ve geliştirilmesini sağlayacak tarım ve hayvancılık ürünlerine yönelik Pazar ve borsaların bir an önce uygulamaya geçirilmelidir.
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+13
+6.2 Denetim
+6.2.1 1/100.000 ölçekli çevre düzeni planı kapsamında yapılacak alt ölçekli planların (1/25.000 ölçekli çevre düzeni planı, 1/5000 ölçekli Nazım İmar Planı ve 1/1000 ölçekli Uygulama İmar Planı) ve uygulamalarının ilgili mevzuata ve plana uygunluğunu sağlamak, bu plan, plan kararları ve uygulama hükümleri dahilinde ilgili idarelere görev olarak verilen iş ve işlemlerin zamanında tamamlanması ve denetimin sağlanması ve bu amaçla yasal süreçlerin işletilmesi, ilgili kurum ve kuruluşların ve Bakanlığın görevidir.
+6.2.2 Valilikler, 3194 sayılı “İmar Kanunu” ve 5302 sayılı “İl Özel İdaresi Kanunu” hükümleri çerçevesinde alt ölçekli planlama çalışmasının bu plana uygunluğunu sağlamak amacıyla denetimi sağlar.
+6.2.3 İlgili kurum ve kuruluşlar, bu plana aykırı uygulamaları ilgili idareye bildirmekle yükümlüdürler.
+6.2.4 Bu plana aykırı olarak yapılan alt ölçek planların ve uygulamaların saptanması halinde “Bakanlık” bu işlemlerin iptalini ve uygun hale getirilmesini ilgili idareden ister. Aykırı uygulamalarda ısrar halinde İçişleri Bakanlığı’na suç duyurusunda bulunulur.
+6.2.5 “Afet Bölgelerinde Yapılacak Yapılar Hakkında Yönetmelik” koşullarının yerine getirilmesi ile ilgili yükümlükler, belediye ve mücavir saha içinde ilgili belediyelere, bunun dışında kalan yerlerde ise valilik ve kaymakamlıklara aittir.
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+14
+7. GENEL HÜKÜMLER
+7.1 Bu plan, plan kararları ve uygulama hükümleri, plan açıklama raporu ile bir bütündür.
+7.2 Bu plan üzerinden ölçü alınarak uygulama yapılamaz. Bu plan ile belirlenen kentsel yerleşme alanları, alanın tamamının yerleşime açılacağını göstermez. Bu sınırlar alt ölçekli planlama çalışmalarında ilgili kurum ve kuruluşların görüşleri doğrultusunda ve bu planda projeksiyon nüfuslarına göre belirlenen alansal büyüklüğü aşmayacak şekilde doğal, yapay ve yasal eşikler çerçevesinde kesinleşir.
+7.3 Bu planda ve planın uygulama hükümlerinde yer almayan konularda konumu ve ilgisine göre yürürlükte bulunan ve yürürlüğe girecek tüm Kanun, Tüzük, Yönetmelik, Tebliğ ve Standartlar geçerlidir. Bu planın onayından sonra yürürlüğe giren hukuki metinler plan ve plan notu değişikliğine gerek kalmaksızın uygulamaya girer.
+7.4 Bu planda ölçeği gereği gösterilmemiş köy, mahalle, mezralara ilişkin yerleşik alanlarda, bu planın kırsal alanlarla ilgili 8.2.2. nolu plan hükmü uygulanır.
+7.5 Onanlı imar planlarında bu planın ilke ve stratejilerine, kararlarına aykırı olarak alt ölçekli imar plan revizyonu, ilavesi veya değişikliği yapılamaz.
+7.6 Bu planın ilke ve stratejileri doğrultusunda yapılacak alt ölçekli planlarda, ilgili kurum ve kuruluş görüşleri alınacaktır.
+7.7 Bu plan, mevzuata aykırı olarak yapılaşmış yapılar için herhangi bir hak oluşturmaz. Bu planın onayından önce mevzuata aykırı olarak yapılaşmış olan yapılara ilgili kanunlar uyarınca ilgili idaresince işlem yapılır.
+7.8 Bu planın bütünlüğünün ve sürdürülebilirliğinin sağlanması amacıyla; Bakanlık tarafından onanlı 1/100.000 ölçekli çevre düzeni planlarının birer kopyası planlama bölgesindeki valiliklere gönderilir. Bu planın konusuna ve ilgisine göre, planlama alanı dahilindeki il, ilçe ve belde belediyelerine ilgili kurum ve kuruluşlara gönderilmesi konusunda Valilik sorumludur.
+7.9 Planlamaya ilişkin Özel Çevre Koruma ve Turizm Koruma ve Geliştirme alanları gibi özel kanunlarca belirtilmiş olan alanlarda yetkili kurumlarca işlem yapılır. Bu alanlarda, bu planın onayından önce yürürlüğe konmuş olan her türlü ve ölçekteki planlar, ilgili kanun uyarınca yürürlüktedir.
+7.10 Kentsel Yerleşme Alanlarındaki brüt yoğunluk dağılımı projeksiyon nüfusu göz önüne alınarak ilgili idaresince alt ölçekli planlarda belirlenir. Bu planda tanımlanmış olan Kentsel gelişme alanlarında, projeksiyon nüfusunun karşılanması sonucu kesinleşen sınırlar dışında kalan alanlar bugünkü arazi kullanımı devam ettirilecek şekilde kullanılacaktır. Ancak, ihtiyaç olması halinde, sosyal ve teknik altyapıya yönelik kullanılabilir.
+7.11 Bu plan ile belirlenen planlama alt bölgeleri içinde veya dışında ihtiyaç olması halinde güvenlik, sağlık, eğitim v.b. sosyal donatı alanları, Belediye hizmet alanları, büyük kentsel yeşil alanlar, kent veya bölge/havza bütününe yönelik her türlü atık bertaraf tesisleri ve bunlarla entegre geri kazanım tesisleri, arıtma tesisleri, sosyal ve teknik alt yapı, karayolu, demiryolu, havaalanı, baraj, enerji üretimi, enerji iletimi ve doğalgaz depolamasına ilişkin imar planları;
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+15
+ÇED Yönetmeliği kapsamında kalanlar için “Çevresel Etki Değerlendirmesi Olumlu” veya “Çevresel Etki Değerlendirmesi Gerekli Değildir” kararının bulunması, ÇED Yönetmeliği kapsamı dışında olanlar için ise ilgili kurum ve kuruluşların uygun görüşü olması kaydı ile çevre düzeni planı değişikliğine gerek olmaksızın, ilgili idaresince hazırlanır ve onaylanır. Onaylanan planlar sayısal ortamda veri tabanına işlenmek üzere Bakanlığa gönderilir. Söz konusu tesisler/tesis alanları amacı dışında kullanılamazlar.
+Yakma veya düzenli depolarının yanı sıra fiziksel/kimyasal/biyolojik önişlem ünitelerini içeren entegre atık bertaraf veya geri kazanım tesislerinin yer seçiminde, atığın en yakın ve en uygun olan tesiste bertaraf edilmesi ilkesi çerçevesinde, bölgenin atık miktarı dikkate alınarak ilgili kurum ve kuruşların görüşü doğrultusunda tesisin yer seçimi belirlenir.
+7.12 Bu plan ile belirlenen Planlama Alt Bölgesi içinde veya dışında, kentsel ve kırsal yerleşme alanları dışında gereksinim duyulması halinde; Toplu Konut İdaresi'ne (TOKİ) tahsis edilmiş alanlarda TOKİ tarafından üretilecek toplu konut alanları ve Özelleştirme İdaresi Başkanlığı'nca yürütülen faaliyetlerin alan kullanım türlerine ilişkin başvurular bu planın ilkeleri doğrultusunda irdelenir ve İlgili kurum ve kuruluş görüşleri alınarak, 1/100.000 ölçekli çevre düzeni planında değerlendirilmek üzere Bakanlığın görüşüne sunulur. Bakanlığın uygun görüşü doğrultusunda alt ölçekli planlar ilgili İdaresince onaylanır. Onaylanan planlar sayısal ortamda veri tabanına işlenmek üzere Bakanlığa gönderilir. Kentsel ve kırsal yerleşme alanları içerisinde kalması durumunda söz konusu talepler çevre imar bütünlüğü çerçevesinde ilgili İdaresi’nce alt ölçekli planlarda değerlendirilir.
+7.13 Her türlü sosyal, kültürel donatı alanı ve teknik altyapı mevzuatla belirlenmiş standartlara uygun olarak alt ölçekli planlarda belirlenecektir.
+7.14 Bu planın onama tarihinden önce mevzuata uygun olarak onaylanmış mevzi imar planları yürürlüktedir. Bu planın onama tarihinden önce ilgili kurum ve kuruluş görüşleri alınarak ilgili İdaresine başvurulmuş olan mevzi imar planları ile ilgili iş ve işlemler ilgili İdaresi’nce değerlendirilebilir.
+7.15 Bu planın onayından önce kentsel yerleşme alanları içinde veya dışında yer seçmiş ve imar mevzuatına uygun olarak onaylanmış imar planı bulunan münferit sanayi alanlarında mevcut yapılaşma koşulları geçerli olup bu alanlarda hiçbir şekilde yoğunluk artışı getirecek plan değişikliği/revizyonu ve tevsi yapılamaz.
+7.16 Bu plan ile belirlenen planlama alt bölgesinde, yapılması zorunlu olan bütüncül alt ölçekli çevre düzeni planı veya nazım imar planı yapımında idareler arası işbirliği esastır. İdareler, bu planla hazırlanması öngörülen planlama alt bölgesine ilişkin bütüncül planlarını bu planın koruma, gelişme ve planlama ilkeleri doğrultusunda hazırlanır ve planlar ilgili mevzuat uyarınca onaylanacaktır.
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+16
+7.17 Tuzköy ve yakın çevresi için Dünya Sağlık Örgütü araştırmaları doğrultusunda konu ile ilgili ihtisas sahibi bir kurul tarafından hastalığa (kanser) neden olan toprak ve taş karakterlerinin araştırması yapılarak bu alanın sınır tespiti yapılacaktır. Bu alan imara kapatılacaktır. Yerleşmenin nereye taşınacağı ve boşaltılan alanın gelecekteki arazi kullanımının ne olacağı kararı alt ölçekli planlarda verilecektir. Ayrıca Sarıhıdır ve Karain yerleşmelerinde de Tuzköy’dekine benzer bulgular olduğu ortaya çıktığından bu alanlarda da araştırma ve tespitler yapılacaktır. Bu alanlarda ilgili idarelerce alınan kararlara uyulacaktır.
+7.18 5.13.1 ve 5.13.2 maddelerinde tanımlanmış Mutlak Tarım Arazileri, Özel Ürün Arazileri ve fiilen sulanan ya da sulama projeleri ilgili kurum ve kuruluşlar tarafından hazırlanmış ve yatırım programlarına alınmış olan tarım arazilerinin korunması esastır.
+7.19 Üzerinde yetişen özel ürünler açısından önem taşıyan özel mahsul arazileri ( ceviz, elma, kiraz, üzüm vb.) korunması esastır.
+7.20 Bu planda, tüm tarım arazilerinde, tarım dışı amaçla kullanılmasına dair taleplerde İl Toprak Koruma Kurulunun uygun görüşünün alınması gerekmektedir. Tarım arazilerinde tarımsal amaçlı yapılan yapılar, küçük sanayi, sanayi veya başka amaçlı kullanımlara dönüştürülemez.
+7.21 Marjinal tarım arazilerinde talep gelmesi halinde ilgili kurum ve kuruluşlardan olumlu görüş almak kaydıyla organize hayvancılık alanı ayrılabilir. Yapılaşma koşulları alt ölçekli planlarda belirlenecektir. Organize hayvancılık bölgelerinde hayvan borsası teşvik edilecektir.
+7.22 Planlama sahası içerisinde bulunan sulak alanlarda sulak alan yönetmeliği hükümlerine uyulacaktır.
+7.23 Sanayi alanları, planın koruma-kullanma dengelerini gözeten ilke kararlarını desteklemek amacıyla tarımsal toprak niteliğinin düşük olduğu alanlarda, Sanayi ve Teknoloji Bakanlığı’nın ve ilgili kurum ve kuruluşların uygun görüşleri alınarak organize sanayi bölgesi statüsünde veya minimum 20 hektar alana sahip olacak şekilde geliştirilebilecek olup plan değişikliği yapılması zorunludur. Bu alanda bertaraf tesisleri inşa edilmeden işletme izni verilmez.
+7.24 Mevcut Organize Sanayi Bölgelerine, OSB Yer seçim Komisyonu’nca ilave edilen 50 hektarı geçmeyen alanların 1/100.000 Ölçekli Çevre Düzeni Planında değişikliğe gerek kalmaksızın alt ölçekli planları hazırlanabilir.
+7.25 Bu planda Sanayi-Depolama alanı olarak önerilen alanlar; Sanayi ve Ticaret Bakanlığı’nca OSB yer seçimi kesinleştirildiği takdirde, plan değişikliğine gerek kalmaksızın OSB alanı olarak kullanılır. Sanayi Alanı olarak kullanılması halinde, uygulama imar planları 4562 Sayılı OSB Kanunu Ve Uygulama Yönetmeliğinde sanayi tipine göre belirli olan parsel büyüklüğü ve yapılaşma yoğunluğu (emsal) doğrultusunda hazırlanması zorunludur.
+7.26 Planlama alanı içerisinde yer alan akarsu, göl kıyılarında gerekli izin alınmadan arazinin doğal topografyasını değiştirecek hiçbir kazı dolgu yapılamaz, taş ve maden ocağı kurulamaz, kum, çakıl çekilemez, moloz, cüruf, çöp vb. dökülemez, akarsu yatağına arıtılmadan atık su (evsel, endüstriyel) vs. deşarj edilemez. Alt Ölçekli Planlarda bu kaynaklar ile yerleşim alanları arasında, ilgili kurum görüşleri doğrultusunda yeterince yeşil alan bırakılacaktır.
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+17
+7.27 Orman kanunun 2. Maddesinin (b) bendine konu olan alanlarda yerleşim alanı niteliğindeki alanlar hukuki durumda olabilecek değişikliklerin sonucuna göre, Orman Genel Müdürlüğü ve Milli Emlak Genel Müdürlüğü görüşleri alınarak, bu planın nüfus kabulleri, ilke ve kararları doğrultusunda incelenerek, bu alanlarda mahkeme kararları sonucu doğacak haklar saklı kalmak ve gerekli çevre düzeni planı değişikliğinin yapılması kaydıyla alt ölçekli planlarda değerlendirilebilir. Tarımsal nitelik kazanmış olan kısımlarda ise çevre düzeni planı değişikliği yapılmasına gerek duyulmaksızın bu planın ilgili hükümleri uyarınca işlem yapılır.
+7.28 “Önemli Doğa Alanı” olarak gösterilen alanlarda bu planın uygulama hükümlerinde yer alan hükümler geçerli olacaktır.
+7.29 Bu planın onayından önce düzensiz yapılaşmış alanlar çevre kalitesini yükseltmesi amacıyla sıhhileştirilmesi ve yenilenmesi esastır.
+7.30 İl, ilçe, mücavir alan sınırları ile ilgili olarak plan gösteriminde farklar olması halinde yürürlükteki yasal sınırlar geçerlidir. Bu sınırlarda değişiklik olması durumunda ilgili kurumlar tarafından onaylanan yeni sınırlar plan değişikliğine gerek kalmaksızın geçerli olacaktır. Bu planın onayından sonra olabilecek idari sınır değişiklikleri bilgi için Bakanlığa gönderilecektir.
+7.31 Altyapı İle İlgili Hükümler
+7.31.1 Yapılan yapı ve tesisler çerçevesinde ihtiyaca cevap verebilecek ölçekte ve sağlık kurallarına uygun pis su kanalları ağı (şebekesi) var ise, tesisin pis su kanalları bu ağa bağlanır, yok ise 19.3.1971 tarih ve 13783 sayılı Resmi Gazete’de yayımlanan “Lağım Mecrası İnşaatı Mümkün Olmayan Yerlerde Yapılacak Çukurlara Ait Yönetmeliği”nde belirtilen boyut, nitelik ve şartlara uygun olacak biçimde genel veya her yapı ve tesis için bağımsız pis su kanalları tesis edilen çukurlara bağlanacaktır.
+7.31.2 Pis su çukurları kesinlikle göl ve akarsulara bağlanamaz ve boşaltılamaz.
+7.31.3 Turistik, kamu eğitim ve dinlenme tesislerinin ve toplu olarak gerçekleştirilecek konut yerleşmelerinin pis suları için atık su arıtma sistemi kurulması ve işletilmesi zorunludur.
+7.31.4 Atık su %90 oranında arıtılmadan deşarj yapılamaz ve söz konusu arıtma sistemi gerçekleştirilmeden yapı kullanma izni verilemez.
+7.31.5 Bu planın onaylanmasından önce planlama bölgeleri içinde noktasal yer seçen kirletici sanayilerle ilgili tedbirler konusunda uygulamaya yönelik koşullar alt ölçekli planlarda belirlenecektir.
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+18
+7.32 Afete Yönelik Genel Hükümler
+7.32.1 Bu plan kapsamında kullanım kararı getirilen alanlarda ilgili idarelerce imar plan yapım aşamasında jeolojik ve gerekli görülmesi halinde jeoteknik ve jeofizik etüt raporu hazırlatılarak Afet İşleri Genel Müdürlüğünce onaylanmadan uygulamaya geçilemez. Fay hatlarına isabet eden alanlar hiçbir şekilde yapılaşmaya açılmayacaktır Fay çizgilerine paralel yapı yaklaşma mesafeleri Afet İşleri Genel Müdürlüğü’nün görüşü doğrultusunda belirlenecek olup. Bu alanlar nazım ve uygulama imar planında yeşil alan olarak düzenlenecektir.
+7.32.2 Bu plandan önce inşa edilmiş olan mevcut yapılar “Afet Bölgelerinde Yapılacak Yapılar Hakkında Yönetmelik” hükümlerini uygun olarak ilgili idarelerce bir program dahilinde yaptırılacak jeolojik ve gerektiğinde hazırlanacak jeoteknik ve jeofizik etütler sonucu (Afet İşleri Genel Müdürlüğünce onaylanarak) gerekli görülmesi durumunda takviye edilecek.
+7.32.3 Afet İşleri Genel Müdürlüğü’nce onaylanacak jeolojik ve gerektiğinde hazırlanacak jeoteknik ve jeofizik etüt raporlarına göre sıvılaşma riski yüksek olarak tespit edilen alanlar hiçbir şekilde yapılaşmaya açılmayacak olup bu alanlar imar planında yeşil alan olarak düzenlenecektir.
+7.32.4 Bu planın onay tarihinden önce imar mevzuatına uygun olarak imar planı yapılmış olmasına rağmen uygulama(yapı) yapılmamış alanlar Afet İşleri Genel Müdürlüğü’nce onaylanacak jeolojik ve gerektiğinde hazırlanacak jeoteknik ve jeofizik etüt raporlarına göre afet (sıvılaştırma, heyelan vb.) riski yüksek alan olarak tespit edilirse bu alanlar(parsel ve/veya parseller) plan değişikliği yapılarak yeşil alana dönüştürülecek, uygulama(yapı) yapılmış alanlarda ise Afet İşleri Genel Müdürlüğü görüşü doğrultusunda işlem yapılacaktır.
+7.32.5 Planlama alanının afete uğrama olasılığı göz önüne alındığında imar planlarında ada düzenlemeleri ve yapı tipolojisi Afet İşleri Genel Müdürlüğü’nce onaylı jeolojik ve gerektiğinde hazırlanacak jeoteknik ve jeofizik etüt raporlarında belirtilen hususlar doğrultusunda oluşturulacaktır.
+7.32.6 Bölgesel olarak ilgili kurum ve kuruluşlarca yapılacak olan enerji, iletişim, ulaşım ve benzeri altyapılar ile doğalgaz boru hatları ve tesislerinde Afet İşleri Genel Müdürlüğü’nce onaylanacak jeolojik ve gerektiğinde hazırlanacak jeoteknik ve jeofizik etüt raporlarına uyularak gerekli güvenlik önlemleri alınacaktır.
+7.32.7 İmar planlarında ana yol genişlikleri afet sonrası trafik akışını engellemeyecek biçim ve genişlikte belirlenecektir.
+7.32.8 Planlama çalışmalarında planlanan nüfusa göre afet sonrası acil yardım ve destek merkezi ile yönetim merkezi olarak kullanılabilecek yerler için toplanma ve geçici iskan alanları belirlenecektir.
+7.32.9 Afet sonrası acil yardım destek merkezi ile yönetim merkezi olarak kullanılabilecek alanların, depolar ve dağıtım istasyonlarının yerleri alt ölçekli planlarda belirlenecektir.
+7.32.10 Bu plan kapsamındaki alanlarda, 7269 sayılı Umumi Hayata Müessir Afetler Dolayısıyla Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanun ve ilgili yönetmelikleri uyarınca hak sahibi afetzede ailelere kalıcı konut yapılması amacıyla AFAD tarafından “Afetzede Yerleşim Alanı” olarak belirlenen alanlarda yapılacak alt ölçekli planlar; bu planın koruma, gelişme ve planlama ilkeleri, nüfus kabulleri ve çevre imar bütünlüğü çerçevesinde, ilgili kurum ve kuruluş görüşleri doğrultusunda ilgili idaresince değerlendirilerek onaylanabilir. Bu doğrultuda hazırlanacak alt ölçekli planlar sayısal ortamda Bakanlığa gönderilir.
+7.33. Planlama alanında yer alacak beton santrallerinin öncelikle planda belirlenmiş olan sanayi alanlarına yönlendirilmesi esastır. Ancak ihtiyaç olması halinde bir veya birden fazla beton santralinin bir araya getirileceği 20 ha dan küçük alanların yer seçimi; söz konusu alanların kentsel ve kırsal yerleşme alanlarının içinde ya da bu alanlara bitişik olmaması, su kaynakları koruma kuşakları içerisinde ve herhangi bir koruma statüsü bulunan bir alanda yer almaması, tarımsal arazi vasfının düşük olması ile bölgede yer alacak tesislerin birbirine bitişik konumda olması esasları dikkate alınarak, ilgili Valilik ve/veya İl Belediyesi koordinatörlüğünde kurulacak olan, Sanayi ve Teknoloji Bakanlığı/İl Müdürlüğü ve diğer ilgili kurum ve kuruluş temsilcilerinin yer aldığı komisyonca belirlenebilir. Yer seçimi yapılan bu alanların imar planları ilgili idaresince onaylanır. Seçilmiş alanlara ilişkin onaylanan planlar sayısal ortamda veri tabanına işlenmek üzere Bakanlığa gönderilir. Bu alanlarda çevre kirliliğini önleyici her tür önlemin alınması ve ortak arıtma tesisleri oluşturulması esastır.
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+19
+8. UYGULAMA HÜKÜMLERİ
+8.1 PLANLAMA ALANINDA YER ALAN YERLEŞMELER VE NÜFUS PROJEKSİYONLARI
+2025 yılında planlama alanı genelinde nüfus 1.891.000 kişi olarak hesaplanmıştır
+8.1.1 Kırşehir ilinde yer alan kentsel yerleşmeler
+Kırşehir ilinde 2025 yılı tahmini nüfus 155.100 merkez ilçede, 139.900 kişi ise diğer ilçe ve kırsal yerleşmelerde yer almak üzere toplam 295.000 kişi olarak öngörülmektedir. (tablo 1)
+İLÇE
+BELEDİYE ADI
+YERLEŞİK ALAN (HA)
+BRÜT YOĞUNLUK (Kİ/HA)
+NÜFUS (2025)
+ÖNERİ KENTSEL GELİŞME ALANI (HA)
+TOPLAM ALAN (HA)
+AKÇAKENT
+MAHSENLİ
+33
+38
+4,600
+11
+44
+AKÇAKENT
+AKÇAKENT
+46
+28
+38
+84 ** AKPINAR AKPINAR 206 18 11500 138 344 AKPINAR AŞAĞIHOMURLU 41 49 21 62 AKPINAR BÜYÜKABDİUŞAĞI 36 27 25 61 AKPINAR KÖŞKER 68 14 28 96
+BOZTEPE
+BOZTEPE
+291
+17
+9,500
+125
+416
+BOZTEPE
+KARACAÖREN
+57
+27
+51
+108 ÇİÇEKDAĞI BOĞAZEVCİ 44 31 16,500 76 120 ÇİÇEKDAĞI ÇİÇEKDAĞI 290 23 173 463 ÇİÇEKDAĞI KÖSELİ 146 26 69 215
+KAMAN
+BASKOY
+50
+21
+71,600
+21
+71
+KAMAN
+ÇAĞIRKAN
+172
+13
+29
+201
+KAMAN
+DEMİRLİ
+61
+42
+37
+98
+KAMAN
+HAMİT
+109
+16
+34
+143
+KAMAN
+İSAHOCALI
+78
+24
+45
+123
+KAMAN
+KAMAN
+923
+39
+709
+1,632
+KAMAN
+KARGINYENİCE
+139
+16
+38
+177
+KAMAN
+KURANCILI
+103
+26
+15
+118
+KAMAN
+ÖMERHACILI
+87
+23
+57
+144
+KAMAN
+SAVCILIBÜYÜKOBA
+180
+13
+86
+266
+KAMAN
+YELEK
+93
+22
+38
+131 MERKEZ ÇAYAĞZI 117 18 155,100 30 147 MERKEZ DULKADİRLİ 38 53 15 53 MERKEZ KARAHIDIR 137 15 48 185 MERKEZ KIRŞEHİR 2,481 36 1,645 4.126 MERKEZ ÖZBAĞ 106 34 118 224 MERKEZ ULUPINAR 118 20 68 186 MERKEZ TOKLÜMEN 24 71 TKG BÖLGESİNDE KALDIĞI İÇİN GELİŞME ALANI ÖNERİLMEMİŞTİR.
+MUCUR
+MUCUR
+381
+39
+27,500
+126
+507 İL TOPLAMI 6,655 38 295,000 3,814 10,469
+Tablo 1 Kırşehir ili yerleşik alan, öngörü nüfus ve gelişme alanları
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+20
+** 14.01.2011 tarihli Plan Değişikliği (Değişiklik No: 3) ile değiştirilmiştir.
+KIRŞEHİR
+Mevcut (2000)
+Öneri (2025)
+Nüfus
+253,239
+295,000
+Aktivite oranı
+37.64%
+40.00%
+İşgücü
+95,310
+117.692
+Tablo 2 Kırşehir ili öneri nüfus, aktivite oranı ve işgücü
+KIRŞEHİR
+Sektörel Dağılım (%)
+Mevcut (2000)
+Öneri (2025)
+Tarım
+65.08%
+52,00%
+Sanayi
+5.93%
+15,00%
+Hizmet
+24.67%
+27,00%
+İnşaat
+4.27%
+6,00%
+Tablo 3 Kırşehir ili öneri sektörel dağılımı
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+21
+8.1.2 Nevşehir ilinde yer alan kentsel yerleşmeler
+Nevşehir ilinde 2025 yılı tahmini nüfus 180.200 merkez ilçede, 240.800 kişi ise diğer ilçe ve kırsal yerleşmelerde yer almak üzere toplam 421.000 kişi olarak öngörülmektedir (tablo 4)
+İLÇE
+BELEDİYE ADI
+YERLEŞİK ALAN (HA)
+BRÜT YOĞUNLUK (Kİ/HA)
+NÜFUS (2025)
+ÖNERİ KENTSEL GELİŞME ALANI (HA)
+TOPLAM ALAN (HA) ACIGÖL ACIGÖL 367 18 32,100 137 504 ACIGÖL İNALLI 145 15 47 192 ACIGÖL KARAPINAR 173 18 30 203 ACIGÖL KURUGÖL 85 23 61 146 ACIGÖL TATLARIN 128 22 85 213
+AVANOS
+AKARCA
+109
+21
+56,700
+36
+145
+AVANOS
+GÖYNÜK
+41
+54
+22
+63
+AVANOS
+KALABA
+420
+13
+238
+658
+AVANOS
+MAHMAT
+158
+13
+38
+196
+AVANOS
+ÖZKONAK
+382
+21
+183
+565
+AVANOS
+SARILAR
+157
+24
+88
+245
+AVANOS
+TOPAKLI
+167
+23
+107
+274
+AVANOS
+AVANOS
+TURİZM KORUMA VE GELİŞTİRME BÖLGESİNDE KALDIĞI İÇİN ALAN HESABI YAPILMAMIŞTIR.
+TKG BÖLGESİNDE KALDIĞI İÇİN GELİŞME ALANI ÖNERİLMEMİŞTİR.
+AVANOS
+ÇALIŞ
+237
+13
+108
+345 DERİNKUYU DERİNKUYU 780 14 33,800 605 1,385 DERİNKUYU SUVERMEZ 310 8 87 397 DERİNKUYU YAZIHÜYÜK 455 8 142 597
+GÜLŞEHİR
+ABUUŞAĞI
+213
+10
+31,700
+59
+272
+GÜLŞEHİR
+GÜLŞEHİR
+353
+27
+159
+512
+GÜLŞEHİR
+GÜMÜŞKENT
+56
+32
+39
+95
+GÜLŞEHİR
+KARACAŞAR
+131
+20
+43
+174
+GÜLŞEHİR
+OVAÖREN
+65
+23
+29
+94
+GÜLŞEHİR
+TUZKÖY
+110
+27
+205
+315 HACIBEKTAŞ HACIBEKTAŞ 482 15 19,200 225 707 HACIBEKTAŞ KARABURNA 92 24 30 122 HACIBEKTAŞ KIZILAĞIL 180 11 90 270
+KOZAKLI
+KALECİK
+67
+25
+23,400
+101
+168
+KOZAKLI
+KANLICA
+88
+24
+40
+128
+KOZAKLI
+KARASENİR
+91
+19
+38
+129
+KOZAKLI
+KOZAKLI
+378
+21
+283
+661
+KOZAKLI
+KARAHASANLI
+179
+17
+54
+233 MERKEZ GÖRE 117 25 232,000 70 187 MERKEZ KAVAK 73 35 125 198 MERKEZ KAYMAKLI 317 18 79 396 MERKEZ NARKÖY 97 31 58 155 MERKEZ NEVŞEHİR 993 65 1332 2325 MERKEZ ÇAT TURİZM KORUMA VE GELİŞTİRME BÖLGESİNDE KALDIĞI İÇİN ALAN HESABI YAPILMAMIŞTIR. TURİZM KORUMA VE GELİŞTİRME BÖLGESİNDE KALDIĞI İÇİN GELİŞME ALANI ÖNERİLMEMİŞTİR.
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+22
+MERKEZ GÖREME
+MERKEZ SULUSARAY MERKEZ ÜÇHİSAR
+ÜRGÜP
+AKSALUR
+63
+30
+43,900
+101
+164
+ÜRGÜP
+BAŞDERE
+53
+45
+114
+167
+ÜRGÜP
+ÜRGÜP
+TURİZM KORUMA VE GELİŞTİRME BÖLGESİNDE KALDIĞI İÇİN ALAN HESABI YAPILMAMIŞTIR.
+TKG BÖLGESİNDE KALDIĞI İÇİN GELİŞME ALANI ÖNERİLMEMİŞTİR.
+ÜRGÜP
+MUSTAFAPAŞA
+ÜRGÜP
+ORTAHİSAR İL TOPLAMI 8252 29 472,800 5288 13,540
+Tablo 4 Nevşehir ili yerleşik alan, öngörü nüfus ve gelişme alanları
+NEVŞEHİR
+Mevcut (2000)
+Öneri (2025)
+Nüfus 309.914
+421.000
+Aktivite oranı
+47,08%
+48,00%
+İşgücü
+145.903
+202.324
+Tablo 5 Nevşehir ili öneri nüfus, aktivite oranı ve işgücü
+NEVŞEHİR
+Sektörel Dağılım (%)
+Mevcut (2000)
+Öneri (2025)
+Tarım
+70.25%
+55,00%
+Sanayi
+4.97%
+12,00%
+Hizmet
+21.93%
+27,00%
+İnşaat
+2.76%
+6,00%
+Tablo 6 Nevşehir ili öneri sektörel dağılım
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+23
+8.1.3 Niğde ilinde yer alan kentsel yerleşmeler
+Niğde ilinde 2025 yılı tahmini nüfus 292.500 merkez ilçede, 232.000 kişi ise diğer ilçe ve kırsal yerleşmelerde yer almak üzere toplam 524.500 kişi olarak öngörülmektedir. (tablo 7)
+İLÇE
+BELEDİYE ADI
+YERLEŞİK ALAN (HA)
+BRÜT YOĞUNLUK (Kİ/HA)
+NÜFUS (2025)
+ÖNERİ KENTSEL GELİŞME ALANI (HA)
+TOPLAM ALAN (HA)
+ALTUNHİSAR
+ALTUNHISAR
+158
+24
+28,000
+119
+277
+ALTUNHİSAR
+ÇÖMLEKÇİ
+34
+61
+68
+68
+ALTUNHİSAR
+KARAKAPI
+190
+14
+329
+329
+ALTUNHİSAR
+KEÇİKALESİ
+118
+24
+196
+196
+ALTUNHİSAR
+YAKACIK
+143
+26
+202
+202
+ALTUNHİSAR
+YEŞİLYURT
+49
+49
+71
+71
+ALTUNHİSAR
+ULUKIŞLA
+74
+31
+90
+90 BOR BAHÇELİ 135 25 95,400 234 369 BOR BOR 782 38 1,275 1,275 BOR ÇUKURKUYU 280 12 366 366 BOR KARANLIKDERE 71 40 204 204 BOR KEMERHİSAR 261 32 639 639 BOR KIZILCA 85 21 203 203
+ÇAMARDI
+BADEMDERE
+66
+50
+54
+120
+ÇAMARDI
+BURÇ
+134
+19
+233
+233
+ÇAMARDI
+ÇAMARDI
+117
+34
+214
+214 ÇİFTLİK AZATLI 90 56 44,000 146 236 ÇİFTLİK BOZKÖY 112 37 150 150 ÇİFTLİK ÇİFTLİK 122 38 291 291 ÇİFTLİK DİVARLI 60 49 161 161 ÇİFTLİK KİTRELİ 67 58 97 97
+MERKEZ
+AKTAŞ
+62
+33
+292,500
+35
+97
+MERKEZ
+ALAY
+139
+27
+205
+205
+MERKEZ
+BAĞLAMA
+193
+20
+231
+231
+MERKEZ
+ÇAVDARLI
+138
+16
+178
+178
+MERKEZ
+ÇAYIRLI
+151
+15
+266
+266
+MERKEZ
+DİKİLİTAŞ
+32
+56
+45
+45
+MERKEZ
+DÜNDARLI
+136
+37
+181
+181
+MERKEZ
+EDİKLİ
+273
+23
+304
+304
+MERKEZ
+ELMALI
+56
+31
+149
+149
+MERKEZ
+FERTEK
+27
+73
+308
+308
+MERKEZ
+GÜMÜŞLER
+117
+22
+197
+197
+MERKEZ
+HACIABDULLAH
+126
+24
+146
+146
+MERKEZ
+HACIBEYLİ
+48
+41
+72
+72
+MERKEZ
+İÇMELİ
+52
+38
+102
+102
+MERKEZ
+KARAATLI
+137
+24
+208
+208
+MERKEZ
+KAYIRLI
+45
+54
+121
+121
+MERKEZ
+KİLEDERE
+154
+27
+388
+388
+MERKEZ
+KONAKLI
+184
+21
+314
+314
+MERKEZ
+KOYUNLU
+183
+18
+558
+558
+MERKEZ
+NİĞDE
+965
+81
+1,993
+1,993
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+24
+MERKEZ
+ORHANLI
+146
+24
+74
+220
+MERKEZ
+OVACIK
+130
+16
+67
+197
+MERKEZ
+SAZLICA
+140
+21
+168
+308
+MERKEZ
+YEŞİLGÖLCÜK
+431
+12
+240
+671
+MERKEZ
+DEĞİRMENLİ
+62
+44
+67
+129
+MERKEZ
+YILDIZTEPE
+195
+16
+144
+339 ULUKIŞLA AKTOPRAK 105 26 45,200 44 149 ULUKIŞLA ÇİFTEHAN 12 179 4 16 ULUKIŞLA DARBOĞAZ 77 32 26 103 ULUKIŞLA YENİYILDIZ 32 71 40 72 ULUKIŞLA ULUKIŞLA 120 53 175 295
+İL TOPLAMI
+7,816
+45
+524,500
+524,500
+6,537
+14,393
+Tablo 7 Niğde ili yerleşik alan, öngörü nüfus ve gelişme alanları
+NİĞDE
+Mevcut (2000)
+Öneri (2025)
+Nüfus
+348,081
+524,500
+Aktivite oranı
+45,21%
+46,00%
+İşgücü
+157.362
+240.850
+Tablo 8 Niğde ili mevcut ve öneri nüfus, aktivite oranı ve işgücü
+NİĞDE
+Sektörel Dağılım (%)
+Mevcut (2000)
+Öneri (2025)
+Tarım
+73.49%
+58,00%
+Sanayi
+5.27%
+17,00%
+Hizmet
+18.17%
+21,00%
+İnşaat
+2.97%
+4,00%
+Tablo 9 İli Öneri Sektörel Dağılım
+8.1.4 Aksaray ilinde yer alan kentsel yerleşmeler,
+Aksaray ilinde 2025 yılı tahmini nüfus 420.500 merkez ilçede, 230.000 kişi ise diğer ilçe ve kırsal yerleşmelerde yer almak üzere toplam 650.500 kişi olarak öngörülmektedir. (tablo 10)
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+25
+İLÇE
+BELEDİYE ADI
+YERLEŞİK ALAN (HA)
+BRÜT YOĞUNLUK (Kİ/HA)
+NÜFUS (2025)
+ÖNERİ KENTSEL GELİŞME ALANI (HA)
+TOPLAM ALAN (HA)
+AĞAÇÖREN
+AĞAÇÖREN
+338
+15
+20,000
+181
+519
+AĞAÇÖREN
+CAMİLİ
+246
+10
+120
+366
+ESKİL
+ESKİL
+ÖÇK BÖLGESİNDE KALDIĞI İÇİN ALAN HESABI YAPILMAMIŞTIR.
+33,500
+ÖÇK BÖLGESİNDE KALDIĞI İÇİN GELİŞME ALANI ÖNERİLMEMİŞTİR.
+ESKİL
+EŞMEKAYA
+GÜLAĞAÇ
+DEMİRCİ
+225
+17
+40,000
+52
+277
+GÜLAĞAÇ
+BEKARLAR
+74
+37
+171
+245
+GÜLAĞAÇ
+GÜLAĞAÇ
+280
+17
+251
+531
+GÜLAĞAÇ
+GÜLPINAR
+209
+21
+272
+481
+GÜLAĞAÇ
+SARATLI
+168
+16
+186
+354
+GÜLAĞAÇ
+SOFULAR
+143
+19
+127
+270
+GÜZELYURT
+GÜZELYURT
+148
+26
+18,000
+74
+222
+GÜZELYURT
+ILISU
+63
+27
+61
+124
+GÜZELYURT
+SELİME
+ÖÇK BÖLGESİNDE KALDIĞI İÇİN ALAN HESABI YAPILMAMIŞTIR.
+TKG BÖLGESİNDE KALDIĞI İÇİN GELİŞME ALANI ÖNERİLMEMİŞTİR.
+GÜZELYURT
+IHLARA MERKEZ AKÇAKENT 70 30 420,500 95 165 MERKEZ AKSARAY MERKEZ 3,840 26 3,199 7,039 MERKEZ ARATOL 233 12 697 930 MERKEZ ARMUTLU 149 13 78 227 MERKEZ BAĞLIKAYA 126 22 123 249 MERKEZ DOĞANTARLA 182 11 178 360 MERKEZ HAMİDİYE 161 13 132 293 MERKEZ HELVADERE 206 17 108 314 MERKEZ İNCESU 171 17 45 216 MERKEZ KARKIN 71 26 46 117 MERKEZ KUTLU 178 12 72 250 MERKEZ SAĞLIK 179 12 221 400 MERKEZ SEVİNÇLİ 120 18 59 179 MERKEZ TAŞPINAR 99 36 67 166 MERKEZ TOPAKKAYA ÖÇK BÖLGESİNDE KALDIĞI İÇİN ALAN HESABI YAPILMAMIŞTIR. ÖÇK BÖLGESİNDE KALDIĞI İÇİN GELİŞME ALANI ÖNERİLMEMİŞTİR. MERKEZ ULUKIŞLA MERKEZ YUVA 119 17 50 169 MERKEZ ACIPINAR ÖÇK BÖLGESİNDE KALDIĞI İÇİN ALAN HESABI YAPILMAMIŞTIR. ÖÇK BÖLGESİNDE KALDIĞI İÇİN GELİŞME ALANI ÖNERİLMEMİŞTİR. MERKEZ ALTINKAYA MERKEZ SARAYHAN MERKEZ SULTANHANI MERKEZ YENİKENT
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+26
+MERKEZ YEŞİLOVA MERKEZ YEŞİLTEPE
+ORTAKÖY
+BALCI
+240
+14
+100,000
+334
+574
+ORTAKÖY
+BOZKIR
+90
+28
+95
+185
+ORTAKÖY
+ÇİFTEVİ
+215
+12
+162
+377
+ORTAKÖY
+DEVEDAMI
+108
+19
+117
+225
+ORTAKÖY
+HARMANDALI
+144
+23
+43
+187
+ORTAKÖY
+ORTAKÖY
+463
+66
+762
+1,225
+ORTAKÖY
+OZANCIK
+91
+17
+71
+162
+ORTAKÖY
+SARIKARAMAN
+248
+13
+115
+363 SARIYAHŞİ SARIYAHŞİ 233 33 18,500 157 390 SARIYAHŞİ BOĞAZKÖY 168 18 166 334 İL TOPLAMI 9,798 41 650,500 8,687 18,485
+Tablo 10 Aksaray ili yerleşik alan, öngörü nüfus ve gelişme alanları
+AKSARAY
+Mevcut(2000)
+Öneri(2025)
+Nüfus
+396,084
+650,500
+Aktivite oranı
+39.93%
+40.00%
+İşgücü
+158.157
+260.000
+Tablo 11 Aksaray ili mevcut ve öneri nüfus, aktivite oranı ve işgücü
+AKSARAY
+Sektörel Dağılım (%)
+Mevcut (2000)
+Öneri (2025)
+Tarım
+69.97%
+50,00%
+Sanayi
+5.67%
+22,90%
+Hizmet
+20.44%
+22,00%
+İnşaat
+3.39%
+5,10%
+Tablo 12 Aksaray İli Öneri Sektörel Dağılım
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+27
+8.2 KENTSEL VE KIRSAL YERLEŞME ALANLARI
+8.2.1 Kentsel Yerleşme Alanları
+8.2.1.1 Bu planda kentsel yerleşme alanları olarak gösterilmeyen ve belediye sınırları içine alınarak mahalleye dönüşen kırsal yerleşme alanlarında yapılacak alt ölçekli planlama çalışmalarında, yerleşmenin mahalle olarak bağlandığı sınırlar kentsel yerleşik alan olarak esas alınır. Bu yerleşmelerin mahalle olarak bağlandığı tarihteki nüfusları bağlandıkları belediyenin bu plan ile yapılmış nüfus kabullerine eklenir. Alt ölçekli planlama çalışmalarında yerleşmenin sahip olduğu geleneksel doku ve yapılaşma özellikleri ile civarındaki alanın doğal özelliklerinin planlama aşamasında dikkate alınması ve koruma kararlarının alınması zorunludur.
+8.2.1.2 Bu alanlarda, çevre düzeni planına uygun olan ve meri mevzuata uygun olarak yapılmış ve onaylanmış imar planları geçerlidir. Ancak meri mevzuata aykırı olarak yapılaşmış yapılara ilgili idaresince ilgili kanun ve yönetmelikler uyarınca işlem yapılacaktır.
+8.2.1.3 İmar planları yapımı (ilave, revizyon,değişiklik) ve onayında bu planın genel ilke ve hedeflerine uyulması zorunludur.
+8.2.1.4 1/100.000 ölçekli Çevre Düzeni Planında Kentsel Yerleşme Alanı olarak gösterilen alanlara ilişkin onanlı imar planları nüfusu, bu planda belirlenen 2025 nüfusunu aşması halinde 2025 nüfus öngörüsü doğrultusunda revize edilmek zorundadır. Diğer durumlarda imar planları geçerliliği koruyacaktır.
+8.2.1.5 Bu planda plan onama tarihinden önce onaylanmış imar planı bulunmakla birlikte arazi kullanım niteliği, hedef nüfus ve bu nüfusun ihtiyacı mekansal projeksiyonları açısından ihtiyaç fazlası olarak tespit edilen ve kentsel yerleşme alanı olarak gösterilmeyen alanlarda ilgili mevzuat uyarınca tamamlanmış inşaatı devam eden yapılar ile imar uygulaması almış parseller kentsel yerleşme alanı olarak kabul edilir. Bu planda Kentsel Gelişme Alanı olarak gösterilmemiş ve imar uygulaması görmemiş planlı alanlarda çevre düzeni planında kentsel yerleşme alanı olarak değişiklik yapılana kadar imar uygulaması durdurulur, ruhsatlandırma yapılmaz.
+8.2.1.6 Orman amenajman sınırlarına göre, planda orman alanı olarak gösterilen, ancak detaylı analizler sonucu İlgili İdaresi’nce orman alanı olmadığı belirlenen, bu doğrultuda görüş alınan kentsel yerleşme alanlarında bu planın nüfus kabullerini aşmamak kaydıyla onaylı imar planı şartları geçerlidir.
+8.2.1.7 Bu planda jeolojik açıdan sakıncalı alan olarak tespit edilen ancak alt ölçekli, detaylı jeolojik etüdler sonucunda yapılaşmaya uygun olduğu belirlenen ve Afet İşleri Genel Müdürlüğü’nden olumlu görüş alınan kentsel yerleşme alanlarında bu planın nüfus kabullerini aşmamak kaydıyla onanlı imar planı şartları geçerlidir. Bu alanlarda ilgili kurumlardan gerekli olumlu görüşlerin alınamadığı durumda, onanlı imar planlarının revize edilmesi veya ilgili idaresince bu plan kararlarına uygun alt ölçekli imar planların yapılması/yaptırılması yoluna gidilir.
+8.2.2 Kırsal Yerleşme Alanları
+8.2.2.1 Bu alanlar kentsel yerleşmelerle etkileşim halinde olmayan alanlardır. Bu nedenle gelişmelerinin kendi ivmesi ile olacağı varsayılacaktır. İhtiyaç durumunda, bu planın ilkelerine uygun olarak alt ölçekli planları hazırlanıp, yürürlükteki kanun ve yönetmeliklere uygun olarak onaylanabilir. Köy statüsündeki bu alanlarda ilgili idarece, kanun ve yönetmeliklere göre onaylanmış bulunan köy yerleşik alan sınırları geçerlidir.
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+28
+8.2.2.2 1/100.000 ölçekli Çevre Düzeni Planı’nın onama tarihinden önce ilgili kurum ve kuruluşlarca onaylanmış ‘Köy Gelişme Planları’ ve plan hükümleri geçerlidir.
+8.2.2.3 Bu alanlarda yapılacak her türlü yapılaşmaya (konut, tarım ve hayvancılık amaçlı yapılara) ilişkin uygulamalar Plansız Alanlar İmar Yönetmeliği hükümlerine göre belirlenir.
+8.2.2.4 Kırsal yerleşme alanlarında imar planları yapılıncaya kadar konut, tarım ve hayvancılık amaçlı yapılarda yapılanma koşulları Plansız Alanlar İmar Yönetmeliği hükümlerine göre belirlenir. Silo, samanlık, yem deposu, vb. yapılar için maksimum bina yüksekliği ihtiyaç doğrultusunda ilgili idaresince belirlenir.
+Bu kullanımlar dışındaki her türlü faaliyet için (turizm, günübirlik veya bölgesel düzeyde ticaret kullanımlar vb.) imar planı yapılması zorunlu olup Emsal: 0,50’dir. Diğer yapılanma koşulları çevre imar bütünlüğü gözetilerek alt ölçekli planlarda belirlenecektir.
+8.2.2.4.1 Yerleşik alan sınırları belirlenmiş köylerde, yerleşik alana bitişik olmak koşuluyla kırsal gelişme alanları köyün devamlılığının sağlaması ve gelişme eğilimlerinin belirlenmesi amacıyla doğal ve yapay eşikler dikkate alınarak ilgili idarece belirlenip onanacaktır.
+8.3 TARIM ARAZİLERİ:
+Bu planda yer alan tarım alanları “Tarım Alanları” olarak tek gösterim altında gösterilmiş olup, 5403 sayılı kanun ve ilgili yönetmeliğinde tanımlanan “Tarım Arazileri Sınıflarına” ayrılmamıştır.
+Tarım alanlarında yapılacak ifraz işlemlerinde; 5403 sayılı kanun ve bu kanuna dayanılarak çıkarılmış yönetmelik/tüzük hükümleri uyarınca işlem yapılır.
+Tarım arazileri sınıflaması, Tarım ve Köyişleri Bakanlığı'nca yapılacak/yaptırılacaktır. Tarımsal nitelikli alanlarda, belirlenmiş/belirlenecek tarım arazileri sınıflamalarına göre tarımsal amaçlı yapılaşmalar, aşağıda belirlenen koşullara göre gerçekleştirilecektir.
+Bu planda 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanunu Kapsamındaki tarım arazilerinde (özel ürün arazileri, dikili tarım arazileri, örtü altı tarım alanları, fiilen sulanan
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+29
+PLAN DEĞİŞİKLİĞİ ONAMA SINIRI
+veya ilgili kurum ve kuruluşlarca sulama projesi kapsamında olan alanlar hariç) yapılacak olan tarım ve hayvancılık amaçlı yapılara ilişkin;
+Mutlak Tarım arazilerinde E = 0,20’yi, Marjinal Tarım arazilerinde E = 0,30’u geçmemek, ilgili kurum ve kuruluşların görüşlerine uyulmak kaydı ile ilgili idaresince, bu planda değişikliğe gerek olmaksızın, 3194 sayılı İmar Kanunu kapsamında işlem tesis edilir. Yapılan işlemlere ilişkin veriler sayısal ortamda veri tabanına işlenmek üzere Bakanlığa gönderilir.
+5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanununda dikili, özel ürün, fiilen sulanan veya sulama projesi kapsamında kalan tarım arazilerinde 3194 sayılı İmar Kanununun 27.maddesi kapsamında kalan hayvancılık amaçlı yapılar hariç, hayvancılık tesisi yapılmasına izin verilmez.
+Tarım ve Orman Bakanlığı, ilgili Bakanlıklar ve bunların bağlı kuruluşları tarafından desteklenen projeye dayalı tarımsal faaliyetler kapsamında tarımsal amaçlı yapılar (tarımsal kalkınma kooperatiflerince uygulanan projeler, üretici birlikleri/kooperatifleri tarafından uygulanan projeler, Avrupa Birliği kaynaklı projeler, Dünya Bankası destekli projeler, sosyal riski azaltma projesi kapsamında uygulanacak projeler gibi) destekleme projeleri, hastalıktan ari işletme sertifikasına sahip işletmelerin yatırımlarında ve işletme projesi olup İl/İlçe Tarım ve Orman Müdürlüğüne, hastalıktan ari işletme sertifikası için dilekçe ile birlikte arilik sertifikası alacağına dair taahhütname veren yeni işletme yatırımları Tarım ve Orman Bakanlığınca değerlendirilerek sonuçlandırılır. Ancak fiilen sulanan veya sulama projesi kapsamında kalan tarım arazilerinde bu hüküm uygulanmaz.”
+5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanununun Geçici 1. ve Geçici 4. maddeleri kapsamına giren arazilerde ve 5403 sayılı Toprak Koruma ve Arazi Kullanım Kanunu kapsamı dışında kalan alanlarda marjinal tarım araziler hükümleri geçerlidir.
+Bu planın onayından önce yürürlükteki mevzuat uyarınca inşaat ruhsatı veya yapı kullanma izni verilmiş olan tarımsal amaçlı yapılara ilişkin haklar saklıdır.
+Tarımsal amaçlı yapılar kullanım amacı dışında kullanılamaz ve dönüştürülemez.
+Tarım alanlarında yapılacak tarımsal amaçlı yapılar için bu plan ile verilmiş olan yapılanma koşulları aşılamaz. Maksimum bina yüksekliği ihtiyaç doğrultusunda Tarım ve Orman Bakanlığı/Tarım ve Orman İl Müdürlüğü tarafından projesine uygun olarak belirlenecektir. Bu planda yer almayan hususlarda ise 3194 sayılı İmar Kanunu Plansız Alanlar İmar Yönetmeliği’nin 6. Bölümünde belirtilen esaslara uyulur.
+8.3.1 Mutlak Tarım Arazileri
+Bu alanlarda; tarımsal amaçlı yapılar yapılabilir. Çiftçinin barınabileceği yapı emsale dahi olup, İnşaat alanı 75 m2’yi geçemez. E(Emsal) = 0,20’dur.
+Örtü altı tarımın yapıldığı, fiilen sulanan veya ilgili kurum ve kuruluşlarca sulama projesi kapsamında olan mutlak tarım arazilerinde 3194 sayılı İmar Kanununun 27.maddesi
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+30
+kapsamında kalan hayvancılık amaçlı yapılar hariç, hayvancılık tesisi yapılmasına izin verilmez.
+Bu alanlarda örtü altı tarım yapılması durumunda sera yapıları emsale dahil değildir.
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+31
+8.3.2 Özel Ürün Arazileri
+Bu alanlarda, 3194 sayılı İmar Kanununun 27.maddesi kapsamında kalan hayvancılık amaçlı yapılar hariç, hayvancılık tesisi yapılmasına izin verilmez. Çiftçinin barınabileceği yapı emsale dahil olup, İnşaat alanı 75 m2’yi geçemez, Tarımsal amaçlı yapılar için E(Emsal) = 0,10’dur.
+Bu alanlarda örtü altı tarım yapılması durumunda sera yapıları emsale dahil değildir.
+8.3.3 Dikili Tarım Arazileri
+Bu alanlarda; 8.3.2. maddesindeki koşullar geçerlidir.
+8.3.4 Marjinal Tarım Arazileri
+Marjinal tarım arazilerinde, tarımsal amaçlı yapılar yapılabilir. Tarımsal amaçlı yapılar için E(Emsal) = 0.30’dur.
+Çiftçinin barınabileceği yapı emsale dahil olup inşaat alanı 150 m2’yi geçemez.
+Örtü altı tarımın yapıldığı, fiilen sulanan veya ilgili kurum ve kuruluşlarca sulama projesi kapsamında olan marjinal tarım arazilerinde 3194 sayılı İmar Kanununun 27.maddesi kapsamında kalan hayvancılık amaçlı yapılar hariç, hayvancılık tesisi yapılmasına izin verilmez.
+Bu alanlarda örtü altı tarım yapılması durumunda sera yapıları emsale dahil değildir.
+8.3.5 Arazi Toplulaştırma Alanları
+8.3.5.1 Planlama alanında arazi toplulaştırma yapılma sürecinde sadece toplulaştırma işlemleri tamamlandıktan sonra bir ailenin oturmasına mahsus, bir parsel üzerinde lüzumlu müştemilat binaları dışında, bağımsız bir birimden fazla yapı yapılmamak şartıyla bağ evi türünde yapı yapılabilir.
+8.3.5.2 Bağımsız her birim için en fazla İnşaat alanı: 100 m², Yükseklik: 6.50 (2 kat) olacaktır.
+8.4 SANAYİ VE DEPOLAMA TESİS ALANLARI
+8.4.1 Organize Sanayi Bölgeleri (OSB)
+Bu alanlarda OSB Kanunu ve Yönetmeliği hükümleri geçerlidir.
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+32
+8.4.2 Sanayi ve Depolama Alanları
+8.4.2.1 OSB den farklı olarak geliştirilecek sanayi alanlarında 4562 sayılı OSB Kanunu ve Uygulama Yönetmeliğinde belirlenen yapılanma ve ifraz koşullarına uyulacaktır.
+8.4.2.2 Bu alanlarda taleplerin yönlendirilerek aynı sanayi türlerinin bir araya getirilmesi esastır.
+8.4.2.3 Henüz yapılanmaya gidilmemiş sanayi alanlarında katı ve sıvı atıklar için gerekli tedbir alınıp altyapı tesisleri iş temin planına göre yapılır. Bu tesisler yapılmadan iskan ruhsatı verilemez.
+8.4.2.4 Sanayi kuruluşlarının yeraltı sularından yararlanmak için açacakları kuyunun niteliği ve niceliği açısından DSİ’den görüş alınması esastır.
+8.4.2.5 Bu alanlarda Sanayi ve Ticaret Bakanlığı'nın görüşü alınarak uygulama yapılacaktır.
+8.4.2.6 Alt ölçekli planlar ilgili idarece onanmadan imar uygulaması yapılamaz.
+8.4.2.7 Bu planın onayından önce mevzuata uygun olarak yapılmış ve planın ölçeği gereği gösterilmemiş, kentsel yerleşim alanı veya tarım alanları içerisinde bulunan münferit sanayi alanlarında mevcut yapılaşma koşulları geçerli olup bu alanlarda hiçbir şekilde yoğunluk artışı getirecek plan değişikliği yapılamaz. Ekonomik ömrünü tamamlayan veya işletmesi son bulan bu tür sanayi tesislerine yeni işletme ruhsatı verilemez, bu alanlar çevre imar bütünlüğünü sağlayacak şekilde kullanılır.
+8.4.2.8 Bu planın onayından sonra ihtiyaç duyulabilecek olan sanayi alanları, planın koruma kullanma dengelerini gözeten ilke kararlarını desteklemek amacıyla tarımsal toprak niteliğinin düşük olduğu alanlarda, OSB niteliğinde ve minimum 20 hektar alana sahip olacak şekilde geliştirilebilecek olup plan değişikliğinin yapılması zorunludur.
+8.4.2.9 Geçici tesis niteliğinde olmayan ve ÇED Yönetmeliği kapsamında kalan madene dayalı sanayiler, öncelikle bu planda yer alan sanayi alanlarına yönlendirilecektir.. Ancak işletme izni alınan maden sahalarında çıkarılan madenlerin işlenmesi amacıyla gerek duyulacak sanayi tesislerinin zorunlu olarak maden sahası içinde yer almasının gerektiği durumlarda, bu kullanımlar 8.4.2.8 maddesindeki alan sınırına bağlı kalınmaksızın ilgili kurum ve kuruluş görüşleri uygun görüşleri ve Bakanlığın uygun görmesi halinde çevre düzeni planı değişikliği yapılmak ve buna bağlı alt ölçekli imar planlarına ilişkin izin ve onaylar tamamlanmak suretiyle maden sahaları içerisinde yer alabilir.
+8.4.2.10 Sanayi alanları içinde önerilen depolama alanlarında 29.9.1987 gün ve 19589 sayılı Resmi Gazete’de yayımlanan “Tekel Dışı Bırakılan Patlayıcı Maddeler ve Av Malzemesi ve Benzerlerinin Üretim, İthal, Taşınması, Saklanması, Depolanması, Satışı, Kullanılması, Yok edilmesi, Denetlenmesi Usul Esaslarına İlişkin Tüzüğü”nde belirtilen her türde ve çevresel olumsuz etkisi bulunan malzemeler için depolama binası yapılamaz. Sadece sanayi hammadde ve üretim malzemeleri için açık ve kapalı depolama ve stok alanı, hayvansal ve bitkisel ürün depolama ve stok alanları, yükleme ve boşaltma alanları, bunların ihtiyacı otoparklar, altyapı tesisleri yer alabilir. Bu alanlarda yapılanma koşulu: Emsal (E): 0,50 Min.Parsel : 3000 m2’dir.
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+33
+8.4.3 Doğal Soğuk Hava Depolama Alanları
+8.4.3.1 Doğal soğuk hava depolama alanlarında; depo açılacak alanın jeoteknik ve jeolojik etüt raporları ve ruhsata esas olacak kaya kalite raporları hazırlanarak ilgili kuruluşlarca uygunluğu onaylanacaktır.
+8.4.3.2 Doğal soğuk hava depolama alanlarının kullanım alanları; taşıyıcı sistem bozulmayacak şekilde ilgili idareden alınacak izne göre belirlenir.
+8.4.3.3 Doğal soğuk hava depolama alanlarının yüzeyinde doğal yapıya veya taşıyıcı sisteme zarar verecek hiçbir kullanıma izin verilmez.Depo yüksekliği 6 m’yi geçemez. Kullanım ve yapılaşma koşulları imar planında belirlenir.
+8.5 PATLAYICI MADDE ALANLARI
+Bu planda gösterilen sanayi ve depolama alanı içinde niteliği gereği yer almayan, Tekel Dışı Bırakılan Patlayıcı Maddeler, Av Malzemeleri ve Benzerlerinin, Üretimi, İthali, Taşınması, Saklanması, Yok Edilmesi, Denetlenmesi Esaslarına İlişkin Tüzükte tanımlanan maddelerin üretimi, atık bertarafı, depolanması, tesis yerseçimi, izin, ruhsat konularına ilişkin her türlü iş ve işlemler bu planda sanayi ve depolama alanları için getirilen karar ve hükümlere bağlı kalmaksızın ilgili mevzuat doğrultusunda hazırlanacak alt ölçekli planların ilgili idaresince onaylandıktan sonra uygulama yapılır. Onaylanan planlar sayısal ortamda veri tabanına işlenmek üzere Bakanlığa gönderilir. Söz konusu tesis alanları amacı dışında kullanılamaz.
+8.6 ORMAN ALANLARI
+8.6.1 Bu alanlar Devlet Ormanları, hükmi şahsiyeti haiz amme müesseselerine ait ormanlar, özel ormanlar veya muhafaza ormanları, ağaçlandırılacak alanlar olup, 6831 Sayılı Orman Kanunu hükümlerine tabi alanlardır.
+8.6.2 Bu alanlar içinde Çevre ve Orman Bakanlığı tarafından belirlenmiş orman içi dinlenme alanlarında, izcilik, gençlik ve spor faaliyetleri, kamp alanları gibi kullanıma dönük uygulamalar, ilgili mevzuat kapsamında yapılacaktır.
+8.6.3 Orman alanları içinde, özel mülkiyete konu olan (tapuya tescil edilmiş) alanlarda herhangi bir kadastral yola en az 25m. cephesi olan parselde sadece konut, tarım ve hayvancılıkla ilgili yapılar;
+Emsal :0.05,
+Hmax :2 kat,
+Maks. inşaat alanı: 250 m² olmak koşuluyla yer alabilir.
+8.6.4 Orman alanına ilişkin sınırlar Orman Amenajman Planı esas alınarak bu plana işlenmiştir. Uygulamada sınırlar konusunda tereddüt oluşması halinde Orman Kadastro sınırları esas alınır.
+8.6.5 Planda hangi kullanımda kaldığına bakılmaksızın orman mülkiyetinde olan ve Orman Genel Müdürlüğü’nce tahsisi yapılan alanlar, Çevre Bakanlığı’nın ve ilgili kurumların uygun görüşlerinin ve ilgili izinlerin alınması kaydıyla, 1/100.000 ölçekli
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+34
+Çevre Düzeni Plan değişikliğine gerek kalmaksızın tahsis süresi dâhilinde tahsis amacına uygun olarak kullanılabilir.
+8.6.6 Üniversite içi orman alanlarında, orman vasfının aynen korunması esastır. Her türlü uygulama tahsis amacına ve şartlarına uygun olarak yapılır.
+8.6.7 Planda hangi kullanımda olduğuna bakılmaksızın 2873 sayılı Milli Parklar Kanunu ile 6831 sayılı Orman Kanunu’nun 25. maddesine göre tespit (tescil) edilmiş veya edilecek Mesire Alanları’nda, günübirlik kullanıma yönelik tesisler, E=0.05 ve H.max=6.50 koşullarıyla yapılabilir. Doğa Koruma ve Milli Parklar Genel Müdürlüğünce Mesire Alanları özelinde hazırlanan ve onaylanan Gelişme Planları doğrultusunda, Mesire Alanlarının büyüklüğüne göre hazırlanacak 1/5.000 ölçekli Nazım İmar Planı veya 1/1.000 ölçekli Uygulama İmar Planı ilgili idaresince onanmadan uygulamaya geçilemez.
+8.7 MERA ALANLARI
+8.7.1 Bu alanlarda 25.2.1998 tarihli ve 4342 sayılı Mera Kanunu ve hükümleri geçerlidir.
+8.7.2 Doğal karakteri korunacak mera alanların topografyası, flora ve faunası ile bugünkü arazi kullanımı devam ettirilecektir.
+8.7.3 Gerekli görülen mera alanlarında ilgili kurum ve kuruluşlar tarafından mera ıslah projeleri yapılacaktır.
+8.7.4 İlgili kanun ve yönetmelik kapsamında İl Özel İdaresince yapılacak çalışmalar sonucunda güncellenecek olan mera ve çayır alanları sınırları plana işlenmek üzere bakanlığa gönderilecektir.
+8.8 SU TOPLAMA HAVZALARI, İÇME VE KULLANMA SUYU KORUMA KUŞAKLARI, YER ALTI SUYU KAYNAKLARI
+8.8.1 Planlama bölgesindeki içme suyu kaynaklarının korunması amacıyla, bu plan kapsamında kalan Su Havzalarının tamamında Çevre ve Orman Bakanlığı, Devlet Su İşleri Genel Müdürlüğü, ilgili belediyeler ve diğer kamu kurum ve kuruluşları ile birlikte “Havza Yönetim Planı” hazırlanır. Planlama bölgesinde, su toplama havzalarında yer alan suyun tek bir elde toplanması ve korunması amacıyla su dağıtımı konusunda sistem kurulmasına ilişkin entegre proje üretme ve su temininin gelişigüzel açılan kuyularla yapılmaması hususundaki denetlemeleri DSİ yapacaktır.
+8.8.2 İçme ve kullanma suyu temin edilen Kıta içi yüzeysel su kaynaklarının korunmasında Su Kirliliği Kontrol Yönetmeliğinin ilgili hükümleri geçerlidir.
+8.8.3 İçme ve kullanma suyu temin edilen kıta içi yüzeysel su kaynaklarına ilişkin özel hüküm belirleninceye kadar Su Kirliliği Kontrolü Yönetmeliği hükümleri geçerlidir. İçme ve kullanma suyu temin edilen kıta içi yüzeysel su kaynaklarının Su Kirliliği Kontrolü Yönetmeliği 16. maddesi kapsamında Özel Hüküm belirleme çalışmasının yapılması durumunda belirlenen özel hükümlerin bu planda ve her tür ve ölçekteki planlara işlenmesi zorunludur.
+8.8.4 Sulama alanı veya projesi içerisinde kalan yerleşme alanlarında gelişmeye ihtiyaç duyulması halinde, Çevre ve Orman Bakanlığı’nın Çevre Düzeni Planı kararları doğrultusunda uygun görüşü ile birlikte ilgili kurum görüşleri de alınarak (DSİ Genel
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+35
+Müdürlüğü, DSİ Bölge Müdürlüğü, İl Tarım Müdürlüğü vb.) yeni gelişme alanlarına ilişkin sınır belirlenmesi durumunda 1/100.000 Çevre Düzeni Planı değişikliği yapılmaksızın alt ölçekli planlar onaylanabilir.
+8.8.5 İçme ve Kullanma Suyu amaçlı kuyuların çevresinde “İnsani Tüketim Amaçlı Sular Hakkında Yönetmelikte tanımlanan Kurul tarafından, kaynağın yer aldığı jeolojik formasyon, topografik ve hidrojeolojik şartlar göz önüne alınarak koruma alanı belirlenir ve tapu kaydına işlenir.
+8.8.6 Yeraltı su kaynaklarının bulunduğu alanın koruma alanı sınırı dışında yer altı su kaynakları kullanan tesis talebi olması halinde Devlet Su İşleri Genel Müdürlüğü, Maden Tetkik Arama Enstitüsü Genel Müdürlüğü, İl Çevre ve Sağlık Müdürlükleri ve belediye sınırları dışında kalan İl Özel İdaresi, belediye sınırları içinde ilgili idarelerden izin alınmak ve bu kurumların talep edeceği ilgili kurum ve kuruluş görüşleri doğrultusunda yapılacak tesise ait fizibilite raporu ve 1/1000 ölçekli imar planı yaptırmak koşuluyla izin verilecektir. Bu alanların kullanımına dönük ihtiyaç ilgili idareler tarafından belirlenecektir.
+8.8.7 DSİ’nin öngördüğü alanların dışında ve DSİ’den izin alınmadan ruhsatsız hiçbir amaçla su kuyuları açılamaz.
+8.8.8 Bu plan sınırları içerisinde ilgili idarece bu planın projeksiyon hedef yılı baz alınarak, su projeksiyonlarının yapılması esas olup suyun verimli kullanılması için gerekli tedbirler (suyun fiyatlandırılması, vergilendirilmesi, su kullanım yöntemleri, geri kazanım, açık kanaldan kapalı kanala ve damlama ve yağmurlama sistemine geçilmesi vb.) ilgili idarelerce alınacaktır.
+8.8.9 Yeraltı suyu rezervleri kirlilik durumları D.S.İ. tarafından takip edilerek sürdürülebilirliğinin sağlanabilmesi için alınması gerekli önlemler rapor edilerek, Çevre ve Orman Bakanlığı, ilgili Belediyeler ve Valiliklere bildirilecektir.
+8.8.10 Turizmde kullanılan jeotermal kaynakların ilgili kurum ve kuruluşların gerekli bilimsel araştırmalarından sonra “geri dönüşüm” ile tarımda ve konutların ısıtılmasında kullanılacaktır.
+8.8.11 Yeraltı su kaynaklarının Fiziksel, kimyasal, Biyolojik ve Bakteriyolojik özelliklerini olumsuz yönde etkileyecek atık su deşarjına izin verilemez.
+8.8.12 İçme ve kullanma su kaynaklarının sürdürülebilir koruma ve kullanımına yönelik yapılacak olan havza koruma veya özel hüküm belirleme çalışmalarında bu plan ile getirilen nüfus projeksiyonları kullanılabilir.
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+36
+8.8.13 Kaynak Suları Şişeleme ve Ambalajlama Tesisleri
+8.8.13.1 Kaynak suları şişeleme ve depolama alanları ve potansiyel gereksinim, Devlet Su İşleri Genel Müdürlüğü ve diğer ilgili kuruluşlardan alınacak görüşler doğrultusunda ilgili idarece belirlenir. Yapılacak tesislerde, ilgili kurum ve kuruluş görüşleri doğrultusunda hazırlanacak imar planları, ilgili idarece onanmadan uygulama yapılamaz. Onaylanan planlar sayısal ortamda veri tabanına işlenmek üzere Bakanlığa gönderilir. Söz konusu tesisler amacı dışında kullanılamaz.
+8.8.13.2 Bu tesislerde yapılanma koşulları, “Doğal Kaynak, Maden ve İçme Suları ile Tıbbi Suların İstihsali, Ambalajlanması ve Satışı Hakkında Yönetmelik” hükümlerine göre belirlenir.
+8.9 MADEN ALANLARI
+8.9.1 Maden alanlarında Maden Kanunu ve buna bağlı yönetmelik hükümlerine uyulur.
+8.9.2 Maden ruhsat sahasında kurulmak istenen geçici tesis için Maden İşleri Genel Müdürlüğünden geçici tesis olduğuna dair belge alınması zorunludur.
+8.9.3 Maden ruhsatlı sahalarda, ihtiyaç duyulan geçici tesisler ilgili kurum ve kuruluşlardan izin almak kaydı ile yapılabilir.
+8.9.4 Geçici tesislerin kullanımı maden ruhsatının veya maden rezervinin işletme süresi ile sınırlıdır. Geçici tesisler kullanım süresinin bitmesi durumunda kaldırılır.
+8.9.5 Madencilik faaliyet sahalarında ÇED Yönetmeliği ve diğer mevzuat hükümlerine uyulacaktır.
+8.9.6 Geçici tesis niteliğinde olmayan ve ÇED Yönetmeliği kapsamındaki maden sanayileri öncelikle bu planda yer alan sanayi alanlarına yönlendirilecektir. Ancak işletme izni alınan maden sahalarından çıkarılan madenlerin, işlenmesi amacıyla gerek duyulacak sanayi tesisleri için uygun sanayi alanının bulunmaması ya da çıkarılan madenin yerinde işlenmesinin zorunlu olduğu durumlarda; bu planda yer alan herhangi bir koruma kararı bulunmayan ya da ilgili mevzuat doğrultusunda alınmış koruma kararı bulunmayan alanlarda, Bakanlığın uygun görmesi halinde, ilgili tüm kurum ve kuruluşların görüşleri doğrultusunda, gerekli izin, onay ve alt ölçekli planlar hazırlanarak maden çıkarım alanı içinde maden işletmeye yönelik sanayi tesisleri kurulabilir. Bu tesisler kuruluş amacı dışında kullanılamaz. Bu tesisler, ruhsat süresi sonunda kapatılarak kaldırılır. Bu tür faaliyet alanları için bu planda sanayi alanları için belirlenmiş olan 30 hektar sınırı dikkate alınmaz.
+8.9.7 Madencilik faaliyetlerinde çevreye zarar verilmemesi için her türlü önlem tesis sahiplerince alınacaktır.
+8.9.8 İçme ve kullanma suyu kaynak alanlarında ilgili mevzuat hükümlerinde belirlenen madencilik faaliyetleri dışında hiçbir madencilik faaliyetine izin verilmez.
+8.9.9 İçme ve kullanma suyu kaynaklarının uzun mesafeli koruma kuşaklarında yapılacak madencilik faaliyetleri sırasında içme suyunun kirletilmemesi esastır.
+8.9.10 Maden ruhsatının süresinin veya rezervin bitmesi halinde işletme sahasının “çevre ile uyumlu hale getirilmesini” içeren projenin ilgili idareye sunulması ve ilgili idareye yazılı taahhütte bulunulması zorunludur.
+8.9.11 Birinci sınıf gayrı sıhhi müesseseler kapsamına giren maden üretim faaliyetleri ve veya bu faaliyetlere dayalı olarak üretim yapılan tesislerin etrafında mülkiyeti sınırlarında
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+37
+sağlık koruma bandı bırakılması zorunludur. Sağlık koruma bandı içerisinde mesken veya insan ikametine mahsus yapılaşmaya izin verilmez.
+8.9.12 İçme ve kullanma suyu rezervuarlarının koruma alanlarında bulunan derelerden, rezervuara uzaklığı ne olursa olsun kum ve çakıl çıkartılması amacıyla kum ocağı açılmasına izin verilmez.
+8.10 KENTSEL, DOĞAL VE ARKEOLOJİK SİT ALANLARI
+8.10.1 Planlama Bölgesi'ndeki tarihsel, kentsel, arkeolojik ve doğal sit alanlarına, kültür ve tabiat varlıklarına ilişkin envanter, ilgili idaresince tam olarak belirlenir. Kırsal doğal ve kültürel, mimari mirasın korunması için saptama ve belgeleme çalışmaları yapılır.
+8.10.2 Bu alanlarda bölgesel veya münferit olarak alınan kurul kararları geçerli olup; ayrıca ilgisine göre Kültür ve Tabiat Varlıklarını Koruma Yüksek Kurulunca alınmış olan tüm ilke kararlarına uyulacaktır.
+8.10.3 2863 sayılı “Kültür ve Tabiat Varlıklarını Koruma Kanunu”, ilgili yönetmelikler, Kültür ve Tabiat Varlıklarını Koruma Yüksek Kurulu’nun ilke kararları ile ilgili Koruma Bölge Kurulu’nun kararlarına göre uygulama yapılacaktır.
+8.11 KARAYOLU KENARINDA VEYA DİĞER KARA ULAŞIM GÜZERGAHLARINDA YAPILACAK YAPI VE TESİSLER
+8.11.1 Belediye ve mücavir alan sınırları içinde ve dışında karayolları kenarında yapılacak tesislerde, 2918 sayılı “Karayolları Trafik Kanunu” ve “Karayolları Kenarında Yapılacak Tesisler ve Açılacak Tesisler Hakkında Yönetmelik” ile 5576/5015 sayılı “Petrol Piyasası Kanunu” ve ilgili yönetmelik hükümlerine uyulacaktır.
+8.11.2 Karayolları Genel Müdürlüğü’nün sorumluluğundaki karayolu kenarındaki yapılaşmalarda belirlenmiş olan standartlardan az olmamak üzere, yapı yaklaşma mesafesi bırakılacaktır.
+8.11.3 Karayolları Genel Müdürlüğü tarafından planlanacak yeni devlet yollarının kent içi geçişlerinde, kamulaştırma sınırının, o yolun çevreye vereceği olumsuzlukları göz önüne alacak şekilde geniş tutulması sağlanacaktır.
+8.11.4 Karayolu kenarında ve diğer kara ulaşım güzergahlarında, mevzuata uygun olmak koşulu ile akaryakıt ve LPG istasyonları, servis istasyonu, konaklama tesisi, yeme içme tesisi v.b. gibi karayoluna ve kara ulaşımına hizmet verecek tesisler ile teşhire ve ticarete yönelik mağazalar yer alabilir.
+8.11.5 Zorunlu olması halinde, bu tesislerin tarım arazilerinde yer alabilmesi,5403 sayılı “Toprak Koruma ve Arazi Kullanımı Kanunu” ve ilgili yönetmelik hükümleri uyarınca gerçekleşebilir.
+8.11.6 Karayolu kenarında veya diğer kara ulaşım güzergahlarında yapılacak yapı ve tesis alanlarında, imar planlarının ilgili kurum ve kuruluş görüşleri doğrultusunda, ilgili idaresince onaylanmasını müteakip uygulamaya geçilir.Bu alanlarda: Emsal (E)= 0.50 ‘dir.
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+38
+8.12 DOĞALGAZ BORU HATLARI VE ENERJİ İLETİM HATLARI GEÇİŞ ALANLARI
+8.12.1 Doğalgaz boru hatları ve tesisleri çevresindeki planlama ve imar uygulama çalışmalarında ilgili kuruluştan aksine bir görüş alınmadığı takdirde; uyulması gerekli planlama koşulları ve güvenlik kriterleri aşağıdaki gibidir:
+• Kamulaştırılarak BOTAŞ adına mülkiyet ya da irtifak hakkı tesis edilmiş olan güzergah şeridi üzerinde yapılaşmaya kesinlikle izin verilmeyecektir.
+• Boru hattı kamulaştırma şeridi üzerinde yapı niteliği taşımayan yaya ve trafik yolları geçişleri ve boru ekseni üzerinde süreklilik arz etmeyecek yol, su, elektrik v.s. gibi teknik altyapı projeleri için BOTAŞ iznini alınması gereklidir. İzin başvurularına geçiş projeleri eklenecektir. BOTAŞ ek güvenlik önlemleri önerdiğinde bu tedbirler alınmadan inşaat uygulamasına geçilemez.
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+39
+8.12.2 Enerji nakil hatları konusunda ilgili idaresince tanımlanan mesafeler minimum mesafeler olarak alınacaktır.
+8.12.3 Kentlere içme suyu taşıyan ana boru hattının geçtiği alanlarda yapılacak alt ölçekli planlama çalışmalarında DSİ’nin görüşü alınacaktır.
+8.12.4 Enerji iletim tesislerinde, T.C. Çevre ve Orman Bakanlığı’nın uygun görüşünün alınması kaydıyla 1/100.000 ölçekli Çevre Düzeni Planı değişikliğine gerek kalmaksızın, imar planlarının ilgili kurum ve kuruluş görüşleri doğrultusunda, ilgili idarece onaylanmasını müteakip uygulamaya geçilir. Onaylı imar planları, sayısal ortamda, bilgi için Bakanlığa gönderilir.
+8.13 ASKERİ ALANLAR
+8.13.1 Askeri alanlarda, 22.12.1991 tarih ve 17552 sayılı Resmi Gazetede yayımlanan “Askeri Yasak Bölgeler ve Güvenlik Bölgeleri Kanunu” ve bu kanuna ilişkin yönetmelik hükümleri geçerlidir.
+8.13.2 Planlama kapsamında kalan askeri sahalarda, askeri güvenlik bölgeleri, askeri yasak bölgeler ve askeri hizmetler için kamulaştırılacak sahalarda yapılanma koşulları için ilgili komutanlığın görüşü alınacaktır.
+8.13.3 Yoğun kent alanı içinde kalan Askeri Alanlarda süre gelen işlevlerin, Milli Savunma Bakanlığı’nın programı dâhilinde kent dışına çıkarılması halinde, boşalan alanlar öncelikle, sosyal donatı alan eksiklerini tamamlamak üzere kullanılacaktır.
+8.14 EĞİTİM, SAĞLIK ALANLARI VE KENT PARKLARI
+İmar planları dışında, konusuna göre ilgili kurum ve kuruluşların uygun görüşü alınmak, 1/5000 ölçekli nazım imar planı ve 1/1000 ölçekli uygulama imar planları hazırlanmak ve ilgili 99idaresince onaylanmak koşulu ile eğitim, sağlık ve park alanları yapılabilir.
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+40
+8.14.1 Eğitim Alanları
+8.14.1.1 Kamu ve özel her türlü eğitim kurumları için 1/1000 ölçekli uygulama imar planına uygun hazırlanmak kaydıyla eğitim amacına hizmet edecek her türlü alan kullanımına ait avan ve uygulama mimari proje için Milli Eğitim Bakanlığı ve ilgili kurum ve kuruluşların uygun görüşü alınması gerekmektedir.
+8.14.1.2 Yapılaşmaya açılacak olan Eğitim Alanlarında ilgili idarece onaylanacak projeler dikkate alınmak kaydıyla, yapılaşma koşulları alt ölçekli planlarda belirlenecektir.
+8.14.2 Sağlık Alanları
+8.14.2.1 Hastane ve sağlık kuruluşlarına ait tesisler, zorunlu arıtma ve atık depolama tesisleri ile zorunlu konaklamaya yönelik lojman yapıları dışında konut amacına yönelik yapı barındırmamak koşuluyla, Sağlık Bakanlığı ile ilgili kurum ve kuruluşların uygun görüşü doğrultusunda yapılacaktır.
+8.14.2.2 Yapılaşmaya açılacak olan Sağlık Alanlarında ilgili idarece onaylanacak projeler dikkate alınmak kaydıyla, yapılaşma koşulları alt ölçekli planlarda belirlenecektir.
+8.14.3 Kent Parkı ve Fuar Alanı
+8.14.3.1 Bu alanlar mevcut kent dokusu ile kentsel gelişme alanları arasında kalan veya büyük yeşil alan ihtiyacını karşılamaya yönelik, doğal bitki örtüsünün korunarak geliştirileceği ve içine kapalı alan kullanımı gerektirmeyen botanik parkı, açık hava müzesi, arberetum, çay bahçesi, amfi tiyatro, koşu parkuru, açık ve kapalı spor tesisleri, gibi faaliyetlerin yer alabileceği alanlar olup, bekçi kulübesi, wc, gibi zorunlu alt yapı ve üst yapı tesisleri dışında yapılaşmaya izin verilmeyecektir.
+8.14.3.2 İçinde “Fuar Alanları” da bulunan bölge parklarında fuar alanına ilişkin her tür tanıtım ve sergilemeye yönelik üniteler ve bunların satış birimleri, lunaparklar, hayvanat bahçesi, botanik bahçesi, açık ve kapalı spor alanları, spor tesisleri, wc, kafe-bar, pastane, lokanta, çayhane, açık gösteri ve eğlence alanları, kültürel tesisler, rekreasyon alanları, piknik alanları ile idari binalar yapılabilir.
+8.14.3.3 Bu alanlarda botanik bahçe, biniş parkuru, piknik ve serbest gezinti alanları gibi düzenlemeler yapılabilir.
+8.14.3.4 Özel mülkiyete konu olan kısımlarda min. ifraz 5000 m²’dir. Kamu arazisi olan kısımlarda ise aynı koşullarda tahsis yapılmadan mevcut halinden uygulama yapılacaktır.
+8.14.3.5 Ayrıca bölgenin sosyo-kültürel ihtiyaçlarına yönelik tiyatro, sinema, spor v.b. gibi kültürel yapı ve tesislerin yapılması talep edildiğinde bu amaç için, yukarıdaki yapılanma koşulları dahilinde hazırlanacak 1/1000 ölçekli uygulama imar planları ilgili idarece onanmadan uygulama yapılamaz.
+Emsal (E) (en fazla) : 0.05
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+41
+8.14.3.6 Kent parkları içerisinde rekreasyon alanları, park, fuar ve ağaçlandırılacak alanlar oluşturulabilir.
+8.15 TURİZM ALANLARI
+8.15.1 Turizm Tesis Alanları
+8.15.1.1 Bu alanlarda yapılacak tesislerin Kültür ve Turizm Bakanlığı’nın “Turizm Yatırım ve İşletmeleri Niteliklerine İlişkin Yönetmeliği”ne uygunluğu zorunludur.
+8.15.1.2 Turizm tesis alanlarında 1/5000 ölçekli nazım imar planlarına göre hazırlanan 1/1000 ölçekli uygulama imar planları yapılmadan ve 3194 sayılı İmar Kanunu uyarınca ilgili idarece onanmadan inşaat uygulaması yapılamaz.
+8.15.1.3 1/5000 ölçekli nazım imar planlarında ve 1/1000 ölçekli uygulama imar planlarında ve tesislerin mimari projelerinde topografya ve doğal bitki örtüsüne uygun çözümler getirilecektir.
+8.15.1.4 Turizm tesis alanları olarak planlanmış ve ilgili idarece imar planları onanmış alanlarda yapılan turizm tesis ve yapıları sonradan hiçbir biçimde başka amaç için kullanılamazlar. Tapu kütüğünün beyanlar hanesinin toplumun yararlanmasına ayrılan yapı ve turizm tesisi olduğu yazılacak ayrıca tescil işlemi yapılmadan inşaat ruhsatı verilmeyecektir.
+8.15.2 Kamping Alanları
+8.15.2.1 Planlama alnında kamping alanları öngörüldüğü taktirde konaklamanın gereksinmesini sağlayan taşınabilir yapılarla oluşturulan tesisler yer alabilir. Bu alanlar için geçerli olacak yoğunluk birimi çadır/hektar olarak belirlenmiştir. 2634 sayılı “Turizmi Teşvik Kanunu” ile “Turizm Yatırım ve İşletmeleri Yönetmeliği”nde tanımlanan ortak kullanıma dönük sabit tesisler için, Emsal (E): 0.05 Yükseklik(h) en fazla: 4.50m., 1 kattır.
+8.15.3 Günübirlik Kullanım Alanları
+8.15.3.1 Bu alanlarda konaklama tesisleri yapılamaz. Yalnız günübirlik kullanıma dönük lokanta, gazino, çay bahçesi, bar-kafe vb. gibi tesisler yapılabilir. Emsal (E): 0.05 Yükseklik(h) en fazla: 4.50 m., 1 kat olacaktır.
+8.15.4 Termal Turizm Tesisleri
+Termal turizm tesis alanlarında 8.15.1 Turizm Alanları maddesi geçerlidir ve termal kaynakların korunması esastır.
+8.15.5 Eko-Turizm Alanı
+8.15.5.1 Bu plan ile belirlenen veya alt ölçekli planlarda belirlenebilecek olan bu alanlarda; Turizm Tesislerinin Niteliklerine İlişkin Yönetmelik hükümlerine uygun, ekolojik yapı ile bütünleşik kırsal turizm tesisleri ile bunlara hizmet veren spor tesisleri, satış üniteleri ve gerekli sosyal donatı alanları yer alabilir. Bu alanlarda yer alacak konaklama tesislerinin niteliklerine ilişkin yönetmelik uyarınca “Kırsal Turizm Tesisleri” olarak belgelendirilecektir.
+8.15.5.2 Eko-turizm alanları için öncelikle imar planını onaylamaya yetkili idareye başvurulur. Başvuruların değerlendirilebilmesi için yetkili idarece Bakanlık/Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğü dahil ilgili kurum ve kuruluşlardan uygun görüş alınması zorunludur.
+8.15.5.3 Yapılacak yapılarda doğal yapı ve geleneksel mimari dokunun korunması sağlanacaktır.
+8.15.5.4 Eko-turizm alanı olarak belirlenebilecek alanlarda uygulama öncesi toplam alan büyüklüğü en az 15.000 m2 olacaktır. Bu alanlarda uygulamalar ada bazında yapılacak, alanın toplam yüz ölçümünün en az % 30’luk bölümü, yapı yapılmayacak şekilde açık alan olarak planlanacaktır. Bu alanlarda Min. İfraz şartı 10.000 m2’dir. 20.000 m2 üzerinde büyüklüğe sahip alanlar ise toplam inşaat alanı 2.000 m2’yi geçmeyecek şekilde düzenlenecektir.
+Bu alanlarda yapılaşma koşulları: Emsal= 0,10; Yençok: 2 kattır. Kat yükseklikleri yöresel, coğrafi koşullar ve iklim koşulları dikkate alınarak belirlenir. Bu tesislerde en fazla bir bodrum katı yapılabilir. Bodrum katlarda konaklama üniteleri yer alamaz. Bodrum katta yalnızca bakım ve işletme ihtiyaçlarını karşılayacak üniteler yer alabilir. Ayrı yapılar olarak düzenlenen konaklama birimlerinde bodrum kat sadece ana yapıda yer alabilir.
+8.15.5.5 Bu alanlarda yer alacak turizm belgeli konaklama tesisi tek bir bağımsız bölüm olacaktır. Bu alanlardaki konaklama birimleri üzerinde devre mülk, kat irtifakı ve kat mülkiyeti gibi şerhe konu haklar tesis edilemez.
+8.15.5.6 Konaklama tesisi için yetkili idareden İşyeri Açma ve Çalışma Ruhsatı alınması sonrasında ruhsat tarihinden itibaren 1 yıl içerisinde Kültür ve Turizm Bakanlığı’ndan alınacak turizm işletmesi belgesi ilgili idaresine ibraz edilecek ve bu plan hükmünün yetkili idare tarafından takibi ve denetimi yapılacaktır.
+8.15.5.7 06.05.2022 tarihinden önce, ilgili kurum ve kuruluşlardan görüş alma süreci başlatılarak ilgili idaresine yapılan eko-turizm amaçlı imar planı başvuruları, eko-turizm amaçlı onaylı imar planlarında emsal ve yoğunluk artışı ve sınır değişikliğini içermeyen imar planı değişiklik başvurularına yönelik iş ve işlemler, 06.05.2022 onay tarihli eko-turizm amaçlı çevre düzeni planı hükmü değişikliği öncesinde belirtilen koşullar doğrultusunda ilgili idaresince “Mekânsal Planlar Yapım Yönetmeliği” kapsamında değerlendirilir.
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+42
+8.16 GERİ KAZANIM, ATIK DEPOLAMA VEYA BERTARAF TESİS ALANLARI
+8.16.1 Çevre Düzeni Planı bütünü içinde kimyasal, tıbbi, tehlikeli atıkların, katı atıkların kaynağında ayrı toplanması, bunların deponi alanlarına taşınması, transfer istasyonlarının kurulması, geri kazanım ile ilgili işlemlerin yürütülmesini kapsayan atık yönetimi sisteminin kurulması ile ilgili çalışmalar Çevre ve Orman Bakanlığı, Valilikler, Belediyeler tarafından tamamlanarak işlemler buna göre yürütülecektir. Planlama kararlarının uygulanmasına yönelik olarak belediyelerce oluşturulacak birlikler, katı atık yönetim sisteminin kurulmasını üstlenebilirler. Yönetim sistemi kuruluncaya kadar katı atıkların kontrolü yönetmeliği koşulları geçerlidir. MÇK kararında belirtilecek olan çöp deponi sahası ile ilgili yapı yaklaşma mesafesine uyulması zorunludur.
+8.16.2 Planlama bölgesi içerisinde ihtiyaç olması halinde güvenlik, sağlık, eğitim vb. sosyal donatı alanları, büyük kentsel yeşil alanlar, kent veya bölge/havza bütününe yönelik her türlü atık bertaraf tesisleri ve bunlarla entegre geri kazanım tesisleri, arıtma tesisleri, sosyal ve teknik altyapı, karayolu, demiryolu, havaalanı, baraj, enerji üretimi ve iletimine ilişkin kullanımlar bu planın koruma, gelişme ve planlama ilkeleri doğrultusunda alt ölçekli planlar çevre düzeni planı değişikliğine gerek olmaksızın ilgili idaresince bu planın ilke ve esasları çerçevesinde hazırlanır. Hazırlanan planlar Bakanlığın uygun görüşü alınmadan onaylanmaz. Onaylanan planlar sayısal ortamda veri tabanına işlenmek üzere Bakanlığa gönderilir. Söz konusu tesislere ait alanlar amacı dışında kullanılamaz.
+Yakma veya düzenli depolarının yanı sıra fiziksel/kimyasal/biyolojik önişlem ünitelerini içeren entegre atık bertaraf veya geri kazanım tesislerinin yer seçiminde, atığın en yakın ve en uygun olan tesiste bertaraf edilmesi ilkesi çerçevesinde, bölgenin atık miktarı dikkate alınarak ilgili kurum ve kuruşların görüşü doğrultusunda tesisin yer seçimi belirlenir.
+8.16.3 Bu planın genel kullanım, koruma ve gelişme ilke ve hedefleri çerçevesinde ilgili kurum ve kuruluş görüşleri doğrultusunda ÇED Yönetmeliği uyarınca yer tespiti ve uygulaması yapılacaktır.
+8.16.4 Vahşi depolama yapılan alanlar Katı Atık depolama alanları yeri kesinleştikten sonra rehabilite edilecektir.
+8.16.5 Tehlikeli atıkların ilgili mevzuat hükümleri uyarınca bertaraf edilmesi zorunludur. Bu alanların yer seçim ve uygulaması bu planın ilkeleri çerçevesinde ilgili kurum ve kuruluşların görüşleri alınarak belediyeler, kurum ve kuruluşlar, mahalli idare hizmet birlikleri tarafından yapılabilir.
+8.16.6 Atık Su Bertaraf Tesis Alanı
+8.16.6.1 Atık su arıtma tesislerinin yer seçimi ve uygulaması, 1/100.000 ölçekli Çevre Düzeni Planı ilke ve hedefleri doğrultusunda, ilgili kurum ve kuruluşlarının olumlu görüşleri alınarak Belediyeler, Kurum ve Kuruluşlar tarafından oluşturulan Birlikler vasıtasıyla yapılabilir.
+8.16.6.2 Çevre Düzeni Planı bütünü içinde her türlü sıvı atıkların ilgili mevzuatta belirtilen standartları sağlayacak şekilde arıtılması ve/veya bertaraf edilmesi zorunludur.
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+43
+8.17 AĞAÇLANDIRILACAK ALANLAR
+8.17.1 Çevreye uyumu ve çevresel bütünlük açısından 1/100.000 ölçekte alansal olarak belirlenen bu kullanımlar 1/25.000 ve/veya 1/5.000 ölçekli plan aşamasında plan bütünlüğü çerçevesinde yeniden değerlendirilecek ve planlanacaktır.
+8.17.2 Ağaçlandırılacak alan olarak gösterilen alanlar içerisinde, orman niteliğini kaybetmiş, dere koruma bandı dışında kalan ağaçlandırılacak alanlarda özel mülkiyete konu olan (tapuya tescil edilmiş) alanlar mülk sahibince bağ, bahçe ağaçları ile ağaçlandırılabilecektir. Bu alanlarda arazi kullanışına bağlı kalarak satış, tahsis, takas, izne irtifak ve üst hakkı tapu sahibine aittir. Bu alanların korunmasına ve kullanılmasına yönelik emsal: 0.05, Hmax: 6.50, maksimum inşaat alanı: 100m² olmak üzere yapı yapılmasına izin verilir.
+8.17.3 Çorak alanlarda yöreye özgü yer örtücü bitkiler dikilerek toprak zenginleştirilecek ve alanlar daha sonra ağaçlandırma sahası olarak işlev kazandırılacaklardır.
+8.17.4 Kentsel alanlardan geçen akarsuların her iki kenarında önerilen ağaçlandırılacak alanlar ilke kararı olup genişlikleri alt ölçekli planlarda belirlenecektir.
+8.18 ÖNEMLİ DOĞA ALANLARI
+8.18.1 Bu alanlarda Doğa Koruma ve Milli Parklar Genel Müdürlüğü tarafından envanter çalışmaları yapılarak kesin sınırlar oluşturulması ve korunması öngörülür.
+8.18.2 Önemli Doğa Alanları sınırları içerisinde kalan alan kullanımlarında, bu planda belirlenmiş olan koşullar kullanılırken alanın doğal öneminin değerlendirilmesi esastır.
+8.19 JEOLOJİK AÇIDAN SAKINCALI ALANLAR
+8.19.1 Plan üzerinde jeolojik açıdan sakıncalı alan olarak gösterilen bölgelerde ayrıntılı jeolojik ve jeoteknik araştırma yapılmadan uygulama yapılamaz. Bu alanlardaki yapılaşmalar bu etüt sonuçlarına göre uygulama yapılacaktır.
+8.20 ÖZEL KANUNLARLA BELİRLENMİŞ ALANLAR
+8.20.1 Özel kanunlarla belirlenmiş alanlarda, ilgili kanun hükümleri saklı kalmak kaydı ile, bu planda yer verilen kullanım biçimleri, ilgili kanunlar kapsamında sorumlu Bakanlık veya kuruluşlar tarafından veri olarak kabul edilir ve değerlendirilir.
+8.20.2 Özel kanundan sorumlu Bakanlık ya da kuruluşların bu planda belirlenmiş kullanım biçimlerini, bu planın ana arazi kullanım kararlarının devamını sağlayacak yönde değerlendirmesi esastır.
+8.20.3 Özel kanunlara tabi alanlarda sorumlu Bakanlık veya kuruluşlar, bu alanların planlamasında sürdürülebilir kalkınma ve sürdürülebilir çevre ilkelerini gözeterek planlama kararları oluşturmaları esastır.
+8.20.4 Bu alanlar içinde bulunan hassas alanlar, orman alanları, tarım arazileri, sulak alanlar, kumullar Milli parklar vb. alanları zorlayıcı yönde ve yoğunlukta yapılaşma kararı getirilemez. Çevre kirliliğini önleyici yönde her türlü tedbirin alınması zorunludur. Bu alanların planlamasında 1/100.000 ölçekli Çevre Düzeni Planının genel planlama koruma ilke ve stratejilerine uyulması esastır.
+8.20.5 Bu alanlarda çevre kirliliğini önlemek için her türlü tedbirin alınması zorunludur.
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+44
+8.20.6 Bu alanlar içerisinde yer alan, içme ve kullanma suyu ve yüzeysel su kaynaklarının korunması esas olup, Su Kirliliği Kontrol Yönetmeliği hükümleri geçerlidir.
+8.20.7 Bu alanlarda her türlü katı ve sıvı atığın bertarafı için gerekli tesisler yapılabilir ve hiçbir atık önlemler alınmadan alıcı ortama verilemez.
+8.21 ORGANİZE HAYVANCILIK BÖLGELERİ (OHB)
+Bu alanlarda çalışanların ihtiyacına yönelik barınma amaçlı yapılar, sosyal ve kültürel donatı alanları, sağlık ve eğitim tesisleri, rekreasyon alanları, araştırma ve geliştirme birimleri, ürün toplama, depolama, saklama alanları, besicilikte kullanılacak yem üretim alanları, sütçülük, besicilik tesisleri gereksinimlere ve planlama ilkelerine uygun olarak yer alabilir. Bu alanlarda yer alacak yapı alan kullanımlarının yerleri, büyüklükleri ve yapı yoğunlukları imar planlarında belirlenecektir.
+Bu planda gösterilenler dışında ihtiyaç olması halinde, en az 20 ha. olacak şekilde, ilgili kurum, kuruluş görüşlerine bağlı kalınarak İl Toprak Koruma Kurulu marifetiyle yer seçimi yapılabilir. Yer seçimi yapılan alanlara ilişkin imar planları çevre düzeni planı değişikliğine gerek olmaksızın ilgili idaresince hazırlanır ve onaylanır. Onaylanan planlar sayısal ortamda veri tabanına işlenmek üzere Bakanlığa gönderilir. Söz konusu tesisler/tesis alanları amacı dışında kullanılamazlar.
+8.22 ENDÜSTRİ BÖLGELERİ
+8.22.1 Yeni üretim istemine dayalı sanayi ve depolama, kamu hizmet alanları, ticari üniteler ile lojistik kullanımlarının bir arada yer alabileceği bu bölgelerde 4737 sayılı Endüstri Bölgeleri Kanunu ve Uygulama Yönetmeliği hükümleri geçerlidir.
+8.22.2 Bu kullanımların alan büyüklükleri ve nitelikleri ile yapılanma koşulları alt ölçekli planlarda belirlenecektir.
+8.22.3 Organize sanayi bölgelerinin endüstri bölgesine dönüşmesi durumunda bu alanlara ilişkin imar planları bu planda değişikliğe gerek olmaksızın ilgili idaresince hazırlanır ve onaylanır. Onaylanan planlar sayısal ortamda veri tabanına işlenmek üzere Bakanlığa gönderilir.
+9. PLANLAMA ALT BÖLGESİ
+Bölge tamamında mevcut üst ölçekli planlar, gelişme eğilimleri ve korunması gerekli kültürel, doğal, tarihi, ekolojik değerler ışığında planlama alt bölgesi aşağıdaki gibi belirlenmiştir.
+9.1 NİĞDE PLANLAMA ALT BÖLGESİ ÇEVRE DÜZENİ PLANI
+9.1.1 Planlama alt bölgesi sınırı, Niğde Merkez, Fertek, Koyunlu, Aktaş, Gümüşler, Bor, Bahçeli ve Kemerhisar belediyelerin idari sınırları belirler.
+9.2 PLANLAMA ALT BÖLGESİ UYGULAMA HÜKÜMLERİ
+9.2.1 Bu plan ile belirlenen alt bölgede bulunan alanlardaki uygulama esasları 1/100.000 ölçekli Çevre Düzeni Plan esaslarına aykırı olmamak kaydıyla 1/25000 ölçekli çevre düzeni planları ile belirlenecektir.
+9.2.2 DSİ’nin öngördüğü alanların dışında ve DSİ’den izin alınmadan ruhsatsız hiçbir amaçla su kuyuları açılmayacaktır.
+9.2.3 Planlama alt bölgesinde yapılacak karayolu servis alanları için bu plan hükümlerinin 8.11 maddesindeki yapılanma koşulları geçerlidir.
+9.2.4 Yapılacak alt bölge planında OHB (Organize Hayvancılık Bölgesi) için alan önerilecektir.
+9.2.5 Planlama alt bölgesinde tarımsal üretimi desteklemek amacıyla eğitim güvenlik, sağlık, eğitim vb. sosyal-teknik altyapı alanları ilgili idaresinin planları doğrultusunda ve
+KIRŞEHİR-NEVŞEHİR-NİĞDE-AKSARAY PLANLAMA BÖLGESİ 1/100.000
+ÖLÇEKLİ ÇEVRE DÜZENİ PLANI
+45
+tarımsal amaçlı yapılar 8.3 maddesindeki hükümler doğrultusunda, 1/25.000 ölçekli planın yapılması beklenmeksizin yapılabilir.
+9.2.6 Planlama alt bölgelerinde bu planın onayından önce ilgili idarelerce yatırım programına alınarak ihale süreci başlamış veya tamamlanmış olan imar planı çalışmaları planlama alt bölgelerine ilişkin bütüncül planın onaylanması beklemeksizin bu planda belirlenen kararlara uygun olarak sonuçlandırılır.
