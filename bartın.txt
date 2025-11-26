@@ -1,0 +1,1019 @@
+1
+ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI
+MEKÂNSAL PLANLAMA GENEL MÜDÜRLÜĞÜ
+BARTIN VE BARTIN KIYI KESİMİ
+PLANLAMA ALT BÖLGESİ
+1/25.000 ÖLÇEKLİ
+ÇEVRE DÜZENİ PLANI
+PLAN HÜKÜMLERİ
+2
+PLAN HÜKÜMLERİ
+1 DAYANAK
+Bartın ve Bartın Kıyı Kesimi Planlama Alt Bölgesi 1/25.000 Ölçekli Çevre Düzeni Planı; 19/07/2007
+tarihinde onaylanan, 12/05/2009 tarihinde askı sonrası onayı ve 24/06/2011 ile 03/05/2012
+tarihlerinde değişikliği yapılan “Zonguldak-Bartın-Karabük Planlama Bölgesi 1/100.000 Ölçekli Çevre
+Düzeni Planı”nda belirlenen planlama kararları ve “VI.1.5. Bartın ve Bartın Kıyı Kesimi Planlama Alt
+Bölgesi Plan Hükümleri”ne dayanılarak hazırlanmıştır.
+2 AMAÇ
+Bartın ve Bartın Kıyı Kesimi Planlama Alt Bölgesi 1/25000 Ölçekli Çevre Düzeni Planı’nın amacı;
+12/05/2009 ile değişiklik 03/05/2012 tarihinde onaylanan “Zonguldak-Bartın-Karabük Planlama
+Bölgesi 1/100.000 Ölçekli Çevre Düzeni Planı”nda belirlenmiş olan “Bartın ve Bartın Kıyı Kesimi
+Planlama Alt Bölgesi”ndeki gelişmenin; “VI.1.5” maddesinde belirlenen plan hükümleri çerçevesinde,
+doğal ve kültürel değerler ile kentsel ve kırsal gelişmeler arasındaki koruma-kullanma dengesini
+sağlayarak sektörel gelişimin koordineli olarak sürdürülebilmesi ve bu çerçevede konut, sanayi, tarım,
+turizm, ulaşım gibi yerleşme ve arazi kullanım kararlarının belirlenmesidir.
+3 KAPSAM
+Zonguldak-Bartın-Karabük Planlama Bölgesi 1/100.000 Ölçekli Çevre Düzeni Planı’nda “Bartın ve Bartın
+Kıyı Kesimi Planlama Alt Bölgesi” olarak tanımlanan; Bartın Merkez İlçe belediye ve mücavir alanı
+içerisinde kalan kentsel alanlar, Amasra İlçesi, Kurucaşile İlçesi, Merkez İlçe’ye bağlı Kozcağız Beldesi ve
+Ulus İlçesi’ne bağlı Abdipaşa Beldesi’nin belediye sınırları içerisinde kalan kentsel alanlar ile 78 köyden
+oluşan kırsal alanlar dahil olmak üzere 52.816 hektarlık bir alanı kapsamaktadır.
+4 TANIMLAR
+4.1 Planlama Alanı: Zonguldak-Bartın-Karabük Planlama Bölgesi 1/100.000 Ölçekli Çevre Düzeni
+Planı’nda “Bartın ve Bartın Kıyı Kesimi Planlama Alt Bölgesi” olarak tanımlanan alandır.
+4.2 Bakanlık: T.C. Çevre ve Şehircilik Bakanlığıdır.
+4.3 İdare: T.C. Bartın Valiliği İl Özel İdaresi ile Bartın İl Belediyesidir.
+4.4 Uygulamadan Sorumlu İdareler: Bartın İl Özel İdaresi İmar ve Kentsel İyileştirme Müdürlüğü ve
+Bartın İl Belediyesidir.
+3
+4.5 İlgili Kurum ve Kuruluşlar: Her tür ve ölçekte planların yapımı sırasında ve uygulama
+aşamalarında, görüşlerine ve izinlerine başvurulan, ilgili yasa ve yönetmelikler çerçevesinde
+yetkilendirilmiş kurum ve kuruluşlardır.
+4.6 İmar Planı: 3194 Sayılı “İmar Kanunu”nda tanımlanan Nazım ve Uygulama İmar Planlarıdır.
+4.7 İmar Planı Revize Edilecek Yerleşme Alanları: 19.07.2007 tarihinden önce onaylanmış ancak, bu
+çevre düzeni planının arazi kullanım kararı ile farklılık arz eden ve bu çevre düzeni planı kararları,
+ilke ve stratejileri ile nüfus projeksiyonu kapsamında ilgili idaresince irdelenerek imar planları
+revize edilecek onanlı imar planları bulunan yerleşme alanlarıdır.
+4.8 Kentsel Yerleşme Alanları: Belediye yetkisindeki alanlarda yer alan, bu planda kentsel yerleşik
+ve kentsel gelişme olarak gösterilen alanları birlikte ifade eder.
+4.8.1 Kentsel Yerleşik Alanlar: Belediye yetkisindeki alanlarda içinde boş alanları barındırsa
+da büyük oranda yapılaşmış alanlardır.
+4.8.2 Kentsel Gelişme Alanları: Bu planın nüfus kabulü, ilke ve stratejilerine göre kentsel
+gelişme alanı olarak gösterilen alanlar ile bu planın onayından önce onaylanan imar planı
+projeksiyonlarına göre kentsel gelişmeye açılmış veya açılacak alanlardır.
+4.9 Kırsal Yerleşme Alanları: İl Özel İdaresi yetkisindeki köy statülü alanlarda, 3194 sayılı “İmar
+Kanunu”nun ilgili yönetmeliği uyarınca köy yerleşik alanı ve civarına ilişkin sınır tespiti
+yapılmış/yapılmamış alanlar ile bu planda gösterilmiş/gösterilememiş diğer kırsal yerleşme
+alanlarını birlikte ifade eder.
+4.10 Kentsel Hizmet Merkezleri: Kentin yönetim birimleri ile ticari işlevlerinin yoğunlaştığı, Bartın İl
+nüfusunun tamamına hitap eden, içerisinde çarşı, büro, işhanı, sosyal ve idari tesisler, özel ya da
+kamusal sağlık, eğitim, spor ve kültür tesisleri, ibadet yerleri, ulusal ve uluslar arası konferanskongre-
+seminer, fuar, toplantı ve çok amaçlı salonlar, turizm alanları, teknik altyapı tesisleri ile
+bu kullanımların gerektiği diğer fonksiyonlar, her tür ticaret, ticari depolama, (yanıcı, parlayıcı,
+patlayıcı etkisi olan depolama türleri hariç) eğlence yerleri, çok katlı taşıt parkı, yönetim binaları,
+yerel ve bölgesel kamu kuruluşları ve konut kullanımının yer alabileceği alanlardır.
+4.11 Hizmet Merkezleri: Yerleşmelerin kendi etkileşim alanı içinde yerleşik nüfusa hizmet verecek
+nitelikte özelleşmiş, ihtisaslaşmış, hizmet, ticaret ve turizm alanları ile MİA ile ilişkileri güçlü olan
+daha küçük firma ve büro binaları ile konut kullanımlarının yer aldığı merkezler olup içerisinde
+konut, çarşı, büro, işhanı, her tür ticaret, ticari depolama, eğlence yerleri, çok katlı taşıt parkı,
+servis istasyonları, yerel ve bölgesel kamu kuruluşlarının yer alabileceği alanlardır.
+4
+4.12 Kentsel Çalışma Alanları: Yönetim merkezleri, büyük alan kullanımı gerektiren kamu kuruluş
+alanları, ticaret alanları, toptan ticaret alanları, pazarlama alanları, ticari depolama alanları ve
+konut dışı kentsel çalışma alanlarının yer alabileceği alanlardır.
+4.13 Konut Dışı Kentsel Çalışma Alanları: İçerisinde motel ve lokanta da bulunabilen akaryakıt ve
+bakım istasyonları, resmi ve sosyal tesisler, dumansız, kokusuz atık ve artık bırakmayan ve çevre
+sağlığı yönünden tehlike yaratmayan imalathaneler ile patlayıcı, parlayıcı ve yanıcı maddeler
+içermeyen depoların, teşhir ve satış birimlerinin yer aldığı alanlardır.
+4.14 Büyük Alan Kullanımı Gerektiren Kamu Kuruluş Alanları: Kent bütününe ve çevresine hizmet
+eden, içerisinde kamu hizmet birimlerinin yer aldığı alanlardır.
+4.15 Organize Sanayi Bölgesi: 4562 sayılı “Organize Sanayi Bölgeleri Kanunu”nda tanımlanan ve yer
+seçimi kararı sonucu “O.S.B.” statüsü kazanmış olan alanlardır.
+4.16 Sanayi Alanları: 1593 sayılı “Umumi Hıfzısıhha Kanunu” ve ilgili yönetmeliğine uygun olarak,
+çevre ve sağlık koşulları gözetilerek toplu olarak yer almaları öngörülen, her türlü orta ve büyük
+ölçekli sanayi tesisleri ve ya işletmelerinin yer aldığı alanlardır.
+4.17 Küçük Sanayi Siteleri: 1593 sayılı “Umumi Hıfzısıhha Kanunu” ve ilgili yönetmeliklerine uygun
+olarak, çevre ve sağlık koşulları açısından ayrılmaları ve gruplaşmaları gerekli görülen, küçük
+ölçekte sanayi işletmeleri ve iş ünitelerinin yer aldığı alanlardır.
+4.18 Depolama Alanları: Endüstriyel hammadde ve mamul ürünlerin veya bitkisel ve hayvansal
+ürünlerin açık ya da kapalı olarak depolanabileceği tesislerin yer aldığı alanlardır.
+4.19 Organize Tarım/Hayvancılık Alanı: Tarım ve hayvancılık faaliyetlerinin sürdürüleceği ve tarımsal
+ürünlerin katma değerlerini artırmaya yönelik araştırma, geliştirme ve üretim birimleri ile ürün
+toplama, depolama, saklama alanları; tarımsal amaçlı yapılar ve tarımsal amaçlı entegre
+tesislerin toplu olarak (organize şekilde) yer alabileceği alanlardır.
+4.20 Turizm Tesis Alanları: Turizm yatırımı kapsamında bulunan veya turizm işletmesi faaliyetlerinin
+yapıldığı/yapılacağı tesislerin ve bunların ayrıntıları ile tamamlayıcı unsurlarının yer aldığı
+alanlardır.
+4.21 Günübirlik Tesis Alanları: Kamping ve konaklama ünitelerini içermeyen; yeme-içme, dinlenme,
+eğlence ve spor imkanlarından birkaçını günübirlik olarak sağlayan, içerisinde giriş tesisleri, WC,
+büfe ve telefon kabini, lokanta veya kafeterya, yüzme havuzu veya spor, eğlence, oyun imkanı
+sağlayan açık düzenlemeler, ihtiyaca yeterli otopark alanı ve özellik taşıyan el sanatları
+ürünlerinin 20 m2' yi geçmeyen sergi ve satış ünitelerini içeren yapı ve tesislerdir.
+4.22 Kültür ve Doğa Turizmi Alanları: Yerleşim alanı dışında kalan bu turizm alanlarından sadece
+kamping ve bungalov kullanımlarının yer alabileceği turizm alanlarıdır.
+5
+4.23 Üniversite Alanı: Lisans, lisansüstü eğitim, yüksekokul, araştırma-bilgi üretim ve iletişim merkezi
+işlevlerini yüklenen ve içerisinde tekno-parkların da yer alabileceği alanlardır.
+4.24 Büyük Kentsel Yeşil Alanlar: Kentte yaşayanların spor, dinlenme, gezinti ve eğlenme ihtiyaçlarını
+karşılamaya yönelik kentsel aktif ve pasif yeşil alanlardır.
+4.25 Bölgesel/Kentsel Spor Alanları: Futbol, basketbol, voleybol, tenis, yüzme, atletizm, buz pateni
+vb. gibi spor faaliyetlerini ihtiva eden açık ve kapalı tesislerin yer alabileceği alanlardır.
+4.26 Sosyal Donatı Alanları: Yükseköğretim hariç olmak üzere eğitim alanları, sağlık, kültürel, spor
+alanları ve dini tesis alanlarının yer alabileceği alanlardır.
+4.27 Mutlak Tarım Arazileri: Bitkisel üretimde; toprağın fiziksel, kimyasal ve biyolojik özelliklerinin
+kombinasyonu yöre ortalamasında ürün alınabilmesi için sınırlayıcı olmayan, topografik
+sınırlamaları yok veya çok az olan; ülkesel, bölgesel veya yerel önemi bulunan, hâlihazır tarımsal
+üretimde kullanılan veya bu amaçla kullanıma elverişli olan arazileri kapsamaktadır.
+4.28 Özel Ürün Arazileri: Mutlak tarım arazileri dışında kalan, toprak ve topografik sınırlamaları
+nedeniyle yöreye adapte olmuş bitki türlerinin tamamının tarımının yapılamadığı ancak özel
+bitkisel ürünlerin yetiştiriciliği ile su ürünleri yetiştiriciliğinin ve avcılığının yapılabildiği, ülkesel,
+bölgesel veya yerel önemi bulunan arazileri kapsamaktadır.
+4.29 Dikili Tarım Arazileri: Mutlak ve özel ürün arazileri dışında kalan ve üzerinde yöre ekolojisine
+uygun çok yıllık ağaç, ağaççık ve çalı formundaki bitkilerin tarımı yapılan, ülkesel, bölgesel veya
+yerel önemi bulunan arazileri kapsamaktadır.
+4.30 Marjinal Tarım Arazileri: Mutlak tarım arazileri, özel ürün arazileri ve dikili tarım arazileri dışında
+kalan, toprak ve topografik sınırlamalar nedeniyle üzerinde sadece geleneksel toprak işlemeli
+tarımın yapıldığı arazileri kapsamaktadır.
+4.31 Çayır-Mera Alanları: 5178/4342 sayılı “Mera Kanunu” uyarınca saptanmış ve saptanacak olan,
+hayvanların otlatılması ve otundan yararlanılması için tahsis edilen veya kadimden beri bu
+amaçla kullanılan alanlardır.
+4.32 Örtü Altı Tarım Arazileri: İklim ve diğer dış etkilerin olumsuzluklarının kaldırılması veya
+azaltılması için cam, naylon veya benzeri malzeme kullanılarak oluşturulan örtüler altında
+ileri tarım teknikleri kullanılarak tarım yapılan arazileri kapsamaktadır.
+6
+4.33 Tarımsal Amaçlı Yapılar: Toprak koruma ve sulamaya yönelik altyapı tesisleri, entegre nitelikte
+olmayan hayvancılık ve su ürünleri üretim ve muhafaza tesisleri ile zorunlu olarak tesis edilmesi
+gerekli olan müştemilatı, mandıra, üreticinin bitkisel üretime bağlı olarak elde ettiği ürünü için
+ihtiyaç duyacağı yeterli boyut ve hacimde depolar, un değirmeni, tarım alet ve makinelerinin
+muhafazasında kullanılan sundurma ve çiftlik atölyeleri, seralar, tarımsal işletmede üretilen
+ürünün özelliği itibarıyla hasattan sonra iki saat içinde işlenmediği takdirde ürünün kalite ve
+besin değeri kaybolması söz konusu ise bu ürünlerin işlenmesi için kurulan tesisler ile T.C. Gıda,
+Tarım ve Hayvancılık Bakanlığı tarafından tarımsal amaçlı olduğu kabul edilen entegre nitelikte
+olmayan diğer tesisleri kapsamaktadır.
+4.34 Su Ürünleri Üretim Alanları: T.C. Tarım Gıda ve Hayvancılık Bakanlığı’nın koordinasyonunda
+oluşturulan komisyonca, su ürünlerini üretmek ve yetiştirmek için 2872/5491 sayılı “Çevre
+Kanunu” ve bu kanun uyarınca çıkartılan mevzuatta belirtilen alanlar dışında belirlenen
+alanlardır.
+4.35 Orman Alanı: 6831 sayılı “Orman Kanunu” uyarınca saptanmış ve saptanacak alanlardır.
+4.36 Ağaçlandırılacak Alanlar: Jeolojik sebeplerden dolayı onanlı imar planlarında ağaçlandırılması
+önerilen alanlar ile 6831 Sayılı Orman Kanunu’nun 2.maddesinin (b) bendine göre hazine adına
+orman sınırları dışına çıkarılmış alanlardır.
+4.37 Mesire Yerleri: Toplumun çeşitli dinlenme, eğlenme ve spor ihtiyaçlarını karşılamak, yurdun
+güzelliğine katkı sağlamak ve turistik hareketlere imkân vermek maksadıyla, gerekli yapı, tesis ve
+donatılarla kullanıma ayrılan, halkın günübirlik ihtiyaçlarını karşılayan, rekreasyonel ve estetik
+kaynak değerlerine sahip orman rejimine tabi sahalardır.
+4.38 Askeri Alanlar/Askeri Güvenlik Bölgeleri: 2565 sayılı “Askeri Yasak Bölgeler ve Güvenlik
+Bölgeleri Kanunu” kapsamında kalan alanlardır.
+4.39 Taşkın Alanı: Bir taşkın kaynağının bitişiğinde olup vadi tabanını oluşturan ve genellikle taşkına
+uğrayan ve /veya uğrama riski olan alanları ifade etmektedir.
+4.39.1 Taşkın Koruma Tesisi (TEFER Projesi): Proje, “Türkiye Sel ve Deprem Felaketi Acil
+Yardım Projesi (TEFER)”nin bir parçasıdır. Planlama alanı içerisinde Bartın ve Kozcağız dere
+güzergahlarında sağ ve sol sahil üzerindeki dere yatağı düzenlemelerini ifade etmektedir.
+4.40 Mania Sınırı: Uçuş güvenliğini tehlikeye düşürecek yüksek yapılaşmaların kontrol altına alındığı,
+yakın çevrede yaşayanların can ve mal güvenliğinin sağlandığı ve içerisinde kalan yapıların
+maksimum yüksekliğinin belirlendiği alanlara ait sınırı ifade eder.
+7
+4.41 Su Toplama Havzası: Göllerde ve rezervuarlarda bu su kaynağını besleyen yeraltı ve yüzeysel
+suların toplandığı bölgenin tamamını; bir akarsu parçasında ise belirli bir kesiti besleyen bölgenin
+memba kesimini kapsamakta olup Devlet Su İşleri Genel Müdürlüğü’nce belirlenen alanlardır.
+4.42 İçme ve Kullanma Suyu Mutlak Koruma Alanı: İçme ve kullanma suyu rezervuarının maksimum
+su seviyesinden itibaren 300 metre genişliğindeki şerittir.
+4.43 İçme ve Kullanma Suyu Kısa Mesafeli Koruma Alanı: İçme ve kullanma suyu rezervuarlarının
+mutlak koruma alanı sınırından itibaren 700 metre genişliğindeki şerittir.
+4.44 İçme ve Kullanma Suyu Orta Mesafeli Koruma Alanı: İçme ve kullanma
+suyu rezervuarlarının kısa mesafeli koruma alanı sınırından itibaren 1 kilometre genişliğindeki
+şerittir.
+4.45 Havza İçi Yapı Yasaklı Alanlar: İçmesuyu havzalarının mutlak (0-300 m.) koruma mesafesi ile
+içmesuyu kaynaklarının (memba) mutlak koruma alanları içerisinde kalan alanlardır.
+4.46 Sit Alanları: 5226/3386/2863 sayılı “Kültür Ve Tabiat Varlıklarını Koruma Kanunu” uyarınca ilan
+edilmiş; tarih öncesinden günümüze kadar gelen çeşitli medeniyetlerin ürünü olup, yaşadıkları
+devirlerin sosyal, ekonomik, mimari ve benzeri özelliklerini yansıtan kent ve kent kalıntıları,
+kültür varlıklarının yoğun olarak bulunduğu, sosyal yaşama konu olmuş veya önemli tarihi
+hadiselerin cereyan ettiği yerler ve tespiti yapılmış tabiat özellikleri nedeniyle korunması gerekli
+alanlar ile 19/07/2012 tarih ve 28358 sayı ile Resmi Gazetede yayınlanarak yürürlüğe giren
+“Korunan Alanların Tespit, Tescil ve Onayına İlişkin Usul ve Esaslara Dair Yönetmelik” uyarınca
+ilan edilen doğal sit alanlarını kapsamaktadır.
+4.47 Milli Park Tampon Bölge Sınırı: Küre Dağları Milli Parkı, bilimsel ve estetik bakımdan, milli ve
+milletlerarası ender bulunan tabii ve kültürel kaynak değerleri ile koruma, dinlenme ve turizm
+alanlarına sahip, 2873 Sayılı Milli Parklar Kanunu’na göre tespit (tescil) edilmiş 37.000 hektarlık
+alanı; Küre Dağları Milli Parkı Tampon Bölgesi ise biyolojik çeşitliliği güvence altına almak adına
+Küre Dağları Milli Parkı’nın yakın çevresinin dahil olduğu 80.000 hektarlık alanı ifade etmektedir.
+4.48 Birinci Derece Yollar: Şehirlerarası ve il bütününe hizmet veren, devlet yollarını oluşturmaktadır.
+4.49 İkinci Derece Yollar: Birinci derece yollar arasında bağlantıyı sağlayan il yollarını
+oluşturmaktadır.
+4.50 Üçüncü Derece Yollar: Birinci ve ikinci derece yollar ile köyler arasındaki ulaşımı sağlayan
+yollardır.
+4.51 Terminal Alanı: Onaylı imar planlarında yer alan otobüs garını ifade etmektedir.
+4.52 Demiryolu: Şehirlerarası yük ve yolcu taşımacılığına hizmet edecek raylı sistem hatlarını
+kapsamaktadır.
+8
+4.53 Hafif Raylı Sistem: Şehir içi yolcu taşıması için yol üzerinde döşenmiş özel raylarda hareket eden
+bir yolcu taşıtı olan tramvay sistemini ifade etmektedir.
+4.54 Liman: Gemilerin yolcu indirip-bindirme, yükleme-boşaltma, bağlama ve beklemelerine elverişli
+yeterli su derinliğine sahip, teknik ve sosyal altyapı tesisleri, yönetim, destek, bakım-onarım ve
+depolama birimleri bulunan tabi ve suni olarak rüzgar ve deniz tesirlerinden korunmuş kıyı
+yapılarıdır.
+4.55 Yat Limanı: Yatlara güvenli bir bağlama ve her yata doğrudan yürüyerek çıkılmasına imkân
+sağlayan, yeterli derinlikte su bulunan ve yatlara teknik ve sosyal altyapı, yönetim, destek,
+konaklama, bakım ve onarım hizmetlerini sunan, rüzgâr ve deniz tesirlerinden korunmuş,
+işletme izin belgesi almış, turizm işletmesi belgeli kıyı yapılarıdır.
+4.56 Tekne İmal ve Çekek Yeri: Boy sınırlaması olmaksızın ahşap yat imalatı ile tam boyu yetmiş beş
+metreye kadar veya Ulaştırma, Denizcilik ve Haberleşme Bakanlığınca yapılan inceleme
+sonucuna göre kara ve denizdeki fiziksel şartların uygun bulunması halinde yüz yirmi beş
+metreye kadar her türlü gemi ve su araçlarının inşa, tadilat ve bakım-onarım hizmetlerinden biri
+veya birkaçının yapılmasına imkân sağlayan teknik ve sosyal altyapılara sahip tesisler ile tam
+boyu altmış metreye kadar her türlü gemi veya su araçlarına bakım-onarım, kışlatma ile teknik
+altyapı ve yönetim hizmeti veren tesislerdir.
+4.57 Balıkçı Barınağı: Balıkçı teknelerine hizmet vermek amacıyla dalgakıranla korunmuş, yöre
+balıkçılarının ihtiyacına yetecek kadar havuz ve geri sahaya sahip, bağlama rıhtımları ile suyu,
+elektriği, ağ kurutma sahası, çekek yeri, emsali kara alanının %2’sini, yüksekliği 6.50 metreyi (2
+katı) aşmayan ve takılıp sökülebilir elemanlarla inşa edilen yönetim birimi, deniz ürünlerine
+geçici depolama ve satış üniteleri bulunan kıyı yapılarıdır.
+4.58 Katı Atık Bertaraf ve Geri Kazanım Tesisi: Çevrenin korunması bakımından düzenli bir şekilde
+bertaraf edilmesi gereken katı atık maddelerinin depolandığı, bertaraf edildiği, geri
+dönüşümünün ve geri kazanımının sağlandığı tesislerin yer aldığı alanlardır.
+4.59 Arıtma Tesisi: Her türlü sıvı atığın ilgili mevzuatta belirtilen standartları sağlayacak şekilde
+arıtılması veya bertaraf edilmesi için kurulan tesislerin yer aldığı alanlardır.
+4.60 Enerji Üretim Alanları: Enerji Piyasası Düzenleme Kurumu tarafından verilen lisans ve/veya ilgili
+kurumlardan alınan izinler sonrasında kurulmuş/kurulacak olan Enerji Üretim Tesislerinin yer
+aldığı alanlardır.
+4.61 Enerji İletim Tesisleri: Üretim tesislerinin 36 kw üstü gerilim seviyesinden bağlı olduğu
+noktalardan itibaren iletim şalt sahalarının orta gerilim fiderleri de dahil olmak üzere dağıtım
+tesislerinin bağlantı noktalarına kadar olan tesisleri ifade eder.
+9
+4.62 Enerji Kaynak Alanları: Elektrik enerjisi üretmeye müsait yenilenebilir enerji kaynaklarının
+bulunduğu alanlardır.
+4.63 Sulama Alanı: Devletçe sulamaya açılan veya projeleri bitirilmiş olup, sulama yatırımlarına
+başlanan ve devam eden alanlardır.
+4.64 Eko-turizm Alanları: Doğal çevrenin korunması, geliştirilmesi ve sergilenmesi amacıyla
+oluşturulan, çevreye aykırı olmayan, biyoçeşitliliği koruyan, yerel halkın refahını gözeten,
+kültürlerini yok etmeden turizm faaliyetlerinden yararlanmalarını sağlayan ve sürdürülebilir
+kalkınma amacıyla belirlenen alanlardır.
+5 GENEL HÜKÜMLER
+5.1 Bu çevre düzeni planı, “Zonguldak-Bartın-Karabük Planlama Bölgesi 1/100.000 Ölçekli Çevre
+Düzeni Planı” ilke ve stratejileri ile “VI.1.5. Bartın ve Bartın Kıyı Kesimi Planlama Alt Bölgesi Plan
+Hükümleri” çerçevesinde hazırlanmış olup, bu plan hükümlerinde yer almayan konularda,
+1/100.000 ölçekli çevre düzeni planı plan karar ve hükümleri geçerlidir.
+5.2 Bu plan hükümleri ile 1/100.000 ölçekli çevre düzeni planı plan hükümlerinde yer almayan
+konularda, yürürlükte bulunan ve bu planın onayından sonra yürürlüğe girecek olan mevzuat
+hükümleri ve mevzuat değişiklikleri (kanun, tüzük, yönetmelik, tebliğ) geçerlidir.
+5.3 Bu çevre düzeni planı, plan hükümleri ve plan açıklama raporuyla bir bütündür. İmar planları
+yapılırken bu belgelerin bütünü göz önünde bulundurulacaktır.
+5.4 Bu plandan ölçü alınarak uygulama yapılamaz.
+5.5 Planda gösterilen tüm mekansal kullanım kararlarına ait sınırlar, bu planda belirlenen alansal
+büyüklük ve nüfus kabullerini aşmayacak şekilde; yasal, doğal ve yapay eşikler göz önüne
+alınarak, ilgili kurum ve kuruluşların görüşleri ve onaylı “imar planına esas jeolojik-jeoteknik
+etütler” doğrultusunda, imar planı çalışmalarında kesinleştirilecektir.
+5.6 Bu plan ve plan hükümlerine aykırı 1/5000 ölçekli nazım ve 1/1000 ölçekli uygulama imar planı
+yapılamaz.
+Bu plana göre hazırlanacak imar planlarında, 1/5000 ölçekli nazım imar planı yapılmadan 1/1000
+ölçekli uygulama imar planı yapılamaz ve 1/1000 ölçekli uygulama imar planı yapılmadan
+uygulamaya geçilemez.
+5.7 Planda gösterilen sınırlarda farklılıklar olsa dahi, yürürlükteki idari sınırlar geçerlidir. Bu sınırlarda
+değişiklik oluşması durumunda, kabul edilen yeni sınırlar plan değişikliğine gerek olmaksızın
+geçerli olacaktır.
+10
+5.8 Planda gösterilen sınırlarda farklılıklar olsa dahi, özel kanunlara tabi alanlarla ilgili olarak, yetkili
+kurumlarca tanımlanmış olan sınırlar geçerlidir. Bu sınırlarda değişiklik oluşması durumunda,
+kabul edilen yeni sınırlar plan değişikliğine gerek olmaksızın geçerli olacaktır.
+5.9 Bu plan kapsamında kalan alanlarda, ulusal ve uluslararası mevzuat çerçevesinde
+belirlenen/belirlenecek olan milli parklar, tabiat parkları, sulak alanlar vb. gibi koruma alanları
+için onaylanmış/onaylanacak olan her tür ve ölçekteki planlar, bu planda değişikliğe gerek
+kalmaksızın geçerli olacaktır.
+5.10 Bu plan kapsamında kalan alanlarda, 3830/3621 sayılı Kıyı Kanunu ve ilgili yönetmeliklerine
+uygun olarak onaylanmış/onaylanacak olan kıyı yapılarına ilişkin imar planları geçerlidir.
+Kıyı kenar çizgisi tespit edilmemiş yerlerde, kıyı kenar çizgisi tespitleri 2830/3621 sayılı Kıyı
+Kanunu ve Kıyı Kanununun Uygulanmasına Dair Yönetmelik hükümleri çerçevesinde belirlenip
+onaylanmadan imar planları yapılamaz, imar uygulaması yapılamaz.
+5.11 “Zonguldak-Bartın-Karabük Planlama Bölgesi 1/100.000 Ölçekli Çevre Düzeni Planı”nın ilk onay
+tarihi olan 19/07/2007 tarihinden önce mevzuata uygun olarak hazırlanmış ve onaylanmış, her
+tür ve ölçekteki imar planları ve mevzi imar planları geçerlidir. Ancak imar planlarının bu plana
+aykırı karar ve hükümleri revize edildikten sonra uygulamaya devam edilir.
+19/07/2007 tarihinde onaylanan, 12/05/2009 tarihinde askı sonrası onayı ve 24/06/2011 ile
+03/05/2012 tarihlerinde değişikliği yapılan “Zonguldak-Bartın-Karabük Planlama Bölgesi
+1/100.000 Ölçekli Çevre Düzeni Planı” “V.8” plan hükmüne istinaden işlem görerek, mevzuata
+uygun olarak hazırlanmış ve onaylanmış olan mevzi imar planları geçerlidir.
+“Zonguldak-Bartın-Karabük Planlama Bölgesi 1/100.000 Ölçekli Çevre Düzeni Planı”nın ilk onay
+tarihi olan 19/07/2007 tarihinden sonra, üst ölçekli plan kararlarına uygun olarak onaylanmış
+imar planları geçerlidir.
+5.12 Bu planda yer almış olsa dahi, onaylandığı dönemin ilgili mevzuatına aykırı olarak onaylanmış
+imar planlarının uygulaması yapılamaz.
+5.13 Onaylı imar planlarında, bu planın ilke ve stratejileri ile nüfus kabulleri doğrultusunda uygulama
+yapılacaktır.
+5.14 Bu planın ilkelerine ve plan kararlarına aykırı alt ölçekli imar planları, değişikliği, revizyonu
+ve/veya ilavesi yapılamaz.
+5.15 Bu plan, mevzuata aykırı olarak yapılaşmış yapılar için herhangi bir hak oluşturmaz. Bu planın
+onayından önce mevzuata aykırı olarak yapılaşmış olan yapılara ilgili kanunlar uyarınca ilgili
+idaresince işlem yapılır.
+11
+5.16 Bu planda (R) sembolü ile belirlenen imar planı revize edilecek yerleşme alanları, bu çevre düzeni
+planının bu yerleşme alanlarına ilişkin atadığı nüfus ve plan kararlarına uygun olarak, ilgili
+idaresince bu planın onay tarihinden itibaren iki yıl içerisinde revize edilecektir.
+Bu yerleşmelere ait alt ölçekli planlarda yer alan meskun alanlar ile gelişme alanlarının imar
+uygulaması görmüş olan kısımları yürürlüktedir. Revizyon plan yapılıncaya kadar bu alanlarda
+uygulamaya devam edilir.
+İmar uygulaması görmemiş gelişme alanları ve bu plan kararı ile gelişmeye açılmış alanlarda
+revizyon plan yapılıncaya kadar herhangi bir inşaat uygulaması yapılamaz. Yapılacak revizyon
+imar planında bu planın nüfus kabullerini aşmayacak şekilde etaplama yapılacaktır. Etaplama
+sınırları ilgisince yapılacak revizyon imar planında belirlenecektir.
+Yerleşim alanı bütünlüğü dışında, yol boyu meskun ya da gelişme alanı olarak tanımlanmış
+alanlarda, meskun ya da gelişme alanı sınırı ifraz sınırı değildir. Meskun ya da gelişme alanı olarak
+gösterilen bu alanlar, parsel yapılaşma alanı olarak ayrılmış olup ifraz yapılamaz.
+5.17 Bu planın onayından önce, 3194 sayılı İmar Kanunu’nun, “Plansız Alanlar İmar Yönetmeliği”
+kapsamında ya da dönemin ilgili diğer mevzuatına göre uygulama görmüş alanlarda uygulamaya
+esas plan karar ve hükümleri geçerlidir. Bu alanlarda yoğunluk artışı ve kullanım değişikliği
+getirecek plan değişikliği/revizyonu yapılamaz.
+5.18 İmar planlarının hazırlanması aşamasında, ilgili mevzuat gereği ilgili kurum ve kuruluşların
+görüşlerinin alınması, plan ölçeğinin gerektirdiği detayda mevzuata uygun joeolojik-jeoteknik
+etütlerin yapılması zorunludur.
+5.19 Bu plan sınırları içinde yapılacak imar planlarında, ulusal mevzuat ve taraf olduğumuz
+uluslararası sözleşmeler ile koruma altına alınarak koruma statüsü kazandırılmış alanlar ve
+ekolojik değeri olan hassas alanların gösterilmesi zorunludur. Bu alanlarda, ilgili mevzuat
+çerçevesinde belirlenen koruma kararlarına göre işlem yapılacaktır.
+5.20 Bu plan kapsamındaki alanlarda ihtiyaç olması halinde güvenlik, sağlık, eğitim v.b. sosyal donatı
+alanları, büyük kentsel yeşil alanlar, kent veya bölge/havza bütününe yönelik her türlü atık
+bertaraf tesisleri ve bunlarla entegre geri kazanım tesisleri, arıtma tesisleri, sosyal ve teknik alt
+yapı, karayolu, demiryolu, denizyolu, havaalanı, baraj, enerji iletimi ve yenilenebilir enerji
+üretimine ilişkin kullanımların alt ölçekli planları, bu planın koruma, gelişme ve planlama ilkeleri
+doğrultusunda, Bakanlığın uygun görüşü alınmak kaydıyla ilgili kurum ve kuruluşların görüşleri
+dikkate alınarak, ilgili İdaresince bu planın ilke ve esasları çerçevesinde hazırlanır. Onaylanan
+planlar sayısal ortamda-koordinatlı olarak, veri tabanına işlenmek üzere, Bakanlığa gönderilir.
+Söz konusu tesisler/tesis alanları amacı dışında kullanılamazlar. Yakma veya düzenli depolarının
+yanı sıra fiziksel/kimyasal/biyolojik önişlem ünitelerini içeren entegre atık bertaraf veya geri
+kazanım tesislerinin yer seçiminde, atığın en yakın ve en uygun olan tesiste bertaraf edilmesi
+ilkesi çerçevesinde, bölgenin atık miktarı dikkate alınarak ilgili kurum ve kuruşların görüşü
+doğrultusunda tesisin yer seçimi belirlenir.
+5.21 Mevcut ulaşım altyapısı dışında, bu planda gösterilen/önerilen karayolu güzergahları ile liman,
+yat limanı gösterimleri şematik olup, bu kullanım kararlarının uygulanabilmesi için ilgili
+kurumlarca yatırım programına alınması gereklidir.
+12
+5.22 Kentsel ve kırsal yerleşme alanları dışında gereksinim duyulması halinde; Toplu Konut İdaresi'ne
+(TOKİ) tahsis edilmiş alanlarda TOKİ tarafından üretilecek toplu konut alanlarına ve Özelleştirme
+İdaresi Başkanlığı'nca yürütülen faaliyetlerin alan kullanım türlerine ilişkin başvurular bu planın
+planlama ilkeleri ve nüfus kabulleri doğrultusunda, ilgili kurum ve kuruluş görüşleri alınarak ilgili
+idaresince değerlendirilir. Bu doğrultuda hazırlanacak alt ölçekli planlar sayısal ortamdakoordinatlı
+olarak, veri tabanına işlenmek üzere, Bakanlığa gönderilir. Kentsel ve kırsal yerleşme
+alanları içerisinde kalması durumunda söz konusu talepler çevre imar bütünlüğü çerçevesinde
+ilgili idaresince alt ölçekli planlarda değerlendirilir.
+5.23 Katı atıkların düzenli toplanması ve depolanması esas olup, bu alanlarda “Katı Atıkların Kontrolü
+Yönetmeliği” hükümlerinde belirlenen kriterler çerçevesinde uygulama yapılacaktır.
+5.24 Planlama alanı bütününde toplu arıtma sistemlerine geçilmesi konusunda entegre projelere
+ağırlık verilecektir.
+5.25 Yeraltı ve yerüstü su kaynaklarını kirletici faaliyetlere kesinlikle izin verilmeyecektir.
+5.26 İçmesuyu ve tarımda sulama amacıyla kullanılan ve kullanılacak olan barajların su kaynakları ve
+çevresindeki su toplama havzaları ile rezerv alanları korunacaktır.
+5.27 İçme ve kullanma suyu kaynağı olarak belirlenmiş alanlarda “Su Kirliliği Kontrolü Yönetmeliği”
+hükümleri geçerlidir. Bu alanlarda yapılacak uygulamalarda Orman ve Su İşleri Bakanlığı ve
+Devlet Su İşleri Genel Müdürlüğü’nün görüşü alınacaktır.
+İçme ve Kullanma Suyu Koruma Alanları içinde kalan yerleşmelerden, “Su Kirliliği Kontrolü
+Yönetmeliği”ne uygun olmayan yerleşmelerin imar planları bu yönetmelik hükümleri
+çerçevesinde irdelenecek ve yönetmelik hükümlerine uygun hale getirilecektir. Atıklar için söz
+konusu yönetmelik hükümlerinde belirtilen standartlar sağlanmadan uygulamaya geçilemez.
+5.28 Taşkın alanı olarak belirlenen/belirlenecek alanlar için imar planları aşamasında Devlet Su İşleri
+Genel Müdürlüğü’nden taşkınla ilgili görüş alınması ve bu görüşe uyulması zorunludur. Bu
+alanlarda önerilmiş spor alanlarında da sadece açık spor alanlarına izin verilir.
+5.29 Planlama alanındaki akarsuların (kuru dereler dahil) her iki kenarında;
+- Bartın Irmağı yatağından itibaren ilk 15 metrede,
+- Bartın Çayı, Kozcağız Çayı ve Gökırmak Çayı’nın yataklarından itibaren ilk 10 metrede,
+- Diğer her türlü dere vasfında olan akarsuların (kuru dereler dahil) yataklarından itibaren ilk 7
+metrede; yollar ve su yapıları hariç hiçbir yeni yapı/tesis yer alamaz.
+Bu mesafeler ıslah tesisleri yapılmış akarsularda geçerlidir. Islah tesisleri yapılmamış akarsularda
+bu mesafelerin 2 katı uygulanır. Bu mesafeler ıslah tesisleri yapılmış akarsularda; seddelerde su
+13
+yüzü tarafındaki şev üstünden, duvarlarda su yüzü tarafından alınır. Islah tesisleri yapılmamış
+akarsularda ise, DSİ Genel Müdürlüğü tarafından belirlenecek sınırdan itibaren alınacaktır.
+Bu mesafeler içinde kalan mevcut tesisler, dondurulmuş tesisler kapsamında değerlendirilir,
+tevsii ve yoğunluk artışı yapılamaz. Mevcut tesisler kullanım süresince kirliliği önleyici tedbirleri
+alacak, kullanım ömrü dolduğunda veya kaldırılmasının zorunlu olması halinde, tesislerin kurulu
+bulunduğu alan tesis sahiplerince rehabilite edilecektir. “Su Kirliliği Kontrolü Yönetmeliği”
+kapsamındaki akarsularda ilgili yönetmelik hükümleri uygulanır.
+Tefer Projesi (Türkiye Sel ve Deprem Felaketi Acil Yardım Projesi) kapsamındaki taşkın
+alanlarında; proje gerçekleşene kadar imar uygulaması yapılamaz ve yapı ruhsatı verilemez.
+Projenin uygulamaya geçmesi sonrasında taşkın alan kapsamından çıkan alanlar Devlet Su İşleri
+Genel Müdürlüğü’nden alınacak görüş doğrultusunda uygulama yapılacaktır.
+5.30 Orman alanlarında, 6381 sayılı “Orman Kanunu” ve ilgili yönetmelik hükümleri geçerlidir.
+5.31 Bu planın onay tarihinden itibaren, yasal haklar dışında, orman idaresi tarafından ilgili yasanın
+2B maddesi gereği orman alanından çıkartılan/çıkarılacak 2B alanlarında; özel mülkiyete konu
+olmadan uygulama yapılamaz.
+Mevcut ağaçların korunması kaydıyla alanın doğal yapısı, bölgenin toprak ve iklim
+karakteristiğine uygun olarak ağaçlandırılmak suretiyle ekolojik olarak orman alanlarıyla
+bütünlüğünün sağlanması esastır.
+Orman içi kadastral boşluklar ile orman içi tanımsız alanların da ağaçlandırılarak ormanla ekolojik
+açıdan bütünleştirilmesi esastır.
+Bu planda değişiklik yapılması kaydı ile imar planlarında, bu alanların orman içerisinde olmayan
+ve yerleşme alanlarıyla bitişik olan yerlerinde, ihtiyaç duyulan kamuya ait sosyal altyapı alanları
+ayrılabilecektir. Bu alanlar için yapılaşma koşulları E:0.30 ve HMAX: 9.50 m. olacaktır.
+5.32 İmar planlarında yerleşimlere özgü topoğrafik yapıya uygun kararların getirilmesi zorunludur.
+5.33 Planda gösterilenler dışında, yerleşim alanları içinde ölçek nedeniyle gösterilemeyen yeşil alanlar
+ile sosyal ve teknik altyapı alanlarının İmar Kanunu’nun ilgili yönetmeliğinde belirtilen
+standartlara uygun olarak imar planlarında dengeli ve fonksiyonel olarak dağıtılması
+sağlanacaktır.
+5.34 Bu planın bütünlüğünü bozucu yönde noktasal sanayi, konut, ikinci konut, turizm ya da benzeri
+kullanım kararları oluşturulamaz.
+14
+6 UYGULAMA HÜKÜMLERİ
+6.1 YERLEŞME ALANLARI
+6.1.1 KENTSEL YERLEŞME ALANLARI
+6.1.1.1 Belediye yetkisindeki alanlarda yer alan, bu planda kentsel yerleşik ve kentsel gelişme olarak
+gösterilen alanları birlikte ifade eder.
+6.1.1.2 Bu planda kentsel yerleşme alanları olarak gösterilmeyen, ancak belediye sınırları içine
+alınarak mahalleye dönüşmüş/dönüşecek olan yerleşme alanları kentsel yerleşme alanı
+olarak kabul edilir.
+Bu yerleşmelerin ilgili belediyeye mahalle olarak bağlandıkları tarihteki nüfusları, bu plan ile
+belirlenmiş olan nüfus kabulüne eklenir.
+6.1.1.3 Planlama alanı içerisinde yer alan kentsel yerleşme alanlarında, bu çevre düzeni planında
+belirlenen nüfus kabulü planlamaya esas olacaktır.
+Tablo 6-1: Bartın ve Bartın Kıyı Kesimi Planlama Alt Bölgesi 1/25 000 Ölçekli Çevre Düzeni
+Planı 2025 ve 2030 Yılı Kentsel Nüfus Kabulleri
+KENTSEL YERLEŞİM
+ALANLARI
+2025 YILI KABUL KENTSEL
+NÜFUSU (Kişi)
+2030 YILI KABUL KENTSEL
+NÜFUSU (Kişi)
+Merkez İlçe 130,000 – 150,000 170,000 - 190,000
+Amasra 9,000 - 10,000 11,000 - 12,000
+Kurucaşile 3,000 - 4,000 4,000 - 5,000
+Kozcağız 7,000 - 8,000 8,000 - 9,000
+Abdipaşa 4, 000 - 5,000 5,000 - 6,000
+TOPLAM KENTSEL NÜFUS 153,000 - 177,000 198,000 - 222,000
+6.1.1.4 Bu planda kentsel yerleşme alanları için belirlenmiş olan nüfus kabulleri esas olmak üzere,
+kentsel yerleşmeler içindeki yoğunluk dağılımı imar planlarında yapılacaktır.
+Bu alanlarda yapılacak imar planlarında bu planın 2025 ve 2030 yılı nüfus kabulleri
+doğrultusunda 2025 yılı sonrasında gelişmeye açılacak alanlar için etaplama yapılacaktır.
+6.1.1.5 Bartın Merkez İlçe’de bulunan Kutlubeyyazıcılar ve Esenyurt köy sınırları içerisindeki kentsel
+gelişme alanlarında yoğunluk değeri 150 kişi/ha olup bu değer aşılamaz.
+6.1.1.6 Kentsel yerleşme alanlarında, konut alanları ile kentin ve kentlinin ihtiyacına yönelik kentsel
+ve sosyal altyapı alanları, kentsel çalışma alanları, turizm yerleşme alanları, açık ve yeşil
+alanlar ile kentsel teknik altyapı alanları yer alabilir.
+Bu alanlarda, bu planın onayından sonra, madencilik faaliyeti işletmeleri, sanayi tesisleri ile
+sanayi ve endüstriyel hammadde ve mamul ürünlerinin açık ya da kapalı olarak depolanacağı
+tesisler yer alamaz. Mevcut tesislerden/kullanımlardan bu planda gösterilen yeni sanayi
+15
+alanında yer seçecek olanlar, yeni alandaki faaliyetlerine başladıklarında eski tesisteki
+faaliyetler durdurulur.
+6.1.1.7 Kentsel yerleşme alanları içinde yer alacak sosyal ve teknik altyapı alanlarının, imar
+planlarında dengeli ve fonksiyonel olarak dağılımı, 3194 sayılı “İmar Kanunu” ve ilgili
+yönetmeliklerinde belirtilen standartlara göre sağlanacaktır.
+6.1.2 KIRSAL YERLEŞME ALANLARI
+6.1.2.1 Kırsal yerleşme alanlarında konut, tarım ve hayvancılık amaçlı yapılar, ticaret üniteleri, kamu
+hizmetine yönelik yapılar, sosyal ve teknik altyapı alanları, açık ve yeşil alanlar yer alabilir.
+6.1.2.2 442/3367 sayılı Köy Kanunu uyarınca onaylanacak olan köy yerleşme planları geçerlidir.
+6.1.2.3 Onaylı imar planı bulunan kırsal yerleşme alanlarında, mevcut imar planı koşulları geçerlidir.
+6.1.2.4 Bu planda kırsal yerleşme alanı olarak gösterilen alanların köy yerleşik alanı dışında kalan
+kısımlarında yapılacak her türlü yapılar için imar planı yapılması zorunludur.
+6.1.2.5 İlgili mevzuata göre tespit edilmiş olan köy yerleşik alanı sınırları içerisinde, konut, tarımsal
+ve hayvancılık amaçlı yapılar ile köyün ihtiyacına yönelik olarak ilk ve ortaöğretim tesisi,
+ibadet yeri, sağlık tesisi, güvenlik tesisi gibi yapılar için imar planı şartı aranmaz. Ancak, bu
+kullanımların yer seçimi, valiliklerce oluşturulan bir komisyonca, halihazır harita veya
+kadastro paftaları üzerinde kesin sınırları ile belirlenir. Bu yapı ve tesislere, uygulama
+projelerine göre, ilgili kurum ve kuruluş adına yapı ruhsatı ve yapı kullanma izni verilir.
+6.1.2.6 Kırsal yerleşme alanlarında imar planları yapılıncaya kadar konut, tarım ve hayvancılık amaçlı
+yapılarda yapılanma koşulları Plansız Alanlar İmar Yönetmeliği hükümlerine göre belirlenir.
+Silo, samanlık, yem deposu, vb. yapılar için maksimum bina yüksekliği ihtiyaç doğrultusunda
+belirlenir. Köyün genel ihtiyaçlarına yönelik olarak yapılacak sosyal ve ticari tesisler (köy
+konağı, ibadethane, okul, spor alanı, harman yeri, pazar yeri, sağlık ocağı, sağlık evi, PTT,
+karakol, ticarethane, mezarlık vb.) için yapılaşma koşulları ilgili İdaresince belirlenir. Bu
+kullanımlar dışındaki her türlü faaliyet için (turizm, günübirlik veya bölgesel düzeyde ticaret
+kullanımlar vb.) imar planı yapılması zorunlu olup; Emsal: 0,50’dir. Diğer yapılanma koşulları
+çevre imar bütünlüğü gözetilerek alt ölçekli planlarda belirlenecektir.
+6.2 ÇALIŞMA ALANLARI
+6.2.1 KENTSEL HİZMET MERKEZLERİ
+6.2.1.1 Bu alanlarda yapılaşma koşulları imar planlarında belirlenecektir.
+6.2.2 HİZMET MERKEZLERİ
+6.2.2.1 Bu alanlarda yapılaşma koşulları imar planlarında belirlenecektir.
+16
+6.2.3 KONUT DIŞI KENTSEL ÇALIŞMA ALANLARI
+6.2.3.1 Onaylı imar planlarında konut dışı kentsel çalışma alanı olarak ayrılan alanlarda, mevcut imar
+planı koşulları geçerlidir. Bu alanlarda yoğunluk artırıcı plan değişikliği yapılamaz.
+6.2.3.2 Bu alanlarda sanayi amaçlı plan değişikliği yapılamaz.
+6.2.3.3 Onaylı imar planı bulunmayan konut dışı kentsel çalışma alanlarında yapılaşma koşulları imar
+planlarında belirlenecektir.
+6.2.4 BÜYÜK ALAN KULLANIMI GEREKTİREN KAMU KURULUŞ ALANLARI
+6.2.4.1 Mevcut kamu kuruluş alanlarında, ilgili idarece onaylanmış imar planı koşulları geçerlidir.
+6.2.4.2 Yeni oluşturulacak kamu kuruluş alanlarında, ilgili idarece onaylanacak tip projeler dikkate
+alınmak kaydıyla yapılaşma koşulları imar planlarında belirlenecektir.
+6.2.5 ORGANİZE SANAYİ BÖLGESİ
+6.2.5.1 Bu alanlarda 4562 sayılı “Organize Sanayi Bölgeleri Kanunu” ve uygulama yönetmeliği
+hükümleri geçerlidir. Bu kanuna istinaden tespit edilecek yeni O.S.B. alanları bu plana
+işlenerek geçerli olacaktır.
+6.2.5.2 Organize sanayi bölgesinde, O.S.B. Yerseçim Komisyonunca ilave edilen 50 hektarı geçmeyen
+alanların imar planları, ilgili kurum ve kuruluş görüşleri alınarak hazırlanabilir. Onaylanan
+planların bu plana işlenir.
+6.2.6 SANAYİ ALANLARI
+6.2.6.1 Bu planda gösterilen ve 19.07.2007 tarihinden önce, kentsel yerleşme alanları içinde veya
+dışında yer seçmiş ve mevzuata uygun olarak onaylanmış imar planı bulunan sanayi
+alanlarında, mevcut plan koşulları geçerli olup, bu alanlarda kapasite artışı, yoğunluk artışı ve
+sanayi türü değişikliği getirecek plan değişikliği/revizyonu ve tevsi yapılamaz.
+Bu alanlar yürürlükteki mevzuat çerçevesinde, kirliliği önleyici her türlü tedbiri almak ve
+gerekli altyapıyı oluşturmak zorundadır.
+6.2.6.2 Bu plan kararı ile önerilen sanayi alanlarında yapılaşma koşulları, tür, teknoloji vb. unsurlar
+dikkate alınarak imar planlarında belirlenecektir. Bu tesislere ilişkin yerseçimi, izin ve ruhsata
+ilişkin her türlü iş ve işlemler, ilgili mevzuat doğrultusunda yapılacak olup, söz konusu tesis
+alanları amacı dışında kullanılamaz.
+Bu alanlarda yapılacak alt ölçekli planlama aşamasında planlamaya konu alanın %10’undan
+az olmamak üzere yeşil alan ayrılması zorunludur.
+17
+Sanayi alanlarının içerisinde depolama alanları yer alabilir. Bu planda gösterilen ve Esenyurt
+Köyü içerisinde önerilen sanayi alanında alanın %10’unun depolama alanı olarak ayrılması
+zorunludur.
+Sanayi alanlarında katı ve sıvı atıklar için gerekli tedbir alınıp altyapı tesisleri
+gerçekleştirilmeden iskan ruhsatı verilemez.
+6.2.6.3 Bu alanlarda, “Tekel Dışı Bırakılan Patlayıcı Maddelerle, Av Malzemesi ve Benzerlerinin
+Üretimi, İthali, Taşınması, Saklanması, Depolanması, Kullanılması, Yok Edilmesi,
+Denetlenmesi Esaslarına İlişkin Tüzük”te tanımlanan maddelerin üretimi, atık bertarafı ve
+depolanmasına yönelik tesisler yer alamaz.
+6.2.6.4 Bu alanlarda yer alacak tesislerin çevresel etki değerlendirmesine (ÇED) tabi olması halinde,
+ÇED Yönetmeliği hükümleri uygulanacaktır.
+6.2.6.5 Bu alanlarda kurulacak sanayi ve depolama tesislerinde, türlerine göre "İşyeri Açma ve
+Çalışma Ruhsatlarına İlişkin Yönetmelik" uyarınca, tesis mülkiyeti içerisinde sağlık koruma
+bandı bırakılacaktır.
+6.2.6.6 Bu alanlarda çevre kirliliğini önlemek amacıyla alınacak önlemler ile birlikte, atık suların
+bertarafında “Su Kirliliği Kontrolü Yönetmeliği”nin “Teknik Usuller Tebliği”nde belirtilen
+kriterler sağlanacaktır.
+6.2.6.7 Sanayi kuruluşlarının yer altı sularından yararlanmak amacıyla açacakları kuyu için Devlet Su
+İşleri Genel Müdürlüğü’nden görüş alınması zorunludur.
+6.2.7 KÜÇÜK SANAYİ SİTELERİ
+6.2.7.1 Bu planda gösterilen ve 19.07.2007 tarihinden önce onaylı imar planlarında küçük sanayi
+sitesi alanı olarak ayrılmış alanlarda, imar planı koşulları geçerlidir. Bu alanlarda yoğunluk
+arttırıcı plan değişikliği yapılamaz.
+6.2.7.2 Yeni küçük sanayi sitesi alanları, bu planda gösterilen meskun ve gelişme alanları içerisinde
+yer alabilir. Yer seçiminde bu kullanımların çevresel etkileri dikkate alınacaktır. Bu alanlarla
+ilgili yapılanma koşulları, ilgili kurum ve kuruluşların görüşü doğrultusunda, imar planlarında
+belirlenecektir.
+6.2.8 DEPOLAMA ALANLARI
+6.2.8.1 Endüstriyel hammadde ve mamul ürünlerin veya bitkisel ve hayvansal ürünlerin açık ya da
+kapalı olarak depolanabileceği tesislerin yer aldığı alanlar olup bu alanlarda, ayrıca, stok
+alanı, yükleme ve boşaltma alanları ile bunların ihtiyacı olan açık ve kapalı otoparklar, garajlar
+gibi diğer altyapı tesisleri de yer alabilir.
+18
+6.2.8.2 Bu alanlarda sanayi hammadde ve üretim malzemeleri ile bitkisel ve hayvansal ürünlerin ayrı
+bölgelerde depolanması sağlanacaktır.
+6.2.8.3 Onaylı imar planlarında depolama alanı olarak ayrılan alanlarda, mevcut imar planı koşulları
+geçerlidir. Bu alanlarda yoğunluk artırıcı ve depolama türünü değiştiren plan değişikliği
+yapılamaz.
+6.2.8.4 Bu plan kararı ile önerilen depolama alanlarda yapılaşma koşulları, tür, teknolojik unsurlar
+dikkate alınarak imar planlarında belirlenecektir.
+Bu alanlarda yapılacak alt ölçekli planlama aşamasında planlamaya konu alanın %10’undan
+az olmamak üzere yeşil alan ayrılması zorunludur.
+6.2.8.5 Bu alanlarda "İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelik" uyarınca depolama
+türlerine göre mülkiyet içerisinde “Sağlık Koruma Bandı” bırakılması zorunludur.
+6.2.8.6 Bu alanlarda 29/09/1987 tarih ve 19589 sayılı Resmi Gazete’de yayınlanan “Tekel Dışı
+Bırakılan Patlayıcı Maddeler ve Av Malzemesi Ve Benzerlerinin Üretimi, İthali, Taşınması,
+Saklanması, Depolanması, Satışı, Kullanılması, Yok Edilmesi, Denetlenmesi Usul ve Esaslarına
+İlişkin Tüzük”te belirtilen her tür çevresel olumsuz etkisi bulunan malzemeler için depolama
+yapılamaz.
+6.2.9 ORGANİZE TARIM/HAYVANCILIK ALANLARI
+6.2.9.1 Bu alanlarda çalışanların ihtiyacına yönelik olarak; barınma amaçlı yapılar, sosyal ve kültürel
+donatı alanları, sağlık ve eğitim tesisleri, rekreasyon alanları, araştırma ve geliştirme birimleri,
+ürün toplama, depolama, saklama alanları, besicilikte kullanılacak yem üretim alanları,
+sütçülük, besicilik tesisleri gereksinimlere ve planlama ilkelerine uygun olarak yer alabilir. Bu
+alanlarda yer alacak yapı alan kullanımlarının yerleri, büyüklükleri ve yapı yoğunlukları imar
+planlarında belirlenecektir.
+6.2.9.2 Bu planda gösterilenler dışında ihtiyaç olması halinde, en az 20 ha. olacak şekilde, ilgili
+kurum, kuruluş görüşlerine bağlı kalınarak İl Toprak Koruma Kurulu marifetiyle yer seçimi
+yapılabilir. Yer seçimi yapılan alanlara ilişkin imar planları çevre düzeni planı değişikliğine
+gerek olmaksızın ilgili idaresince hazırlanır ve onaylanır. Onaylanan planlar sayısal ortamda
+veri tabanına işlenmek üzere Bakanlığa gönderilir. Söz konusu tesisler/tesis alanları amacı
+dışında kullanılamazlar.
+6.2.9.3 Bu alanlarda çevre sorunlarını önlemeye yönelik olarak katı, sıvı ve gaz atığa ilişkin teknik
+altyapı önlemleri alınacaktır.
+19
+6.3 TURİZM ALANLARI
+6.3.1 TURİZM TESİS ALANLARI
+6.3.1.1 Turizm tesis alanlarında, 4957/2634 sayılı “Turizmi Teşvik Kanunu” ve ilgili yönetmelikleri
+doğrultusunda uygulama yapılacaktır.
+6.3.1.2 Turizm tesis alanı olarak planlanmış alanlarda yapılan/yapılacak turizm tesisleri ve yapıları
+sonradan hiçbir biçimde başka kullanım amacına yönelik kullanılamazlar. Bu amaçla, tapu
+kütüğünün beyanlar hanesine toplumun yararlanmasına ayrılan yapı ve turizm tesisi olduğu
+yazılacak ve tescil işlemi yapılmadan inşaat ruhsatı verilmeyecektir.
+6.3.1.3 Bu alanlarda “Turizm Tesislerinin Belgelendirilmesine ve Niteliklerine İlişkin Yönetmelik”e göre
+“Turizm Yatırım ve İşletmesi Belgesi” alınması zorunludur. Turizm yatırım ve işletmesi belgesi
+alınmadan inşaat ruhsatı verilemez.
+6.3.1.4 Bu tesislerin imar planları ile mimari projelerinde, topografya ve doğal bitki örtüsü ile çevre
+karakteristiklerine uygun çözümler getirilerek, bölgenin tarihi ve kültürel kimliği korunacaktır.
+6.3.1.5 Turizm tesisleri tek bağımsız bölüm olarak ruhsatlandırılacaktır. Kat irtifakına ve kat mülkiyetine
+konu edilemez.
+6.3.1.6 Turizm tesislerinde emsal dahilinde kalmak ve yapı taban alanının %15’ini geçmemek kaydıyla
+ticari üniteler yapılabilir.
+Turizm tesislerinde emsal dahilinde kalmak kaydıyla turizm tesisi ile birlikte günübirlik tesis
+yapılabilir.
+6.3.1.7 Onaylı imar planlarında turizm tesisi alanı olarak ayrılan alanlarda, mevcut imar planındaki
+yapılanma koşulları geçerlidir. Bu alanlarda yoğunluk artırıcı plan değişikliği yapılamaz.
+Bu planla belirlenen turizm tesis alanları için yapılanma koşulları imar planlarında belirlenecektir.
+6.3.1.8 Bu alanlarda turizm tesisleri haricinde günübirlik tesisler ve kamping tesisleri yapılabilir.
+Günübirlik tesis alanları için yapılanma koşulları; E: 0,15 ve HMAX: 5,50 m.’yi ( 1 kat) geçemez.
+Kamping tesislerinde konaklama ihtiyacını karşılamak üzere, çadır, karavan gibi taşınabilir
+ünitelere ilişkin yapılanma koşulları imar planlarında belirlenecektir. Ortak kullanıma ayrılan; duş,
+tuvalet, çamaşırhane, mutfak, depo, servis ve resepsiyon gibi yapılar yer alabilir. Bu alanlarda
+EMAX: 0.05 ve HMAX: 4.50 m.’yi (1 kat) aşamaz.
+6.3.2 KÜLTÜR VE DOĞA TURİZMİ ALANLARI
+6.3.2.1 Bu alanlarda sadece kamping, bungalov kullanımları yer alabilecek olup butik otel ve aile
+pansiyonculuğu kullanımları yer alamaz.
+6.3.2.2 Bungalov, kamping kullanımlarında kapasite “Turizm Tesislerinin Belgelendirilmesine ve
+Niteliklerine İlişkin Yönetmelik”teki standartlar esas alınarak alt ölçekli planlarda belirlenecektir.
+20
+Bu alanlarda kamping tesisi yapılması halinde; konaklama ihtiyacını karşılamak üzere, çadır,
+karavan gibi taşınabilir ünitelere ilişkin yapılanma koşulları imar planlarında belirlenecektir.
+Ortak kullanıma ayrılan; duş, tuvalet, çamaşırhane, mutfak, depo, servis ve resepsiyon gibi yapılar
+yer alabilir. Bu alanlarda EMAX: 0.05 ve HMAX: 4.50 m. (1 kat) olacaktır.
+Kamping ve bungalov kullanımlarında; çevre karakteristikleri, doğal, tarihi ve kültürel kimliği,
+doğal bitki örtüsünü koruyan, topografyaya uygun çözümler getirilmesi, yoğunlukların
+belirlenmesi esastır.
+6.3.3 GÜNÜBİRLİK TESİS ALANLARI
+6.3.3.1 Bu alanlarda yapılanma koşulları E: 0,15 ve HMAX: 5,50 m. (1 kat) olacaktır.
+6.3.3.2 Bu alanlarda geceleme birimi yer alamaz.
+6.3.4 EKO-TURİZM ALANLARI
+6.3.4.1 Bu plan ile belirlenen veya alt ölçekli planlarda belirlenebilecek olan bu alanlarda; Turizm
+Tesislerinin Niteliklerine İlişkin Yönetmelik hükümlerine uygun, ekolojik yapı ile bütünleşik kırsal
+turizm tesisleri ile bunlara hizmet veren spor tesisleri, satış üniteleri ve gerekli sosyal donatı
+alanları yer alabilir. Bu alanlarda yer alacak konaklama tesislerinin niteliklerine ilişkin yönetmelik
+uyarınca “Kırsal Turizm Tesisleri” olarak belgelendirilecektir.
+6.3.4.2 Eko-turizm alanları için öncelikle imar planını onaylamaya yetkili idareye başvurulur. Başvuruların
+değerlendirilebilmesi için yetkili idarece Bakanlık/Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğü
+dahil ilgili kurum ve kuruluşlardan uygun görüş alınması zorunludur.
+6.3.4.3 Yapılacak yapılarda doğal yapı ve geleneksel mimari dokunun korunması sağlanacaktır.
+6.3.4.4 Eko-turizm alanı olarak belirlenebilecek alanlarda uygulama öncesi toplam alan büyüklüğü en az
+15.000 m2 olacaktır. Bu alanlarda uygulamalar ada bazında yapılacak, alanın toplam
+yüzölçümünün en az %30’luk bölümünün yapı yapılmayacak şekilde açık alan olarak
+planlanacaktır. Bu alanlarda min. ifraz şartı 10.000 m2’dir. 20.000 m2 üzerinde büyüklüğe sahip
+alanlar ise toplam inşaat alanı 2.000 m2’yi geçmeyecek şekilde düzenlenecektir.
+Bu alanlarda yapılaşma koşulları: Emsal=0,10; Yençok: 2 kattır. Kat yükseklikleri yöresel, coğrafi
+koşullar ve iklim koşulları dikkate alınarak belirlenir. Bu tesislerde en fazla bir bodrum katı
+yapılabilir. Bodrum katlarda konaklama üniteleri yer alamaz. Bodrum katta yalnızca bakım ve
+işletme ihtiyaçlarını karşılayacak üniteler yer alabilir. Ayrı yapılar olarak düzenlenen konaklama
+birimlerinde bodrum kat sadece ana yapıda yer alabilir.
+6.3.4.5 Bu alanlarda yer alacak turizm belgeli konaklama tesisi tek bir bağımsız bölüm olacaktır. Bu
+alanlardaki konaklama birimleri üzerinde devre mülk, kat irtifakı ve kat mülkiyeti gibi şerhe
+konu haklar tesis edilemez.
+6.3.4.6 Konaklama tesisi için yetkili idareden işyeri açma ve çalışma ruhsatı alınması sonrasında ruhsat
+tarihinden itibaren 1 yıl içerisinde Kültür ve Turizm Bakanlığından alınacak Turizm İşletmesi
+Belgesi ilgili idaresine ibraz edilecek ve bu plan hükmünün yetkili idare tarafından takibi ve
+denetimi yapılacaktır.
+6.3.4.7 06.05.2022 tarihinden önce, ilgili kurum ve kuruluşlardan görüş alma süreci başlatılarak ilgili
+idaresine yapılan eko-turizm amaçlı imar planı başvuruları, eko turizm amaçlı onaylı imar
+planlarında emsal ve yoğunluk artışı ve sınır değişikliğini içermeyen imar planı değişiklik
+başvurularına yönelik iş ve işlemler, 06.05.2022 onay tarihli eko-turizm amaçlı çevre düzeni planı
+hükmü değişikliği öncesinde belirtilen koşullar doğrultusunda ilgili idaresince “Mekânsal Planlar
+Yapım Yönetmeliği” kapsamında değerlendirilir.
+PLAN DEĞİŞİKLİĞİ ONAMA SINIRI
+21
+6.4 BÜYÜK VE AÇIK ALAN KULLANIŞLARI
+6.4.1 BÜYÜK KENTSEL YEŞİL ALANLAR
+6.4.1.1 Bu alanlarda bölgenin doğal nitelikleri göz önüne alınarak, kullanım türleri imar planlarında
+belirlenmek üzere, temalı parklar, spor alanları, fuar ve rekreasyon alanları yer alabilir.
+6.4.1.2 Bu alanların bütüncül olarak ele alınması ve özel proje çalışmalarının yapılması zorunludur.
+6.4.1.3 Rekreasyon alanlarında, kentin açık ve yeşil alan ihtiyacı başta olmak üzere, günübirlik
+kullanım amacı ile belirlenmiş eğlence, dinlenme, piknik ihtiyaçlarının karşılanabileceği,
+lokanta, gazino, kahvehane, çay bahçesi, büfe, otopark gibi kullanımlar ile tenis, yüzme, mini
+golf gibi her tür sportif faaliyetlere yönelik düzenlemeler yer alabilir.
+Bu alanlarda yapılanma koşulu, EMAX: 0.05, HMAX: 4.50 m., maksimum inşaat alanı: 250 m²
+olacaktır.
+6.4.2 KENTSEL VE BÖLGESEL SPOR ALANLARI
+6.4.2.1 Bu alanlarda; futbol, basketbol, voleybol, tenis, yüzme, atletizm, buz pateni gibi spor
+faaliyetlerini ihtiva eden açık ve kapalı tesisler yer alabilir.
+6.4.2.2 Bu alanlarla ilgili yapılanma koşulları spor faaliyetinin ihtiyacına bağlı olarak imar planlarında
+belirlenecektir.
+6.4.3 ÜNİVERSİTE ALANLARI
+6.4.3.1 Onaylı imar planı bulunan üniversite alanlarında mevcut imar planındaki yapılanma koşulları
+geçerli olup bu plan ile belirlenen üniversite alanlarında yapılaşma koşulları imar planlarında
+belirlenecektir.
+6.4.3.2 Bu alanlarda öğrenci yurtları ile lojman yapıları dışında konut amacına yönelik yapı yapılamaz.
+6.4.4 SOSYAL DONATI ALANLARI
+6.4.4.1 Onaylı imar planı bulunan sosyal donatı alanlarında mevcut imar planındaki yapılanma
+koşulları geçerli olup bu plan ile belirlenen alanlarda yapılaşma koşulları imar planlarında
+belirlenecektir.
+6.5 TARIM ALANLARI (5403 Sayılı Toprak Koruma Ve Arazi Kullanımı Kanununa Tabi Araziler)
+6.5.1 Toprak, topografya ve iklimsel özellikleri tarımsal üretim için uygun olup, hâlihazırda tarımsal
+üretim yapılan veya yapılmaya uygun olan veya imar, ihya, ıslah edilerek tarımsal üretim
+yapılmaya uygun hale dönüştürülebilen arazilerdir.
+22
+6.5.2 Bu planda gösterilen tarım alanları, 5403 sayılı “Toprak Koruma Ve Arazi Kullanımı Kanunu” ve
+ilgili yönetmeliğinde tanımlanan “Tarım Arazileri Sınıflarına” ayrılmış olup, mülga Tarım ve Köy
+İşleri Bakanlığı’ndan elde edilen STATİP ( Sorunlu tarım Arazilerinin Tespiti ve İyileştirilmesi
+Projesi) verisi doğrultusunda plana işlenmiştir. Bu alanlarda imar planlarının hazırlanması
+aşamasında ilgili kurumun görüşünün alınması zorunludur.
+6.5.3 Tarım arazileri ile fiilen sulanan veya sulama projeleri ilgili kuruluşlar tarafından hazırlanmış ve
+yatırım programına alınmış / alınacak tarım arazilerinin tarımsal üretim amaçlı korunması
+esastır.
+6.5.4 Tarım arazilerinde yapılacak ifrazlarda 5403 sayılı “Toprak Koruma ve Arazi Kullanım Kanunu”
+ve ilgili yönetmelik hükümleri uyarınca işlem yapılacaktır.
+6.5.5 Tarım arazilerinin amaç dışı kullanımı taleplerinde, 5403 sayılı “Toprak Koruma ve Arazi
+Kullanım Kanunu” ve Tarım Gıda Ve Hayvancılık Bakanlığı’nın izni çerçevesinde işlem
+yapılacaktır.
+6.5.6 Başbakanlık, Gıda, Tarım ve Hayvancılık Bakanlığı, ilgili bakanlıklar ve bunların bağlı kuruluşları
+tarafından desteklenen projeye dayalı tarımsal faaliyetler kapsamında tarımsal amaçlı yapılar
+(tarımsal kalkınma kooperatiflerince uygulanan projeler, üretici birlikleri/kooperatifleri
+tarafından uygulanan projeler, Avrupa Birliği kaynaklı projeler, Dünya Bankası destekli projeler,
+sosyal riski azaltma projesi kapsamında uygulanacak projeler gibi) ile destekleme projeleri
+Gıda, Tarım ve Hayvancılık Bakanlığı’nca değerlendirilerek sonuçlandırılır. Ancak fiilen sulanan
+veya sulama projesi kapsamında kalan tarım arazilerinde bu hüküm uygulanmaz.
+6.5.7 İçme ve kullanma suyu temin edilen kıta içi yüzeysel su kaynaklarının bulunduğu havzalarda,
+kısa mesafeli koruma kuşaklarında yapılan tarımsal faaliyetlerde, organik tarım
+özendirilecektir.
+6.5.8 Bu alanlarda, örtü altı tarım yapılması durumunda seralar emsale dahil değildir.
+6.5.9 Bu alanlardaki, mera vasıflı arazilerde, 5178/4342 sayılı Mera Kanunu kapsamında uygulama
+yapılacaktır.
+6.5.10 Tarım alanlarında uygulamalar bu plan ile verilmiş olan yapılanma koşullarını aşmamak
+kaydıyla, 3194 sayılı İmar Kanunu; “Plansız Alanlar İmar Yönetmeliği”nin 6.bölümünde
+belirtilen esaslara göre yapılır.
+23
+6.5.11 Tarım arazilerinde yer alacak tarımsal amaçlı yapılar; toprak koruma ve sulamaya yönelik
+altyapı tesisleri, entegre nitelikte olmayan hayvancılık ve su ürünleri üretim ve muhafaza
+tesisleri ile zorunlu olarak tesis edilmesi gerekli olan müştemilatı, mandıralar, üreticinin bitkisel
+üretime bağlı olarak elde ettiği ürünü için ihtiyaç duyacağı yeterli boyut ve hacimde depolar,
+un değirmeni, tarım alet ve makinelerinin muhafazasında kullanılan sundurma ve çiftlik
+atölyeleri, seralar, tarımsal ve işletmede üretilen ürünün özelliği itibarıyla hasattan sonra iki
+saat içinde işlenmediği takdirde ürünün kalite ve besin değeri kaybolması söz konusu ise bu
+ürünlerin işlenmesi için kurulan tesisler ile T.C. Tarım Gıda ve Hayvancılık Bakanlığı tarafından
+tarımsal amaçlı olduğu kabul edilen, entegre nitelikte olmayan diğer tesislerdir.
+Tarımsal amaçlı yapılar amacı dışında kullanılamaz ve başka bir kullanıma dönüştürülemez.
+Tesis sahiplerince, uygulamadan sorumlu idareye, bu tesislerin başka bir amaçla
+kullanılmayacağına dair yazılı taahhüt verilmesi zorunludur.
+Bu planın onayından önce yürürlükteki mevzuat uyarınca inşaat ruhsatı veya yapı kullanma izni
+verilmiş olan tarımsal amaçlı yapılara ilişkin haklar saklıdır.
+6.5.12 Başbakanlık, Tarım, Gıda ve Hayvancılık Bakanlığı, ilgili Bakanlıklar ve bunların bağlı kuruluşları
+tarafından desteklenen projeye dayalı tarımsal faaliyetler kapsamında tarımsal amaçlı yapılar,
+(Tarımsal Kalkınma Kooperatiflerince uygulanan projeler, Üretici Birlikleri/Kooperatifleri
+tarafından uygulanan projeler, Avrupa Birliği kaynaklı projeler, Dünya Bankası destekli projeler,
+sosyal riski azaltma projesi kapsamında uygulanacak projeler gibi) destekleme projeleri ile en
+az 100 büyükbaş, 200 küçükbaş ve üzeri kapasiteli hayvancılık veya 50.000 adet ve üzeri
+kapasiteli kanatlı hayvancılık yatırımlarında bu planda öngörülen yapılaşma Emsali (E) % 50
+oranında arttırılabilir.
+6.5.13 Tarım alanları içerisinde Çevresel Etki Değerlendirmesi Yönetmeliği’ne tabi olan her türlü
+imalatta imar planı yapılması zorunlu olup bu alanlarda EmsalMAX: 0.40 olacaktır.
+6.5.14 Bu alanlarda yapılacak tüm yapıların konumları ve yapı yaklaşma mesafeleri 3194 sayılı İmar
+Kanunu uyarınca yapılacak imar planlarında belirlenecektir.
+6.5.15 MUTLAK TARIM ARAZİLERİ
+6.5.15.1 Bu alanlarda Emsal: 0,05 tir.
+6.5.15.2 Bu alanlarda; çiftçinin barınma ihtiyacını karşılayacak yapı ve tarımsal amaçlı yapı yapılabilir.
+Çiftçinin barınma ihtiyacını karşılayacak yapı yapılması halinde; maksimum inşaat
+alanı:100m², HMAX: 6,50 m. (2 kat)’dir.
+6.5.15.3 Bu alanlarda yapılacak tüm yapılar emsale dahildir.
+24
+6.5.16 ÖZEL ÜRÜN ARAZİLERİ
+6.5.16.1 Bu alanlarda Emsal: 0,05 tir.
+6.5.16.2 Bu alanlarda; çiftçinin barınma ihtiyacını karşılayacak yapı ve tarımsal amaçlı yapı yapılabilir.
+Çiftçinin barınma ihtiyacını karşılayacak yapı yapılması halinde; maksimum inşaat
+alanı:150m², HMAX: 6,50 m. (2 kat)’dir.
+6.5.16.3 Bu alanlarda yapılacak tüm yapılar emsale dahildir.
+6.5.16.4 Su Ürünleri Üreticiliği yapılan alanlarda E:0,05 olmak üzere lokanta da yapılabilir. İlgili İdare
+tarafından imar planları onaylanmadan uygulamaya geçilemez.
+6.5.17 DİKİLİ TARIM ARAZİLERİ
+6.5.17.1 Bu alanlarda Emsal: 0,05 tir.
+6.5.17.2 Bu alanlarda; çiftçinin barınma ihtiyacını karşılayacak yapı ve tarımsal amaçlı yapı yapılabilir.
+Çiftçinin barınma ihtiyacını karşılayacak yapı yapılması halinde; maksimum inşaat alanı: 150
+m², HMAX: 6,50 m. (2 kat)’dir.
+6.5.17.3 Bu alanlarda yapılacak tüm yapılar emsale dahildir.
+6.5.18 MARJİNAL TARIM ARAZİLERİ
+6.5.18.1 Bu alanlarda Emsal: 0,30 dur.
+6.5.18.2 Bu alanlarda; çiftçinin barınma ihtiyacını karşılayacak yapı, tarımsal amaçlı yapı ve 06.04.2006
+tarih ve 26131 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren “Kırsal Kalkınma
+Yatırımlarının Desteklenmesi Tebliği” ne göre hazırlanan “Kırsal Kalkınma Yatırımlarının
+Desteklenmesi Programı” kapsamında T.C. Gıda, Tarım ve Hayvancılık Bakanlığı’nca uygun
+görülen projeler kapsamındaki tarımsal amaçlı entegre tesisler, diğer ilgili kurum ve
+kuruluşların uygun görüşünün ve 5403 sayılı Kanuna göre gerekli izinlerin alınarak, imar
+planının ilgili idaresince onanması koşuluyla, yer alabilir. Bu tesislerde çevre sorunlarını
+önlemeye yönelik olarak katı, sıvı ve gaz atığa ilişkin teknik altyapı önlemleri alınacaktır.
+6.5.18.3 Çiftçinin barınma ihtiyacını karşılayacak yapı yapılması halinde; maksimum inşaat
+alanı:200m² HMAX: 6,50 m. (2 kat)’dir.
+6.5.18.4 Bu alanlarda yapılacak tüm yapılar emsale dahildir.
+25
+6.6 TARIM ALANLARI (3083 Sayılı Sulama Alanlarında Arazi Düzenlemesine Dair Tarım
+Reformu Kanununa Tabi Tarım Arazileri)
+6.6.1. Bu Arazilerde, İlgili Kanun Kapsamında Yapılan/Yapılacak Uygulamalarda Bu Plan Kararlarına
+Uyulacaktır.
+6.6.2. Yapılacak ifrazlarda 3083 Sayılı Sulama Alanlarında Arazi Düzenlemesine Dair Tarım Reformu
+Kanunu ve ilgili yönetmelik hükümleri uyarınca işlem yapılacaktır.
+6.6.3 Bu arazilerin tarımsal üretim amaçlı korunması esastır. Uygulama alanlarında, imar planları ve
+mücavir alanlar dışında kalan ve Sulama Alanlarında Arazi Düzenlenmesine Dair Tarım Reformu Kanunu
+uygulama yönetmeliği hükümlerine göre, sahibine bırakılan, dağıtılan veya Gıda Tarım Ve Hayvancılık
+Bakanlığı’nın emrine geçen tarım arazisi, tarım dışı amaçla kullanılamaz.
+6.6.4. Tarımsal amaçlı yapılar için bu plan ile verilmiş olan yapılanma koşulları aşılmamak ve maksimum
+bina yüksekliği projeyi onaylayan İdaresince ihtiyaç doğrultusunda belirlenmek kaydıyla, 3194 sayılı
+İmar Kanunu Plansız Alanlar İmar Yönetmeliğinin 6. Bölümünde belirtilen esaslara uyulur.
+6.6.6 Bu alanlarda; tarımsal amaçlı yapılar yapılabilir. Çiftçinin barınabileceği yapı emsale dahil olup
+inşaat alanı 75 m2’yi geçemez. Tarımsal amaçlı yapılar için Emsal: 0,20’dir.
+6.6.7 3083 Sayılı Sulama Alanlarında Arazi Düzenlemesine Dair Tarım Reformu Kanunu kapsamı dışına
+çıkarılması durumunda, bu alanlarda, “6.5” numaralı tarım alanlarına ilişkin plan hükümlerine
+uyulacaktır.
+6.7 ÇAYIR VE MERA ALANLARI
+6.7.1.1 Bu alanlarda kesinleşmiş yargı kararları ve/veya ilgili kurum görüşü ile mera alanı olmadığı
+belgelenen alanlarda, konumuna göre tespit edilen arazi sınıfına ait yapılanma koşullarına
+göre uygulama yapılacaktır.
+6.7.1.2 İlgili kurum tarafından yapılan inceleme sonrasında mera vasfı taşıyan alanlarda 5178/4342
+sayılı “Mera Kanunu” kapsamında uygulama yapılacaktır.
+6.8 SU ÜRÜNLERİ ÜRETİM ALANLARI
+6.8.1 T.C. Tarım Gıda ve Hayvancılık Bakanlığı’nın koordinasyonunda oluşturulan komisyonca, su
+ürünlerini üretmek ve yetiştirmek için 2872/5491 sayılı “Çevre Kanunu” ve bu kanun uyarınca
+çıkartılan mevzuatta belirtilen alanlar dışında belirlenen alanlardır.
+6.8.2 Bu alanlarda, 1380 sayılı “Su Ürünleri Kanunu”, 3830 /3621 sayılı “Kıyı Kanunu”, 5491/2872
+sayılı “Çevre Kanunu” ve ilgili yönetmelikleri ile yürürlükteki diğer mevzuat hükümleri
+doğrultusunda uygulama yapılacaktır.
+26
+6.8.3 Su ürünleri üretim alanlarının 1380 sayılı Su Ürünleri Kanunu ve ilgili yönetmelikleri uyarınca
+yapılacak yer seçimlerinde, ilgili kurum ve kuruluşların görüşlerinin alınması ve bu planla
+kullanım kararı belirlenmiş alanlara (turizm alanları, yerleşme alanları, kıyı yapıları, korunan
+alanlar) olası olumsuz etkilerinin önlenmesi için mesafe, akıntı hızı, akıntı yönü, derinlik gibi
+kriterlerin göz önünde bulundurulması esastır.
+6.9 ORMAN VE AĞAÇLANDIRILACAK ALANLAR
+6.9.1 ORMAN ALANLARI
+6.9.1.1 Bu plan ile orman alanı olarak belirlenmiş alanlarda tüm uygulamalar 6831/3373 sayılı
+“Orman Kanunu” ve bu kanununun ilgili yönetmelikleri çerçevesinde yapılacaktır.
+6.9.1.2 Orman sınırları konusunda tereddüt oluşması durumunda veya imar planlarının yapımı
+sırasında orman kadastro sınırları esas alınacak olup ilgili kurum görüşünün alınması şarttır.
+6.9.1.3 Orman mülkiyetinde olup, Orman Genel Müdürlüğü’nce tahsisi yapılan alanlar, bu planda
+hangi kullanımda kaldığına bakılmaksızın, tahsis süresi dahilinde tahsis amacına uygun olarak
+kullanılabilir.
+6.9.1.4 Bu planda orman olarak gösterilmiş alanlarda, orman statüsü dışında kalıp, özel mülkiyete
+tabi olan parsellerde, kadastral bir yola cephesi bulunmak şartı ile sadece konut ve tarımsal
+amaçlı yapılar yer alabilir. Bu alanlarda yapılanma koşulu E: 0.05, HMAX: 6.50 m. maksimum
+inşaat alanı: 250 m² olup minimum ifraz 5000 m² olacaktır.
+6.9.1.5 Orman Kanunu’nun 2.maddesinin (b) bendine konu olan alanlarda, yerleşik alan niteliğindeki
+alanlar hukuki durumda olabilecek değişikliklerin sonucuna göre, Orman Genel Müdürlüğü
+ve Milli Emlak Genel Müdürlüğü görüşleri alınarak, bu planın nüfus kabulleri dahilinde, çevre
+düzeni planı değişikliği yapılması kaydıyla, imar planlarında değerlendirilebilir.
+Tarımsal nitelik kazanmış olan kısımlarda ise çevre düzeni planı değişikliği yapılmasına gerek
+duyulmaksızın, bu planın “tarım arazileri” plan hükümleri uyarınca işlem yapılır.
+6.9.2 AĞAÇLANDIRILACAK ALANLAR
+6.9.2.1 Bu planda ağaçlandırılacak alan olarak gösterilmiş ancak özel mülkiyete tabi olan parsellerde,
+kadastral bir yola cephesi bulunmak şartı ile sadece konut ve tarımsal amaçlı yapılar yer
+alabilir. Bu alanlarda yapılanma koşulu E: 0.05, HMAX: 6.50 m. maksimum inşaat alanı: 250 m²
+olup minimum ifraz 5000 m² olacaktır.
+6.9.3 MESİRE YERLERİ
+6.9.3.1 Bu planda hangi kullanımda kaldığına bakılmaksızın;
+27
+A ve B tipi mesire yerleri için alan kullanım planı, gelişme planı ve plan raporları Orman Bölge
+Müdürlüğü tarafından yapılır veya yaptırılır ve Orman Genel Müdürlüğü’nce onaylanır.
+C tipi mesire yerleri ve kent (şehir) ormanları için vaziyet planı Orman Bölge Müdürlüğü
+tarafından yapılır veya yaptırılır ve Orman Genel Müdürlüğü’nce onaylanır. Gerektiği hallerde
+C tipi mesire yerleri ve kent (şehir) ormanları için de Orman Bölge Müdürlüğü alan kullanım
+planı ve/veya gelişme planı ve plan raporlarını yapabilir veya yaptırabilir. Bu planlar, Orman
+Genel Müdürlüğü’nce onaylanır.
+6.10 DİĞER ARAZİ KULLANIM ALANLARI
+6.10.1 ASKERİ ALANLAR/ASKERİ GÜVENLİK BÖLGELERİ
+6.10.1.1 Bu alanlarda, 2565 sayılı “Askeri Yasak Bölgeler ve Güvenlik Bölgeleri Kanunu” ve bu kanuna
+ilişkin yönetmelik hükümleri geçerlidir.
+6.11 KORUMA ALANLARI
+6.11.1 ÖZEL KANUNLARLA PLANLAMA YETKİSİ VERİLMİŞ ALANLAR (ÖZEL KANUNLARA TABİ
+ALANLAR)
+6.11.1.1 Bu alanlarda, yetkili kurum ve kuruluşlarca yapılacak planlama çalışmalarının, bu alanlarla
+ilgili kanun hükümleri saklı kalmak kaydıyla; sürdürülebilir kalkınma ve çevre ilkeleri ile bu
+planın ilke ve stratejileri doğrultusunda yapılır.
+6.11.1.2 Yetkili bakanlık ya da kuruluşlarca yapılacak veya yaptırılacak planlarda, bu alanlar içerisinde
+bulunan hassas alanlar, orman alanları, tarım alanları, sulak alanlar, kumullar gibi alanları
+tehdit edici yönde ve yoğunlukta yapılaşma kararı getirilemez.
+6.11.1.3 Bu alanlarda, bu planın onayından önce ve sonra ilgili kanunlar uyarınca yürürlüğe konmuş
+ve konacak olan her tür ve ölçekteki planlar geçerlidir.
+6.11.1.4 Bu alanlar içerisinde yer alan, içme ve kullanma suyu ile yüzeysel su kaynaklarının korunması
+esas olup Su Kirliliği Kontrolü Yönetmeliği hükümlerine uyulacaktır.
+6.11.1.5 Bu alanlarda her türlü katı ve sıvı atık bertarafı için gerekli önlemler alınacak ve hiçbir atık
+önlem alınmadan alıcı ortama verilmeyecektir.
+6.11.2 SİT ALANLARI
+6.11.2.1 5226/3386/2863 sayılı “Kültür Ve Tabiat Varlıklarını Koruma Kanunu” uyarınca belirlenen ve
+belirlenecek olan sit alanlarında ilgili mevzuat doğrultusunda uygulama yapılır.
+28
+6.11.2.2 19/07/2012 tarih ve 28358 sayı ile Resmi Gazetede yayınlanarak yürürlüğe giren “Korunan
+Alanların Tespit, Tescil ve Onayına İlişkin Usul ve Esaslara Dair Yönetmelik” uyarınca
+belirlenen ve belirlenecek olan doğal sit alanlarında 23/03/2012 tarih ve 28242 sayı ile Resmi
+Gazetede yayınlanarak yürürlüğe giren “Korunan Alanlarda Yapılacak Planlara Dair
+Yönetmelik” hükümleri doğrultusunda uygulama yapılır.
+6.11.2.3 Bu plan kapsamındaki tüm sit alanlarında (planda gösterilmiş ya da gösterilememiş) ve bu
+planın onayından sonra ilan edilecek sit alanlarında yapılacak koruma amaçlı imar planları,
+nüfus içeriyor ise, bulunduğu yerleşim için bu planda kabul edilen nüfus dahilinde
+hazırlanacak olup, ilgili kurum ve kuruluşların görüşleri ile ilgili Kültür Varlıklarını Koruma
+Bölge Kurulu veya Tabiat Varlıklarını Koruma Bölge Komisyonu’nun uygun görüşü
+doğrultusunda kesinleşecektir.
+6.11.3 KÜRE DAĞLARI MİLLİ PARK TAMPON BÖLGESİ
+6.11.3.1 Bu alanlarda 03/12/2012 tarihinde Doğa Koruma ve Mili Parklar Genel Müdürlüğü’nce
+onaylanan Küre Dağları Milli Parkı Uzun Devreli Gelişme Planı hükümleri geçerlidir.
+6.12 DOĞAL KARAKTERİ KORUNACAK ALANLAR
+6.12.1.1 Plan üzerinde gösterimi yapılan ve/veya yapılmayan kayalık-taşlık, makilik-fundalık-çalılık,
+plaj-kumsal, sazlık-bataklık ve benzeri doğal, ekolojik, topoğrafik, jeolojik, yerel bitki örtüsü
+ve siluet gibi özelliklere, tarımsal değerlere sahip olan ya da bu planın ilke ve stratejileri ile
+nüfus kabulleri doğrultusunda, bu planla yapılaşmaya kapatılması öngörülen alanlardır.
+6.12.1.2 Bu alanlarda, bugünkü arazi kullanımı devam ettirilecektir. Zorunlu olan teknik altyapı
+hizmetleri uygulamaları dışında, doğal bitki örtüsü, topografya ve siluet etkisini bozacak ya
+da çevre tahribatına sebep olacak hiçbir uygulama yapılamaz. Bu alanlar yapılaşmaya
+açılamaz.
+6.13 KULLANIM SINIRLAMASI GETİRİLEN ALANLAR
+6.13.1 HAVA ALANI KORUMA BANDI VE UÇUŞ KORİDORU (MANİA SINIRI)
+6.13.1.1 Bu alanlarda Çaycuma Havaalanı Mania Planı Kriterleri ile ilgili yönetmelik hükümleri
+geçerlidir.
+6.13.2 TAŞKIN KORUMA ALANI
+6.13.2.1 Plan üzerinde gösterilen taşkın koruma alanı, DSİ XXIII. Bölge Müdürlüğü’nün görüşü
+doğrultusunda plana işlenmiş olup bu alanlarda plan hükümlerinin 5.28. maddesi hükümleri
+geçerlidir.
+29
+6.14 SU TOPLAMA HAVZALARI, İÇME VE KULLANMA SUYU KORUMA ALANLARI, YERALTI SUYU
+KAYNAKLARI
+6.14.1 Planda içme ve kullanma suyu mutlak koruma alanı, kısa mesafeli koruma alanı, orta mesafeli
+koruma alanı ve su havzası koruma alanı olarak gösterilmiş alanlar ile planda
+gösterilen/gösterilemeyen yer altı suyu kaynaklarında özel hükümler belirleninceye kadar Su
+Kirliliği Kontrolü yönetmeliği hükümleri geçerli olup bu alanlar içerisinde yer alan yerleşme
+alanlarında plan hükümlerinin 5.27. maddesi hükümlerinde belirlenen koşullara uyulacaktır.
+İçme ve kullanma suyu temin edilen kıta içi yüzeysel su kaynaklarının Su Kirliliği Kontrolü
+Yönetmeliği 16. maddesi kapsamında özel hüküm belirleme çalışmasının yapılması durumunda
+belirlenen özel hükümlerin bu plana ve her tür ve ölçekteki planlara işlenmesi zorunludur.
+İçme ve kullanma su kaynaklarının sürdürülebilir koruma ve kullanımına yönelik yapılacak olan
+havza koruma veya özel hüküm belirleme çalışmalarında bu plan ile getirilen nüfus
+projeksiyonları kullanılır.
+Bu plan sınırları içerisinde ilgili idarece bu planın projeksiyon hedef yılı baz alınarak, su
+projeksiyonlarının yapılması esas olup suyun verimli kullanılması için gerekli tedbirler (suyun
+fiyatlandırılması, vergilendirilmesi, su kullanım yöntemleri, geri kazanım vb.) ilgili idarece
+alınacaktır.
+6.14.1.1 Kozcağız Barajı çevresinde gösterilen havza sınırı ve koruma kuşakları Devlet Su İşleri
+Genel Müdürlüğü DSİ XXIII. Bölge Müdürlüğü’nün 09/05/2013 tarih ve 264906 sayılı yazısı ve
+ekleri doğrultusunda işlenmiştir. Mutlak koruma alanı sınırı ile baraj gövdesi arasında kalan
+alanlar havza içi yapı yasaklı alan olarak belirlenmiş olup bu alanlarda hiçbir yapı yapılamaz.
+6.14.1.2 Kavşak Suyu Kaynak Grubu; Selen Su Kaynağı ve Kaman Köyü İçme Suyu Kuyusu Yer
+Altı Suyu Rezervi ve Koruma Alanı, Devlet Su İşleri Genel Müdürlüğü Kastamonu 23. Bölge
+Müdürlüğü’nce belirlenmiş olup 03/07/2009 tarih ve 27277 sayı ile Resmi Gazetede
+yayınlandığı şekli ile bu planda gösterilmiştir. Bu alanlarda Devlet Su İşleri DSİ XXIII. Bölge
+Müdürlüğü’nün koruma alanı ilanında belirlemiş olduğu aşağıdaki hükümlere uyulması
+zorunludur.
+1- Bartın Kavşak Suyu kaynak grubu, Selen Su kaynağı ve Kaman köyü içme suyu kuyusunun
+toplam yeraltı suyu Emniyetli İşletme Rezervi 0,347hm³/yıl olarak tespit edilmiştir.
+2- Kavşak Suyu kaynak grubu, Selen Su kaynağı ile Kaman köyüne içme suyu sağlayan sondaj
+kuyusunun bulunduğu bölge Mutlak Koruma Alanı olarak tespit edilmiş olup bu bölgede hiçbir
+faaliyete izin verilmeyecektir.
+30
+3- Kavşak Suyu kaynak grubu, Selen Su kaynağı ve Kaman köyüne içme suyu sağlayan sondaj
+kuyusu çevresi beslenme alanı olup, bu alan 167 sayılı Yeraltısuları Hakkında Kanun'un 3.
+Maddesine göre yeraltısuyu işletme sahası olarak tespit edilmiştir.
+a- Kavşak Suyu kaynak grubu ve Selen Su kaynağı ile Kaman köyüne içme suyu sağlayan sondaj
+kuyusunun boşalım zonu Mutlak Koruma Alanı olarak tespit edilmiş olup, 50 m. civarı
+dikenli telle çevrilecektir. Bu bölgede hiçbir faaliyete izin verilmeyecektir.
+b- Beslenme alanı olarak belirlenen 1. Derece Koruma Alanı ise Yeraltısuyu İşletme Sahasına
+uygun bölge olup, tespit edilen yeraltısuyu rezervinin korunabilmesi ve yeraltısuyunun
+kirletilmemesi için bu bölgede Su Kirliliği Kontrol Yönetmeliği 22.Maddesine uyulacaktır.
+c- 1. Derece Koruma Alanında, her türlü madencilik faaliyeti ile içme-kullanma dışında su
+temini gayesi ile her türlü çap ve derinlikte su yapısının inşaası yasaklanmıştır.
+4- Bartın Kavşaksuyu kaynak grubu, Selen Su kaynağı ile Kaman köyü içme suyu kuyusunun,
+uzun vadede beslenim-boşalım eşitliğinden ve yapılan debi ölçümlerinden faydalanılarak yıllık
+toplam boşalımı 0,347hm3/yıl olarak tespit edilmiş olup, toplam boşalımın %100'ü emniyetli
+işletme rezervi olarak kabul edilmiştir. Bartın İli'nin içme suyu, Kaman köyünün içme suyu ve
+Selen Suya yapılan içme suyu tahsisleri emniyetli işletme rezervine eriştiğinden, Bartın
+Kavşaksuyu kaynak grubu, Selen Su kaynağı ve Kaman köyü içmesuyu kuyusunun işletme sahası
+sınırları içerisinde, içme-kullanma amacı dışında su temini gayesiyle her türlü çap ve derinlikte
+su yapısının inşası ile madencilik faaliyetleri yasaklanmıştır.
+5- Mutlak Koruma Alanı ve 1.Derece Koruma Alanı içerisinde, suların kirlenmesine neden
+olabilecek her türlü zirai ilaç, gübre v.b kullanımı yasaktır.
+6.15 TEKNİK ALTYAPI
+6.15.1 KARAYOLU KENARINDA VEYA DİĞER KARA ULAŞIM GÜZERGAHLARINDA YAPILACAK YAPI VE
+TESİSLER
+6.15.1.1 Belediye ve mücavir alan sınırları içinde ve dışında karayolları kenarında yapılacak tesislerde,
+2918 sayılı “Karayolları Trafik Kanunu” ve “Karayolları Kenarında Yapılacak Tesisler Ve
+Açılacak Tesisler Hakkında Yönetmelik” ile 5576/5015 sayılı “Petrol Piyasası Kanunu” ve ilgili
+yönetmelik hükümlerine uyulacaktır.
+6.15.1.2 İmar planlarında, Karayolları Genel Müdürlüğü’nün sorumluluğundaki karayolu kenarındaki
+yapılaşmalarda, yönetmelikte belirtilen yaklaşma mesafelerine uyulacaktır.
+6.15.1.3 Karayolu servis alanlarında, akaryakıt ve LPG istasyonları, servis istasyonu, konaklama tesisi,
+yeme içme tesisi v.b. gibi karayoluna hizmet verecek tesisler ile teşhire ve ticarete yönelik
+mağazalar yer alabilir.
+31
+Bu tür yapı ve tesis alanlarında, ilgili kurum ve kuruluş görüşleri doğrultusunda hazırlanacak
+imar planlarında yapılanma koşulu Emsal: 0.30 HMAX: 7.50m.(2 kat) olacaktır.
+6.15.1.4 Kırsal yerleşme alanları içinde akaryakıt servis istasyonu yapılamaz. Ancak, kırsal yerleşme
+alanlarının gereksinimini karşılamak üzere ilgili yönetmelik hükümlerine uyulmak kaydıyla
+akaryakıt pompa alanı belirlenebilir.
+6.15.2 LİMANLAR, YAT LİMANI, BALIKÇI BARINAKLARI VE TEKNE İMAL-ÇEKEK YERLERİ
+6.15.2.1 Bu alanlarda 3830/3621 sayılı “Kıyı Kanunu” ve ilgili yönetmelikleri ile yürürlükteki ilgili diğer
+mevzuat hükümleri doğrultusunda uygulama yapılacaktır.
+6.15.3 TERMİNAL ALANLARI
+6.15.3.1 Bu alanlarda yapılanma koşulları imar planlarında belirlenecektir.
+6.16 ENERJİ-SULAMA
+6.16.1 ENERJİ KAYNAK ALANLARI, ENERJİ ÜRETİM ALANLARI VE ENERJİ İLETİM TESİSLERİ
+6.16.1.1 Enerji kaynak alanları, 5346 sayılı “Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi
+Amaçlı Kullanımına İlişkin Kanun” çerçevesinde uygulama yapılacaktır.
+6.16.1.2 Enerji üretimine ilişkin tesisler yapılmadan önce olası çevresel etkileri irdelenecek ve Çevresel
+Etki Değerlendirmesi (ÇED) süreci tamamlanacaktır. Bu kapsamda, kurum ve kuruluşların
+uygun görüşlerinin alınması ve mütabakatı zorunludur.
+Bu alanlarda ilgili kurum ve kuruluşlardan alınan izinler ve/veya enerji piyasası düzenleme
+kurumunca verilecek lisans kapsamında yapılabilir. Bu durumda, bu planda değişiklik
+yapılacaktır.
+6.16.1.3 Bu planda gösterilen mevcut baraj sahasında, ilgili mevzuat hükümleri doğrultusunda işlem
+yapılacaktır.
+6.16.1.4 Bu alanlarda yapılacak imar planlarında, ilgili kurum ve kuruluşların görüşlerinin alınması ve
+kurulmuş/kurulacak tesislerde, ilgili mevzuat çerçevesinde çevresel tüm önlemlerin alınması
+zorunludur.
+6.16.1.5 Enerji Üretim Alanları ile ilgili olarak burada yer almayan hususlarda Zonguldak-Bartın-
+Karabük Planlama Bölgesi 1/100.000 Ölçekli Çevre Düzeni Planı plan hükümleri geçerlidir.
+6.16.2 DOĞALGAZ BORU HATLARI VE ENERJİ İLETİM HATLARI
+6.16.2.1 Bu planda gösterilen doğalgaz boru hattı güzergahında ilgili mevzuat hükümleri ile BOTAŞ
+tarafından belirlenen “İmar Uygulama Çalışmalarında Uyulması Gereken Planlama Koşulları
+ve Güvenlik Kriterleri”ne göre işlem yapılacaktır.
+32
+6.16.2.2 Bu planda gösterilen enerji iletim hatlarında ilgili mevzuat hükümleri doğrultusunda işlem
+yapılacaktır.
+6.16.2.3 Bu alanlarda yapılacak imar planlarında, ilgili kurum ve kuruluşların görüşlerinin alınması
+zorunludur.
+6.16.3 SULAMA ALANLARI
+6.16.3.1 Devletçe sulamaya açılan veya projeleri bitirilmiş olup, sulama yatırımlarına başlanan ve
+devam eden alanlardır.
+6.16.3.2 Bu planda gösterilen sulama alanları, DSİ XXIII. Bölge Müdürlüğü görüşü doğrultusunda Bartın
+Çayı ve kollarında işlenmiş olup, bu alanlarda 3083 sayılı “Sulama Alanlarında Arazi
+Düzenlenmesine Dair Tarım Reformu Kanunu” ve ilgili yönetmelik hükümleri doğrultusunda
+işlem yapılacaktır.
+6.16.4 ARITMA TESİSLERİ
+6.16.4.1 Her türlü sıvı atığın ilgili mevzuatta belirtilen standartları sağlayacak şekilde arıtılması veya
+bertaraf edilmesi için kurulan tesislerin yer aldığı alanlardır.
+6.16.4.2 Bu plan gösterilen mevcut arıtma tesisi dışında, yeni arıtma tesisi alanlarının yer seçimi ve
+uygulaması, ilgili kurum ve kuruluşların uygun görüşleri doğrultusunda yapılabilir.
+6.16.5 KATI ATIK DEPOLAMA ALANLARI
+6.16.5.1 Çevrenin korunması bakımından düzenli bir şekilde bertaraf edilmesi gereken katı atık
+maddelerinin depolandığı, bertaraf edildiği, geri dönüşümünün ve geri kazanımının
+sağlandığı tesislerin yer aldığı alanlardır.
+6.16.5.2 Bu planda gösterilen katı atık depolama alanı, Bartın İl Özel İdaresi İmar ve Kentsel İyileştirme
+Müdürlüğü’nün 24.07.2007 tarihli yazısı eki doğrultusunda işlenmiş olup, bu alanda ilgili
+mevzuat hükümleri doğrultusunda işlem yapılacaktır.
